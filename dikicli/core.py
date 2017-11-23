@@ -3,6 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 
 URL = 'https://www.diki.pl/%s'
+HEADERS = {'User-Agent': 'Mozilla/5.0 (compatible, MSIE 11, Windows NT 6.3; Trident/7.0;  rv:11.0) like Gecko'}
 
 
 def parse(html_dump):
@@ -45,7 +46,7 @@ def main():
 
     word = sys.argv[1]
     # check requests context manager
-    with requests.get(URL % word) as r:
+    with requests.get(URL % word, headers=HEADERS) as r:
         result = parse(r.content)
 
     if isinstance(result, list):
