@@ -1,9 +1,11 @@
 import re
 import requests
 from bs4 import BeautifulSoup
+from pathlib import Path
 
 URL = 'https://www.diki.pl/%s'
 HEADERS = {'User-Agent': 'Mozilla/5.0 (compatible, MSIE 11, Windows NT 6.3; Trident/7.0;  rv:11.0) like Gecko'}
+WORDS_FILE = '/tmp/list.txt'
 
 
 def parse(html_dump):
@@ -41,14 +43,31 @@ def parse(html_dump):
     return translations
 
 
-def main():
-    import sys
+def get_words(words_file):
+    with open(words_file, mode='rt') as f:
+        return set(l.rstrip()[1:] for l in f)
 
-    word = sys.argv[1]
-    # check requests context manager
-    with requests.get(URL % word, headers=HEADERS) as r:
-        result = parse(r.content)
 
+def write_to_file(words_file, word, prefix='-'):
+    if word not in get_words(words_file):
+        with open(words_file, mode='at') as f:
+            f.write(prefix + word + '\n')
+
+
+def check_file_exists(filename):
+    filepath = Path(filename)
+    return filepath.is_file()
+
+
+def create_file_prompt(filename):
+    print(f"File doesn't exist: {filename}")
+    input("Do you want to create it? (Y/n)")
+    # FIXME
+    # TODO: need sys.exit(1) somewhere
+
+
+def print_result(result):
+    # add line wrapping
     if isinstance(result, list):
         for t in result:
             print("[{}]".format(t['part']))
@@ -60,3 +79,22 @@ def main():
             print()
     else:
         print(result)
+
+
+def main():
+    import sys
+
+    if len(sys.argv) != 2:
+        return "Wrong arguments"
+    word = sys.argv[1]
+    with requests.get(URL % word, headers=HEADERS) as r:
+        result = parse(r.content)
+
+    print_result(result)
+
+    if isinstance(result, list):
+        if check_file_exists(WORDS_FILE):
+            write_to_file(WORDS_FILE, word, '-')
+        else:
+            create_file_prompt(WORDS_FILE)
+            write_to_file(WORDS_FILE, word, '-')
