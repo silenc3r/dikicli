@@ -16,7 +16,7 @@ setup(
     },
     entry_points={
         'console_scripts': [
-            'diki=dikicli.core:main',
+            'diki=dikicli.cli:main',
         ],
     },
 )
