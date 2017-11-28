@@ -8,7 +8,7 @@ from .core import parse, write_to_file, write_html_file, write_index_file
 
 
 def create_file_prompt(filename):
-    print(f"File doesn't exist: {filename}")
+    print("File doesn't exist: {}".format(filename))
     answer = input("Do you want to create it? (y/N) ").lower()
     if answer not in ['y', 'yes']:
         print("aborting...", file=sys.stderr)
@@ -24,20 +24,24 @@ def create_file_prompt(filename):
                 print("aborting...", file=sys.stderr)
                 sys.exit(1)
         filename.touch()
-        print(f"New file crated: {filename}")
+        print("New file crated: {}".format(filename))
 
 
-def print_result(result):
-    # result is always a list
+def print_translation(result):
     # add line wrapping
-    for t in result:
-        print("[{}]".format(t['part']))
-        for m in t['meanings_list']:
-            print("# ", end='')
-            print(', '.join(m['meaning']))
-            for e in m['examples']:
-                print(e)
-        print()
+    for keys, value in result.items():
+        for k in keys:
+            print(k)
+        for t in value:
+            part = t['part']
+            if part is not None:
+                print("[{}]".format(part))
+            for m in t['meanings_list']:
+                print("# ", end='')
+                print(', '.join(m['meaning']))
+                for e in m['examples']:
+                    print(e)
+            print()
 
 
 def main():
@@ -48,19 +52,19 @@ def main():
     word = sys.argv[1]
     with requests.get(URL.format(word=word), headers=HEADERS) as r:
         try:
-            result = parse(r.content)
+            translation = parse(r.content)
         except WordNotFound as e:
             print(str(e), file=sys.stderr)
             sys.exit(2)
 
-    wfile = Path('/tmp/phony.txt')
+    print_translation(translation)
+
+    hist_file = Path('/tmp/phony.txt')
     prefix = '-'
 
-    print_result(result)
+    if not hist_file.is_file():
+        create_file_prompt(hist_file)
+    write_to_file(hist_file, word, prefix)
 
-    if not wfile.is_file():
-        create_file_prompt(wfile)
-    write_to_file(wfile, word, prefix)
-
-    write_html_file(word, result)
-    write_index_file(wfile, prefix)
+    write_html_file(word, translation, Path('/tmp'))
+    write_index_file(hist_file, prefix, Path('/tmp'))
