@@ -5,6 +5,7 @@ from pathlib import Path
 from .core import URL, HEADERS
 from .core import WordNotFound
 from .core import parse, write_to_file, write_html_file, write_index_file
+from .core import cache_lookup
 
 
 def create_file_prompt(filename):
@@ -27,7 +28,7 @@ def create_file_prompt(filename):
         print("New file crated: {}".format(filename))
 
 
-def print_translation(result):
+def print_translation(result, linewrap=None):
     # add line wrapping
     for keys, value in result.items():
         for k in keys:
@@ -50,6 +51,16 @@ def main():
     if len(sys.argv) != 2:
         return "Wrong arguments"
     word = sys.argv[1]
+
+    cache_dir = Path('/tmp/')
+    hist_file = Path('/tmp/phony.txt')
+    prefix = '-'
+
+    cached = cache_lookup(word, cache_dir)
+    if cached:
+        print_translation(cached)
+        sys.exit(0)
+
     with requests.get(URL.format(word=word), headers=HEADERS) as r:
         try:
             translation = parse(r.content)
@@ -59,12 +70,9 @@ def main():
 
     print_translation(translation)
 
-    hist_file = Path('/tmp/phony.txt')
-    prefix = '-'
-
     if not hist_file.is_file():
         create_file_prompt(hist_file)
     write_to_file(hist_file, word, prefix)
 
-    write_html_file(word, translation, Path('/tmp'))
-    write_index_file(hist_file, prefix, Path('/tmp'))
+    write_html_file(word, translation, cache_dir)
+    write_index_file(hist_file, prefix, cache_dir)

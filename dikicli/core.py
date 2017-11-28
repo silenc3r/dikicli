@@ -35,6 +35,8 @@ def get_config(config_file=CONFIG_FILE):
         'history file': HISTORY_FILE.as_posix(),
         'prefix': '-',
         'linewrap': '78',
+        'use colors': 'yes',
+        'web browser': 'default'
     }
     config = configparser.ConfigParser(defaults=default_config,
                                        default_section='dikicli')
@@ -69,8 +71,8 @@ def parse(html_dump):
         word = tuple(e.get_text().strip()
                      for e in entity.select('h1 > span.hw'))
         parts = [p.get_text().strip()
-                 for p in entity.select('div.partOfSpeechSectionHeader')]
-        translations = []
+                 for p in entity.select('span.partOfSpeech')]
+        trans_list = []
         for p, m in zip_longest(parts, meanings):
             t = dict()
             t['part'] = p
@@ -84,8 +86,8 @@ def parse(html_dump):
                     example = pattern.sub(' ', e.get_text().strip())
                     v['examples'].append(example)
                 t['meanings_list'].append(v)
-            translations.append(t)
-        trans_dict[word] = translations
+            trans_list.append(t)
+        trans_dict[word] = trans_list
     if trans_dict:
         return trans_dict
     else:
@@ -96,19 +98,36 @@ def parse(html_dump):
         raise WordNotFound("Nie znaleziono tłumaczenia wpisanej frazy")
 
 
-def parse_cached(word, cache_dir):
-    pass
+def parse_cached(html_dump):
+    soup = BeautifulSoup(html_dump, 'html.parser')
+    trans_dict = OrderedDict()
+    for trans in soup.find_all('div', class_='translation'):
+        word = tuple(t.get_text() for t in trans.select('div.word > h2'))
+        trans_list = []
+        for part in trans.find_all('div', class_='part-of-speech'):
+            t = dict()
+            pn = part.find('p', class_='part-name')
+            if pn:
+                pn = pn.get_text().strip('[]')
+            t['part'] = pn
+            t['meanings_list'] = []
+            for meaning in part.find_all('div', class_='meaning'):
+                m = dict()
+                m['meaning'] = [meaning.find('li').get_text()]
+                m['examples'] = [e.get_text() for e in meaning.find_all('p')]
+                t['meanings_list'].append(m)
+            trans_list.append(t)
+        trans_dict[word] = trans_list
+    return trans_dict
 
 
 def cache_lookup(word, cache_dir):
     filename = cache_dir.joinpath('translations/{}.html'.format(word))
     if filename.is_file():
-        try:
-            translation = parse_cached(filename, cache_dir)
+        with open(filename, mode='rt') as f:
+            translation = parse_cached(f.read())
             return translation
-        # TODO
-        except Exception:
-            pass
+    return None
 
 
 def get_words(words_file, prefix):
@@ -127,19 +146,32 @@ def write_html_file(word, translations, cache_dir):
     for i1, entity in enumerate(translations):
         if i1 > 0:
             content.append("<br>")
+        content.append("<div class=\"translation\">")
+        content.append("<div class=\"word\">")
         for e in entity:
             content.append("<h2>{word}</h2>".format(word=e))
+        content.append("</div>")  # end `word`
         for i2, t in enumerate(translations[entity]):
             if i2 > 0:
                 content.append("<br>")
+            content.append("<div class=\"part-of-speech\">")
             part = t['part']
             if part is not None:
-                content.append("<p>[{part}]</p>".format(part=part))
-            for i, m in enumerate(t['meanings_list'], 1):
-                content.append("<p><strong>{i}. {meaning}</p></strong>".format(
-                    i=i, meaning=', '.join(m['meaning'])))
+                content.append(
+                    "<p class=\"part-name\">[{part}]</p>".format(part=part))
+            content.append("<ol>")
+            for m in t['meanings_list']:
+                content.append("<div class=\"meaning\">")
+                content.append("<strong><li>{meaning}</li></strong>".format(
+                    meaning=', '.join(m['meaning'])))
+                content.append("<div class=\"examples\">")
                 for e in m['examples']:
                     content.append("<p>{example}</p>".format(example=e))
+                content.append("</div>")  # end `examples`
+                content.append("</div>")  # end `meaning`
+            content.append("</ol>")
+            content.append("</div>")  # end `part-of-speech`
+        content.append("</div>")  # end `translation`
     content_str = '\n'.join(content)
     with open(TEMPLATE_FILE, mode='rt') as f:
         result = f.read()
