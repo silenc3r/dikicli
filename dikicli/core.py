@@ -46,12 +46,6 @@ def get_config(config_file=CONFIG_FILE):
             config.read_file(f)
         return config
 
-    # if config file doesn't exist and it's path is different from default
-    # raise exception
-    if config_file != CONFIG_FILE:
-        raise FileNotFoundError(
-            "Provided config file doesn't exist: {}".format(config_file))
-
     # write default config to file if it doesn't exist
     config_dir = config_file.parent
     if not config_dir.exists():
