@@ -80,7 +80,8 @@ def parse(html_dump):
             t['meanings_list'] = []
             for i in m.find_all('li'):
                 v = dict()
-                v['meaning'] = [m.get_text() for m in i.select('span.hw')]
+                v['meaning'] = [m.get_text().strip()
+                                for m in i.select('span.hw')]
                 v['examples'] = []
                 for e in i.find_all('div', class_='exampleSentence'):
                     pattern = re.compile('\s{3,}')
@@ -114,7 +115,8 @@ def parse_cached(html_dump):
             t['meanings_list'] = []
             for meaning in part.find_all('div', class_='meaning'):
                 m = dict()
-                m['meaning'] = [meaning.find('li').get_text()]
+                m['meaning'] = [mn.get_text()
+                                for mn in meaning.select('li > span')]
                 m['examples'] = []
                 for e in meaning.find_all('p'):
                     m['examples'].append(
@@ -162,17 +164,24 @@ def write_html_file(word, translations, cache_dir):
             part = t['part']
             if part is not None:
                 content.append(
-                    "<p class=\"part-name\">[{part}]</p>".format(part=part))
+                    "<p class=\"part-name\">[{part}]</p>".format(part=part)
+                )
             content.append("<ol>")
             for m in t['meanings_list']:
                 content.append("<div class=\"meaning\">")
-                content.append("<strong><li>{meaning}</li></strong>".format(
-                    meaning=', '.join(m['meaning'])))
+                mng = ["<strong><li>"]
+                for i3, mn in enumerate(m['meaning']):
+                    if i3 > 0:
+                        mng.append(", ")
+                    mng.append("<span>{meaning}</span>".format(meaning=mn))
+                mng.append("</li></strong>")
+                content.append(''.join(mng))
                 content.append("<div class=\"examples\">")
                 for e in m['examples']:
-                    content.append("<p><span>{e0}</span><br>"
-                                   "<span>{e1}</span></p>".format(
-                                       e0=e[0], e1=e[1]))
+                    content.append(
+                        "<p><span>{ex}</span><br><span>{tr}</span></p>"
+                        "".format(ex=e[0], tr=e[1])
+                    )
                 content.append("</div>")  # end `examples`
                 content.append("</div>")  # end `meaning`
             content.append("</ol>")
