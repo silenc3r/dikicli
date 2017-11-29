@@ -32,7 +32,8 @@ def create_file_prompt(filename):
 def pretty_print(translations, linewrap=0):
 
     def print_wrapped(text, width=linewrap, findent=0, sindent=0, bold=False):
-        if bold:
+        # don't use bold when stdout is pipe or redirect
+        if bold and sys.stdout.isatty():
             text = "\033[0;1m" + text + "\033[0m"
         if width == 0:
             print(' '*findent, text)
