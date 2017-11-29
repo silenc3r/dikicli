@@ -1,5 +1,6 @@
 import requests
 import sys
+import textwrap
 from pathlib import Path
 
 from .core import URL, HEADERS
@@ -28,21 +29,39 @@ def create_file_prompt(filename):
         print("New file crated: {}".format(filename))
 
 
-def print_translation(result, linewrap=None):
-    # add line wrapping
-    for keys, value in result.items():
-        for k in keys:
-            print(k)
-        for t in value:
+def pretty_print(translations, linewrap=0):
+
+    def print_wrapped(text, width=linewrap, findent=0, sindent=0, bold=False):
+        if bold:
+            text = "\033[0;1m" + text + "\033[0m"
+        if width == 0:
+            print(' '*findent, text)
+        else:
+            print(textwrap.fill(text, width=width,
+                                initial_indent=' '*findent,
+                                subsequent_indent=' '*sindent))
+    indent = 5
+    for i1, words in enumerate(translations):
+        if i1 > 0:
+            print("\n")
+        for w in words:
+            print_wrapped(w, bold=True)
+        for i2, t in enumerate(translations[words]):
+            if i2 > 0:
+                print()
             part = t['part']
-            if part is not None:
-                print("[{}]".format(part))
-            for m in t['meanings_list']:
-                print("# ", end='')
-                print(', '.join(m['meaning']))
+            if part:
+                print("[{part}]".format(part=part))
+            for i3, m in enumerate(t['meanings_list'], 1):
+                if i3 > 1:
+                    print()
+                meaning = "{index:>3}. {meanings}".format(
+                    index=i3, meanings=', '.join(m['meaning']))
+                print_wrapped(meaning, sindent=indent, bold=True)
                 for e in m['examples']:
-                    print(e)
-            print()
+                    print()
+                    print_wrapped(e[0], findent=indent+2, sindent=indent+2)
+                    print_wrapped(e[1], findent=indent+2, sindent=indent+3)
 
 
 def main():
@@ -56,9 +75,17 @@ def main():
     hist_file = Path('/tmp/phony.txt')
     prefix = '-'
 
+    if word == '--display-index':
+        import webbrowser
+        webbrowser.open(cache_dir.joinpath('index.html').as_uri())
+        sys.exit(0)
+
+    if not hist_file.is_file():
+        create_file_prompt(hist_file)
+
     cached = cache_lookup(word, cache_dir)
     if cached:
-        print_translation(cached)
+        pretty_print(cached, 78)
         sys.exit(0)
 
     with requests.get(URL.format(word=word), headers=HEADERS) as r:
@@ -66,12 +93,10 @@ def main():
             translation = parse(r.content)
         except WordNotFound as e:
             print(str(e), file=sys.stderr)
-            sys.exit(2)
+            sys.exit(1)
 
-    print_translation(translation)
+    pretty_print(translation, 78)
 
-    if not hist_file.is_file():
-        create_file_prompt(hist_file)
     write_to_file(hist_file, word, prefix)
 
     write_html_file(word, translation, cache_dir)

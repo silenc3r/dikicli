@@ -1,6 +1,7 @@
 import configparser
 import os
 import re
+
 from bs4 import BeautifulSoup
 from collections import OrderedDict
 from itertools import zip_longest
@@ -83,7 +84,7 @@ def parse(html_dump):
                 v['examples'] = []
                 for e in i.find_all('div', class_='exampleSentence'):
                     pattern = re.compile('\s{3,}')
-                    example = pattern.sub(' ', e.get_text().strip())
+                    example = tuple(re.split(pattern, e.get_text().strip()))
                     v['examples'].append(example)
                 t['meanings_list'].append(v)
             trans_list.append(t)
@@ -114,7 +115,10 @@ def parse_cached(html_dump):
             for meaning in part.find_all('div', class_='meaning'):
                 m = dict()
                 m['meaning'] = [meaning.find('li').get_text()]
-                m['examples'] = [e.get_text() for e in meaning.find_all('p')]
+                m['examples'] = []
+                for e in meaning.find_all('p'):
+                    m['examples'].append(
+                        tuple(ex.get_text() for ex in e.find_all('span')))
                 t['meanings_list'].append(m)
             trans_list.append(t)
         trans_dict[word] = trans_list
@@ -166,7 +170,9 @@ def write_html_file(word, translations, cache_dir):
                     meaning=', '.join(m['meaning'])))
                 content.append("<div class=\"examples\">")
                 for e in m['examples']:
-                    content.append("<p>{example}</p>".format(example=e))
+                    content.append("<p><span>{e0}</span><br>"
+                                   "<span>{e1}</span></p>".format(
+                                       e0=e[0], e1=e[1]))
                 content.append("</div>")  # end `examples`
                 content.append("</div>")  # end `meaning`
             content.append("</ol>")
