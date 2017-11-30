@@ -113,7 +113,7 @@ def main():
         config['dikicli']['linewrap'] = args.linewrap
     linewrap = config['dikicli'].getint('linewrap')
 
-    # create cache and data dir if they don't exist
+    # create cache and data dirs if they don't exist
     if not cache_dir.is_dir():
         cache_dir.mkdir(parents=True)
     if not data_dir.is_dir():
@@ -161,5 +161,10 @@ def main():
                 b = webbrowser.get()
         else:
             b = webbrowser.get()
-        b.open(data_dir.joinpath('index.html').as_uri())
+
+        index_file = data_dir.joinpath('index.html')
+        if not index_file.is_file():
+            print("Index file not found!", file=sys.stderr)
+            sys.exit(1)
+        b.open(index_file.as_uri())
         sys.exit(0)
