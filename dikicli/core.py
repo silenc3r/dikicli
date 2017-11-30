@@ -7,6 +7,8 @@ from collections import OrderedDict
 from itertools import zip_longest
 from pathlib import Path
 
+from .templates import HTML_TEMPLATE
+
 APP_DIR = Path(os.path.dirname(os.path.realpath(__file__)))
 HOME = Path.home()
 XDG_CONFIG_HOME = Path(os.environ.get(
@@ -19,7 +21,6 @@ XDG_CACHE_HOME = Path(os.environ.get(
 CONFIG_FILE = XDG_CONFIG_HOME.joinpath('dikicli', 'diki.conf')
 HISTORY_FILE = XDG_DATA_HOME.joinpath('dikicli', 'words.txt')
 CACHE_DIR = XDG_CACHE_HOME.joinpath('dikicli')
-TEMPLATE_FILE = APP_DIR.joinpath('template.html')
 
 URL = 'https://www.diki.pl/{word}'
 HEADERS = {'User-Agent': ('Mozilla/5.0 (compatible, MSIE 11, Windows NT 6.3; '
@@ -46,7 +47,7 @@ def get_config(config_file=CONFIG_FILE):
             config.read_file(f)
         return config
 
-    # write default config to file if it doesn't exist
+    # create default config file if it doesn't exist
     config_dir = config_file.parent
     if not config_dir.exists():
         config_dir.mkdir(parents=True)
@@ -182,15 +183,17 @@ def write_html_file(word, translations, cache_dir):
             content.append("</div>")  # end `part-of-speech`
         content.append("</div>")  # end `translation`
     content_str = '\n'.join(content)
-    with open(TEMPLATE_FILE, mode='rt') as f:
-        result = f.read()
-        result = result.replace('{% word %}', word)
-        result = result.replace('{% content %}', content_str)
+
+    # create translations dir if needed
     translations_dir = cache_dir.joinpath('translations')
     if not translations_dir.exists():
         translations_dir.mkdir()
-    fname = translations_dir.joinpath('{}.html'.format(word))
+
+    # create html file
+    fname = translations_dir.joinpath('{word}.html'.format(word=word))
     with open(fname, mode='wt') as f:
+        result = HTML_TEMPLATE.replace('{% word %}', word)
+        result = result.replace('{% content %}', content_str)
         f.write(result)
 
 
@@ -202,9 +205,8 @@ def write_index_file(words_file, prefix, cache_dir):
                             '{word}</a></li>').format(word=word))
     content.append('</ul>')
     content_str = '\n'.join(content)
-    with open(TEMPLATE_FILE, mode='rt') as f:
-        result = f.read()
-        result = result.replace('{% word %}', "Index")
-        result = result.replace('{% content %}', content_str)
+
     with open(cache_dir.joinpath('index.html'), mode='wt') as f:
+        result = HTML_TEMPLATE.replace('{% word %}', "Index")
+        result = result.replace('{% content %}', content_str)
         f.write(result)
