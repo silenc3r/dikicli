@@ -1,8 +1,8 @@
 import argparse
 import os
-import requests
 import sys
 import textwrap
+import urllib.request
 import webbrowser
 
 from pathlib import Path
@@ -25,6 +25,7 @@ def pretty_print(translations, linewrap=0):
             print(textwrap.fill(text, width=width,
                                 initial_indent=' '*findent,
                                 subsequent_indent=' '*sindent))
+
     indent = 5
     for i1, words in enumerate(translations):
         if i1 > 0:
@@ -126,9 +127,11 @@ def main():
         if cached:
             pretty_print(cached, linewrap)
         else:
-            with requests.get(URL.format(word=word), headers=HEADERS) as r:
+            req = urllib.request.Request(URL.format(word=word),
+                                         headers=HEADERS)
+            with urllib.request.urlopen(req) as response:
                 try:
-                    translation = parse(r.content)
+                    translation = parse(response.read())
                 except WordNotFound as e:
                     print(str(e), file=sys.stderr)
                     sys.exit(1)
