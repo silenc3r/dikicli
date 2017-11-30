@@ -1,32 +1,16 @@
+import argparse
+import os
 import requests
 import sys
 import textwrap
+import webbrowser
+
 from pathlib import Path
 
 from .core import URL, HEADERS
 from .core import WordNotFound
-from .core import parse, write_to_file, write_html_file, write_index_file
-from .core import cache_lookup
-
-
-def create_file_prompt(filename):
-    print("File doesn't exist: {}".format(filename))
-    answer = input("Do you want to create it? (y/N) ").lower()
-    if answer not in ['y', 'yes']:
-        print("aborting...", file=sys.stderr)
-        sys.exit(1)
-    else:
-        parent = filename.parent
-        if not parent.exists():
-            answer = input("Parent directory doesn't exist, "
-                           "do you want to create it? (y/N) ").lower()
-            if answer in ['y', 'yes']:
-                parent.mkdir(parents=True)
-            else:
-                print("aborting...", file=sys.stderr)
-                sys.exit(1)
-        filename.touch()
-        print("New file crated: {}".format(filename))
+from .core import cache_lookup, get_config, parse
+from .core import write_to_file, write_html_file, write_index_file
 
 
 def pretty_print(translations, linewrap=0):
@@ -65,40 +49,108 @@ def pretty_print(translations, linewrap=0):
                     print_wrapped(e[1], findent=indent+2, sindent=indent+3)
 
 
+def get_env(var):
+    try:
+        file = os.getenv(var)
+        Path(file).stat()
+        return file
+    except TypeError:
+        return None
+
+
+def get_parser():
+    parser = argparse.ArgumentParser(
+        prog='dikicli',
+        description='Commandline interface for diki.pl'
+    )
+    translation = parser.add_argument_group('translation')
+    translation.add_argument('word', nargs='?', help='word to translate')
+    translation.add_argument('-w', '--linewrap', metavar='WIDTH',
+                             help=('wrap lines longer than WIDTH;'
+                                   ' set to 0 to disable wrapping'))
+    html = parser.add_argument_group('html')
+    html.add_argument('-i', '--display-index', action='store_true',
+                      help='open index file in web browser')
+    html.add_argument('--create-index', action='store_true',
+                      help='regenerate index file')
+    return parser
+
+
 def main():
-    import sys
+    ENV_CONFIG_FILE = get_env('DIKI_CONFIG_FILE')
+    ENV_CACHE_DIR = get_env('DIKI_CACHE_DIR')
+    ENV_HISTORY_FILE = get_env('DIKI_HIST_FILE')
 
-    if len(sys.argv) != 2:
-        return "Wrong arguments"
-    word = sys.argv[1]
+    if ENV_CONFIG_FILE:
+        config = get_config(Path(ENV_CONFIG_FILE))
+    else:
+        config = get_config()
 
-    cache_dir = Path('/tmp/')
-    hist_file = Path('/tmp/phony.txt')
-    prefix = '-'
+    if ENV_CACHE_DIR:
+        config['dikicli']['cache dir'] = ENV_CACHE_DIR
+    if ENV_HISTORY_FILE:
+        config['dikicli']['history file'] = ENV_HISTORY_FILE
 
-    if word == '--display-index':
-        import webbrowser
-        webbrowser.open(cache_dir.joinpath('index.html').as_uri())
-        sys.exit(0)
+    parser = get_parser()
+    args = parser.parse_args()
 
+    # if ran with no arguments print usage and exit
+    if len(sys.argv) == 1:
+        # TODO: make usage more informative
+        parser.print_usage()
+        sys.exit(1)
+
+    # options
+    cache_dir = Path(config['dikicli']['cache dir'])
+    hist_file = Path(config['dikicli']['history file'])
+    prefix = config['dikicli']['prefix']
+    if args.linewrap:
+        config['dikicli']['linewrap'] = args.linewrap
+    linewrap = config['dikicli'].getint('linewrap')
+
+    # create history file if it doesn't exist
     if not hist_file.is_file():
-        create_file_prompt(hist_file)
+        parent = hist_file.parent()
+        if not parent.exists():
+            parent.mkdir(parents=True)
+        hist_file.touch()
 
-    cached = cache_lookup(word, cache_dir)
-    if cached:
-        pretty_print(cached, 78)
+    # create cache dir if it doesn't exist
+    if not cache_dir.is_dir():
+        cache_dir.mkdir(parents=True)
+
+    # handle word translation
+    if args.word:
+        word = args.word
+        cached = cache_lookup(word, cache_dir)
+        if cached:
+            pretty_print(cached, linewrap)
+        else:
+            with requests.get(URL.format(word=word), headers=HEADERS) as r:
+                try:
+                    translation = parse(r.content)
+                except WordNotFound as e:
+                    print(str(e), file=sys.stderr)
+                    sys.exit(1)
+
+            pretty_print(translation, linewrap)
+            write_to_file(hist_file, word, prefix)
+            write_html_file(word, translation, cache_dir)
+            write_index_file(hist_file, prefix, cache_dir)
+
+    # open index file in browser
+    if args.display_index:
+        browser = config['dikicli']['web browser'].lower()
+        # TODO: add logging
+        if browser != 'default':
+            if browser in webbrowser._browsers:
+                b = webbrowser.get(browser)
+            else:
+                print("Couldn't find '{browser}' browser."
+                      " Falling back to default.".format(browser=browser),
+                      file=sys.stderr)
+                b = webbrowser.get()
+        else:
+            b = webbrowser.get()
+        b.open(cache_dir.joinpath('index.html').as_uri())
         sys.exit(0)
-
-    with requests.get(URL.format(word=word), headers=HEADERS) as r:
-        try:
-            translation = parse(r.content)
-        except WordNotFound as e:
-            print(str(e), file=sys.stderr)
-            sys.exit(1)
-
-    pretty_print(translation, 78)
-
-    write_to_file(hist_file, word, prefix)
-
-    write_html_file(word, translation, cache_dir)
-    write_index_file(hist_file, prefix, cache_dir)
