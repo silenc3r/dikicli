@@ -16,3 +16,13 @@ HTML_TEMPLATE = """\
 </body>
 </html>
 """
+
+CONFIG_TEMPLATE = """\
+[dikicli]
+cache dir = {cache_dir}
+history file = {hist_file}
+prefix = {prefix}
+linewrap = {linewrap}
+colors = {colors}
+web browser = {browser}
+"""

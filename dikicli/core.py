@@ -7,7 +7,7 @@ from collections import OrderedDict
 from itertools import zip_longest
 from pathlib import Path
 
-from .templates import HTML_TEMPLATE
+from .templates import CONFIG_TEMPLATE, HTML_TEMPLATE
 
 APP_DIR = Path(os.path.dirname(os.path.realpath(__file__)))
 HOME = Path.home()
@@ -37,7 +37,7 @@ def get_config(config_file=CONFIG_FILE):
         'history file': HISTORY_FILE.as_posix(),
         'prefix': '-',
         'linewrap': '78',
-        'use colors': 'yes',
+        'colors': 'yes',
         'web browser': 'default'
     }
     config = configparser.ConfigParser(defaults=default_config,
@@ -52,7 +52,15 @@ def get_config(config_file=CONFIG_FILE):
     if not config_dir.exists():
         config_dir.mkdir(parents=True)
     with open(config_file, mode='wt') as f:
-        config.write(f)
+        config_string = CONFIG_TEMPLATE.format(
+            cache_dir=config['dikicli'].get('cache dir'),
+            hist_file=config['dikicli'].get('history file'),
+            prefix=config['dikicli'].get('prefix'),
+            linewrap=config['dikicli'].get('linewrap'),
+            colors=config['dikicli'].get('colors'),
+            browser=config['dikicli'].get('web browser'),
+        )
+        f.write(config_string)
     # TODO: logging
     return config
 
