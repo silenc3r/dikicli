@@ -80,6 +80,7 @@ def get_parser():
 def main():
     ENV_CONFIG_FILE = get_env('DIKI_CONFIG_FILE')
     ENV_CACHE_DIR = get_env('DIKI_CACHE_DIR')
+    ENV_DATA_DIR = get_env('DIKI_DATA_DIR')
     ENV_HISTORY_FILE = get_env('DIKI_HIST_FILE')
 
     if ENV_CONFIG_FILE:
@@ -89,6 +90,8 @@ def main():
 
     if ENV_CACHE_DIR:
         config['dikicli']['cache dir'] = ENV_CACHE_DIR
+    if ENV_DATA_DIR:
+        config['dikicli']['data dir'] = ENV_DATA_DIR
     if ENV_HISTORY_FILE:
         config['dikicli']['history file'] = ENV_HISTORY_FILE
 
@@ -103,11 +106,18 @@ def main():
 
     # options
     cache_dir = Path(config['dikicli']['cache dir'])
+    data_dir = Path(config['dikicli']['data dir'])
     hist_file = Path(config['dikicli']['history file'])
     prefix = config['dikicli']['prefix']
     if args.linewrap:
         config['dikicli']['linewrap'] = args.linewrap
     linewrap = config['dikicli'].getint('linewrap')
+
+    # create cache and data dir if they don't exist
+    if not cache_dir.is_dir():
+        cache_dir.mkdir(parents=True)
+    if not data_dir.is_dir():
+        data_dir.mkdir(parents=True)
 
     # create history file if it doesn't exist
     if not hist_file.is_file():
@@ -116,14 +126,10 @@ def main():
             parent.mkdir(parents=True)
         hist_file.touch()
 
-    # create cache dir if it doesn't exist
-    if not cache_dir.is_dir():
-        cache_dir.mkdir(parents=True)
-
     # handle word translation
     if args.word:
         word = args.word
-        cached = cache_lookup(word, cache_dir)
+        cached = cache_lookup(word, data_dir)
         if cached:
             pretty_print(cached, linewrap)
         else:
@@ -138,8 +144,8 @@ def main():
 
             pretty_print(translation, linewrap)
             write_to_file(hist_file, word, prefix)
-            write_html_file(word, translation, cache_dir)
-            write_index_file(hist_file, prefix, cache_dir)
+            write_html_file(word, translation, data_dir)
+            write_index_file(hist_file, prefix, data_dir)
 
     # open index file in browser
     if args.display_index:
@@ -155,5 +161,5 @@ def main():
                 b = webbrowser.get()
         else:
             b = webbrowser.get()
-        b.open(cache_dir.joinpath('index.html').as_uri())
+        b.open(data_dir.joinpath('index.html').as_uri())
         sys.exit(0)

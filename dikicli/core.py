@@ -19,8 +19,9 @@ XDG_CACHE_HOME = Path(os.environ.get(
     'XDG_CACHE_HOME', HOME.joinpath('.cache')))
 
 CONFIG_FILE = XDG_CONFIG_HOME.joinpath('dikicli', 'diki.conf')
-HISTORY_FILE = XDG_DATA_HOME.joinpath('dikicli', 'words.txt')
 CACHE_DIR = XDG_CACHE_HOME.joinpath('dikicli')
+DATA_DIR = XDG_DATA_HOME.joinpath('dikicli')
+HISTORY_FILE = DATA_DIR.joinpath('words.txt')
 
 URL = 'https://www.diki.pl/{word}'
 HEADERS = {'User-Agent': ('Mozilla/5.0 (compatible, MSIE 11, Windows NT 6.3; '
@@ -34,6 +35,7 @@ class WordNotFound(Exception):
 def get_config(config_file=CONFIG_FILE):
     default_config = {
         'cache dir': CACHE_DIR.as_posix(),
+        'data dir': DATA_DIR.as_posix(),
         'history file': HISTORY_FILE.as_posix(),
         'prefix': '-',
         'linewrap': '78',
@@ -54,6 +56,7 @@ def get_config(config_file=CONFIG_FILE):
     with open(config_file, mode='wt') as f:
         config_string = CONFIG_TEMPLATE.format(
             cache_dir=config['dikicli'].get('cache dir'),
+            data_dir=config['dikicli'].get('data dir'),
             hist_file=config['dikicli'].get('history file'),
             prefix=config['dikicli'].get('prefix'),
             linewrap=config['dikicli'].get('linewrap'),
@@ -130,8 +133,8 @@ def parse_cached(html_dump):
     return trans_dict
 
 
-def cache_lookup(word, cache_dir):
-    filename = cache_dir.joinpath('translations/{}.html'.format(word))
+def cache_lookup(word, data_dir):
+    filename = data_dir.joinpath('translations/{}.html'.format(word))
     if filename.is_file():
         with open(filename, mode='rt') as f:
             translation = parse_cached(f.read())
@@ -150,7 +153,7 @@ def write_to_file(words_file, word, prefix):
             f.write(prefix + word + '\n')
 
 
-def write_html_file(word, translations, cache_dir):
+def write_html_file(word, translations, data_dir):
     content = []
     for i1, entity in enumerate(translations):
         if i1 > 0:
@@ -193,7 +196,7 @@ def write_html_file(word, translations, cache_dir):
     content_str = '\n'.join(content)
 
     # create translations dir if needed
-    translations_dir = cache_dir.joinpath('translations')
+    translations_dir = data_dir.joinpath('translations')
     if not translations_dir.exists():
         translations_dir.mkdir()
 
@@ -205,16 +208,16 @@ def write_html_file(word, translations, cache_dir):
         f.write(result)
 
 
-def write_index_file(words_file, prefix, cache_dir):
+def write_index_file(words_file, prefix, data_dir):
     content = ['<h1>Index</h1>', '<ul>']
     for word in get_words(words_file, prefix):
-        if cache_dir.joinpath('translations/{}.html'.format(word)).is_file():
+        if data_dir.joinpath('translations/{}.html'.format(word)).is_file():
             content.append(('<li><a href="translations/{word}.html">'
                             '{word}</a></li>').format(word=word))
     content.append('</ul>')
     content_str = '\n'.join(content)
 
-    with open(cache_dir.joinpath('index.html'), mode='wt') as f:
+    with open(data_dir.joinpath('index.html'), mode='wt') as f:
         result = HTML_TEMPLATE.replace('{% word %}', "Index")
         result = result.replace('{% content %}', content_str)
         f.write(result)
