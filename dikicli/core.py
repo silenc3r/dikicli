@@ -1,42 +1,26 @@
 import configparser
-import os
+import logging
 import re
 
 from bs4 import BeautifulSoup
 from collections import OrderedDict
 from itertools import zip_longest
-from pathlib import Path
 
+from . import DATA_DIR, HISTORY_FILE
 from .templates import CONFIG_TEMPLATE, HTML_TEMPLATE
 
-APP_DIR = Path(os.path.dirname(os.path.realpath(__file__)))
-HOME = Path.home()
-XDG_CONFIG_HOME = Path(os.environ.get(
-    'XDG_CONFIG_HOME', HOME.joinpath('.config')))
-XDG_DATA_HOME = Path(os.environ.get(
-    'XDG_DATA_HOME', HOME.joinpath('.local', 'share')))
-XDG_CACHE_HOME = Path(os.environ.get(
-    'XDG_CACHE_HOME', HOME.joinpath('.cache')))
 
-CONFIG_FILE = XDG_CONFIG_HOME.joinpath('dikicli', 'diki.conf')
-CACHE_DIR = XDG_CACHE_HOME.joinpath('dikicli')
-DATA_DIR = XDG_DATA_HOME.joinpath('dikicli')
-HISTORY_FILE = DATA_DIR.joinpath('words.txt')
-
-URL = 'https://www.diki.pl/{word}'
-HEADERS = {'User-Agent': ('Mozilla/5.0 (compatible, MSIE 11, Windows NT 6.3; '
-                          'Trident/7.0;  rv:11.0) like Gecko')}
+logger = logging.getLogger(__name__)
 
 
 class WordNotFound(Exception):
     pass
 
 
-def get_config(config_file=CONFIG_FILE):
+def get_config(config_file):
     default_config = {
-        'cache dir': CACHE_DIR.as_posix(),
-        'data dir': DATA_DIR.as_posix(),
-        'history file': HISTORY_FILE.as_posix(),
+        'data dir': DATA_DIR,
+        'history file': HISTORY_FILE,
         'prefix': '-',
         'linewrap': '78',
         'colors': 'yes',
@@ -55,7 +39,6 @@ def get_config(config_file=CONFIG_FILE):
         config_dir.mkdir(parents=True)
     with open(config_file, mode='wt') as f:
         config_string = CONFIG_TEMPLATE.format(
-            cache_dir=config['dikicli'].get('cache dir'),
             data_dir=config['dikicli'].get('data dir'),
             hist_file=config['dikicli'].get('history file'),
             prefix=config['dikicli'].get('prefix'),
@@ -134,6 +117,7 @@ def parse_cached(html_dump):
 
 
 def cache_lookup(word, data_dir):
+    logger.info("Looking up in cache %s", word)
     filename = data_dir.joinpath('translations/{}.html'.format(word))
     if filename.is_file():
         with open(filename, mode='rt') as f:

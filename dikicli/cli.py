@@ -1,5 +1,5 @@
 import argparse
-import os
+import logging
 import sys
 import textwrap
 import urllib.request
@@ -7,10 +7,12 @@ import webbrowser
 
 from pathlib import Path
 
-from .core import URL, HEADERS
+from . import CONFIG_FILE, URL, HEADERS
 from .core import WordNotFound
 from .core import cache_lookup, get_config, parse
 from .core import write_to_file, write_html_file, write_index_file
+
+logger = logging.getLogger(__name__)
 
 
 def pretty_print(translations, linewrap=0):
@@ -50,15 +52,6 @@ def pretty_print(translations, linewrap=0):
                     print_wrapped(e[1], findent=indent+2, sindent=indent+3)
 
 
-def get_env(var):
-    try:
-        file = os.getenv(var)
-        Path(file).stat()
-        return file
-    except TypeError:
-        return None
-
-
 def get_parser():
     parser = argparse.ArgumentParser(
         prog='dikicli',
@@ -78,25 +71,10 @@ def get_parser():
 
 
 def main():
-    ENV_CONFIG_FILE = get_env('DIKI_CONFIG_FILE')
-    ENV_CACHE_DIR = get_env('DIKI_CACHE_DIR')
-    ENV_DATA_DIR = get_env('DIKI_DATA_DIR')
-    ENV_HISTORY_FILE = get_env('DIKI_HIST_FILE')
-
-    if ENV_CONFIG_FILE:
-        config = get_config(Path(ENV_CONFIG_FILE))
-    else:
-        config = get_config()
-
-    if ENV_CACHE_DIR:
-        config['dikicli']['cache dir'] = ENV_CACHE_DIR
-    if ENV_DATA_DIR:
-        config['dikicli']['data dir'] = ENV_DATA_DIR
-    if ENV_HISTORY_FILE:
-        config['dikicli']['history file'] = ENV_HISTORY_FILE
-
     parser = get_parser()
     args = parser.parse_args()
+
+    # FIXME: logging starts here
 
     # if ran with no arguments print usage and exit
     if len(sys.argv) == 1:
@@ -104,8 +82,9 @@ def main():
         parser.print_usage()
         sys.exit(1)
 
-    # options
-    cache_dir = Path(config['dikicli']['cache dir'])
+    # configuration
+    config = get_config(Path(CONFIG_FILE))
+
     data_dir = Path(config['dikicli']['data dir'])
     hist_file = Path(config['dikicli']['history file'])
     prefix = config['dikicli']['prefix']
@@ -113,24 +92,12 @@ def main():
         config['dikicli']['linewrap'] = args.linewrap
     linewrap = config['dikicli'].getint('linewrap')
 
-    # create cache and data dirs if they don't exist
-    if not cache_dir.is_dir():
-        cache_dir.mkdir(parents=True)
-    if not data_dir.is_dir():
-        data_dir.mkdir(parents=True)
-
-    # create history file if it doesn't exist
-    if not hist_file.is_file():
-        parent = hist_file.parent()
-        if not parent.exists():
-            parent.mkdir(parents=True)
-        hist_file.touch()
-
     # handle word translation
     if args.word:
         word = args.word
         cached = cache_lookup(word, data_dir)
         if cached:
+            logger.info("Printing cached: %s", word)
             pretty_print(cached, linewrap)
         else:
             req = urllib.request.Request(URL.format(word=word),
@@ -150,21 +117,25 @@ def main():
     # open index file in browser
     if args.display_index:
         browser = config['dikicli']['web browser'].lower()
-        # TODO: add logging
         if browser != 'default':
             if browser in webbrowser._browsers:
                 b = webbrowser.get(browser)
             else:
-                print("Couldn't find '{browser}' browser."
-                      " Falling back to default.".format(browser=browser),
-                      file=sys.stderr)
+                logger.warn("Couldn't find '%s' browser. "
+                            "Falling back to default.", browser)
+                # print("Couldn't find '{browser}' browser."
+                #       " Falling back to default.".format(browser=browser),
+                #       file=sys.stderr)
+                browser = 'default'
                 b = webbrowser.get()
         else:
             b = webbrowser.get()
 
         index_file = data_dir.joinpath('index.html')
         if not index_file.is_file():
-            print("Index file not found!", file=sys.stderr)
+            logger.error("Index file not found")
+            # print("Index file not found!", file=sys.stderr)
             sys.exit(1)
+        logger.info("Opening index.html in '%s' browser", browser)
         b.open(index_file.as_uri())
         sys.exit(0)

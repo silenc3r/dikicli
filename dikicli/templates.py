@@ -19,7 +19,6 @@ HTML_TEMPLATE = """\
 
 CONFIG_TEMPLATE = """\
 [dikicli]
-cache dir = {cache_dir}
 data dir = {data_dir}
 history file = {hist_file}
 prefix = {prefix}
