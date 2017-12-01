@@ -119,7 +119,7 @@ def cache_lookup(word, data_dir):
     logger.debug("Cache lookup: %s", word)
     filename = data_dir.joinpath('translations/{}.html'.format(word))
     if filename.is_file():
-        with open(filename, mode='rt') as f:
+        with open(filename, mode='r') as f:
             logger.debug("Cache found: %s", word)
             translation = parse_cached(f.read())
             return translation
@@ -128,7 +128,9 @@ def cache_lookup(word, data_dir):
 
 
 def get_words(words_file, prefix):
-    with open(words_file, mode='rt') as f:
+    if not words_file.is_file():
+        return []
+    with open(words_file, mode='r') as f:
         return [l.rstrip()[len(prefix):] for l in f]
 
 
@@ -185,12 +187,12 @@ def write_html_file(word, translations, data_dir):
     # create translations dir if needed
     translations_dir = data_dir.joinpath('translations')
     if not translations_dir.exists():
-        logger.info("Creating directory: %s", translations)
+        logger.info("Creating directory: %s", translations_dir)
         translations_dir.mkdir()
 
     # create html file
     fname = translations_dir.joinpath('{word}.html'.format(word=word))
-    with open(fname, mode='wt') as f:
+    with open(fname, mode='w') as f:
         logger.info("Creating html file: %s", fname)
         result = HTML_TEMPLATE.replace('{% word %}', word)
         result = result.replace('{% content %}', content_str)
@@ -198,8 +200,8 @@ def write_html_file(word, translations, data_dir):
 
 
 def write_index_file(prefix, data_dir):
-    words_file = data_dir.joinpath('words.txt')
     content = ['<h1>Index</h1>', '<ul>']
+    words_file = data_dir.joinpath('words.txt')
     for word in get_words(words_file, prefix):
         if data_dir.joinpath('translations/{}.html'.format(word)).is_file():
             content.append(('<li><a href="translations/{word}.html">'
@@ -207,7 +209,8 @@ def write_index_file(prefix, data_dir):
     content.append('</ul>')
     content_str = '\n'.join(content)
 
-    with open(data_dir.joinpath('index.html'), mode='wt') as f:
+    with open(data_dir.joinpath('index.html'), mode='w') as f:
         result = HTML_TEMPLATE.replace('{% word %}', "Index")
         result = result.replace('{% content %}', content_str)
+        logger.info("Updating index.html")
         f.write(result)

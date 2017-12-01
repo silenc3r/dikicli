@@ -123,7 +123,6 @@ def main():
             pretty_print(translation, linewrap)
             write_to_file(word, prefix, data_dir)
             write_html_file(word, translation, data_dir)
-            logger.info("Updating index.html")
             write_index_file(prefix, data_dir)
 
     # open index file in browser
@@ -137,10 +136,7 @@ def main():
                             "Falling back to default.", browser)
             b = webbrowser.get()
 
-        index_file = data_dir.joinpath('index.html')
-        if not index_file.is_file():
-            logger.error("Index file not found")
-            sys.exit(1)
+        write_index_file(prefix, data_dir)
         logger.info("Opening index.html in '%s' browser", b.name)
-        b.open(index_file.as_uri())
+        b.open(data_dir.joinpath('index.html').as_uri())
         sys.exit(0)
