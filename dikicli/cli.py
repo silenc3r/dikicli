@@ -7,7 +7,7 @@ import webbrowser
 
 from pathlib import Path
 
-from . import CONFIG_FILE
+from . import CONFIG_FILE, DATA_DIR
 from .core import WordNotFound
 from .core import cache_lookup, get_config, parse
 from .core import write_to_file, write_html_file, write_index_file
@@ -87,6 +87,8 @@ def main():
         parser.print_usage()
         sys.exit(1)
 
+    if DATA_DIR:
+        config['dikicli']['data dir'] = DATA_DIR
     data_dir = Path(config['dikicli']['data dir'])
     prefix = config['dikicli']['prefix']
     if args.linewrap:
