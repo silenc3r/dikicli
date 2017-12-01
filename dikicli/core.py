@@ -131,7 +131,11 @@ def get_words(words_file, prefix):
     if not words_file.is_file():
         return []
     with open(words_file, mode='r') as f:
-        return [l.rstrip()[len(prefix):] for l in f]
+        if len(prefix) == 0:
+            return [l.rstrip() for l in f]
+        if prefix == 'any':
+            return [l.rstrip()[1:] for l in f]
+        return [l.rstrip()[1:] for l in f if l[0] == prefix]
 
 
 def write_to_file(word, prefix, data_dir):
@@ -199,18 +203,25 @@ def write_html_file(word, translations, data_dir):
         f.write(result)
 
 
-def write_index_file(prefix, data_dir):
-    content = ['<h1>Index</h1>', '<ul>']
-    words_file = data_dir.joinpath('words.txt')
-    for word in get_words(words_file, prefix):
+def write_index_file(prefix, data_dir, full=False):
+    name = 'index'
+    if full:
+        name = 'index-full'
+        prefix = 'any' if len(prefix) > 0 else prefix
+
+    content = ['<h1>{}</h1>'.format(name.capitalize()), '<ul>']
+    word_list = get_words(data_dir.joinpath('words.txt'), prefix)
+    for word in word_list:
         if data_dir.joinpath('translations/{}.html'.format(word)).is_file():
             content.append(('<li><a href="translations/{word}.html">'
                             '{word}</a></li>').format(word=word))
     content.append('</ul>')
+    if not word_list:
+        content.append('<i>Nothing to see here ...yet!</i>')
     content_str = '\n'.join(content)
 
-    with open(data_dir.joinpath('index.html'), mode='w') as f:
-        result = HTML_TEMPLATE.replace('{% word %}', "Index")
+    with open(data_dir.joinpath('{}.html'.format(name)), mode='w') as f:
+        result = HTML_TEMPLATE.replace('{% word %}', name.capitalize())
         result = result.replace('{% content %}', content_str)
-        logger.info("Updating index.html")
+        logger.info("Updating %s.html", name)
         f.write(result)

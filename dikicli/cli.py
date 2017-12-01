@@ -69,8 +69,8 @@ def get_parser():
     html = parser.add_argument_group('html')
     html.add_argument('-i', '--display-index', action='store_true',
                       help='open index file in web browser')
-    html.add_argument('--create-index', action='store_true',
-                      help='regenerate index file')
+    html.add_argument('--full', action='store_true',
+                      help="display all words, even if prefix doesn't match")
     return parser
 
 
@@ -124,6 +124,7 @@ def main():
             write_to_file(word, prefix, data_dir)
             write_html_file(word, translation, data_dir)
             write_index_file(prefix, data_dir)
+            write_index_file(prefix, data_dir, full=True)
 
     # open index file in browser
     if args.display_index:
@@ -136,7 +137,8 @@ def main():
                             "Falling back to default.", browser)
             b = webbrowser.get()
 
-        write_index_file(prefix, data_dir)
-        logger.info("Opening index.html in '%s' browser", b.name)
-        b.open(data_dir.joinpath('index.html').as_uri())
+        index_file = 'index-full.html' if args.full else 'index.html'
+        write_index_file(prefix, data_dir, full=args.full)
+        logger.info("Opening %s in '%s' browser", index_file, b.name)
+        b.open(data_dir.joinpath(index_file).as_uri())
         sys.exit(0)
