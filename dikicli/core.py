@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 from collections import OrderedDict
 from itertools import zip_longest
 
-from . import DATA_DIR, HISTORY_FILE
+from . import DATA_DIR
 from .templates import CONFIG_TEMPLATE, HTML_TEMPLATE
 
 
@@ -20,7 +20,6 @@ class WordNotFound(Exception):
 def get_config(config_file):
     default_config = {
         'data dir': DATA_DIR,
-        'history file': HISTORY_FILE,
         'prefix': '-',
         'linewrap': '78',
         'colors': 'yes',
@@ -29,25 +28,25 @@ def get_config(config_file):
     config = configparser.ConfigParser(defaults=default_config,
                                        default_section='dikicli')
     if config_file.is_file():
+        logger.info("Reading config file: %s", config_file.as_posix())
         with open(config_file, mode='rt') as f:
             config.read_file(f)
         return config
 
     # create default config file if it doesn't exist
+    logger.info("Creating default config file: %s", config_file.as_posix())
     config_dir = config_file.parent
     if not config_dir.exists():
         config_dir.mkdir(parents=True)
     with open(config_file, mode='wt') as f:
         config_string = CONFIG_TEMPLATE.format(
             data_dir=config['dikicli'].get('data dir'),
-            hist_file=config['dikicli'].get('history file'),
             prefix=config['dikicli'].get('prefix'),
             linewrap=config['dikicli'].get('linewrap'),
             colors=config['dikicli'].get('colors'),
             browser=config['dikicli'].get('web browser'),
         )
         f.write(config_string)
-    # TODO: logging
     return config
 
 
@@ -117,12 +116,14 @@ def parse_cached(html_dump):
 
 
 def cache_lookup(word, data_dir):
-    logger.info("Looking up in cache %s", word)
+    logger.debug("Cache lookup: %s", word)
     filename = data_dir.joinpath('translations/{}.html'.format(word))
     if filename.is_file():
         with open(filename, mode='rt') as f:
+            logger.debug("Cache found: %s", word)
             translation = parse_cached(f.read())
             return translation
+    logger.debug("Cache miss: %s", word)
     return None
 
 
@@ -131,9 +132,11 @@ def get_words(words_file, prefix):
         return [l.rstrip()[len(prefix):] for l in f]
 
 
-def write_to_file(words_file, word, prefix):
+def write_to_file(word, prefix, data_dir):
+    words_file = data_dir.joinpath('words.txt')
     if word not in get_words(words_file, prefix):
-        with open(words_file, mode='at') as f:
+        with open(words_file, mode='a+') as f:
+            logger.debug("Adding to history: %s", word)
             f.write(prefix + word + '\n')
 
 
@@ -182,17 +185,20 @@ def write_html_file(word, translations, data_dir):
     # create translations dir if needed
     translations_dir = data_dir.joinpath('translations')
     if not translations_dir.exists():
+        logger.info("Creating directory: %s", translations)
         translations_dir.mkdir()
 
     # create html file
     fname = translations_dir.joinpath('{word}.html'.format(word=word))
     with open(fname, mode='wt') as f:
+        logger.info("Creating html file: %s", fname)
         result = HTML_TEMPLATE.replace('{% word %}', word)
         result = result.replace('{% content %}', content_str)
         f.write(result)
 
 
-def write_index_file(words_file, prefix, data_dir):
+def write_index_file(prefix, data_dir):
+    words_file = data_dir.joinpath('words.txt')
     content = ['<h1>Index</h1>', '<ul>']
     for word in get_words(words_file, prefix):
         if data_dir.joinpath('translations/{}.html'.format(word)).is_file():

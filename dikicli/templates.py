@@ -20,7 +20,6 @@ HTML_TEMPLATE = """\
 CONFIG_TEMPLATE = """\
 [dikicli]
 data dir = {data_dir}
-history file = {hist_file}
 prefix = {prefix}
 linewrap = {linewrap}
 colors = {colors}

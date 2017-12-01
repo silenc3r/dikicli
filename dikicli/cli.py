@@ -7,10 +7,14 @@ import webbrowser
 
 from pathlib import Path
 
-from . import CONFIG_FILE, URL, HEADERS
+from . import CONFIG_FILE
 from .core import WordNotFound
 from .core import cache_lookup, get_config, parse
 from .core import write_to_file, write_html_file, write_index_file
+
+URL = 'https://www.diki.pl/{word}'
+HEADERS = {'User-Agent': ('Mozilla/5.0 (compatible, MSIE 11, Windows NT 6.3; '
+                          'Trident/7.0;  rv:11.0) like Gecko')}
 
 logger = logging.getLogger(__name__)
 
@@ -74,7 +78,8 @@ def main():
     parser = get_parser()
     args = parser.parse_args()
 
-    # FIXME: logging starts here
+    # this creates default config if it doesn't exist
+    config = get_config(Path(CONFIG_FILE))
 
     # if ran with no arguments print usage and exit
     if len(sys.argv) == 1:
@@ -82,60 +87,58 @@ def main():
         parser.print_usage()
         sys.exit(1)
 
-    # configuration
-    config = get_config(Path(CONFIG_FILE))
-
     data_dir = Path(config['dikicli']['data dir'])
-    hist_file = Path(config['dikicli']['history file'])
     prefix = config['dikicli']['prefix']
     if args.linewrap:
         config['dikicli']['linewrap'] = args.linewrap
     linewrap = config['dikicli'].getint('linewrap')
 
+    if not data_dir.exists():
+        logger.info("Creating directory: %s", data_dir)
+        data_dir.mkdir()
+
     # handle word translation
     if args.word:
+        logger.info("Translating word: %s", args.word)
         word = args.word
         cached = cache_lookup(word, data_dir)
         if cached:
             logger.info("Printing cached: %s", word)
             pretty_print(cached, linewrap)
         else:
+            logger.info("Looking up online: %s", word)
             req = urllib.request.Request(URL.format(word=word),
                                          headers=HEADERS)
             with urllib.request.urlopen(req) as response:
                 try:
+                    logger.debug("Parsing response: %s", word)
                     translation = parse(response.read())
                 except WordNotFound as e:
-                    print(str(e), file=sys.stderr)
+                    logger.error(str(e))
                     sys.exit(1)
 
+            logger.debug("Printing: %s", word)
             pretty_print(translation, linewrap)
-            write_to_file(hist_file, word, prefix)
+            write_to_file(word, prefix, data_dir)
             write_html_file(word, translation, data_dir)
-            write_index_file(hist_file, prefix, data_dir)
+            logger.info("Updating index.html")
+            write_index_file(prefix, data_dir)
 
     # open index file in browser
     if args.display_index:
         browser = config['dikicli']['web browser'].lower()
-        if browser != 'default':
-            if browser in webbrowser._browsers:
-                b = webbrowser.get(browser)
-            else:
+        if browser in webbrowser._browsers:
+            b = webbrowser.get(browser)
+        else:
+            if browser != 'default':
                 logger.warn("Couldn't find '%s' browser. "
                             "Falling back to default.", browser)
-                # print("Couldn't find '{browser}' browser."
-                #       " Falling back to default.".format(browser=browser),
-                #       file=sys.stderr)
-                browser = 'default'
-                b = webbrowser.get()
-        else:
             b = webbrowser.get()
 
         index_file = data_dir.joinpath('index.html')
         if not index_file.is_file():
             logger.error("Index file not found")
-            # print("Index file not found!", file=sys.stderr)
             sys.exit(1)
-        logger.info("Opening index.html in '%s' browser", browser)
+        logger.info("Opening index.html in '%s' browser", b.name)
         b.open(index_file.as_uri())
         sys.exit(0)
