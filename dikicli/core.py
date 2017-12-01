@@ -31,6 +31,28 @@ def get_config(config_file):
         logger.info("Reading config file: %s", config_file.as_posix())
         with open(config_file, mode='rt') as f:
             config.read_file(f)
+
+        p = config['dikicli'].get('prefix')
+        if p not in ['-', '+', '*', 'none']:
+            logger.warning("Config: Invalid prefix value. Using default.")
+            config['dikicli']['prefix'] = default_config['prefix']
+        if p == 'none':
+            config['dikicli']['prefix'] = ''
+
+        w = config['dikicli'].get('linewrap')
+        try:
+            w = int(w)
+            if w < 0:
+                raise ValueError()
+        except ValueError:
+            logger.warning("Config: Invalid linewrap value. Using default.")
+            config['dikicli']['linewrap'] = default_config['linewrap']
+
+        c = config['dikicli'].get('colors')
+        if c not in ['yes', 'no', 'true', 'false']:
+            logger.warning("Config: Invalid colors value. Using default.")
+            config['dikicli']['colors'] = default_config['colors']
+
         return config
 
     # create default config file if it doesn't exist
@@ -38,7 +60,7 @@ def get_config(config_file):
     config_dir = config_file.parent
     if not config_dir.exists():
         config_dir.mkdir(parents=True)
-    with open(config_file, mode='wt') as f:
+    with open(config_file, mode='w') as f:
         config_string = CONFIG_TEMPLATE.format(
             data_dir=config['dikicli'].get('data dir'),
             prefix=config['dikicli'].get('prefix'),
