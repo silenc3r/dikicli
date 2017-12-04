@@ -6,6 +6,17 @@ import sys
 
 
 def _get_env_path(var, type):
+    """
+    Get path from environment variable.
+
+    If variable is defined but path isn't valid raise exception.
+
+    :var: variable name too lookup in env
+    :type: wheter variable is file or directory
+
+    :returns: path string or None
+    :raises: FileNotFoundError
+    """
     v = os.getenv(var)
     if v is None:
         return v
@@ -41,6 +52,7 @@ DATA_DIR = DATA_DIR or os.path.join(
     os.getenv('XDG_DATA_HOME', os.path.join(HOME, '.local', 'share')),
     'dikicli')
 
+# configure logging
 LOG_FILE = os.path.join(CACHE_DIR, 'diki.log')
 if not os.path.exists(CACHE_DIR):
     os.mkdir(CACHE_DIR)

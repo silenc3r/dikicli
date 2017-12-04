@@ -18,6 +18,15 @@ class WordNotFound(Exception):
 
 
 def get_config(config_file):
+    """
+    Read config from a file.
+
+    If configuration file doesn't exist create one with default values.
+    Invalid config values will be discarded and defaults used in their place.
+
+    :config_file: pathlib.Path to configuration file
+    :returns: config
+    """
     default_config = {
         'data dir': DATA_DIR,
         'prefix': '-',
@@ -28,7 +37,7 @@ def get_config(config_file):
     config = configparser.ConfigParser(defaults=default_config,
                                        default_section='dikicli')
     if config_file.is_file():
-        logger.info("Reading config file: %s", config_file.as_posix())
+        logger.debug("Reading config file: %s", config_file.as_posix())
         with open(config_file, mode='rt') as f:
             config.read_file(f)
 
@@ -73,6 +82,14 @@ def get_config(config_file):
 
 
 def parse(html_dump):
+    """
+    Parse html string
+
+    :html_dump: string containg html
+
+    :returns: translations dictionary
+    :raises: WordNotFound
+    """
     soup = BeautifulSoup(html_dump, 'html.parser')
     trans_dict = OrderedDict()
     for entity in soup.find_all('div', class_='dictionaryEntity'):
@@ -111,6 +128,13 @@ def parse(html_dump):
 
 
 def parse_cached(html_dump):
+    """
+    Parse html string from cached html files.
+
+    :html_dump: string containg html
+
+    :returns: translations dictionary
+    """
     soup = BeautifulSoup(html_dump, 'html.parser')
     trans_dict = OrderedDict()
     for trans in soup.find_all('div', class_='translation'):
@@ -138,6 +162,14 @@ def parse_cached(html_dump):
 
 
 def cache_lookup(word, data_dir):
+    """
+    Checks if word is in cache.
+
+    :word: word to check in cache
+    :data_dir: pathlib.Path cache directory location
+
+    :returns: translation of word or None
+    """
     logger.debug("Cache lookup: %s", word)
     filename = data_dir.joinpath('translations/{}.html'.format(word))
     if filename.is_file():
@@ -150,6 +182,14 @@ def cache_lookup(word, data_dir):
 
 
 def get_words(words_file, prefix):
+    """
+    Get list of words from history file stripped of prefix.
+
+    :words_file: pathlib.Path location of history file
+    :prefix: word prefix
+
+    :returns: list of words
+    """
     if not words_file.is_file():
         return []
     with open(words_file, mode='r') as f:
@@ -160,7 +200,14 @@ def get_words(words_file, prefix):
         return [l.rstrip()[1:] for l in f if l[0] == prefix]
 
 
-def write_to_file(word, prefix, data_dir):
+def save_to_history(word, prefix, data_dir):
+    """
+    Write word to history file with chosen prefix.
+
+    :word: word to save to history
+    :prefix: word prefix
+    :data_dir: pathlib.Path location of history file parent directory
+    """
     words_file = data_dir.joinpath('words.txt')
     if word not in get_words(words_file, prefix):
         with open(words_file, mode='a+') as f:
@@ -169,6 +216,13 @@ def write_to_file(word, prefix, data_dir):
 
 
 def write_html_file(word, translations, data_dir):
+    """
+    Create html file of word translations.
+
+    :word: word that was translated
+    :tralnslations: dictionary of word translations
+    :data_dir: pathlib.Path location where html files are saved
+    """
     content = []
     for i1, entity in enumerate(translations):
         if i1 > 0:
@@ -226,6 +280,15 @@ def write_html_file(word, translations, data_dir):
 
 
 def write_index_file(prefix, data_dir, full=False):
+    """
+    Create index file of cached translations.
+
+    If full is set to false include all files, even when prefix doesn't match.
+
+    :prefix: word prefix
+    :data_dir: pathlib.Path cache directory location
+    :full: whether to ignore prefix or not
+    """
     name = 'index'
     if full:
         name = 'index-full'

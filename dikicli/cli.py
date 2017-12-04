@@ -10,7 +10,7 @@ from pathlib import Path
 from . import CONFIG_FILE, DATA_DIR
 from .core import WordNotFound
 from .core import cache_lookup, get_config, parse
-from .core import write_to_file, write_html_file, write_index_file
+from .core import save_to_history, write_html_file, write_index_file
 
 URL = 'https://www.diki.pl/{word}'
 HEADERS = {'User-Agent': ('Mozilla/5.0 (compatible, MSIE 11, Windows NT 6.3; '
@@ -20,6 +20,14 @@ logger = logging.getLogger(__name__)
 
 
 def pretty_print(translations, linewrap=0):
+    """
+    Pretty print translations.
+
+    If linewrap is set to 0 disble line wrapping.
+
+    :translations: dictionary of word translations
+    :linewrap: maximum line lenght before wrapping
+    """
 
     def print_wrapped(text, width=linewrap, findent=0, sindent=0, bold=False):
         # don't use bold when stdout is pipe or redirect
@@ -63,7 +71,7 @@ def get_parser():
     )
     translation = parser.add_argument_group('translation')
     translation.add_argument('word', nargs='?', help='word to translate')
-    translation.add_argument('-w', '--linewrap', metavar='WIDTH',
+    translation.add_argument('-w', '--linewrap', metavar='WIDTH', type=int,
                              help=('wrap lines longer than WIDTH;'
                                    ' set to 0 to disable wrapping'))
     html = parser.add_argument_group('html')
@@ -78,7 +86,7 @@ def main():
     parser = get_parser()
     args = parser.parse_args()
 
-    # this creates default config if it doesn't exist
+    # this creates default config file if it doesn't exist
     config = get_config(Path(CONFIG_FILE))
 
     # if ran with no arguments print usage and exit
@@ -92,7 +100,7 @@ def main():
     data_dir = Path(config['dikicli']['data dir'])
     prefix = config['dikicli']['prefix']
     if args.linewrap:
-        config['dikicli']['linewrap'] = args.linewrap
+        config['dikicli']['linewrap'] = str(args.linewrap)
     linewrap = config['dikicli'].getint('linewrap')
 
     if not data_dir.exists():
@@ -121,7 +129,7 @@ def main():
 
             logger.debug("Printing: %s", word)
             pretty_print(translation, linewrap)
-            write_to_file(word, prefix, data_dir)
+            save_to_history(word, prefix, data_dir)
             write_html_file(word, translation, data_dir)
             write_index_file(prefix, data_dir)
             write_index_file(prefix, data_dir, full=True)
@@ -139,6 +147,6 @@ def main():
 
         index_file = 'index-full.html' if args.full else 'index.html'
         write_index_file(prefix, data_dir, full=args.full)
-        logger.info("Opening %s in '%s' browser", index_file, b.name)
+        logger.info("Opening %s in '%s'", index_file, b.name)
         b.open(data_dir.joinpath(index_file).as_uri())
         sys.exit(0)
