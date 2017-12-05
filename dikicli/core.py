@@ -199,21 +199,26 @@ def cache_lookup(word, data_dir):
 
 def get_words(words_file, prefix):
     """
-    Get list of words from history file stripped of prefix.
+    Get list of words matching prefix from history file.
+
+    If prefix is empty string returns all words.
 
     :words_file: pathlib.Path location of history file
-    :prefix: word prefix
+    :prefix: prefix sign to use when matching words
 
     :returns: list of words
     """
+    word_list = []
     if not words_file.is_file():
-        return []
+        return word_list
     with open(words_file, mode='r') as f:
-        if len(prefix) == 0:
-            return [l.rstrip() for l in f]
-        if prefix == 'any':
-            return [l.rstrip()[1:] for l in f]
-        return [l.rstrip()[1:] for l in f if l[0] == prefix]
+        for l in f:
+            line = l.rstrip()
+            if line[0] in ['-', '+', '*']:
+                word_list.append([line[0], line[1:]])
+            else:
+                word_list.append(['', line])
+    return [w[1] for w in word_list if prefix in ['', w[0]]]
 
 
 def save_to_history(word, prefix, data_dir):
@@ -308,7 +313,7 @@ def write_index_file(prefix, data_dir, full=False):
     name = 'index'
     if full:
         name = 'index-full'
-        prefix = 'any' if len(prefix) > 0 else prefix
+        prefix = ''
 
     content = ['<h1>{}</h1>'.format(name.capitalize()), '<ul>']
     word_list = get_words(data_dir.joinpath('words.txt'), prefix)
