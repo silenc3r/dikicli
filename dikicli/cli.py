@@ -2,6 +2,7 @@ import argparse
 import logging
 import sys
 import textwrap
+import urllib.parse
 import urllib.request
 import webbrowser
 
@@ -72,11 +73,11 @@ def get_parser():
     )
     translation = parser.add_argument_group('translation')
     translation.add_argument('word', nargs='?', help='word to translate')
+    translation.add_argument('-p', '--pol-eng', action='store_true',
+                             help='translate polish word to english')
     translation.add_argument('-w', '--linewrap', metavar='WIDTH', type=int,
                              help=('wrap lines longer than WIDTH;'
                                    ' set to 0 to disable wrapping'))
-    translation.add_argument('-p', '--pol-eng', action='store_true',
-                             help='translate polish word to english')
     html = parser.add_argument_group('html')
     html.add_argument('-i', '--display-index', action='store_true',
                       help='open index file in web browser')
@@ -120,7 +121,8 @@ def main():
             pretty_print(cached, linewrap)
         else:
             logger.info("Looking up online: %s", word)
-            req = urllib.request.Request(URL.format(word=word),
+            quoted_word = urllib.parse.quote(word)
+            req = urllib.request.Request(URL.format(word=quoted_word),
                                          headers=HEADERS)
             with urllib.request.urlopen(req) as response:
                 try:
