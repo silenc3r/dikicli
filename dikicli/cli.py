@@ -61,7 +61,8 @@ def pretty_print(translations, linewrap=0):
                 for e in m['examples']:
                     print()
                     print_wrapped(e[0], findent=indent+2, sindent=indent+2)
-                    print_wrapped(e[1], findent=indent+2, sindent=indent+3)
+                    if e[1]:
+                        print_wrapped(e[1], findent=indent+2, sindent=indent+3)
 
 
 def get_parser():
@@ -74,6 +75,8 @@ def get_parser():
     translation.add_argument('-w', '--linewrap', metavar='WIDTH', type=int,
                              help=('wrap lines longer than WIDTH;'
                                    ' set to 0 to disable wrapping'))
+    translation.add_argument('-p', '--pol-eng', action='store_true',
+                             help='translate polish word to english')
     html = parser.add_argument_group('html')
     html.add_argument('-i', '--display-index', action='store_true',
                       help='open index file in web browser')
@@ -122,17 +125,19 @@ def main():
             with urllib.request.urlopen(req) as response:
                 try:
                     logger.debug("Parsing response: %s", word)
-                    translation = parse(response.read())
+                    translation = parse(response.read(),
+                                        native_to_foreign=args.pol_eng)
                 except WordNotFound as e:
                     logger.error(str(e))
                     sys.exit(1)
 
             logger.debug("Printing: %s", word)
             pretty_print(translation, linewrap)
-            save_to_history(word, prefix, data_dir)
-            write_html_file(word, translation, data_dir)
-            write_index_file(prefix, data_dir)
-            write_index_file(prefix, data_dir, full=True)
+            if not args.pol_eng:
+                save_to_history(word, prefix, data_dir)
+                write_html_file(word, translation, data_dir)
+                write_index_file(prefix, data_dir)
+                write_index_file(prefix, data_dir, full=True)
 
     # open index file in browser
     if args.display_index:

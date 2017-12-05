@@ -81,19 +81,24 @@ def get_config(config_file):
     return config
 
 
-def parse(html_dump):
+def parse(html_dump, native_to_foreign=False):
     """
     Parse html string
 
     :html_dump: string containg html
+    :native_to_foreign: whether to translate from native to foreign language
 
     :returns: translations dictionary
     :raises: WordNotFound
     """
     soup = BeautifulSoup(html_dump, 'html.parser')
     trans_dict = OrderedDict()
-    for entity in soup.find_all('div', class_='dictionaryEntity'):
-        meanings = entity.find_all('ol', class_='foreignToNativeMeanings')
+    for entity in soup.select('div.diki-results-left-column > div > '
+                              'div.dictionaryEntity'):
+        if not native_to_foreign:
+            meanings = entity.select('ol.foreignToNativeMeanings')
+        else:
+            meanings = entity.select('ol.nativeToForeignEntrySlices')
         if not meanings:
             continue
         word = tuple(e.get_text().strip()
@@ -105,15 +110,26 @@ def parse(html_dump):
             t = dict()
             t['part'] = p
             t['meanings_list'] = []
-            for i in m.find_all('li'):
+            for i in m.find_all('li', recursive=False):
                 v = dict()
-                v['meaning'] = [m.get_text().strip()
-                                for m in i.select('span.hw')]
                 v['examples'] = []
-                for e in i.find_all('div', class_='exampleSentence'):
-                    pattern = re.compile('\s{3,}')
-                    example = tuple(re.split(pattern, e.get_text().strip()))
-                    v['examples'].append(example)
+                if not native_to_foreign:
+                    v['meaning'] = [m.get_text().strip()
+                                    for m in i.select('span.hw')]
+                    for e in i.find_all('div', class_='exampleSentence'):
+                        pattern = re.compile('\s{3,}')
+                        example = tuple(re.split(pattern,
+                                                 e.get_text().strip()))
+                        v['examples'].append(example)
+                else:
+                    v['meaning'] = [
+                        i.find('span', recursive=False).get_text().strip()
+                    ]
+                    example = ', '.join(sorted(set(
+                        x.get_text().strip()
+                        for x in i.select('ul > li > span.hw'))))
+                    if example:
+                        v['examples'].append(tuple([example, None]))
                 t['meanings_list'].append(v)
             trans_list.append(t)
         trans_dict[word] = trans_list
