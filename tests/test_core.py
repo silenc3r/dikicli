@@ -5,11 +5,11 @@ import urllib.request
 
 from pathlib import Path
 
-# this has to be the last import, otherwise logging won't work correctly
 from context import TEST_DIR
 
 from dikicli.core import WordNotFound
 from dikicli.core import get_config, get_words, parse, parse_cached
+from dikicli.templates import CONFIG_TEMPLATE
 
 logger = logging.getLogger(__name__)
 
@@ -135,7 +135,62 @@ class TestGetWords:
 
 
 class TestConfig:
-    def test_config(self):
-        config_file = Path('/tmp/config_file.conf')
+    t_data_dir = '/derp'
+    t_prefix = '*'
+    t_linewrap = 5
+    t_colors = 'false'
+    t_web_browser = 'weasel'
+
+    def test_config_file_overwrites_defaults(self, tmpdir):
+        f = tmpdir.mkdir('dikicli').join('config.conf')
+        config_file = Path(f)
+        f.write(CONFIG_TEMPLATE.format(
+            data_dir=self.t_data_dir, prefix=self.t_prefix,
+            linewrap=self.t_linewrap, colors=self.t_colors,
+            browser=self.t_web_browser))
         config = get_config(config_file)
-        assert config['dikicli']['colors'] == 'yes'
+        assert config['dikicli'].get('data dir') == self.t_data_dir
+        assert config['dikicli'].get('prefix') == self.t_prefix
+        assert config['dikicli'].getint('linewrap') == self.t_linewrap
+        assert config['dikicli'].get('colors') == self.t_colors
+        assert config['dikicli'].get('web browser') == self.t_web_browser
+
+    def test_config_file_invalid_prefix(self, tmpdir):
+        f = tmpdir.mkdir('dikicli').join('config.conf')
+        config_file = Path(f)
+        self.t_prefix = '$'
+        f.write(CONFIG_TEMPLATE.format(
+            data_dir=self.t_data_dir, prefix=self.t_prefix,
+            linewrap=self.t_linewrap, colors=self.t_colors,
+            browser=self.t_web_browser))
+        config = get_config(config_file)
+        assert config['dikicli'].get('prefix') == '-'
+
+    def test_config_file_invalid_linewrap(self, tmpdir):
+        f = tmpdir.mkdir('dikicli').join('config.conf')
+        config_file = Path(f)
+        self.t_linewrap = -10
+        f.write(CONFIG_TEMPLATE.format(
+            data_dir=self.t_data_dir, prefix=self.t_prefix,
+            linewrap=self.t_linewrap, colors=self.t_colors,
+            browser=self.t_web_browser))
+        config = get_config(config_file)
+        assert config['dikicli'].getint('linewrap') == 78
+        self.t_linewrap = 'seventy eight'
+        f.write(CONFIG_TEMPLATE.format(
+            data_dir=self.t_data_dir, prefix=self.t_prefix,
+            linewrap=self.t_linewrap, colors=self.t_colors,
+            browser=self.t_web_browser))
+        config = get_config(config_file)
+        assert config['dikicli'].getint('linewrap') == 78
+
+    def test_config_file_invalid_colors(self, tmpdir):
+        f = tmpdir.mkdir('dikicli').join('config.conf')
+        config_file = Path(f)
+        self.t_colors = 'maybe'
+        f.write(CONFIG_TEMPLATE.format(
+            data_dir=self.t_data_dir, prefix=self.t_prefix,
+            linewrap=self.t_linewrap, colors=self.t_colors,
+            browser=self.t_web_browser))
+        config = get_config(config_file)
+        assert config['dikicli'].get('colors') == 'yes'

@@ -48,7 +48,7 @@ def get_config(config_file):
             config.read_file(f)
 
         p = config['dikicli'].get('prefix')
-        if p not in ['-', '+', '*', 'none']:
+        if p.lower() not in ['-', '+', '*', 'none']:
             logger.warning("Config: Invalid prefix value. Using default.")
             config['dikicli']['prefix'] = default_config['prefix']
         if p == 'none':
@@ -64,7 +64,7 @@ def get_config(config_file):
             config['dikicli']['linewrap'] = default_config['linewrap']
 
         c = config['dikicli'].get('colors')
-        if c not in ['yes', 'no', 'true', 'false']:
+        if c.lower() not in ['yes', 'no', 'true', 'false']:
             logger.warning("Config: Invalid colors value. Using default.")
             config['dikicli']['colors'] = default_config['colors']
 
