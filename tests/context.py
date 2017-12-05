@@ -20,7 +20,6 @@ logging.config.dictConfig({
     },
     'handlers': {
         'file': {
-            'level': logging.DEBUG,
             'class': 'logging.FileHandler',
             'filename': logfile,
             'formatter': 'verbose'

@@ -5,12 +5,11 @@ import urllib.request
 
 from pathlib import Path
 
+# this has to be the last import, otherwise logging won't work correctly
+from context import TEST_DIR
 
 from dikicli.core import WordNotFound
 from dikicli.core import get_config, get_words, parse, parse_cached
-
-# this has to be the last import, otherwise logging won't work correctly
-from context import TEST_DIR
 
 logger = logging.getLogger(__name__)
 

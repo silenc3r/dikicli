@@ -1,12 +1,12 @@
 import configparser
 import logging
+import os
 import re
 
 from bs4 import BeautifulSoup
 from collections import OrderedDict
 from itertools import zip_longest
 
-from . import DATA_DIR
 from .templates import CONFIG_TEMPLATE, HTML_TEMPLATE
 
 
@@ -27,6 +27,12 @@ def get_config(config_file):
     :config_file: pathlib.Path to configuration file
     :returns: config
     """
+    xdg_data = os.getenv('XDG_DATA_HOME')
+    if xdg_data:
+        DATA_DIR = os.path.join(xdg_data, 'dikicli')
+    else:
+        DATA_DIR = os.path.join(os.path.expanduser('~'),
+                                '.local', 'share', 'dikicli')
     default_config = {
         'data dir': DATA_DIR,
         'prefix': '-',

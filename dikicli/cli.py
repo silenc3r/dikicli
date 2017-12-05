@@ -1,5 +1,7 @@
 import argparse
 import logging
+import logging.config
+import os
 import sys
 import textwrap
 import urllib.parse
@@ -8,7 +10,6 @@ import webbrowser
 
 from pathlib import Path
 
-from . import CONFIG_FILE, DATA_DIR
 from .core import WordNotFound
 from .core import cache_lookup, get_config, parse
 from .core import save_to_history, write_html_file, write_index_file
@@ -17,7 +18,32 @@ URL = 'https://www.diki.pl/{word}'
 HEADERS = {'User-Agent': ('Mozilla/5.0 (compatible, MSIE 11, Windows NT 6.3; '
                           'Trident/7.0;  rv:11.0) like Gecko')}
 
-logger = logging.getLogger(__name__)
+
+def get_env_path(var, type):
+    """
+    Get path from environment variable.
+
+    If variable is defined but path isn't valid raise exception.
+
+    :var: variable name too lookup in env
+    :type: wheter variable is file or directory
+
+    :returns: path string or None
+    :raises: FileNotFoundError
+    """
+    v = os.getenv(var)
+    if v is None:
+        return v
+    if not os.path.exists(v):
+        raise FileNotFoundError(
+            "ERROR: Invalid env '{var}': {type} does not exist"
+            "".format(var=var, type=type.capitalize()))
+    if ((type == 'file' and os.path.isfile(v))
+            or (type == 'directory' and os.path.isdir(v))):
+        return v
+    else:
+        raise FileNotFoundError("ERROR: Invalid env: '{var}' is not a {type}"
+                                "".format(var=var, type=type))
 
 
 def pretty_print(translations, linewrap=0):
@@ -87,11 +113,69 @@ def get_parser():
 
 
 def main():
-    parser = get_parser()
-    args = parser.parse_args()
+    # get env variables if defined
+    try:
+        CONFIG_FILE = get_env_path('DIKI_CONFIG_FILE', 'file')
+        CACHE_DIR = get_env_path('DIKI_CACHE_DIR', 'directory')
+        DATA_DIR = get_env_path('DIKI_DATA_DIR', 'directory')
+        LOG_LEVEL = os.getenv('DIKI_LOG_LEVEL')
+    except FileNotFoundError as e:
+        print(str(e), file=sys.stderr)
+        sys.exit(1)
+
+    # set default paths
+    HOME = os.path.expanduser('~')
+    CONFIG_FILE = CONFIG_FILE or os.path.join(
+        os.getenv('XDG_CONFIG_HOME', os.path.join(HOME, '.config')),
+        'dikicli', 'diki.conf')
+    CACHE_DIR = CACHE_DIR or os.path.join(
+        os.getenv('XDG_CACHE_HOME', os.path.join(HOME, '.cache')), 'dikicli')
+
+    # configure logging
+    LOG_FILE = os.path.join(CACHE_DIR, 'diki.log')
+    if not os.path.exists(CACHE_DIR):
+        os.mkdir(CACHE_DIR)
+
+    logging.config.dictConfig({
+        'version': 1,
+        'disable_existing_loggers': False,
+        'formatters': {
+            'verbose': {
+                'format': '%(asctime)s - %(levelname)s - %(name)s - %(message)s'
+            },
+            'simple': {
+                'format': '%(levelname)s: %(message)s'
+            },
+        },
+        'handlers': {
+            'console': {
+                'level': LOG_LEVEL or logging.WARNING,
+                'class': 'logging.StreamHandler',
+                'formatter': 'simple'
+            },
+            'file': {
+                'level': LOG_LEVEL or logging.INFO,
+                'class': 'logging.FileHandler',
+                'filename': LOG_FILE,
+                'formatter': 'verbose'
+            },
+        },
+        'loggers': {
+            'dikicli': {
+                'handlers': ['file', 'console'],
+                'level': LOG_LEVEL or logging.INFO,
+            },
+        },
+    })
+
+    logger = logging.getLogger(__name__)
 
     # this creates default config file if it doesn't exist
     config = get_config(Path(CONFIG_FILE))
+
+    # parse commandline arguments
+    parser = get_parser()
+    args = parser.parse_args()
 
     # if ran with no arguments print usage and exit
     if len(sys.argv) == 1:
