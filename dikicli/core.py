@@ -101,7 +101,7 @@ class Config:
         return filename
 
 
-def parse(html_dump, native_to_foreign=False):
+def parse(html_dump, native=False):
     """
     Parse html string
 
@@ -115,7 +115,7 @@ def parse(html_dump, native_to_foreign=False):
     trans_dict = OrderedDict()
     for entity in soup.select('div.diki-results-left-column > div > '
                               'div.dictionaryEntity'):
-        if not native_to_foreign:
+        if not native:
             meanings = entity.select('ol.foreignToNativeMeanings')
         else:
             meanings = entity.select('ol.nativeToForeignEntrySlices')
@@ -133,7 +133,7 @@ def parse(html_dump, native_to_foreign=False):
             for i in m.find_all('li', recursive=False):
                 v = dict()
                 v['examples'] = []
-                if not native_to_foreign:
+                if not native:
                     v['meaning'] = [m.get_text().strip()
                                     for m in i.select('span.hw')]
                     for e in i.find_all('div', class_='exampleSentence'):
@@ -197,7 +197,7 @@ def parse_cached(html_dump):
     return trans_dict
 
 
-def cache_lookup(word, data_dir):
+def cache_lookup(word, data_dir, native=False):
     """
     Checks if word is in cache.
 
@@ -206,8 +206,11 @@ def cache_lookup(word, data_dir):
 
     :returns: translation of word or None
     """
+    trans_dir = 'translations'
+    if native:
+        trans_dir += '_native'
     logger.debug("Cache lookup: %s", word)
-    filename = data_dir.joinpath('translations/{}.html'.format(word))
+    filename = data_dir.joinpath(trans_dir, '{}.html'.format(word))
     if filename.is_file():
         with open(filename, mode='r') as f:
             logger.debug("Cache found: %s", word)
@@ -256,7 +259,7 @@ def save_to_history(word, prefix, data_dir):
             f.write(prefix + word + '\n')
 
 
-def write_html_file(word, translations, data_dir):
+def write_html_file(word, translations, data_dir, native=False):
     """
     Create html file of word translations.
 
@@ -306,7 +309,10 @@ def write_html_file(word, translations, data_dir):
     content_str = '\n'.join(content)
 
     # create translations dir if needed
-    translations_dir = data_dir.joinpath('translations')
+    trans_dir = 'translations'
+    if native:
+        trans_dir += '_native'
+    translations_dir = data_dir.joinpath(trans_dir)
     if not translations_dir.exists():
         logger.info("Creating directory: %s", translations_dir)
         translations_dir.mkdir()

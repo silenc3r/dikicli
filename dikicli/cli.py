@@ -210,7 +210,7 @@ def main():
     if args.word:
         logger.info("Translating word: %s", args.word)
         word = args.word
-        cached = cache_lookup(word, data_dir)
+        cached = cache_lookup(word, data_dir, native=args.pol_eng)
         if cached:
             logger.info("Printing cached: %s", word)
             pretty_print(cached, linewrap)
@@ -222,17 +222,16 @@ def main():
             with urllib.request.urlopen(req) as response:
                 try:
                     logger.debug("Parsing response: %s", word)
-                    translation = parse(response.read(),
-                                        native_to_foreign=args.pol_eng)
+                    translation = parse(response.read(), native=args.pol_eng)
                 except WordNotFound as e:
                     logger.error(str(e))
                     sys.exit(1)
 
             logger.debug("Printing: %s", word)
             pretty_print(translation, linewrap)
+            write_html_file(word, translation, data_dir, native=args.pol_eng)
             if not args.pol_eng:
                 save_to_history(word, prefix, data_dir)
-                write_html_file(word, translation, data_dir)
                 write_index_file(prefix, data_dir)
                 write_index_file(prefix, data_dir, full=True)
 
