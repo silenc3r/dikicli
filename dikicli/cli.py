@@ -118,7 +118,7 @@ def main():
         CONFIG_FILE = get_env_path('DIKI_CONFIG_FILE', 'file')
         CACHE_DIR = get_env_path('DIKI_CACHE_DIR', 'directory')
         DATA_DIR = get_env_path('DIKI_DATA_DIR', 'directory')
-        LOG_LEVEL = os.getenv('DIKI_LOG_LEVEL')
+        DEBUG = os.getenv('DIKI_DEBUG')
     except FileNotFoundError as e:
         print(str(e), file=sys.stderr)
         sys.exit(1)
@@ -149,12 +149,12 @@ def main():
         },
         'handlers': {
             'console': {
-                'level': LOG_LEVEL or logging.WARNING,
+                'level': logging.DEBUG if DEBUG else logging.WARNING,
                 'class': 'logging.StreamHandler',
                 'formatter': 'simple'
             },
             'file': {
-                'level': LOG_LEVEL or logging.INFO,
+                'level': logging.DEBUG if DEBUG else logging.INFO,
                 'class': 'logging.FileHandler',
                 'filename': LOG_FILE,
                 'formatter': 'verbose'
@@ -163,7 +163,7 @@ def main():
         'loggers': {
             'dikicli': {
                 'handlers': ['file', 'console'],
-                'level': LOG_LEVEL or logging.INFO,
+                'level': logging.DEBUG if DEBUG else logging.INFO,
             },
         },
     })
