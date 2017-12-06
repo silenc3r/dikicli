@@ -92,27 +92,7 @@ def pretty_print(translations, linewrap=0):
                         print_wrapped(e[1], findent=indent+2, sindent=indent+3)
 
 
-def get_parser():
-    parser = argparse.ArgumentParser(
-        prog='dikicli',
-        description='Commandline interface for diki.pl'
-    )
-    translation = parser.add_argument_group('translation')
-    translation.add_argument('word', nargs='?', help='word to translate')
-    translation.add_argument('-p', '--pol-eng', action='store_true',
-                             help='translate polish word to english')
-    translation.add_argument('-w', '--linewrap', metavar='WIDTH', type=int,
-                             help=('wrap lines longer than WIDTH;'
-                                   ' set to 0 to disable wrapping'))
-    html = parser.add_argument_group('html')
-    html.add_argument('-i', '--display-index', action='store_true',
-                      help='open index file in web browser')
-    html.add_argument('--full', action='store_true',
-                      help="display all words, even if prefix doesn't match")
-    return parser
-
-
-def main():
+def configure():
     # get env variables if defined
     try:
         CONFIG_FILE = get_env_path('DIKI_CONFIG_FILE', 'file')
@@ -123,7 +103,6 @@ def main():
         print(str(e), file=sys.stderr)
         sys.exit(1)
 
-    # set default paths
     HOME = os.path.expanduser('~')
     CONFIG_FILE = CONFIG_FILE or os.path.join(
         os.getenv('XDG_CONFIG_HOME', os.path.join(HOME, '.config')),
@@ -149,12 +128,11 @@ def main():
         },
         'handlers': {
             'console': {
-                'level': logging.DEBUG if DEBUG else logging.WARNING,
+                'level': logging.WARNING,
                 'class': 'logging.StreamHandler',
                 'formatter': 'simple'
             },
             'file': {
-                'level': logging.DEBUG if DEBUG else logging.INFO,
                 'class': 'logging.FileHandler',
                 'filename': LOG_FILE,
                 'formatter': 'verbose'
@@ -168,10 +146,36 @@ def main():
         },
     })
 
-    logger = logging.getLogger(__name__)
-
-    # this creates default config file if it doesn't exist
     config = get_config(Path(CONFIG_FILE))
+
+    if DATA_DIR:
+        config['dikicli']['data dir'] = DATA_DIR
+
+    return config
+
+
+def get_parser():
+    parser = argparse.ArgumentParser(
+        prog='dikicli',
+        description='Commandline interface for diki.pl'
+    )
+    translation = parser.add_argument_group('translation')
+    translation.add_argument('word', nargs='?', help='word to translate')
+    translation.add_argument('-p', '--pol-eng', action='store_true',
+                             help='translate polish word to english')
+    translation.add_argument('-w', '--linewrap', metavar='WIDTH', type=int,
+                             help=('wrap lines longer than WIDTH;'
+                                   ' set to 0 to disable wrapping'))
+    html = parser.add_argument_group('html')
+    html.add_argument('-i', '--display-index', action='store_true',
+                      help='open index file in web browser')
+    html.add_argument('--full', action='store_true',
+                      help="display all words, even if prefix doesn't match")
+    return parser
+
+
+def main():
+    logger = logging.getLogger(__name__)
 
     # parse commandline arguments
     parser = get_parser()
@@ -183,8 +187,8 @@ def main():
         parser.print_usage()
         sys.exit(1)
 
-    if DATA_DIR:
-        config['dikicli']['data dir'] = DATA_DIR
+    config = configure()
+
     data_dir = Path(config['dikicli']['data dir'])
     prefix = config['dikicli']['prefix']
     if args.linewrap:
