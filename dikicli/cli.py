@@ -246,8 +246,7 @@ def main():
                             "Falling back to default.", browser)
             b = webbrowser.get()
 
-        index_file = 'index-full.html' if args.full else 'index.html'
-        write_index_file(prefix, data_dir, full=args.full)
-        logger.info("Opening %s in '%s'", index_file, b.name)
-        b.open(data_dir.joinpath(index_file).as_uri())
+        index_file = write_index_file(prefix, data_dir, full=args.full)
+        logger.info("Opening %s in '%s'", index_file.as_posix(), b.name)
+        b.open(index_file.as_uri())
         sys.exit(0)

@@ -340,6 +340,7 @@ def write_index_file(prefix, data_dir, full=False):
     if full:
         name = 'index-full'
         prefix = ''
+    filename = data_dir.joinpath('{name}.html'.format(name=name))
 
     content = ['<h1>{}</h1>'.format(name.capitalize()), '<ul>']
     word_list = get_words(data_dir.joinpath('words.txt'), prefix)
@@ -352,8 +353,9 @@ def write_index_file(prefix, data_dir, full=False):
         content.append('<i>Nothing to see here ...yet!</i>')
     content_str = '\n'.join(content)
 
-    with open(data_dir.joinpath('{}.html'.format(name)), mode='w') as f:
+    with open(filename, mode='w') as f:
         result = HTML_TEMPLATE.replace('{% word %}', name.capitalize())
         result = result.replace('{% content %}', content_str)
         logger.info("Updating %s.html", name)
         f.write(result)
+    return filename
