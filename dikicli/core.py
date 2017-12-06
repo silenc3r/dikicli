@@ -1,7 +1,7 @@
 import configparser
 import logging
-import os
 import re
+import shutil
 
 from bs4 import BeautifulSoup
 from collections import OrderedDict
@@ -17,74 +17,88 @@ class WordNotFound(Exception):
     pass
 
 
-def get_config(config_file):
-    """
-    Read config from a file.
+class Config:
+    def __init__(self, config_file, data_dir):
+        self.config_file = config_file
+        self.default_config = {
+            'data dir': data_dir,
+            'prefix': 'none',
+            'linewrap': '78',
+            'colors': 'yes',
+            'web browser': 'default'
+        }
 
-    If configuration file doesn't exist create one with default values.
-    Invalid config values will be discarded and defaults used in their place.
+    def get_config(self):
+        """
+        Read config from a file.
 
-    :config_file: pathlib.Path to configuration file
-    :returns: config
-    """
-    xdg_data = os.getenv('XDG_DATA_HOME')
-    if xdg_data:
-        DATA_DIR = os.path.join(xdg_data, 'dikicli')
-    else:
-        DATA_DIR = os.path.join(os.path.expanduser('~'),
-                                '.local', 'share', 'dikicli')
-    default_config = {
-        'data dir': DATA_DIR,
-        'prefix': '-',
-        'linewrap': '78',
-        'colors': 'yes',
-        'web browser': 'default'
-    }
-    config = configparser.ConfigParser(defaults=default_config,
-                                       default_section='dikicli')
-    if config_file.is_file():
-        logger.debug("Reading config file: %s", config_file.as_posix())
-        with open(config_file, mode='rt') as f:
-            config.read_file(f)
+        Invalid config values will be discarded and defaults used
+        in their place.
 
-        p = config['dikicli'].get('prefix')
-        if p.lower() not in ['-', '+', '*', 'none']:
-            logger.warning("Config: Invalid prefix value. Using default.")
-            config['dikicli']['prefix'] = default_config['prefix']
-        if p == 'none':
-            config['dikicli']['prefix'] = ''
+        :config_file: pathlib.Path to configuration file
+        :returns: config
+        """
+        config = configparser.ConfigParser(defaults=self.default_config,
+                                           default_section='dikicli')
+        if self.config_file.is_file():
+            logger.debug("Reading config file: %s",
+                         self.config_file.as_posix())
+            with open(self.config_file, mode='r') as f:
+                config.read_file(f)
 
-        w = config['dikicli'].get('linewrap')
-        try:
-            w = int(w)
-            if w < 0:
-                raise ValueError()
-        except ValueError:
-            logger.warning("Config: Invalid linewrap value. Using default.")
-            config['dikicli']['linewrap'] = default_config['linewrap']
+            p = config['dikicli'].get('prefix')
+            if p.lower() not in ['-', '+', '*', 'none']:
+                logger.warning("Config: Invalid prefix value. Using default.")
+                config['dikicli']['prefix'] = self.default_config['prefix']
+            if p == 'none':
+                config['dikicli']['prefix'] = ''
 
-        c = config['dikicli'].get('colors')
-        if c.lower() not in ['yes', 'no', 'true', 'false']:
-            logger.warning("Config: Invalid colors value. Using default.")
-            config['dikicli']['colors'] = default_config['colors']
+            w = config['dikicli'].get('linewrap')
+            try:
+                w = int(w)
+                if w < 0:
+                    raise ValueError()
+            except ValueError:
+                logger.warning("Config: Invalid linewrap value. Using default.")
+                config['dikicli']['linewrap'] = self.default_config['linewrap']
 
-        return config
+            c = config['dikicli'].get('colors')
+            if c.lower() not in ['yes', 'no', 'true', 'false']:
+                logger.warning("Config: Invalid colors value. Using default.")
+                config['dikicli']['colors'] = self.default_config['colors']
 
-    # create default config file if it doesn't exist
-    logger.info("Creating default config file: %s", config_file.as_posix())
-    config_dir = config_file.parent
-    if not config_dir.exists():
-        config_dir.mkdir(parents=True)
-    with open(config_file, mode='w') as f:
-        config_string = CONFIG_TEMPLATE.format(
-            data_dir=config['dikicli'].get('data dir'),
-            prefix=config['dikicli'].get('prefix'),
-            linewrap=config['dikicli'].get('linewrap'),
-            colors=config['dikicli'].get('colors'),
-            browser=config['dikicli'].get('web browser'),
-        )
-        f.write(config_string)
-    return config
+        # this is a bit hacky but it works
+        config['dikicli'].create_default_config = self.create_default_config
+        return config['dikicli']
+
+    def create_default_config(self):
+        """
+        Write default config file to disk.
+
+        Backs up existing configuration file.
+
+        :config_file: pathlib.Path where to save config file
+        :returns: string path to config file
+        """
+        filename = self.config_file.as_posix()
+        logger.info("Creating default config file: %s", filename)
+        config_dir = self.config_file.parent
+        if not config_dir.exists():
+            config_dir.mkdir(parents=True)
+        if self.config_file.is_file():
+            backup = filename + '.old'
+            logger.info("Saving config file backup at: %s", backup)
+            shutil.copy(filename, backup)
+        with open(self.config_file, mode='w') as f:
+            config_string = CONFIG_TEMPLATE.format(
+                data_dir=self.default_config['data dir'],
+                prefix=self.default_config['prefix'],
+                linewrap=self.default_config['linewrap'],
+                colors=self.default_config['colors'],
+                browser=self.default_config['web browser'],
+            )
+            f.write(config_string)
+        return filename
 
 
 def parse(html_dump, native_to_foreign=False):

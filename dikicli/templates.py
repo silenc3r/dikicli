@@ -25,11 +25,11 @@ data dir = {data_dir}
 # Character that prefixes words in history file
 # (you probably don't want to modify it)
 # valid options: + - * none
-# default = {prefix}
+# default: {prefix}
 prefix = {prefix}
 # Lines longer that linewrap value will be wrapped in terminal
 # set to 0 to disable line wrapping
-# default = {linewrap}
+# default: {linewrap}
 linewrap = {linewrap}
 # Whether to use colors/styles in terminal
 # valid options: yes no true false

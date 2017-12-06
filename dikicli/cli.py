@@ -11,7 +11,8 @@ import webbrowser
 from pathlib import Path
 
 from .core import WordNotFound
-from .core import cache_lookup, get_config, parse
+from .core import Config
+from .core import cache_lookup, parse
 from .core import save_to_history, write_html_file, write_index_file
 
 URL = 'https://www.diki.pl/{word}'
@@ -40,7 +41,7 @@ def get_env_path(var, type):
             "".format(var=var, type=type.capitalize()))
     if ((type == 'file' and os.path.isfile(v))
             or (type == 'directory' and os.path.isdir(v))):
-        return v
+        return os.path.abspath(v)
     else:
         raise FileNotFoundError("ERROR: Invalid env: '{var}' is not a {type}"
                                 "".format(var=var, type=type))
@@ -109,6 +110,9 @@ def configure():
         'dikicli', 'diki.conf')
     CACHE_DIR = CACHE_DIR or os.path.join(
         os.getenv('XDG_CACHE_HOME', os.path.join(HOME, '.cache')), 'dikicli')
+    DATA_DIR = DATA_DIR or os.path.join(
+        os.getenv('XDG_DATA_HOME', os.path.join(HOME, '.local', 'share')),
+        'dikicli')
 
     # configure logging
     LOG_FILE = os.path.join(CACHE_DIR, 'diki.log')
@@ -146,12 +150,7 @@ def configure():
         },
     })
 
-    config = get_config(Path(CONFIG_FILE))
-
-    if DATA_DIR:
-        config['dikicli']['data dir'] = DATA_DIR
-
-    return config
+    return Config(Path(CONFIG_FILE), DATA_DIR).get_config()
 
 
 def get_parser():
@@ -159,6 +158,8 @@ def get_parser():
         prog='dikicli',
         description='Commandline interface for diki.pl'
     )
+    parser.add_argument('--create-config', action='store_true',
+                        help='create default configuration file')
     translation = parser.add_argument_group('translation')
     translation.add_argument('word', nargs='?', help='word to translate')
     translation.add_argument('-p', '--pol-eng', action='store_true',
@@ -189,15 +190,21 @@ def main():
 
     config = configure()
 
-    data_dir = Path(config['dikicli']['data dir'])
-    prefix = config['dikicli']['prefix']
+    data_dir = Path(config['data dir'])
+    prefix = config['prefix']
     if args.linewrap:
-        config['dikicli']['linewrap'] = str(args.linewrap)
-    linewrap = config['dikicli'].getint('linewrap')
+        config['linewrap'] = str(args.linewrap)
+    linewrap = config.getint('linewrap')
 
     if not data_dir.exists():
         logger.info("Creating directory: %s", data_dir)
         data_dir.mkdir()
+
+    # create configuration file
+    if args.create_config:
+        config_file = config.create_default_config()
+        print("New config file created: {}".format(config_file))
+        sys.exit(0)
 
     # handle word translation
     if args.word:
@@ -231,7 +238,7 @@ def main():
 
     # open index file in browser
     if args.display_index:
-        browser = config['dikicli']['web browser'].lower()
+        browser = config['web browser'].lower()
         if browser in webbrowser._browsers:
             b = webbrowser.get(browser)
         else:
