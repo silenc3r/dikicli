@@ -24,7 +24,7 @@ def get_env_path(var, type):
     """
     Get path from environment variable.
 
-    If variable is defined but path isn't valid raise exception.
+    If variable is defined but doesn't contain valid path raise exception.
 
     :var: variable name too lookup in env
     :type: wheter variable is file or directory
@@ -36,11 +36,9 @@ def get_env_path(var, type):
     if v is None:
         return v
     if not os.path.exists(v):
-        raise FileNotFoundError(
-            "ERROR: Invalid env '{var}': {type} does not exist"
-            "".format(var=var, type=type.capitalize()))
-    if ((type == 'file' and os.path.isfile(v))
-            or (type == 'directory' and os.path.isdir(v))):
+        raise FileNotFoundError("ERROR: Invalid env '{var}': {type} does not exist"
+                                "".format(var=var, type=type.capitalize()))
+    if (type == 'file' and os.path.isfile(v)) or (type == 'directory' and os.path.isdir(v)):
         return os.path.abspath(v)
     else:
         raise FileNotFoundError("ERROR: Invalid env: '{var}' is not a {type}"
@@ -62,11 +60,10 @@ def pretty_print(translations, linewrap=0):
         if bold and sys.stdout.isatty():
             text = "\033[0;1m" + text + "\033[0m"
         if width == 0:
-            print(' '*findent, text)
+            print(' ' * findent, text)
         else:
-            print(textwrap.fill(text, width=width,
-                                initial_indent=' '*findent,
-                                subsequent_indent=' '*sindent))
+            print(textwrap.fill(text, width=width, initial_indent=' ' * findent,
+                                subsequent_indent=' ' * sindent))
 
     indent = 5
     for i1, words in enumerate(translations):
@@ -88,9 +85,9 @@ def pretty_print(translations, linewrap=0):
                 print_wrapped(meaning, sindent=indent, bold=True)
                 for e in m['examples']:
                     print()
-                    print_wrapped(e[0], findent=indent+2, sindent=indent+2)
+                    print_wrapped(e[0], findent=indent + 2, sindent=indent + 2)
                     if e[1]:
-                        print_wrapped(e[1], findent=indent+2, sindent=indent+3)
+                        print_wrapped(e[1], findent=indent + 2, sindent=indent + 3)
 
 
 def configure():
@@ -106,13 +103,11 @@ def configure():
 
     HOME = os.path.expanduser('~')
     CONFIG_FILE = CONFIG_FILE or os.path.join(
-        os.getenv('XDG_CONFIG_HOME', os.path.join(HOME, '.config')),
-        'dikicli', 'diki.conf')
+        os.getenv('XDG_CONFIG_HOME', os.path.join(HOME, '.config')), 'dikicli', 'diki.conf')
     CACHE_DIR = CACHE_DIR or os.path.join(
         os.getenv('XDG_CACHE_HOME', os.path.join(HOME, '.cache')), 'dikicli')
     DATA_DIR = DATA_DIR or os.path.join(
-        os.getenv('XDG_DATA_HOME', os.path.join(HOME, '.local', 'share')),
-        'dikicli')
+        os.getenv('XDG_DATA_HOME', os.path.join(HOME, '.local', 'share')), 'dikicli')
 
     # configure logging
     LOG_FILE = os.path.join(CACHE_DIR, 'diki.log')
@@ -165,8 +160,7 @@ def get_parser():
     translation.add_argument('-p', '--pol-eng', action='store_true',
                              help='translate polish word to english')
     translation.add_argument('-w', '--linewrap', metavar='WIDTH', type=int,
-                             help=('wrap lines longer than WIDTH;'
-                                   ' set to 0 to disable wrapping'))
+                             help=('wrap lines longer than WIDTH; set to 0 to disable wrapping'))
     html = parser.add_argument_group('html')
     html.add_argument('-i', '--display-index', action='store_true',
                       help='open index file in web browser')
@@ -217,8 +211,7 @@ def main():
         else:
             logger.info("Looking up online: %s", word)
             quoted_word = urllib.parse.quote(word)
-            req = urllib.request.Request(URL.format(word=quoted_word),
-                                         headers=HEADERS)
+            req = urllib.request.Request(URL.format(word=quoted_word), headers=HEADERS)
             with urllib.request.urlopen(req) as response:
                 try:
                     logger.debug("Parsing response: %s", word)
@@ -242,8 +235,7 @@ def main():
             b = webbrowser.get(browser)
         else:
             if browser != 'default':
-                logger.warn("Couldn't find '%s' browser. "
-                            "Falling back to default.", browser)
+                logger.warn("Couldn't find '%s' browser. Falling back to default.", browser)
             b = webbrowser.get()
 
         index_file = write_index_file(prefix, data_dir, full=args.full)
