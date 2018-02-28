@@ -38,11 +38,9 @@ class Config:
         :config_file: pathlib.Path to configuration file
         :returns: config
         """
-        config = configparser.ConfigParser(defaults=self.default_config,
-                                           default_section='dikicli')
+        config = configparser.ConfigParser(defaults=self.default_config, default_section='dikicli')
         if self.config_file.is_file():
-            logger.debug("Reading config file: %s",
-                         self.config_file.as_posix())
+            logger.debug("Reading config file: %s", self.config_file.as_posix())
             with open(self.config_file, mode='r') as f:
                 config.read_file(f)
 
@@ -113,18 +111,15 @@ def parse(html_dump, native=False):
     """
     soup = BeautifulSoup(html_dump, 'html.parser')
     trans_dict = OrderedDict()
-    for entity in soup.select('div.diki-results-left-column > div > '
-                              'div.dictionaryEntity'):
+    for entity in soup.select('div.diki-results-left-column > div > div.dictionaryEntity'):
         if not native:
             meanings = entity.select('ol.foreignToNativeMeanings')
         else:
             meanings = entity.select('ol.nativeToForeignEntrySlices')
         if not meanings:
             continue
-        word = tuple(e.get_text().strip()
-                     for e in entity.select('h1 > span.hw'))
-        parts = [p.get_text().strip()
-                 for p in entity.select('span.partOfSpeech')]
+        word = tuple(e.get_text().strip() for e in entity.select('h1 > span.hw'))
+        parts = [p.get_text().strip() for p in entity.select('span.partOfSpeech')]
         trans_list = []
         for p, m in zip_longest(parts, meanings):
             t = dict()
@@ -134,22 +129,18 @@ def parse(html_dump, native=False):
                 v = dict()
                 v['examples'] = []
                 if not native:
-                    v['meaning'] = [m.get_text().strip()
-                                    for m in i.select('span.hw')]
+                    v['meaning'] = [m.get_text().strip() for m in i.select('span.hw')]
+                    pattern = re.compile('\s{3,}')
                     for e in i.find_all('div', class_='exampleSentence'):
-                        pattern = re.compile('\s{3,}')
-                        example = tuple(re.split(pattern,
-                                                 e.get_text().strip()))
+                        example = re.split(pattern, e.get_text().strip())
                         v['examples'].append(example)
                 else:
-                    v['meaning'] = [
-                        i.find('span', recursive=False).get_text().strip()
-                    ]
-                    example = ', '.join(sorted(set(
-                        x.get_text().strip()
-                        for x in i.select('ul > li > span.hw'))))
-                    if example:
-                        v['examples'].append(tuple([example, None]))
+                    v['meaning'] = [i.find('span', recursive=False).get_text().strip()]
+                    # When translating to polish 'examples' are just synonyms of translation
+                    synonyms = ', '.join(sorted(set(x.get_text().strip()
+                                                    for x in i.select('ul > li > span.hw'))))
+                    if synonyms:
+                        v['examples'].append([synonyms, ''])
                 t['meanings_list'].append(v)
             trans_list.append(t)
         trans_dict[word] = trans_list
@@ -185,12 +176,10 @@ def parse_cached(html_dump):
             t['meanings_list'] = []
             for meaning in part.find_all('div', class_='meaning'):
                 m = dict()
-                m['meaning'] = [mn.get_text()
-                                for mn in meaning.select('li > span')]
+                m['meaning'] = [mn.get_text() for mn in meaning.select('li > span')]
                 m['examples'] = []
                 for e in meaning.find_all('p'):
-                    m['examples'].append(
-                        tuple(ex.get_text() for ex in e.find_all('span')))
+                    m['examples'].append([ex.get_text() for ex in e.find_all('span')])
                 t['meanings_list'].append(m)
             trans_list.append(t)
         trans_dict[word] = trans_list
@@ -282,9 +271,7 @@ def write_html_file(word, translations, data_dir, native=False):
             content.append("<div class=\"part-of-speech\">")
             part = t['part']
             if part is not None:
-                content.append(
-                    "<p class=\"part-name\">[{part}]</p>".format(part=part)
-                )
+                content.append("<p class=\"part-name\">[{part}]</p>".format(part=part))
             content.append("<ol>")
             for m in t['meanings_list']:
                 content.append("<div class=\"meaning\">")
@@ -297,10 +284,8 @@ def write_html_file(word, translations, data_dir, native=False):
                 content.append(''.join(mng))
                 content.append("<div class=\"examples\">")
                 for e in m['examples']:
-                    content.append(
-                        "<p><span>{ex}</span><br><span>{tr}</span></p>"
-                        "".format(ex=e[0], tr=e[1])
-                    )
+                    content.append("<p><span>{ex}</span><br><span>{tr}</span></p>"
+                                   "".format(ex=e[0], tr=e[1]))
                 content.append("</div>")  # end `examples`
                 content.append("</div>")  # end `meaning`
             content.append("</ol>")
@@ -346,8 +331,8 @@ def write_index_file(prefix, data_dir, full=False):
     word_list = get_words(data_dir.joinpath('words.txt'), prefix)
     for word in word_list:
         if data_dir.joinpath('translations/{}.html'.format(word)).is_file():
-            content.append(('<li><a href="translations/{word}.html">'
-                            '{word}</a></li>').format(word=word))
+            link = '<li><a href="translations/{word}.html">{word}</a></li>'.format(word=word)
+            content.append(link)
     content.append('</ul>')
     if not word_list:
         content.append('<i>Nothing to see here ...yet!</i>')
