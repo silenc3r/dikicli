@@ -138,60 +138,61 @@ class TestGetWords:
 class TestConfig:
     t_data_dir = '/derp'
     t_prefix = '*'
-    t_linewrap = 5
+    t_linewrap = '5'
     t_colors = 'false'
     t_web_browser = 'weasel'
 
     def test_config_file_overwrites_defaults(self, tmpdir):
         f = tmpdir.mkdir('dikicli').join('config.conf')
-        config_file = Path(f)
         f.write(CONFIG_TEMPLATE.format(
             data_dir=self.t_data_dir, prefix=self.t_prefix,
             linewrap=self.t_linewrap, colors=self.t_colors,
             browser=self.t_web_browser))
-        config = Config(config_file, tmpdir).get_config()
-        assert config.get('data dir') == self.t_data_dir
-        assert config.get('prefix') == self.t_prefix
-        assert config.getint('linewrap') == self.t_linewrap
-        assert config.get('colors') == self.t_colors
-        assert config.get('web browser') == self.t_web_browser
+        config = Config(f, tmpdir)
+        config.read_config()
+        assert config['data dir'] == self.t_data_dir
+        assert config['prefix'] == self.t_prefix
+        assert config['linewrap'] == self.t_linewrap
+        assert config['colors'] == self.t_colors
+        assert config['web browser'] == self.t_web_browser
 
     def test_config_file_invalid_prefix(self, tmpdir):
         f = tmpdir.mkdir('dikicli').join('config.conf')
-        config_file = Path(f)
         self.t_prefix = '$'
         f.write(CONFIG_TEMPLATE.format(
             data_dir=self.t_data_dir, prefix=self.t_prefix,
             linewrap=self.t_linewrap, colors=self.t_colors,
             browser=self.t_web_browser))
-        config = Config(config_file, tmpdir).get_config()
-        assert config.get('prefix') == 'none'
+        config = Config(f, tmpdir)
+        config.read_config()
+        assert config['prefix'] == 'none'
 
     def test_config_file_invalid_linewrap(self, tmpdir):
         f = tmpdir.mkdir('dikicli').join('config.conf')
-        config_file = Path(f)
-        self.t_linewrap = -10
+        self.t_linewrap = '-10'
         f.write(CONFIG_TEMPLATE.format(
             data_dir=self.t_data_dir, prefix=self.t_prefix,
             linewrap=self.t_linewrap, colors=self.t_colors,
             browser=self.t_web_browser))
-        config = Config(config_file, tmpdir).get_config()
-        assert config.getint('linewrap') == 78
+        config = Config(f, tmpdir)
+        config.read_config()
+        assert config['linewrap'] == '78'
         self.t_linewrap = 'seventy eight'
         f.write(CONFIG_TEMPLATE.format(
             data_dir=self.t_data_dir, prefix=self.t_prefix,
             linewrap=self.t_linewrap, colors=self.t_colors,
             browser=self.t_web_browser))
-        config = Config(config_file, tmpdir).get_config()
-        assert config.getint('linewrap') == 78
+        config = Config(f, tmpdir)
+        config.read_config()
+        assert config['linewrap'] == '78'
 
     def test_config_file_invalid_colors(self, tmpdir):
         f = tmpdir.mkdir('dikicli').join('config.conf')
-        config_file = Path(f)
         self.t_colors = 'maybe'
         f.write(CONFIG_TEMPLATE.format(
             data_dir=self.t_data_dir, prefix=self.t_prefix,
             linewrap=self.t_linewrap, colors=self.t_colors,
             browser=self.t_web_browser))
-        config = Config(config_file, tmpdir).get_config()
-        assert config.get('colors') == 'yes'
+        config = Config(f, tmpdir)
+        config.read_config()
+        assert config['colors'] == 'yes'

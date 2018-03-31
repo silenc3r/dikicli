@@ -2,3 +2,4 @@
 .python-version
 test_log.txt
 .pytest_cache
+.env

@@ -145,7 +145,9 @@ def configure():
         },
     })
 
-    return Config(Path(CONFIG_FILE), DATA_DIR).get_config()
+    config = Config(CONFIG_FILE, DATA_DIR)
+    config.read_config()
+    return config
 
 
 def get_parser():
@@ -159,7 +161,7 @@ def get_parser():
     translation.add_argument('word', nargs='?', help='word to translate')
     translation.add_argument('-p', '--pol-eng', action='store_true',
                              help='translate polish word to english')
-    translation.add_argument('-w', '--linewrap', metavar='WIDTH', type=int,
+    translation.add_argument('-w', '--linewrap', metavar='WIDTH',
                              help=('wrap lines longer than WIDTH; set to 0 to disable wrapping'))
     html = parser.add_argument_group('html')
     html.add_argument('-i', '--display-index', action='store_true',
@@ -187,8 +189,8 @@ def main():
     data_dir = Path(config['data dir'])
     prefix = config['prefix']
     if args.linewrap:
-        config['linewrap'] = str(args.linewrap)
-    linewrap = config.getint('linewrap')
+        config['linewrap'] = args.linewrap
+    linewrap = int(config['linewrap'])
 
     if not data_dir.exists():
         logger.info("Creating directory: %s", data_dir)

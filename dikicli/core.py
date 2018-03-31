@@ -6,6 +6,7 @@ import shutil
 from bs4 import BeautifulSoup
 from collections import OrderedDict
 from itertools import zip_longest
+from pathlib import Path
 
 from .templates import CONFIG_TEMPLATE, HTML_TEMPLATE
 
@@ -18,7 +19,7 @@ class WordNotFound(Exception):
 
 class Config:
     def __init__(self, config_file, data_dir):
-        self.config_file = config_file
+        self.config_file = Path(config_file)
         self.default_config = {
             'data dir': data_dir,
             'prefix': 'none',
@@ -26,23 +27,27 @@ class Config:
             'colors': 'yes',
             'web browser': 'default'
         }
+        self.config = configparser.ConfigParser(defaults=self.default_config,
+                                                default_section='dikicli')
 
-    def get_config(self):
+    def __getitem__(self, key):
+        return self.config['dikicli'][key]
+
+    def __setitem__(self, key, value):
+        self.config['dikicli'][key] = value
+
+    def read_config(self):
         """
         Read config from a file.
 
         Invalid config values will be discarded and defaults used
         in their place.
-
-        :config_file: pathlib.Path to configuration file
-        :returns: config
         """
-        config = configparser.ConfigParser(defaults=self.default_config, default_section='dikicli')
-        _config = config['dikicli']
+        _config = self.config['dikicli']
         if self.config_file.is_file():
             logger.debug("Reading config file: %s", self.config_file.as_posix())
             with open(self.config_file, mode='r') as f:
-                config.read_file(f)
+                self.config.read_file(f)
 
             p = _config.get('prefix')
             if p.lower() not in ['-', '+', '*', 'none']:
@@ -65,17 +70,12 @@ class Config:
                 logger.warning("Config: Invalid colors value. Using default.")
                 _config['colors'] = self.default_config['colors']
 
-        # this is a bit hacky but it works
-        _config.create_default_config = self.create_default_config
-        return _config
-
     def create_default_config(self):
         """
         Write default config file to disk.
 
         Backs up existing configuration file.
 
-        :config_file: pathlib.Path where to save config file
         :returns: string path to config file
         """
         filename = self.config_file.as_posix()
