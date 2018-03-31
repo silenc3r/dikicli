@@ -9,7 +9,6 @@ from itertools import zip_longest
 
 from .templates import CONFIG_TEMPLATE, HTML_TEMPLATE
 
-
 logger = logging.getLogger(__name__)
 
 
@@ -39,35 +38,36 @@ class Config:
         :returns: config
         """
         config = configparser.ConfigParser(defaults=self.default_config, default_section='dikicli')
+        _config = config['dikicli']
         if self.config_file.is_file():
             logger.debug("Reading config file: %s", self.config_file.as_posix())
             with open(self.config_file, mode='r') as f:
                 config.read_file(f)
 
-            p = config['dikicli'].get('prefix')
+            p = _config.get('prefix')
             if p.lower() not in ['-', '+', '*', 'none']:
                 logger.warning("Config: Invalid prefix value. Using default.")
-                config['dikicli']['prefix'] = self.default_config['prefix']
+                _config['prefix'] = self.default_config['prefix']
             if p == 'none':
-                config['dikicli']['prefix'] = ''
+                _config['prefix'] = ''
 
-            w = config['dikicli'].get('linewrap')
+            w = _config.get('linewrap')
             try:
                 w = int(w)
                 if w < 0:
                     raise ValueError()
             except ValueError:
                 logger.warning("Config: Invalid linewrap value. Using default.")
-                config['dikicli']['linewrap'] = self.default_config['linewrap']
+                _config['linewrap'] = self.default_config['linewrap']
 
-            c = config['dikicli'].get('colors')
+            c = _config.get('colors')
             if c.lower() not in ['yes', 'no', 'true', 'false']:
                 logger.warning("Config: Invalid colors value. Using default.")
-                config['dikicli']['colors'] = self.default_config['colors']
+                _config['colors'] = self.default_config['colors']
 
         # this is a bit hacky but it works
-        config['dikicli'].create_default_config = self.create_default_config
-        return config['dikicli']
+        _config.create_default_config = self.create_default_config
+        return _config
 
     def create_default_config(self):
         """
