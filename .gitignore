@@ -1,2 +1,4 @@
-dikicli.egg-info
+*.egg-info
 .python-version
+test_log.txt
+.pytest_cache
