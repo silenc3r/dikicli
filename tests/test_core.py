@@ -49,13 +49,13 @@ class ParserTester:
                     assert isinstance(m['meaning'], list)
                     assert isinstance(m['examples'], list)
                     for e in m['examples']:
-                        assert isinstance(e, tuple)
+                        assert isinstance(e, list)
 
 
 class TestParsing(ParserTester):
     def test_parse_simple(self):
         html_dump = get_html('juxtaposition')
-        parsed = parse(html_dump, native_to_foreign=False)
+        parsed = parse(html_dump, native=False)
         assert len(parsed) == 1
         key = list(parsed.keys())[0]
         assert isinstance(key, tuple)
