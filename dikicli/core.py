@@ -104,7 +104,7 @@ def parse(html_dump, native=False):
     Parse html string
 
     :html_dump: string containg html
-    :native_to_foreign: whether to translate from native to foreign language
+    :native: whether to translate from native to foreign language
 
     :returns: translations dictionary
     :raises: WordNotFound
