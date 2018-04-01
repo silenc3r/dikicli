@@ -7,10 +7,14 @@ All results are cached for faster retrieval in the future.
 
 ## Usage:
 
-To translate word:
+Translate english to polish:
 
     diki word
 
-To display html index file of all words translated so far:
+Translate polish to engish:
+
+    diki -p word
+
+Display html file of all words translated so far:
 
     diki -i

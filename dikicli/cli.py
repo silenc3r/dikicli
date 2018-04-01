@@ -154,7 +154,7 @@ def configure():
 
 def get_parser():
     parser = argparse.ArgumentParser(
-        prog='dikicli',
+        prog='diki',
         description='Commandline interface for diki.pl'
     )
     parser.add_argument('--create-config', action='store_true',
