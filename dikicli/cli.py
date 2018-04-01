@@ -132,8 +132,10 @@ def configure():
                 'formatter': 'simple'
             },
             'file': {
-                'class': 'logging.FileHandler',
+                'class': 'logging.handlers.RotatingFileHandler',
                 'filename': LOG_FILE,
+                'maxBytes': 1048576,
+                'backupCount': 5,
                 'formatter': 'verbose'
             },
         },
@@ -193,7 +195,7 @@ def main():
     linewrap = int(config['linewrap'])
 
     if not data_dir.exists():
-        logger.info("Creating directory: %s", data_dir)
+        logger.info("Creating directory: %s", data_dir.as_posix())
         data_dir.mkdir()
 
     # create configuration file

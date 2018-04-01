@@ -206,7 +206,6 @@ def cache_lookup(word, data_dir, native=False):
             translation = parse_cached(f.read())
             return translation
     logger.debug("Cache miss: %s", word)
-    return None
 
 
 def get_words(words_file, prefix):
