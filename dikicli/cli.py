@@ -20,7 +20,7 @@ HEADERS = {'User-Agent': ('Mozilla/5.0 (compatible, MSIE 11, Windows NT 6.3; '
                           'Trident/7.0;  rv:11.0) like Gecko')}
 
 
-def get_env_path(var, type):
+def get_env_path(var, type_):
     """
     Get path from environment variable.
 
@@ -36,13 +36,13 @@ def get_env_path(var, type):
     if v is None:
         return v
     if not os.path.exists(v):
-        raise FileNotFoundError("ERROR: Invalid env '{var}': {type} does not exist"
-                                "".format(var=var, type=type.capitalize()))
-    if (type == 'file' and os.path.isfile(v)) or (type == 'directory' and os.path.isdir(v)):
+        raise FileNotFoundError("ERROR: Invalid env '{var}': {type_} does not exist"
+                                "".format(var=var, type_=type_.capitalize()))
+    if (type_ == 'file' and os.path.isfile(v)) or (type_ == 'directory' and os.path.isdir(v)):
         return os.path.abspath(v)
     else:
-        raise FileNotFoundError("ERROR: Invalid env: '{var}' is not a {type}"
-                                "".format(var=var, type=type))
+        raise FileNotFoundError("ERROR: Invalid env: '{var}' is not a {type_}"
+                                "".format(var=var, type_=type_))
 
 
 def pretty_print(translations, linewrap=0):
