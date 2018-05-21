@@ -122,7 +122,7 @@ def configure():
                 'format': '%(asctime)s - %(levelname)s - %(name)s - %(message)s'
             },
             'simple': {
-                'format': '%(levelname)s: %(message)s'
+                'format': '%(message)s'
             },
         },
         'handlers': {
