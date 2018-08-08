@@ -4,3 +4,4 @@ test_log.txt
 .pytest_cache
 .env
 diki.conf
+tags
