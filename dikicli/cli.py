@@ -52,7 +52,7 @@ def pretty_print(translations, linewrap=0):
     If linewrap is set to 0 disble line wrapping.
 
     :translations: dictionary of word translations
-    :linewrap: maximum line lenght before wrapping
+    :linewrap: maximum line length before wrapping
     """
 
     def print_wrapped(text, width=linewrap, findent=0, sindent=0, bold=False):
