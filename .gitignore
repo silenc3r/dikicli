@@ -5,3 +5,4 @@ test_log.txt
 .env
 diki.conf
 tags
+.vscode
