@@ -133,7 +133,7 @@ def parse(html_dump, native=False):
                 v['examples'] = []
                 if not native:
                     v['meaning'] = [m.get_text().strip() for m in i.select('span.hw')]
-                    pattern = re.compile('\s{3,}')
+                    pattern = re.compile(r'\s{3,}')
                     for e in i.find_all('div', class_='exampleSentence'):
                         example = re.split(pattern, e.get_text().strip())
                         v['examples'].append(example)

@@ -1,1 +1,4 @@
 setlocal colorcolumn=100
+let g:ale_linters = {
+\   'python': ['flake8'],
+\}
