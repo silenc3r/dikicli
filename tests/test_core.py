@@ -52,6 +52,7 @@ class ParserTester:
                         assert isinstance(e, list)
 
 
+@pytest.mark.vcr()
 class TestParsing(ParserTester):
     def test_parse_simple(self):
         html_dump = get_html('juxtaposition')
