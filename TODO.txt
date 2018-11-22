@@ -1,4 +1,7 @@
 add option to show similar words
+- refetch definition
 
 problematic words:
 - brass
+- resentment
+- foster

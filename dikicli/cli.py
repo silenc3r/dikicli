@@ -159,6 +159,8 @@ def get_parser():
     )
     parser.add_argument('--create-config', action='store_true',
                         help='create default configuration file')
+    parser.add_argument('-r', '--refresh', action='store_true',
+                        help='ignore cache')
     translation = parser.add_argument_group('translation')
     translation.add_argument('word', nargs='?', help='word to translate')
     translation.add_argument('-p', '--pol-eng', action='store_true',
@@ -208,7 +210,9 @@ def main():
     if args.word:
         logger.info("Translating word: %s", args.word)
         word = args.word
-        cached = cache_lookup(word, data_dir, native=args.pol_eng)
+        cached = False
+        if not args.refresh:
+            cached = cache_lookup(word, data_dir, native=args.pol_eng)
         if cached:
             logger.info("Printing cached: %s", word)
             pretty_print(cached, linewrap)

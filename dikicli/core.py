@@ -1,4 +1,5 @@
 import configparser
+import html
 import logging
 import re
 import shutil
@@ -103,13 +104,15 @@ def parse(html_dump, native=False):
     """
     Parse html string
 
-    :html_dump: string containg html
+    :html_dump: bytes containg html
     :native: whether to translate from native to foreign language
 
     :returns: translations dictionary
     :raises: WordNotFound
     """
-    soup = BeautifulSoup(html_dump, 'html.parser')
+    html_string = html_dump.decode()
+    unescaped_html = html.unescape(html_string)
+    soup = BeautifulSoup(unescaped_html, 'html.parser')
     trans_dict = OrderedDict()
     for entity in soup.select('div.diki-results-left-column > div > div.dictionaryEntity'):
         if not native:
