@@ -119,6 +119,7 @@ def parse(html_dump, native=False):
         else:
             meanings = entity.select('ol.nativeToForeignEntrySlices')
         if not meanings:
+            # this can happen when word exists in both polish and english, e.g. 'pet'
             continue
         word = tuple(e.get_text().strip() for e in entity.select('div.hws h1 span.hw'))
         parts = [p.get_text().strip() for p in entity.select('span.partOfSpeech')]
@@ -165,7 +166,6 @@ def parse_cached(html_dump):
     :returns: translations dictionary
     """
     soup = BeautifulSoup(html_dump, 'html.parser')
-    # trans_dict = OrderedDict()
     translations = []
     for trans in soup.find_all('div', class_='translation'):
         word = tuple(t.get_text() for t in trans.select('div.word > h2'))
@@ -185,9 +185,7 @@ def parse_cached(html_dump):
                     m['examples'].append([ex.get_text() for ex in e.find_all('span')])
                 t['meanings_list'].append(m)
             trans_list.append(t)
-        # trans_dict[word] = trans_list
         translations.append([word, trans_list])
-    # return trans_dict
     return translations
 
 

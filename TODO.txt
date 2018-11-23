@@ -6,3 +6,4 @@ problematic words:
 - influenza
 - pet
 - shawty
+- content
