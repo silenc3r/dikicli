@@ -17,7 +17,7 @@ DESCRIPTION = 'Commandline interface to diki.pl polish-english dictionary.'
 URL = 'https://github.com/silenc3r/dikicli'
 EMAIL = 'dawid.zych@yandex.com'
 AUTHOR = 'Dawid Zych'
-VERSION = '0.1'
+VERSION = '0.2'
 
 # What packages are required for this module to be executed?
 REQUIRED = ['beautifulsoup4', ]
@@ -99,6 +99,7 @@ setup(
         'Programming Language :: Python :: 3.4',
         'Programming Language :: Python :: 3.5',
         'Programming Language :: Python :: 3.6',
+        'Programming Language :: Python :: 3.7',
         'Programming Language :: Python :: Implementation :: CPython',
         'Programming Language :: Python :: Implementation :: PyPy'
     ],
