@@ -6,3 +6,6 @@ test_log.txt
 diki.conf
 tags
 .vscode
+build/*
+dist/*
+tests/cassettes
