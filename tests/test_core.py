@@ -33,11 +33,14 @@ class ParserTester:
         else:
             parsed = parse(html_dump, native)
         assert len(parsed) > 0
-        for key in parsed.keys():
+        assert isinstance(parsed, list)
+        for translation in parsed:
+            key = translation[0]
+            meanings = translation[1]
             assert isinstance(key, tuple)
-            assert isinstance(parsed[key], list)
-            assert len(parsed[key]) > 0
-            for part in parsed[key]:
+            assert isinstance(meanings, list)
+            assert len(meanings) > 0
+            for part in meanings:
                 assert isinstance(part, dict)
                 assert 'part' in part
                 assert 'meanings_list' in part
@@ -58,12 +61,15 @@ class TestParsing(ParserTester):
         html_dump = get_html('juxtaposition')
         parsed = parse(html_dump, native=False)
         assert len(parsed) == 1
-        key = list(parsed.keys())[0]
-        assert isinstance(key, tuple)
-        assert key[0] == 'juxtaposition'
-        assert len(parsed[key]) == 1
-        assert isinstance(parsed[key], list)
-        parts = parsed[key][0]
+        assert isinstance(parsed, list)
+        # assert parsed == []
+        first_translation = parsed[0]
+        dict_entity = first_translation[0]
+        assert isinstance(dict_entity, tuple)
+        meanings = first_translation[1]
+        assert len(meanings) == 1
+        assert isinstance(meanings, list)
+        parts = meanings[0]
         assert isinstance(parts, dict)
         assert 'part' in parts
         assert 'meanings_list' in parts

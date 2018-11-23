@@ -66,12 +66,14 @@ def pretty_print(translations, linewrap=0):
                                 subsequent_indent=' ' * sindent))
 
     indent = 5
-    for i1, words in enumerate(translations):
+    for i1, trans in enumerate(translations):
+        words = trans[0]
+        meanings = trans[1]
         if i1 > 0:
             print("\n")
         for w in words:
             print_wrapped(w, bold=True)
-        for i2, t in enumerate(translations[words]):
+        for i2, t in enumerate(meanings):
             if i2 > 0:
                 print()
             part = t['part']

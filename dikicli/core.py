@@ -113,7 +113,7 @@ def parse(html_dump, native=False):
     html_string = html_dump.decode()
     unescaped_html = html.unescape(html_string)
     soup = BeautifulSoup(unescaped_html, 'html.parser')
-    trans_dict = OrderedDict()
+    translations = []
     for entity in soup.select('div.diki-results-left-column > div > div.dictionaryEntity'):
         if not native:
             meanings = entity.select('ol.foreignToNativeMeanings')
@@ -146,9 +146,9 @@ def parse(html_dump, native=False):
                         v['examples'].append([synonyms, ''])
                 t['meanings_list'].append(v)
             trans_list.append(t)
-        trans_dict[word] = trans_list
-    if trans_dict:
-        return trans_dict
+        translations.append([word, trans_list])
+    if translations:
+        return translations
     else:
         # if translation wasn't found check if there are any suggestions
         suggestions = soup.find('div', class_='dictionarySuggestions')
@@ -166,7 +166,8 @@ def parse_cached(html_dump):
     :returns: translations dictionary
     """
     soup = BeautifulSoup(html_dump, 'html.parser')
-    trans_dict = OrderedDict()
+    # trans_dict = OrderedDict()
+    translations = []
     for trans in soup.find_all('div', class_='translation'):
         word = tuple(t.get_text() for t in trans.select('div.word > h2'))
         trans_list = []
@@ -185,8 +186,10 @@ def parse_cached(html_dump):
                     m['examples'].append([ex.get_text() for ex in e.find_all('span')])
                 t['meanings_list'].append(m)
             trans_list.append(t)
-        trans_dict[word] = trans_list
-    return trans_dict
+        # trans_dict[word] = trans_list
+        translations.append([word, trans_list])
+    # return trans_dict
+    return translations
 
 
 def cache_lookup(word, data_dir, native=False):
@@ -259,7 +262,9 @@ def write_html_file(word, translations, data_dir, native=False):
     :data_dir: pathlib.Path location where html files are saved
     """
     content = []
-    for i1, entity in enumerate(translations):
+    for i1, t in enumerate(translations):
+        entity = t[0]
+        meanings = t[1]
         if i1 > 0:
             content.append("<br>")
         content.append("<div class=\"translation\">")
@@ -267,7 +272,7 @@ def write_html_file(word, translations, data_dir, native=False):
         for e in entity:
             content.append("<h2>{word}</h2>".format(word=e))
         content.append("</div>")  # end `word`
-        for i2, t in enumerate(translations[entity]):
+        for i2, t in enumerate(meanings):
             if i2 > 0:
                 content.append("<br>")
             content.append("<div class=\"part-of-speech\">")
