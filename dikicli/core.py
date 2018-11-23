@@ -5,7 +5,6 @@ import re
 import shutil
 
 from bs4 import BeautifulSoup
-from collections import OrderedDict
 from itertools import zip_longest
 from pathlib import Path
 
@@ -121,7 +120,7 @@ def parse(html_dump, native=False):
             meanings = entity.select('ol.nativeToForeignEntrySlices')
         if not meanings:
             continue
-        word = tuple(e.get_text().strip() for e in entity.select('h1 > span.hw'))
+        word = tuple(e.get_text().strip() for e in entity.select('div.hws h1 span.hw'))
         parts = [p.get_text().strip() for p in entity.select('span.partOfSpeech')]
         trans_list = []
         for p, m in zip_longest(parts, meanings):
