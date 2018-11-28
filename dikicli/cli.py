@@ -28,7 +28,8 @@ def get_env_path(var, type_):
     """
     Get path from environment variable.
 
-    If variable is defined but doesn't contain valid path raise exception.
+    Create directory tree if necessary.
+    If path doesn't match required type raise exception.
 
     :var: variable name too lookup in env
     :type: wheter variable is file or directory
@@ -39,11 +40,14 @@ def get_env_path(var, type_):
     v = os.getenv(var)
     if v is None:
         return v
+    v = os.path.abspath(v)
     if not os.path.exists(v):
-        raise FileNotFoundError(
-            "ERROR: Invalid env '{var}': {type_} does not exist"
-            "".format(var=var, type_=type_.capitalize())
-        )
+        if type_ == "directory":
+            os.mkdir(v)
+        elif type_ == "file":
+            basedir = os.path.dirname(v)
+            if not os.path.exists(basedir):
+                os.mkdir(basedir)
     if (type_ == "file" and os.path.isfile(v)) or (
         type_ == "directory" and os.path.isdir(v)
     ):
