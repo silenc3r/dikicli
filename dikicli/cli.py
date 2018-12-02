@@ -120,7 +120,6 @@ def main():
         parser.print_usage()
         sys.exit(1)
 
-    # config = configure()
     config = Config()
     config.read_config()
 
@@ -142,7 +141,7 @@ def main():
         use_cache = not args.refresh
         to_eng = args.pol_eng
         try:
-            translation = translate(word, prefix, use_cache, to_eng)
+            translation = translate(word, config, use_cache, to_eng)
             pretty_print(translation, linewrap)
             sys.exit(0)
         except WordNotFound:

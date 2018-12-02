@@ -13,8 +13,6 @@ from pathlib import Path
 
 from .templates import CONFIG_TEMPLATE, HTML_TEMPLATE
 
-logger = logging.getLogger(__name__)
-
 XDG_DATA_HOME = os.environ.get("XDG_DATA_HOME", "~/.local/share")
 XDG_CACHE_HOME = os.environ.get("XDG_CACHE_HOME", "~/.cache")
 XDG_CONFIG_HOME = os.environ.get("XDG_CONFIG_HOME", "~/.config")
@@ -32,6 +30,8 @@ CONFIG_FILE = Path(
 ).expanduser()
 
 DEBUG = os.environ.get("DIKI_DEBUG")
+
+logger = logging.getLogger(__name__)
 
 LOG_FILE = CACHE_DIR.joinpath("diki.log")
 if not CACHE_DIR.exists():
@@ -87,7 +87,7 @@ class Config:
     def __init__(self):
         self.config_file = CONFIG_FILE
         self.default_config = {
-            "data dir": DATA_DIR,
+            "data dir": DATA_DIR.as_posix(),
             "prefix": "none",
             "linewrap": "78",
             "colors": "yes",
@@ -115,6 +115,10 @@ class Config:
             logger.debug("Reading config file: %s", self.config_file.as_posix())
             with open(self.config_file, mode="r") as f:
                 self.config.read_file(f)
+
+            # DIKI_DATA_DIR should always take precedence if it's set
+            if "DIKI_DATA_DIR" in os.environ:
+                _config["data dir"] = DATA_DIR.as_posix()
 
             p = _config.get("prefix")
             if p.lower() not in ["-", "+", "*", "none"]:
@@ -483,13 +487,15 @@ def write_index_file(prefix, data_dir, full=False):
     return filename
 
 
-def translate(word, prefix, use_cache=True, to_eng=False):
+def translate(word, config, use_cache=True, to_eng=False):
     """Translate a word.
 
     Parameters
     ----------
     word : str
         Word to translate.
+    config : Config
+        Configuration settings.
     use_cache : bool, optional
         Wheter to use cache.
     to_eng : bool, optional
@@ -506,12 +512,13 @@ def translate(word, prefix, use_cache=True, to_eng=False):
         If word can't be found.
     """
     translation = None
+    data_dir = Path(config["data dir"])
 
     if use_cache:
         logger.debug("Checking cache: %s", word)
-        translation = cache_lookup(word, DATA_DIR, native=to_eng)
+        translation = cache_lookup(word, data_dir, native=to_eng)
 
-    # If not found in cache get from web
+    # If not found in cache look up online
     if not translation:
         logger.debug("Looking up online: %s", word)
         quoted_word = urllib.parse.quote(word)
@@ -523,11 +530,11 @@ def translate(word, prefix, use_cache=True, to_eng=False):
                 logger.error(str(exn))
                 raise exn
 
-    write_html_file(word, translation, DATA_DIR, native=to_eng)
+    write_html_file(word, translation, data_dir, native=to_eng)
     if not to_eng:
-        prefix = prefix  # FIXME
-        save_to_history(word, prefix, DATA_DIR)
-        write_index_file(prefix, DATA_DIR)
-        write_index_file(prefix, DATA_DIR, full=True)
+        prefix = config["prefix"]
+        save_to_history(word, prefix, data_dir)
+        write_index_file(prefix, data_dir)
+        write_index_file(prefix, data_dir, full=True)
 
     return translation

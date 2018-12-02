@@ -1,4 +1,5 @@
 import logging
+import os
 import pytest
 import urllib.parse
 import urllib.request
@@ -218,6 +219,9 @@ class TestConfig:
                 browser=self.t_web_browser,
             )
         )
+        # DIKI_DATA_DIR takes precendence over defaults
+        if "DIKI_DATA_DIR" in os.environ:
+            del os.environ["DIKI_DATA_DIR"]
         config = Config()
         config.config_file = Path(f)
         config.read_config()
@@ -296,6 +300,8 @@ class TestConfig:
 @pytest.mark.vcr()
 class TestTranslate:
     def test_translate_remarkable(self):
-        assert translate("remarkable", "", use_cache=False)[0][0] == ("remarkable",)
+        config = Config()
+        config.read_config()
+        assert translate("remarkable", config, use_cache=False)[0][0] == ("remarkable",)
 
     # TODO: need more tests
