@@ -25,17 +25,26 @@ HEADERS = {
 
 
 def get_env_path(var, type_):
-    """
-    Get path from environment variable.
+    """Get path from environment variable.
 
     Create directory tree if necessary.
-    If path doesn't match required type raise exception.
 
-    :var: variable name too lookup in env
-    :type: wheter variable is file or directory
+    Parameters
+    ----------
+    var : str
+        Variable name too lookup in env.
+    type : str
+        Wheter variable is file or directory.
 
-    :returns: path string or None
-    :raises: FileNotFoundError
+    Returns
+    -------
+    string or None
+        Value of environment variable.
+
+    Raises
+    ------
+    FileNotFoundError
+        If types don't match.
     """
     v = os.getenv(var)
     if v is None:
@@ -60,13 +69,16 @@ def get_env_path(var, type_):
 
 
 def pretty_print(translations, linewrap=0):
-    """
-    Pretty print translations.
+    """Pretty print translations.
 
     If linewrap is set to 0 disble line wrapping.
 
-    :translations: dictionary of word translations
-    :linewrap: maximum line length before wrapping
+    Parameters
+    ----------
+    translations : dict
+        Dictionary of word translations.
+    linewrap : int
+        Maximum line length before wrapping.
     """
 
     def print_wrapped(text, width=linewrap, findent=0, sindent=0, bold=False):

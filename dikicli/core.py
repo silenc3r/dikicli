@@ -72,12 +72,14 @@ class Config:
                 _config["colors"] = self.default_config["colors"]
 
     def create_default_config(self):
-        """
-        Write default config file to disk.
+        """Write default config file to disk.
 
         Backs up existing configuration file.
 
-        :returns: string path to config file
+        Returns
+        -------
+        filename : string
+            Path to config file.
         """
         filename = self.config_file.as_posix()
         logger.info("Creating default config file: %s", filename)
@@ -101,14 +103,24 @@ class Config:
 
 
 def parse(html_dump, native=False):
-    """
-    Parse html string
+    """Parse html string
 
-    :html_dump: bytes containg html
-    :native: whether to translate from native to foreign language
+    Parameters
+    ----------
+    html_dump : bytes
+        HTML content.
+    native : bool
+        Whether to translate from native to foreign language.
 
-    :returns: translations dictionary
-    :raises: WordNotFound
+    Returns
+    -------
+    translations : dict
+        Translations dictionary.
+
+    Raises
+    ------
+    WordNotFound
+        If word can't be found.
     """
     html_string = html_dump.decode()
     unescaped_html = html.unescape(html_string)
@@ -167,12 +179,17 @@ def parse(html_dump, native=False):
 
 
 def parse_cached(html_dump):
-    """
-    Parse html string from cached html files.
+    """Parse html string from cached html files.
 
-    :html_dump: string containg html
+    Parameters
+    ----------
+    html_dump : string
+        HTML content
 
-    :returns: translations dictionary
+    Returns
+    -------
+    translations : dict
+        Translations dictionary.
     """
     soup = BeautifulSoup(html_dump, "html.parser")
     translations = []
@@ -199,13 +216,19 @@ def parse_cached(html_dump):
 
 
 def cache_lookup(word, data_dir, native=False):
-    """
-    Checks if word is in cache.
+    """Checks if word is in cache.
 
-    :word: word to check in cache
-    :data_dir: pathlib.Path cache directory location
+    Parameters
+    ----------
+    word : str
+        Word to check in cache.
+    data_dir : pathlib.Path
+        Cache directory location.
 
-    :returns: translation of word or None
+    Returns
+    -------
+    translation : str or None
+        Translation of given word.
     """
     trans_dir = "translations"
     if native:
@@ -221,15 +244,21 @@ def cache_lookup(word, data_dir, native=False):
 
 
 def get_words(words_file, prefix):
-    """
-    Get list of words matching prefix from history file.
+    """Get list of words matching prefix from history file.
 
     If prefix is empty string returns all words.
 
-    :words_file: pathlib.Path location of history file
-    :prefix: prefix sign to use when matching words
+    Parameters
+    ----------
+    words_file : pathlib.Path
+        Location of history file.
+    prefix : str
+        Prefix sign to use when matching words.
 
-    :returns: list of words
+    Returns
+    -------
+    list of str
+        List of words.
     """
     word_list = []
     if not words_file.is_file():
@@ -245,12 +274,16 @@ def get_words(words_file, prefix):
 
 
 def save_to_history(word, prefix, data_dir):
-    """
-    Write word to history file with chosen prefix.
+    """Write word to history file with chosen prefix.
 
-    :word: word to save to history
-    :prefix: word prefix
-    :data_dir: pathlib.Path location of history file parent directory
+    Parameters
+    ----------
+    word : str
+        Word to save to history.
+    prefix : str
+        Word prefix.
+    data_dir : pathlib.Path
+        Directory where history file should be saved.
     """
     words_file = data_dir.joinpath("words.txt")
     if word not in get_words(words_file, prefix):
@@ -260,12 +293,16 @@ def save_to_history(word, prefix, data_dir):
 
 
 def write_html_file(word, translations, data_dir, native=False):
-    """
-    Create html file of word translations.
+    """Create html file of word translations.
 
-    :word: word that was translated
-    :tralnslations: dictionary of word translations
-    :data_dir: pathlib.Path location where html files are saved
+    Parameters
+    ----------
+    word : str
+        Word that was translated.
+    tralnslations : dict
+        Dictionary of word translations.
+    data_dir : pathlib.Path
+        Location where html files are saved.
     """
     content = []
     for i1, t in enumerate(translations):
@@ -327,14 +364,23 @@ def write_html_file(word, translations, data_dir, native=False):
 
 
 def write_index_file(prefix, data_dir, full=False):
-    """
-    Create index file of cached translations.
+    """Create index file of cached translations.
 
     If full is set to false include all files, even when prefix doesn't match.
 
-    :prefix: word prefix
-    :data_dir: pathlib.Path cache directory location
-    :full: whether to ignore prefix or not
+    Parameters
+    ----------
+    prefix : str
+        Word prefix.
+    data_dir : pathlib.Path
+        Cache directory location.
+    full : bool
+        Whether to ignore prefix or not.
+
+    Returns
+    -------
+    filename pathlib.Path
+        Location of saved file.
     """
     name = "index"
     if full:
