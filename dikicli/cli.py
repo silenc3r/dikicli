@@ -14,58 +14,7 @@ from .core import WordNotFound
 from .core import Config
 from .core import cache_lookup, parse
 from .core import save_to_history, write_html_file, write_index_file
-
-URL = "https://www.diki.pl/{word}"
-HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (compatible, MSIE 11, Windows NT 6.3; "
-        "Trident/7.0;  rv:11.0) like Gecko"
-    )
-}
-
-
-def get_env_path(var, type_):
-    """Get path from environment variable.
-
-    Create directory tree if necessary.
-
-    Parameters
-    ----------
-    var : str
-        Variable name too lookup in env.
-    type : str
-        Wheter variable is file or directory.
-
-    Returns
-    -------
-    string or None
-        Value of environment variable.
-
-    Raises
-    ------
-    FileNotFoundError
-        If types don't match.
-    """
-    v = os.getenv(var)
-    if v is None:
-        return v
-    v = os.path.abspath(v)
-    if not os.path.exists(v):
-        if type_ == "directory":
-            os.mkdir(v)
-        elif type_ == "file":
-            basedir = os.path.dirname(v)
-            if not os.path.exists(basedir):
-                os.mkdir(basedir)
-    if (type_ == "file" and os.path.isfile(v)) or (
-        type_ == "directory" and os.path.isdir(v)
-    ):
-        return os.path.abspath(v)
-    else:
-        raise FileNotFoundError(
-            "ERROR: Invalid env: '{var}' is not a {type_}"
-            "".format(var=var, type_=type_)
-        )
+from .core import translate
 
 
 def pretty_print(translations, linewrap=0):
@@ -80,6 +29,9 @@ def pretty_print(translations, linewrap=0):
     linewrap : int
         Maximum line length before wrapping.
     """
+    # TODO: wrapping and printing should be separate actions
+    #       i.e. we should create wrapped multiline string
+    #       and print it once
 
     def print_wrapped(text, width=linewrap, findent=0, sindent=0, bold=False):
         # don't use bold when stdout is pipe or redirect
@@ -123,73 +75,6 @@ def pretty_print(translations, linewrap=0):
                     print_wrapped(e[0], findent=indent + 2, sindent=indent + 2)
                     if e[1]:
                         print_wrapped(e[1], findent=indent + 2, sindent=indent + 3)
-
-
-def configure():
-    # get env variables if defined
-    try:
-        CONFIG_FILE = get_env_path("DIKI_CONFIG_FILE", "file")
-        CACHE_DIR = get_env_path("DIKI_CACHE_DIR", "directory")
-        DATA_DIR = get_env_path("DIKI_DATA_DIR", "directory")
-        DEBUG = os.getenv("DIKI_DEBUG")
-    except FileNotFoundError as e:
-        print(str(e), file=sys.stderr)
-        sys.exit(1)
-
-    HOME = os.path.expanduser("~")
-    CONFIG_FILE = CONFIG_FILE or os.path.join(
-        os.getenv("XDG_CONFIG_HOME", os.path.join(HOME, ".config")),
-        "dikicli",
-        "diki.conf",
-    )
-    CACHE_DIR = CACHE_DIR or os.path.join(
-        os.getenv("XDG_CACHE_HOME", os.path.join(HOME, ".cache")), "dikicli"
-    )
-    DATA_DIR = DATA_DIR or os.path.join(
-        os.getenv("XDG_DATA_HOME", os.path.join(HOME, ".local", "share")), "dikicli"
-    )
-
-    # configure logging
-    LOG_FILE = os.path.join(CACHE_DIR, "diki.log")
-    if not os.path.exists(CACHE_DIR):
-        os.mkdir(CACHE_DIR)
-
-    logging.config.dictConfig(
-        {
-            "version": 1,
-            "disable_existing_loggers": False,
-            "formatters": {
-                "verbose": {
-                    "format": "%(asctime)s - %(levelname)s - %(name)s - %(message)s"
-                },
-                "simple": {"format": "%(message)s"},
-            },
-            "handlers": {
-                "console": {
-                    "level": logging.WARNING,
-                    "class": "logging.StreamHandler",
-                    "formatter": "simple",
-                },
-                "file": {
-                    "class": "logging.handlers.RotatingFileHandler",
-                    "filename": LOG_FILE,
-                    "maxBytes": 1048576,
-                    "backupCount": 5,
-                    "formatter": "verbose",
-                },
-            },
-            "loggers": {
-                "dikicli": {
-                    "handlers": ["file", "console"],
-                    "level": logging.DEBUG if DEBUG else logging.INFO,
-                }
-            },
-        }
-    )
-
-    config = Config(CONFIG_FILE, DATA_DIR)
-    config.read_config()
-    return config
 
 
 def get_parser():
@@ -239,17 +124,15 @@ def main():
         parser.print_usage()
         sys.exit(1)
 
-    config = configure()
+    # config = configure()
+    config = Config()
+    config.read_config()
 
     data_dir = Path(config["data dir"])
     prefix = config["prefix"]
     if args.linewrap:
         config["linewrap"] = args.linewrap
     linewrap = int(config["linewrap"])
-
-    if not data_dir.exists():
-        logger.info("Creating directory: %s", data_dir.as_posix())
-        data_dir.mkdir()
 
     # create configuration file
     if args.create_config:
@@ -259,33 +142,15 @@ def main():
 
     # handle word translation
     if args.word:
-        logger.info("Translating word: %s", args.word)
         word = args.word
-        cached = False
-        if not args.refresh:
-            cached = cache_lookup(word, data_dir, native=args.pol_eng)
-        if cached:
-            logger.info("Printing cached: %s", word)
-            pretty_print(cached, linewrap)
-        else:
-            logger.info("Looking up online: %s", word)
-            quoted_word = urllib.parse.quote(word)
-            req = urllib.request.Request(URL.format(word=quoted_word), headers=HEADERS)
-            with urllib.request.urlopen(req) as response:
-                try:
-                    logger.debug("Parsing response: %s", word)
-                    translation = parse(response.read(), native=args.pol_eng)
-                except WordNotFound as e:
-                    logger.error(str(e))
-                    sys.exit(1)
-
-            logger.debug("Printing: %s", word)
+        use_cache = not args.refresh
+        to_eng = args.pol_eng
+        try:
+            translation = translate(word, prefix, use_cache, to_eng)
             pretty_print(translation, linewrap)
-            write_html_file(word, translation, data_dir, native=args.pol_eng)
-            if not args.pol_eng:
-                save_to_history(word, prefix, data_dir)
-                write_index_file(prefix, data_dir)
-                write_index_file(prefix, data_dir, full=True)
+            sys.exit(0)
+        except WordNotFound:
+            sys.exit(1)
 
     # open index file in browser
     if args.display_index:

@@ -1,8 +1,11 @@
 import configparser
 import html
 import logging
+import os
 import re
 import shutil
+import urllib.parse
+import urllib.request
 
 from bs4 import BeautifulSoup
 from itertools import zip_longest
@@ -12,16 +15,79 @@ from .templates import CONFIG_TEMPLATE, HTML_TEMPLATE
 
 logger = logging.getLogger(__name__)
 
+XDG_DATA_HOME = os.environ.get("XDG_DATA_HOME", "~/.local/share")
+XDG_CACHE_HOME = os.environ.get("XDG_CACHE_HOME", "~/.cache")
+XDG_CONFIG_HOME = os.environ.get("XDG_CONFIG_HOME", "~/.config")
+
+DATA_DIR = Path(
+    os.environ.get("DIKI_DATA_DIR", os.path.join(XDG_DATA_HOME, "dikicli"))
+).expanduser()
+CACHE_DIR = Path(
+    os.environ.get("DIKI_CACHE_DIR", os.path.join(XDG_CACHE_HOME, "dikicli"))
+).expanduser()
+CONFIG_FILE = Path(
+    os.environ.get(
+        "DIKI_CONFIG_FILE", os.path.join(XDG_CONFIG_HOME, "dikicli", "diki.conf")
+    )
+).expanduser()
+
+DEBUG = os.environ.get("DIKI_DEBUG")
+
+LOG_FILE = CACHE_DIR.joinpath("diki.log")
+if not CACHE_DIR.exists():
+    CACHE_DIR.mkdir(parents=True)
+
+logging.config.dictConfig(
+    {
+        "version": 1,
+        "disable_existing_loggers": False,
+        "formatters": {
+            "verbose": {
+                "format": "%(asctime)s - %(levelname)s - %(name)s - %(message)s"
+            },
+            "simple": {"format": "%(message)s"},
+        },
+        "handlers": {
+            "console": {
+                "level": logging.WARNING,
+                "class": "logging.StreamHandler",
+                "formatter": "simple",
+            },
+            "file": {
+                "class": "logging.handlers.RotatingFileHandler",
+                "filename": LOG_FILE,
+                "maxBytes": 1048576,
+                "backupCount": 5,
+                "formatter": "verbose",
+            },
+        },
+        "loggers": {
+            "dikicli": {
+                "handlers": ["file", "console"],
+                "level": logging.DEBUG if DEBUG else logging.INFO,
+            }
+        },
+    }
+)
+
+URL = "https://www.diki.pl/{word}"
+HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (compatible, MSIE 11, Windows NT 6.3; "
+        "Trident/7.0;  rv:11.0) like Gecko"
+    )
+}
+
 
 class WordNotFound(Exception):
     pass
 
 
 class Config:
-    def __init__(self, config_file, data_dir):
-        self.config_file = Path(config_file)
+    def __init__(self):
+        self.config_file = CONFIG_FILE
         self.default_config = {
-            "data dir": data_dir,
+            "data dir": DATA_DIR,
             "prefix": "none",
             "linewrap": "78",
             "colors": "yes",
@@ -284,7 +350,11 @@ def save_to_history(word, prefix, data_dir):
         Word prefix.
     data_dir : pathlib.Path
         Directory where history file should be saved.
+
+    data_dir and it's parent directories will be created if needed.
     """
+    if not data_dir.exists():
+        data_dir.mkdir(parents=True)
     words_file = data_dir.joinpath("words.txt")
     if word not in get_words(words_file, prefix):
         with open(words_file, mode="a+") as f:
@@ -351,8 +421,8 @@ def write_html_file(word, translations, data_dir, native=False):
         trans_dir += "_native"
     translations_dir = data_dir.joinpath(trans_dir)
     if not translations_dir.exists():
-        logger.info("Creating directory: %s", translations_dir)
-        translations_dir.mkdir()
+        logger.debug("Creating directory: %s", translations_dir)
+        translations_dir.mkdir(parents=True)
 
     # create html file
     fname = translations_dir.joinpath("{word}.html".format(word=word))
@@ -401,9 +471,63 @@ def write_index_file(prefix, data_dir, full=False):
         content.append("<i>Nothing to see here ...yet!</i>")
     content_str = "\n".join(content)
 
+    if not data_dir.exists():
+        logger.debug("Creating directory: %s", data_dir)
+        data_dir.mkdir(parents=True)
+
     with open(filename, mode="w") as f:
         result = HTML_TEMPLATE.replace("{% word %}", name.capitalize())
         result = result.replace("{% content %}", content_str)
         logger.info("Updating %s.html", name)
         f.write(result)
     return filename
+
+
+def translate(word, prefix, use_cache=True, to_eng=False):
+    """Translate a word.
+
+    Parameters
+    ----------
+    word : str
+        Word to translate.
+    use_cache : bool, optional
+        Wheter to use cache.
+    to_eng : bool, optional
+        Translate from Polish to English.
+
+    Returns
+    -------
+    translation
+        Translation of a word.
+
+    Raises
+    ------
+    WordNotFound
+        If word can't be found.
+    """
+    translation = None
+
+    if use_cache:
+        logger.debug("Checking cache: %s", word)
+        translation = cache_lookup(word, DATA_DIR, native=to_eng)
+
+    # If not found in cache get from web
+    if not translation:
+        logger.debug("Looking up online: %s", word)
+        quoted_word = urllib.parse.quote(word)
+        req = urllib.request.Request(URL.format(word=quoted_word), headers=HEADERS)
+        with urllib.request.urlopen(req) as response:
+            try:
+                translation = parse(response.read(), native=to_eng)
+            except WordNotFound as exn:
+                logger.error(str(exn))
+                raise exn
+
+    write_html_file(word, translation, DATA_DIR, native=to_eng)
+    if not to_eng:
+        prefix = prefix  # FIXME
+        save_to_history(word, prefix, DATA_DIR)
+        write_index_file(prefix, DATA_DIR)
+        write_index_file(prefix, DATA_DIR, full=True)
+
+    return translation
