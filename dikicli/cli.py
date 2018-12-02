@@ -1,19 +1,15 @@
 import argparse
 import logging
 import logging.config
-import os
 import sys
 import textwrap
-import urllib.parse
-import urllib.request
 import webbrowser
 
 from pathlib import Path
 
 from .core import WordNotFound
 from .core import Config
-from .core import cache_lookup, parse
-from .core import save_to_history, write_html_file, write_index_file
+from .core import write_index_file
 from .core import translate
 
 

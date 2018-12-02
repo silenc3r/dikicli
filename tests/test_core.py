@@ -1,5 +1,4 @@
 import logging
-import os
 import pytest
 import urllib.parse
 import urllib.request
