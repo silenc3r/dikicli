@@ -183,9 +183,9 @@ def parse_html(html_dump, native=False):
 
     Parameters
     ----------
-    html_dump : bytes
+    html_dump : str
         HTML content.
-    native : bool
+    native : bool, optional
         Whether to translate from native to foreign language.
 
     Returns
@@ -198,9 +198,7 @@ def parse_html(html_dump, native=False):
     WordNotFound
         If word can't be found.
     """
-    html_string = html_dump.decode()
-    unescaped_html = html.unescape(html_string)
-    soup = BeautifulSoup(unescaped_html, "html.parser")
+    soup = BeautifulSoup(html_dump, "html.parser")
     translations = []
     for entity in soup.select(
         "div.diki-results-left-column > div > div.dictionaryEntity"
@@ -364,6 +362,7 @@ def save_to_history(word, prefix, data_dir):
     data_dir and it's parent directories will be created if needed.
     """
     if not data_dir.exists():
+        logger.debug("Creating DATA DIR: %s", data_dir.as_posix())
         data_dir.mkdir(parents=True)
     words_file = data_dir.joinpath("words.txt")
     if word not in get_words(words_file, prefix):
@@ -531,7 +530,9 @@ def translate(word, config, use_cache=True, to_eng=False):
         req = urllib.request.Request(URL.format(word=quoted_word), headers=HEADERS)
         with urllib.request.urlopen(req) as response:
             try:
-                translation = parse_html(response.read(), native=to_eng)
+                html_string = response.read().decode()
+                html_dump = html.unescape(html_string)
+                translation = parse_html(html_dump, native=to_eng)
             except WordNotFound as exn:
                 logger.error(str(exn))
                 raise exn
