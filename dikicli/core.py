@@ -457,11 +457,6 @@ def write_index_file(data_dir):
     ----------
     data_dir : pathlib.Path
         Cache directory location.
-
-    Returns
-    -------
-    filename pathlib.Path
-        Location of saved file.
     """
     cached_words = [
         w
@@ -475,7 +470,6 @@ def write_index_file(data_dir):
     result = HTML_TEMPLATE.replace("{% word %}", "Index")
     result = result.replace("{% content %}", content_str)
     save_file(filename, result, mk_parents=True)
-    return filename
 
 
 def save_file(filename, data, mk_parents=True):
