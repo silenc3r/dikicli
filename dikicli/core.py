@@ -532,19 +532,20 @@ def translate(word, config, use_cache=True, to_eng=False):
         logger.debug("Checking cache: %s", word)
         translation = cache_lookup(word, data_dir, native=to_eng)
 
-    # If not found in cache look up online
-    if not translation:
-        logger.debug("Looking up online: %s", word)
-        quoted_word = urllib.parse.quote(word)
-        req = urllib.request.Request(URL.format(word=quoted_word), headers=HEADERS)
-        with urllib.request.urlopen(req) as response:
-            try:
-                html_string = response.read().decode()
-                html_dump = html.unescape(html_string)
-                translation = parse_html(html_dump, native=to_eng)
-            except WordNotFound as exn:
-                logger.error(str(exn))
-                raise exn
+    if translation:
+        return translation
+
+    logger.debug("Looking up online: %s", word)
+    quoted_word = urllib.parse.quote(word)
+    req = urllib.request.Request(URL.format(word=quoted_word), headers=HEADERS)
+    with urllib.request.urlopen(req) as response:
+        try:
+            html_string = response.read().decode()
+            html_dump = html.unescape(html_string)
+            translation = parse_html(html_dump, native=to_eng)
+        except WordNotFound as exn:
+            logger.error(str(exn))
+            raise exn
 
     write_html_file(word, translation, data_dir, native=to_eng)
     if not to_eng:
