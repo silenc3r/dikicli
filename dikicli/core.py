@@ -1,5 +1,3 @@
-# pylint: disable=too-many-locals
-
 import configparser
 import html
 import logging
@@ -189,6 +187,8 @@ def parse_html(html_dump, native=False):
     WordNotFound
         If word can't be found.
     """
+    # pylint: disable=too-many-locals
+
     soup = BeautifulSoup(html_dump, "html.parser")
     translations = []
     for entity in soup.select(
@@ -473,11 +473,11 @@ def write_index_file(data_dir):
     ]
 
     content_str = create_index_content(cached_words)
+    html_string = HTML_TEMPLATE.replace("{% word %}", "Index")
+    html_string = html_string.replace("{% content %}", content_str)
 
     filename = data_dir.joinpath("index.html")
-    result = HTML_TEMPLATE.replace("{% word %}", "Index")
-    result = result.replace("{% content %}", content_str)
-    save_file(filename, result, mk_parents=True)
+    save_file(filename, html_string, mk_parents=True)
 
 
 def save_file(filename, data, mk_parents=True):
