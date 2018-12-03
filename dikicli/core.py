@@ -442,6 +442,34 @@ def write_html_file(word, translations, data_dir, native=False):
         f.write(result)
 
 
+def create_index_html(words, title):
+    """Create html string of index file.
+
+    Parameters
+    ----------
+    words : List of str
+        List of cached words.
+    title : str
+        Title of html page.
+
+    Returns
+    -------
+    str
+        html string.
+    """
+    content = ["<h1>{}</h1>".format(title.capitalize()), "<ul>"]
+    for word in words:
+        content.append(
+            '<li><a href="translations/{word}.html">{word}</a></li>'.format(word=word)
+        )
+
+    content.append("</ul>")
+    if not words:
+        content.append("<i>Nothing to see here ...yet!</i>")
+
+    return "\n".join(content)
+
+
 def write_index_file(prefix, data_dir, full=False):
     """Create index file of cached translations.
 
@@ -465,31 +493,41 @@ def write_index_file(prefix, data_dir, full=False):
     if full:
         name = "index-full"
         prefix = ""
+
+    cached_words = [
+        w
+        for w in get_words(data_dir.joinpath("words.txt"), prefix)
+        if data_dir.joinpath("translations/{}.html".format(w)).is_file()
+    ]
+
+    content_str = create_index_html(cached_words, name)
+
     filename = data_dir.joinpath("{name}.html".format(name=name))
-
-    content = ["<h1>{}</h1>".format(name.capitalize()), "<ul>"]
-    word_list = get_words(data_dir.joinpath("words.txt"), prefix)
-    for word in word_list:
-        if data_dir.joinpath("translations/{}.html".format(word)).is_file():
-            link = '<li><a href="translations/{word}.html">{word}</a></li>'.format(
-                word=word
-            )
-            content.append(link)
-    content.append("</ul>")
-    if not word_list:
-        content.append("<i>Nothing to see here ...yet!</i>")
-    content_str = "\n".join(content)
-
-    if not data_dir.exists():
-        logger.debug("Creating directory: %s", data_dir)
-        data_dir.mkdir(parents=True)
-
-    with open(filename, mode="w") as f:
-        result = HTML_TEMPLATE.replace("{% word %}", name.capitalize())
-        result = result.replace("{% content %}", content_str)
-        logger.info("Updating %s.html", name)
-        f.write(result)
+    result = HTML_TEMPLATE.replace("{% word %}", name.capitalize())
+    result = result.replace("{% content %}", content_str)
+    save_file(filename, result, mk_parents=True)
     return filename
+
+
+def save_file(filename, data, mk_parents=True):
+    """Save file to disk.
+
+    Paramaters
+    ----------
+    filename : pathlib.Path
+        Path to the file.
+    data : str
+        File contents.
+    mk_parents : bool, optional
+        If to create parent directories.
+    """
+    parent = filename.parent
+    if not parent.exists():
+        logger.debug("Creating directory: %s", parent.as_posix())
+        parent.mkdir(parents=mk_parents)
+    with open(filename, mode="w") as f:
+        logger.debug("Saving file: %s", filename.as_posix())
+        f.write(data)
 
 
 def translate(word, config, use_cache=True, to_eng=False):
