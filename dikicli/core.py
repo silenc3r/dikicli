@@ -491,9 +491,9 @@ def save_file(filename, data, mk_parents=True):
         If to create parent directories.
     """
     parent = filename.parent
-    if not parent.exists():
+    if not parent.exists() and mk_parents:
         logger.debug("Creating directory: %s", parent.as_posix())
-        parent.mkdir(parents=mk_parents)
+        parent.mkdir(parents=True)
     with open(filename, mode="w") as f:
         logger.debug("Saving file: %s", filename.as_posix())
         f.write(data)
