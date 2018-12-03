@@ -1,15 +1,12 @@
+# pylint: disable=too-many-locals
+
 import argparse
-import logging
-import logging.config
 import sys
 import textwrap
-import webbrowser
 
-from pathlib import Path
-
-from .core import WordNotFound
 from .core import Config
-from .core import write_index_file
+from .core import WordNotFound
+from .core import display_index
 from .core import translate
 
 
@@ -108,9 +105,6 @@ def get_parser():
 
 
 def main():
-    logger = logging.getLogger(__name__)
-
-    # parse commandline arguments
     parser = get_parser()
     args = parser.parse_args()
 
@@ -123,8 +117,6 @@ def main():
     config = Config()
     config.read_config()
 
-    data_dir = Path(config["data dir"])
-    prefix = config["prefix"]
     if args.linewrap:
         config["linewrap"] = args.linewrap
     linewrap = int(config["linewrap"])
@@ -149,17 +141,8 @@ def main():
 
     # open index file in browser
     if args.display_index:
-        browser = config["web browser"].lower()
-        if browser in webbrowser._browsers:
-            b = webbrowser.get(browser)
-        else:
-            if browser != "default":
-                logger.warn(
-                    "Couldn't find '%s' browser. Falling back to default.", browser
-                )
-            b = webbrowser.get()
-
-        index_file = write_index_file(prefix, data_dir, full=args.full)
-        logger.info("Opening %s in '%s'", index_file.as_posix(), b.name)
-        b.open(index_file.as_uri())
-        sys.exit(0)
+        try:
+            display_index(config)
+            sys.exit(0)
+        except FileNotFoundError:
+            sys.exit(1)

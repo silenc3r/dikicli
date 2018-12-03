@@ -1,10 +1,13 @@
+# pylint: disable=len-as-condition
+
 import logging
 import os
-import pytest
 import urllib.parse
 import urllib.request
 
 from pathlib import Path
+
+import pytest
 
 from context import TEST_DIR
 

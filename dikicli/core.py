@@ -1,3 +1,5 @@
+# pylint: disable=too-many-locals
+
 import configparser
 import html
 import logging
@@ -6,10 +8,12 @@ import re
 import shutil
 import urllib.parse
 import urllib.request
+import webbrowser
 
-from bs4 import BeautifulSoup
 from itertools import zip_longest
 from pathlib import Path
+
+from bs4 import BeautifulSoup
 
 from .templates import CONFIG_TEMPLATE, HTML_TEMPLATE
 
@@ -111,6 +115,7 @@ class Config:
         in their place.
         """
         _config = self.config["dikicli"]
+        # TODO: what if file doesn't exist?
         if self.config_file.is_file():
             logger.debug("Reading config file: %s", self.config_file.as_posix())
             with open(self.config_file, mode="r") as f:
@@ -240,12 +245,11 @@ def parse(html_dump, native=False):
         translations.append([word, trans_list])
     if translations:
         return translations
-    else:
-        # if translation wasn't found check if there are any suggestions
-        suggestions = soup.find("div", class_="dictionarySuggestions")
-        if suggestions:
-            raise WordNotFound(suggestions.get_text().strip())
-        raise WordNotFound("Nie znaleziono tłumaczenia wpisanej frazy")
+    # if translation wasn't found check if there are any suggestions
+    suggestions = soup.find("div", class_="dictionarySuggestions")
+    if suggestions:
+        raise WordNotFound(suggestions.get_text().strip())
+    raise WordNotFound("Nie znaleziono tłumaczenia wpisanej frazy")
 
 
 def parse_cached(html_dump):
@@ -311,6 +315,7 @@ def cache_lookup(word, data_dir, native=False):
             translation = parse_cached(f.read())
             return translation
     logger.debug("Cache miss: %s", word)
+    return None
 
 
 def get_words(words_file, prefix):
@@ -389,15 +394,15 @@ def write_html_file(word, translations, data_dir, native=False):
         for e in entity:
             content.append("<h2>{word}</h2>".format(word=e))
         content.append("</div>")  # end `word`
-        for i2, t in enumerate(meanings):
+        for i2, t2 in enumerate(meanings):
             if i2 > 0:
                 content.append("<br>")
             content.append('<div class="part-of-speech">')
-            part = t["part"]
+            part = t2["part"]
             if part is not None:
                 content.append('<p class="part-name">[{part}]</p>'.format(part=part))
             content.append("<ol>")
-            for m in t["meanings_list"]:
+            for m in t2["meanings_list"]:
                 content.append('<div class="meaning">')
                 mng = ["<strong><li>"]
                 for i3, mn in enumerate(m["meaning"]):
@@ -538,3 +543,30 @@ def translate(word, config, use_cache=True, to_eng=False):
         write_index_file(prefix, data_dir, full=True)
 
     return translation
+
+
+def display_index(config):
+    """Open index in web browser.
+
+    Parameters
+    ----------
+    config : Config
+        Configuration settings.
+    """
+    browser = config["web browser"].lower()
+    data_dir = Path(config["data dir"])
+    if browser in webbrowser._browsers:
+        b = webbrowser.get(browser)
+    else:
+        if browser != "default":
+            logger.warning(
+                "Couldn't find '%s' browser. Falling back to default.", browser
+            )
+        b = webbrowser.get()
+    index_file = data_dir.joinpath("index-full.html")
+    if not index_file.exists():
+        logger.error("File doesn't exist: %s", index_file.as_posix())
+        raise FileNotFoundError("Index file doesn't exist")
+    else:
+        logger.info("Opening %s in '%s'", index_file.as_posix(), b.name)
+        b.open(index_file.as_uri())
