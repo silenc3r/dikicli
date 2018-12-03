@@ -3,6 +3,7 @@
 import configparser
 import html
 import logging
+import logging.config
 import os
 import re
 import shutil
