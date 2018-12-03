@@ -129,11 +129,10 @@ def main():
 
     # handle word translation
     if args.word:
-        word = args.word
         use_cache = not args.refresh
         to_eng = args.pol_eng
         try:
-            translation = translate(word, config, use_cache, to_eng)
+            translation = translate(args.word, config, use_cache, to_eng)
             pretty_print(translation, linewrap)
             sys.exit(0)
         except WordNotFound:
