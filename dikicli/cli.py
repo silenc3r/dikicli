@@ -1,5 +1,3 @@
-# pylint: disable=too-many-locals
-
 import argparse
 import sys
 import textwrap
@@ -22,6 +20,8 @@ def pretty_print(translations, linewrap=0):
     linewrap : int
         Maximum line length before wrapping.
     """
+    # pylint: disable=too-many-locals
+
     # TODO: wrapping and printing should be separate actions
     #       i.e. we should create wrapped multiline string
     #       and print it once
