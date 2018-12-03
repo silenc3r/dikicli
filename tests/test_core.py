@@ -145,9 +145,10 @@ class TestGetWords:
     ]
 
     def test_get_words(self, tmpdir):
-        f = tmpdir.mkdir("dikicli").join("words.txt")
+        data_dir = tmpdir.mkdir("dikicli")
+        f = data_dir.join("words.txt")
         f.write("\n".join(self.words))
-        path = Path(f)
+        path = Path(data_dir)
         expected_words = [
             "guest",
             "dog",

@@ -308,19 +308,20 @@ def cache_lookup(word, data_dir, native=False):
     return None
 
 
-def get_words(words_file):
+def get_words(data_dir):
     """Get list of words from history file.
 
     Parameters
     ----------
-    words_file : pathlib.Path
-        Location of history file.
+    data_dir : pathlib.Path
+        Directory where data is saved.
 
     Returns
     -------
     word_list : list of str
         List of words.
     """
+    words_file = data_dir.joinpath("words.txt")
     word_list = []
     if not words_file.is_file():
         return word_list
@@ -346,9 +347,8 @@ def save_to_history(word, data_dir):
     if not data_dir.exists():
         logger.debug("Creating DATA DIR: %s", data_dir.as_posix())
         data_dir.mkdir(parents=True)
-    words_file = data_dir.joinpath("words.txt")
-    if word not in get_words(words_file):
-        with open(words_file, mode="a+") as f:
+    if word not in get_words(data_dir):
+        with open(data_dir.joinpath("words.txt"), mode="a+") as f:
             logger.debug("Adding to history: %s", word)
             f.write(word + "\n")
 
@@ -429,7 +429,7 @@ def create_index_content(words):
 
     Parameters
     ----------
-    words : List of str
+    words : list of str
         List of cached words.
 
     Returns
@@ -460,7 +460,7 @@ def write_index_file(data_dir):
     """
     cached_words = [
         w
-        for w in get_words(data_dir.joinpath("words.txt"))
+        for w in get_words(data_dir)
         if data_dir.joinpath("translations/{}.html".format(w)).is_file()
     ]
 
