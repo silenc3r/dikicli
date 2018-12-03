@@ -442,7 +442,7 @@ def write_html_file(word, translations, data_dir, native=False):
         f.write(result)
 
 
-def create_index_html(words, title):
+def create_index_content(words, title):
     """Create html string of index file.
 
     Parameters
@@ -500,7 +500,7 @@ def write_index_file(prefix, data_dir, full=False):
         if data_dir.joinpath("translations/{}.html".format(w)).is_file()
     ]
 
-    content_str = create_index_html(cached_words, name)
+    content_str = create_index_content(cached_words, name)
 
     filename = data_dir.joinpath("{name}.html".format(name=name))
     result = HTML_TEMPLATE.replace("{% word %}", name.capitalize())
