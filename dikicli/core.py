@@ -353,17 +353,18 @@ def save_to_history(word, data_dir):
             f.write(word + "\n")
 
 
-def write_html_file(word, translations, data_dir, native=False):
-    """Create html file of word translations.
+def create_html_file_content(translations):
+    """Create html string out of translation dict.
 
     Parameters
     ----------
-    word : str
-        Word that was translated.
     tralnslations : dict
         Dictionary of word translations.
-    data_dir : pathlib.Path
-        Location where html files are saved.
+
+    Returns
+    -------
+    str:
+        html string of translation
     """
     content = []
     for i1, t in enumerate(translations):
@@ -404,24 +405,31 @@ def write_html_file(word, translations, data_dir, native=False):
             content.append("</ol>")
             content.append("</div>")  # end `part-of-speech`
         content.append("</div>")  # end `translation`
-    content_str = "\n".join(content)
+    return "\n".join(content)
 
-    # create translations dir if needed
+
+def write_html_file(word, translations, data_dir, native=False):
+    """Create html file of word translations.
+
+    Parameters
+    ----------
+    word : str
+        Word that was translated.
+    tralnslations : dict
+        Dictionary of word translations.
+    data_dir : pathlib.Path
+        Location where html files are saved.
+    """
+    content_str = create_html_file_content(translations)
+    html_string = HTML_TEMPLATE.replace("{% word %}", word)
+    html_string = html_string.replace("{% content %}", content_str)
+
     trans_dir = "translations"
     if native:
         trans_dir += "_native"
     translations_dir = data_dir.joinpath(trans_dir)
-    if not translations_dir.exists():
-        logger.debug("Creating directory: %s", translations_dir)
-        translations_dir.mkdir(parents=True)
-
-    # create html file
     fname = translations_dir.joinpath("{word}.html".format(word=word))
-    with open(fname, mode="w") as f:
-        logger.info("Creating html file: %s", fname)
-        result = HTML_TEMPLATE.replace("{% word %}", word)
-        result = result.replace("{% content %}", content_str)
-        f.write(result)
+    save_file(fname, html_string, mk_parents=True)
 
 
 def create_index_content(words):
