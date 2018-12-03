@@ -178,7 +178,7 @@ class Config:
         return filename
 
 
-def parse(html_dump, native=False):
+def parse_html(html_dump, native=False):
     """Parse html string
 
     Parameters
@@ -333,7 +333,7 @@ def get_words(words_file, prefix):
 
     Returns
     -------
-    list of str
+    word_list : list of str
         List of words.
     """
     word_list = []
@@ -531,7 +531,7 @@ def translate(word, config, use_cache=True, to_eng=False):
         req = urllib.request.Request(URL.format(word=quoted_word), headers=HEADERS)
         with urllib.request.urlopen(req) as response:
             try:
-                translation = parse(response.read(), native=to_eng)
+                translation = parse_html(response.read(), native=to_eng)
             except WordNotFound as exn:
                 logger.error(str(exn))
                 raise exn
@@ -553,6 +553,11 @@ def display_index(config):
     ----------
     config : Config
         Configuration settings.
+
+    Raises
+    ------
+    FileNotFoundError
+        If index file doesn't exist.
     """
     browser = config["web browser"].lower()
     data_dir = Path(config["data dir"])

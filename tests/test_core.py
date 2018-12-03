@@ -13,7 +13,7 @@ from context import TEST_DIR
 
 from dikicli.core import WordNotFound
 from dikicli.core import Config
-from dikicli.core import get_words, parse, parse_cached
+from dikicli.core import get_words, parse_html, parse_cached
 from dikicli.core import save_to_history
 from dikicli.core import translate
 from dikicli.templates import CONFIG_TEMPLATE
@@ -41,7 +41,7 @@ class ParserTester:
         if cached:
             parsed = parse_cached(html_dump)
         else:
-            parsed = parse(html_dump, native)
+            parsed = parse_html(html_dump, native)
         assert len(parsed) > 0
         assert isinstance(parsed, list)
         for translation in parsed:
@@ -69,7 +69,7 @@ class ParserTester:
 class TestParsing(ParserTester):
     def test_parse_simple(self):
         html_dump = get_html("juxtaposition")
-        parsed = parse(html_dump, native=False)
+        parsed = parse_html(html_dump, native=False)
         assert len(parsed) == 1
         assert isinstance(parsed, list)
         # assert parsed == []
@@ -110,13 +110,13 @@ class TestParsing(ParserTester):
     def test_parse_raises_not_found(self):
         html_dump = get_html("vvvvxxxx")
         with pytest.raises(WordNotFound) as e:
-            parse(html_dump)
+            parse_html(html_dump)
             assert str(e.value) == "Nie znaleziono tłumaczenia wpisanej frazy"
 
     def test_parse_raises_suggestions(self):
         html_dump = get_html("colag")
         with pytest.raises(WordNotFound) as e:
-            parse(html_dump)
+            parse_html(html_dump)
             assert "Czy chodziło ci o:" in str(e.value)
 
 
