@@ -93,7 +93,6 @@ class Config:
         self.config_file = CONFIG_FILE
         self.default_config = {
             "data dir": DATA_DIR.as_posix(),
-            "prefix": "none",
             "linewrap": "78",
             "colors": "yes",
             "web browser": "default",
@@ -125,13 +124,6 @@ class Config:
             # DIKI_DATA_DIR should always take precedence if it's set
             if "DIKI_DATA_DIR" in os.environ:
                 _config["data dir"] = DATA_DIR.as_posix()
-
-            p = _config.get("prefix")
-            if p.lower() not in ["-", "+", "*", "none"]:
-                logger.warning("Config: Invalid prefix value. Using default.")
-                _config["prefix"] = self.default_config["prefix"]
-            if p == "none":
-                _config["prefix"] = ""
 
             w = _config.get("linewrap")
             try:
@@ -169,7 +161,6 @@ class Config:
         with open(self.config_file, mode="w") as f:
             config_string = CONFIG_TEMPLATE.format(
                 data_dir=self.default_config["data dir"],
-                prefix=self.default_config["prefix"],
                 linewrap=self.default_config["linewrap"],
                 colors=self.default_config["colors"],
                 browser=self.default_config["web browser"],
@@ -317,17 +308,13 @@ def cache_lookup(word, data_dir, native=False):
     return None
 
 
-def get_words(words_file, prefix):
-    """Get list of words matching prefix from history file.
-
-    If prefix is empty string returns all words.
+def get_words(words_file):
+    """Get list of words from history file.
 
     Parameters
     ----------
     words_file : pathlib.Path
         Location of history file.
-    prefix : str
-        Prefix sign to use when matching words.
 
     Returns
     -------
@@ -340,22 +327,17 @@ def get_words(words_file, prefix):
     with open(words_file, mode="r") as f:
         for l in f:
             line = l.rstrip()
-            if line[0] in ["-", "+", "*"]:
-                word_list.append([line[0], line[1:]])
-            else:
-                word_list.append(["", line])
-    return [w[1] for w in word_list if prefix in ["", w[0]]]
+            word_list.append(line)
+    return word_list
 
 
-def save_to_history(word, prefix, data_dir):
-    """Write word to history file with chosen prefix.
+def save_to_history(word, data_dir):
+    """Write word to history file.
 
     Parameters
     ----------
     word : str
         Word to save to history.
-    prefix : str
-        Word prefix.
     data_dir : pathlib.Path
         Directory where history file should be saved.
 
@@ -365,10 +347,10 @@ def save_to_history(word, prefix, data_dir):
         logger.debug("Creating DATA DIR: %s", data_dir.as_posix())
         data_dir.mkdir(parents=True)
     words_file = data_dir.joinpath("words.txt")
-    if word not in get_words(words_file, prefix):
+    if word not in get_words(words_file):
         with open(words_file, mode="a+") as f:
             logger.debug("Adding to history: %s", word)
-            f.write(prefix + word + "\n")
+            f.write(word + "\n")
 
 
 def write_html_file(word, translations, data_dir, native=False):
@@ -442,22 +424,20 @@ def write_html_file(word, translations, data_dir, native=False):
         f.write(result)
 
 
-def create_index_content(words, title):
+def create_index_content(words):
     """Create html string of index file.
 
     Parameters
     ----------
     words : List of str
         List of cached words.
-    title : str
-        Title of html page.
 
     Returns
     -------
     str
         html string.
     """
-    content = ["<h1>{}</h1>".format(title.capitalize()), "<ul>"]
+    content = ["<h1>Index</h1>", "<ul>"]
     for word in words:
         content.append(
             '<li><a href="translations/{word}.html">{word}</a></li>'.format(word=word)
@@ -470,40 +450,29 @@ def create_index_content(words, title):
     return "\n".join(content)
 
 
-def write_index_file(prefix, data_dir, full=False):
+def write_index_file(data_dir):
     """Create index file of cached translations.
-
-    If full is set to false include all files, even when prefix doesn't match.
 
     Parameters
     ----------
-    prefix : str
-        Word prefix.
     data_dir : pathlib.Path
         Cache directory location.
-    full : bool
-        Whether to ignore prefix or not.
 
     Returns
     -------
     filename pathlib.Path
         Location of saved file.
     """
-    name = "index"
-    if full:
-        name = "index-full"
-        prefix = ""
-
     cached_words = [
         w
-        for w in get_words(data_dir.joinpath("words.txt"), prefix)
+        for w in get_words(data_dir.joinpath("words.txt"))
         if data_dir.joinpath("translations/{}.html".format(w)).is_file()
     ]
 
-    content_str = create_index_content(cached_words, name)
+    content_str = create_index_content(cached_words)
 
-    filename = data_dir.joinpath("{name}.html".format(name=name))
-    result = HTML_TEMPLATE.replace("{% word %}", name.capitalize())
+    filename = data_dir.joinpath("index.html")
+    result = HTML_TEMPLATE.replace("{% word %}", "Index")
     result = result.replace("{% content %}", content_str)
     save_file(filename, result, mk_parents=True)
     return filename
@@ -577,10 +546,8 @@ def translate(word, config, use_cache=True, to_eng=False):
 
     write_html_file(word, translation, data_dir, native=to_eng)
     if not to_eng:
-        prefix = config["prefix"]
-        save_to_history(word, prefix, data_dir)
-        write_index_file(prefix, data_dir)
-        write_index_file(prefix, data_dir, full=True)
+        save_to_history(word, data_dir)
+        write_index_file(data_dir)
 
     return translation
 
@@ -608,7 +575,7 @@ def display_index(config):
                 "Couldn't find '%s' browser. Falling back to default.", browser
             )
         b = webbrowser.get()
-    index_file = data_dir.joinpath("index-full.html")
+    index_file = data_dir.joinpath("index.html")
     if not index_file.exists():
         logger.error("File doesn't exist: %s", index_file.as_posix())
         raise FileNotFoundError("Index file doesn't exist")

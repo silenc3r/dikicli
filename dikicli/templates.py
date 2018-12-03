@@ -22,11 +22,6 @@ CONFIG_TEMPLATE = """\
 # Location where html and history files are stored
 # default: {data_dir}
 data dir = {data_dir}
-# Character that prefixes words in history file
-# (you probably don't want to modify it)
-# valid options: + - * none
-# default: {prefix}
-prefix = {prefix}
 # Lines longer that linewrap value will be wrapped in terminal
 # set to 0 to disable line wrapping
 # default: {linewrap}

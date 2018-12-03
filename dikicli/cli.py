@@ -96,11 +96,6 @@ def get_parser():
         action="store_true",
         help="open index file in web browser",
     )
-    html.add_argument(
-        "--full",
-        action="store_true",
-        help="display all words, even if prefix doesn't match",
-    )
     return parser
 
 

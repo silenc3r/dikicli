@@ -133,23 +133,22 @@ class TestParsingCached(ParserTester):
 class TestGetWords:
     words = [
         "guest",
-        "+dog",
+        "dog",
         "work",
-        "-moll",
-        "*apple",
-        "-donkey",
-        "-juxtaposition",
+        "moll",
+        "apple",
+        "donkey",
+        "juxtaposition",
         "grave",
-        "*pen",
-        "-glass",
+        "pen",
+        "glass",
     ]
 
-    def test_get_words_no_prefix(self, tmpdir):
-        prefix = ""
+    def test_get_words(self, tmpdir):
         f = tmpdir.mkdir("dikicli").join("words.txt")
         f.write("\n".join(self.words))
         path = Path(f)
-        any_prefix_words = [
+        expected_words = [
             "guest",
             "dog",
             "work",
@@ -161,42 +160,31 @@ class TestGetWords:
             "pen",
             "glass",
         ]
-        assert get_words(path, prefix) == any_prefix_words
-
-    def test_get_words_dash_prefix(self, tmpdir):
-        prefix = "-"
-        f = tmpdir.mkdir("dikicli").join("words.txt")
-        f.write("\n".join(self.words))
-        path = Path(f)
-        dash_prefix_words = ["moll", "donkey", "juxtaposition", "glass"]
-        assert get_words(path, prefix) == dash_prefix_words
+        assert get_words(path) == expected_words
 
 
 class TestSaveToHistory:
     def test_save_one_word(self, tmpdir):
-        prefix = "+"
         data_dir = Path(tmpdir.mkdir("dikicli"))
         word = "this"
-        save_to_history(word, prefix, data_dir)
+        save_to_history(word, data_dir)
         with open(data_dir.joinpath("words.txt")) as f:
             saved = f.readlines()
-        assert saved == ["+this\n"]
+        assert saved == ["this\n"]
 
     def test_save_several_words(self, tmpdir):
-        prefix = "@"
         data_dir = Path(tmpdir.mkdir("dikicli"))
         words = ["this", "that", "and", "something", "else"]
         for w in words:
-            save_to_history(w, prefix, data_dir)
+            save_to_history(w, data_dir)
         with open(data_dir.joinpath("words.txt")) as f:
             saved = f.readlines()
-        assert saved == ["@this\n", "@that\n", "@and\n", "@something\n", "@else\n"]
+        assert saved == ["this\n", "that\n", "and\n", "something\n", "else\n"]
 
     def test_save_word_when_parent_dirs_dont_exist(self, tmpdir):
-        prefix = ""
         data_dir = Path(tmpdir.mkdir("dikicli")).joinpath("some", "nested", "folders")
         word = "this"
-        save_to_history(word, prefix, data_dir)
+        save_to_history(word, data_dir)
         assert data_dir.is_dir()
         assert data_dir.name == "folders"
         with open(data_dir.joinpath("words.txt")) as f:
@@ -206,7 +194,6 @@ class TestSaveToHistory:
 
 class TestConfig:
     t_data_dir = "/derp"
-    t_prefix = "*"
     t_linewrap = "5"
     t_colors = "false"
     t_web_browser = "weasel"
@@ -216,7 +203,6 @@ class TestConfig:
         f.write(
             CONFIG_TEMPLATE.format(
                 data_dir=self.t_data_dir,
-                prefix=self.t_prefix,
                 linewrap=self.t_linewrap,
                 colors=self.t_colors,
                 browser=self.t_web_browser,
@@ -229,27 +215,9 @@ class TestConfig:
         config.config_file = Path(f)
         config.read_config()
         assert config["data dir"] == self.t_data_dir
-        assert config["prefix"] == self.t_prefix
         assert config["linewrap"] == self.t_linewrap
         assert config["colors"] == self.t_colors
         assert config["web browser"] == self.t_web_browser
-
-    def test_config_file_invalid_prefix(self, tmpdir):
-        f = tmpdir.mkdir("dikicli").join("config.conf")
-        self.t_prefix = "$"
-        f.write(
-            CONFIG_TEMPLATE.format(
-                data_dir=self.t_data_dir,
-                prefix=self.t_prefix,
-                linewrap=self.t_linewrap,
-                colors=self.t_colors,
-                browser=self.t_web_browser,
-            )
-        )
-        config = Config()
-        config.config_file = Path(f)
-        config.read_config()
-        assert config["prefix"] == "none"
 
     def test_config_file_invalid_linewrap(self, tmpdir):
         f = tmpdir.mkdir("dikicli").join("config.conf")
@@ -257,7 +225,6 @@ class TestConfig:
         f.write(
             CONFIG_TEMPLATE.format(
                 data_dir=self.t_data_dir,
-                prefix=self.t_prefix,
                 linewrap=self.t_linewrap,
                 colors=self.t_colors,
                 browser=self.t_web_browser,
@@ -271,7 +238,6 @@ class TestConfig:
         f.write(
             CONFIG_TEMPLATE.format(
                 data_dir=self.t_data_dir,
-                prefix=self.t_prefix,
                 linewrap=self.t_linewrap,
                 colors=self.t_colors,
                 browser=self.t_web_browser,
@@ -288,7 +254,6 @@ class TestConfig:
         f.write(
             CONFIG_TEMPLATE.format(
                 data_dir=self.t_data_dir,
-                prefix=self.t_prefix,
                 linewrap=self.t_linewrap,
                 colors=self.t_colors,
                 browser=self.t_web_browser,
