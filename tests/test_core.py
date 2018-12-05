@@ -51,17 +51,17 @@ class ParserTester:
             assert isinstance(meanings, list)
             assert len(meanings) > 0
             for part in meanings:
-                assert isinstance(part, dict)
-                assert "part" in part
-                assert "meanings_list" in part
-                assert len(part["meanings_list"]) > 0
-                for m in part["meanings_list"]:
-                    assert "examples" in m
-                    assert "meaning" in m
-                    assert len(m["meaning"]) > 0
-                    assert isinstance(m["meaning"], list)
-                    assert isinstance(m["examples"], list)
-                    for e in m["examples"]:
+                assert isinstance(part, tuple)
+                # assert "part" in part
+                # assert "meanings_list" in part
+                assert len(part.meanings) > 0
+                for m in part.meanings:
+                    # assert "examples" in m
+                    # assert "meaning" in m
+                    assert len(m.meaning) > 0
+                    assert isinstance(m.meaning, list)
+                    assert isinstance(m.examples, list)
+                    for e in m.examples:
                         assert isinstance(e, list)
 
 
@@ -80,20 +80,22 @@ class TestParsing(ParserTester):
         assert len(meanings) == 1
         assert isinstance(meanings, list)
         parts = meanings[0]
-        assert isinstance(parts, dict)
-        assert "part" in parts
-        assert "meanings_list" in parts
-        assert isinstance(parts["part"], str)
-        mlist = parts["meanings_list"]
+        assert isinstance(parts, tuple)
+        # assert "part" in parts
+        # assert "meanings_list" in parts
+        assert isinstance(parts.part, str)
+        mlist = parts.meanings
         assert isinstance(mlist, list)
-        assert isinstance(mlist[0], dict)
-        assert "examples" in mlist[0]
-        assert "meaning" in mlist[0]
-        assert isinstance(mlist[0]["examples"], list)
-        assert len(mlist[0]["examples"]) == 0
-        assert isinstance(mlist[0]["meaning"], list)
-        assert len(mlist[0]["meaning"]) == 1
-        assert mlist[0]["meaning"][0] == "zestawienie"
+        # assert isinstance(mlist[0], dict)
+        assert isinstance(mlist[0], tuple)
+        # assert "examples" in mlist[0]
+        # assert "meaning" in mlist[0]
+        # assert isinstance(mlist[0]["examples"], list)
+        assert isinstance(mlist[0].examples, list)
+        assert len(mlist[0].examples) == 0
+        assert isinstance(mlist[0].meaning, list)
+        assert len(mlist[0].meaning) == 1
+        assert mlist[0].meaning[0] == "zestawienie"
 
     def test_parse_complex(self):
         words = ["guest", "dog", "work", "moll", "apple"]

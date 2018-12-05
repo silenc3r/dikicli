@@ -44,8 +44,8 @@ def pretty_print(translations, linewrap=0):
 
     indent = 5
     for i1, trans in enumerate(translations):
-        words = trans[0]
-        meanings = trans[1]
+        words = trans.word
+        meanings = trans.parts_of_speech
         if i1 > 0:
             print("\n")
         for w in words:
@@ -53,17 +53,16 @@ def pretty_print(translations, linewrap=0):
         for i2, t in enumerate(meanings):
             if i2 > 0:
                 print()
-            part = t["part"]
-            if part:
-                print("[{part}]".format(part=part))
-            for i3, m in enumerate(t["meanings_list"], 1):
+            if t.part:
+                print("[{part}]".format(part=t.part))
+            for i3, m in enumerate(t.meanings, 1):
                 if i3 > 1:
                     print()
                 meaning = "{index:>3}. {meanings}".format(
-                    index=i3, meanings=", ".join(m["meaning"])
+                    index=i3, meanings=", ".join(m.meaning)
                 )
                 print_wrapped(meaning, sindent=indent, bold=True)
-                for e in m["examples"]:
+                for e in m.examples:
                     print()
                     print_wrapped(e[0], findent=indent + 2, sindent=indent + 2)
                     if e[1]:

@@ -9,12 +9,17 @@ import urllib.parse
 import urllib.request
 import webbrowser
 
+from collections import namedtuple
 from itertools import zip_longest
 from pathlib import Path
 
 from bs4 import BeautifulSoup
 
 from .templates import CONFIG_TEMPLATE, HTML_TEMPLATE
+
+Meaning = namedtuple("Meaning", ["meaning", "examples"])
+PartOfSpeech = namedtuple("PartOfSpeech", ["part", "meanings"])
+Translation = namedtuple("Translation", ["word", "parts_of_speech"])
 
 XDG_DATA_HOME = os.environ.get("XDG_DATA_HOME", "~/.local/share")
 XDG_CACHE_HOME = os.environ.get("XDG_CACHE_HOME", "~/.cache")
@@ -168,7 +173,7 @@ class Config:
 
 
 def parse_html(html_dump, native=False):
-    """Parse html string
+    """Parse html string.
 
     Parameters
     ----------
@@ -205,20 +210,17 @@ def parse_html(html_dump, native=False):
         parts = [p.get_text().strip() for p in entity.select("span.partOfSpeech")]
         trans_list = []
         for p, m in zip_longest(parts, meanings):
-            t = dict()
-            t["part"] = p
-            t["meanings_list"] = []
+            meanings = []
             for i in m.find_all("li", recursive=False):
-                v = dict()
-                v["examples"] = []
+                examples = []
                 if not native:
-                    v["meaning"] = [m.get_text().strip() for m in i.select("span.hw")]
+                    meaning = [m.get_text().strip() for m in i.select("span.hw")]
                     pattern = re.compile(r"\s{3,}")
                     for e in i.find_all("div", class_="exampleSentence"):
                         example = re.split(pattern, e.get_text().strip())
-                        v["examples"].append(example)
+                        examples.append(example)
                 else:
-                    v["meaning"] = [i.find("span", recursive=False).get_text().strip()]
+                    meaning = [i.find("span", recursive=False).get_text().strip()]
                     # When translating to polish 'examples' are just synonyms of translation
                     synonyms = ", ".join(
                         sorted(
@@ -229,10 +231,10 @@ def parse_html(html_dump, native=False):
                         )
                     )
                     if synonyms:
-                        v["examples"].append([synonyms, ""])
-                t["meanings_list"].append(v)
-            trans_list.append(t)
-        translations.append([word, trans_list])
+                        examples.append([synonyms, ""])
+                meanings.append(Meaning(meaning, examples))
+            trans_list.append(PartOfSpeech(p, meanings))
+        translations.append(Translation(word, trans_list))
     if translations:
         return translations
     # if translation wasn't found check if there are any suggestions
@@ -261,21 +263,18 @@ def parse_cached(html_dump):
         word = tuple(t.get_text() for t in trans.select("div.word > h2"))
         trans_list = []
         for part in trans.find_all("div", class_="part-of-speech"):
-            t = dict()
             pn = part.find("p", class_="part-name")
             if pn:
                 pn = pn.get_text().strip("[]")
-            t["part"] = pn
-            t["meanings_list"] = []
+            meanings = []
             for meaning in part.find_all("div", class_="meaning"):
-                m = dict()
-                m["meaning"] = [mn.get_text() for mn in meaning.select("li > span")]
-                m["examples"] = []
+                m = [mn.get_text() for mn in meaning.select("li > span")]
+                examples = []
                 for e in meaning.find_all("p"):
-                    m["examples"].append([ex.get_text() for ex in e.find_all("span")])
-                t["meanings_list"].append(m)
-            trans_list.append(t)
-        translations.append([word, trans_list])
+                    examples.append([ex.get_text() for ex in e.find_all("span")])
+                meanings.append(Meaning(m, examples))
+            trans_list.append(PartOfSpeech(pn, meanings))
+        translations.append(Translation(word, trans_list))
     return translations
 
 
@@ -368,34 +367,31 @@ def create_html_file_content(translations):
     """
     content = []
     for i1, t in enumerate(translations):
-        entity = t[0]
-        meanings = t[1]
         if i1 > 0:
             content.append("<br>")
         content.append('<div class="translation">')
         content.append('<div class="word">')
-        for e in entity:
-            content.append("<h2>{word}</h2>".format(word=e))
+        for w in t.word:
+            content.append("<h2>{word}</h2>".format(word=w))
         content.append("</div>")  # end `word`
-        for i2, t2 in enumerate(meanings):
+        for i2, t2 in enumerate(t.parts_of_speech):
             if i2 > 0:
                 content.append("<br>")
             content.append('<div class="part-of-speech">')
-            part = t2["part"]
-            if part is not None:
-                content.append('<p class="part-name">[{part}]</p>'.format(part=part))
+            if t2.part is not None:
+                content.append('<p class="part-name">[{part}]</p>'.format(part=t2.part))
             content.append("<ol>")
-            for m in t2["meanings_list"]:
+            for m in t2.meanings:
                 content.append('<div class="meaning">')
                 mng = ["<strong><li>"]
-                for i3, mn in enumerate(m["meaning"]):
+                for i3, mn in enumerate(m.meaning):
                     if i3 > 0:
                         mng.append(", ")
                     mng.append("<span>{meaning}</span>".format(meaning=mn))
                 mng.append("</li></strong>")
                 content.append("".join(mng))
                 content.append('<div class="examples">')
-                for e in m["examples"]:
+                for e in m.examples:
                     content.append(
                         "<p><span>{ex}</span><br><span>{tr}</span></p>"
                         "".format(ex=e[0], tr=e[1])
