@@ -200,33 +200,33 @@ def parse_html(html_dump, native=False):
             continue
         word = tuple(e.get_text().strip() for e in entity.select("div.hws h1 span.hw"))
         parts = [p.get_text().strip() for p in entity.select("span.partOfSpeech")]
-        trans_list = []
-        for p, m in zip_longest(parts, meanings):
+        parts_list = []
+        for part, m in zip_longest(parts, meanings):
             meanings = []
-            for i in m.find_all("li", recursive=False):
+            for elem in m.find_all("li", recursive=False):
                 examples = []
                 if not native:
-                    meaning = [m.get_text().strip() for m in i.select("span.hw")]
+                    meaning = [m.get_text().strip() for m in elem.select("span.hw")]
                     pattern = re.compile(r"\s{3,}")
-                    for e in i.find_all("div", class_="exampleSentence"):
+                    for e in elem.find_all("div", class_="exampleSentence"):
                         example = re.split(pattern, e.get_text().strip())
                         examples.append(example)
                 else:
-                    meaning = [i.find("span", recursive=False).get_text().strip()]
+                    meaning = [elem.find("span", recursive=False).get_text().strip()]
                     # When translating to polish 'examples' are just synonyms of translation
                     synonyms = ", ".join(
                         sorted(
                             set(
                                 x.get_text().strip()
-                                for x in i.select("ul > li > span.hw")
+                                for x in elem.select("ul > li > span.hw")
                             )
                         )
                     )
                     if synonyms:
                         examples.append([synonyms, ""])
                 meanings.append(Meaning(meaning, examples))
-            trans_list.append(PartOfSpeech(p, meanings))
-        translations.append(Translation(word, trans_list))
+            parts_list.append(PartOfSpeech(part, meanings))
+        translations.append(Translation(word, parts_list))
     if translations:
         return translations
     # if translation wasn't found check if there are any suggestions
@@ -293,6 +293,7 @@ def cache_lookup(word, data_dir, native=False):
     if filename.is_file():
         with open(filename, mode="r") as f:
             logger.debug("Cache found: %s", word)
+            # TODO: not sure if we should parse data here
             translation = parse_cached(f.read())
             return translation
     logger.debug("Cache miss: %s", word)
