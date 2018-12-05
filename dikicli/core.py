@@ -179,8 +179,8 @@ def parse_html(html_dump, native=False):
 
     Returns
     -------
-    translations : dict
-        Translations dictionary.
+    translations : list
+        Translations list.
 
     Raises
     ------
@@ -252,8 +252,8 @@ def parse_cached(html_dump):
 
     Returns
     -------
-    translations : dict
-        Translations dictionary.
+    translations : list
+        Translations list.
     """
     soup = BeautifulSoup(html_dump, "html.parser")
     translations = []
