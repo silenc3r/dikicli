@@ -78,14 +78,6 @@ logging.config.dictConfig(
     }
 )
 
-URL = "https://www.diki.pl/{word}"
-HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (compatible, MSIE 11, Windows NT 6.3; "
-        "Trident/7.0;  rv:11.0) like Gecko"
-    )
-}
-
 
 class WordNotFound(Exception):
     pass
@@ -497,6 +489,36 @@ def save_file(filename, data, mk_parents=True):
         f.write(data)
 
 
+def lookup_online(word):
+    """Look up word on diki.pl.
+
+    Parameters
+    ----------
+    word : str
+        Word too look up.
+
+    Returns
+    -------
+    str
+        website HTML content.
+    """
+    URL = "https://www.diki.pl/{word}"
+    HEADERS = {
+        "User-Agent": (
+            "Mozilla/5.0 (compatible, MSIE 11, Windows NT 6.3; "
+            "Trident/7.0;  rv:11.0) like Gecko"
+        )
+    }
+
+    logger.debug("Looking up online: %s", word)
+    quoted_word = urllib.parse.quote(word)
+    req = urllib.request.Request(URL.format(word=quoted_word), headers=HEADERS)
+    with urllib.request.urlopen(req) as response:
+        html_string = response.read().decode()
+
+    return html.unescape(html_string)
+
+
 def translate(word, config, use_cache=True, to_eng=False):
     """Translate a word.
 
@@ -531,17 +553,13 @@ def translate(word, config, use_cache=True, to_eng=False):
     if translation:
         return translation
 
-    logger.debug("Looking up online: %s", word)
-    quoted_word = urllib.parse.quote(word)
-    req = urllib.request.Request(URL.format(word=quoted_word), headers=HEADERS)
-    with urllib.request.urlopen(req) as response:
-        try:
-            html_string = response.read().decode()
-            html_dump = html.unescape(html_string)
-            translation = parse_html(html_dump, native=to_eng)
-        except WordNotFound as exn:
-            logger.error(str(exn))
-            raise exn
+    html_dump = lookup_online(word)
+
+    try:
+        translation = parse_html(html_dump, native=to_eng)
+    except WordNotFound as exn:
+        logger.error(str(exn))
+        raise exn
 
     write_html_file(word, translation, data_dir, native=to_eng)
     if not to_eng:
