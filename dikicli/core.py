@@ -5,6 +5,8 @@ import logging.config
 import os
 import re
 import shutil
+import sys
+import textwrap
 import urllib.parse
 import urllib.request
 import webbrowser
@@ -164,7 +166,7 @@ class Config:
         return filename
 
 
-def parse_html(html_dump, native=False):
+def _parse_html(html_dump, native=False):
     """Parse html string.
 
     Parameters
@@ -223,7 +225,7 @@ def parse_html(html_dump, native=False):
                         )
                     )
                     if synonyms:
-                        examples.append([synonyms, ""])
+                        examples.append([synonyms, None])
                 meanings.append(Meaning(meaning, examples))
             parts_list.append(PartOfSpeech(part, meanings))
         translations.append(Translation(word, parts_list))
@@ -236,7 +238,7 @@ def parse_html(html_dump, native=False):
     raise WordNotFound("Nie znaleziono tłumaczenia wpisanej frazy")
 
 
-def parse_cached(html_dump):
+def _parse_cached(html_dump):
     """Parse html string from cached html files.
 
     Parameters
@@ -270,7 +272,7 @@ def parse_cached(html_dump):
     return translations
 
 
-def cache_lookup(word, data_dir, native=False):
+def _cache_lookup(word, data_dir, native=False):
     """Checks if word is in cache.
 
     Parameters
@@ -294,13 +296,13 @@ def cache_lookup(word, data_dir, native=False):
         with open(filename, mode="r") as f:
             logger.debug("Cache found: %s", word)
             # TODO: not sure if we should parse data here
-            translation = parse_cached(f.read())
+            translation = _parse_cached(f.read())
             return translation
     logger.debug("Cache miss: %s", word)
     return None
 
 
-def get_words(data_dir):
+def _get_words(data_dir):
     """Get list of words from history file.
 
     Parameters
@@ -324,7 +326,7 @@ def get_words(data_dir):
     return word_list
 
 
-def save_to_history(word, data_dir):
+def _save_to_history(word, data_dir):
     """Write word to history file.
 
     Parameters
@@ -339,13 +341,13 @@ def save_to_history(word, data_dir):
     if not data_dir.exists():
         logger.debug("Creating DATA DIR: %s", data_dir.as_posix())
         data_dir.mkdir(parents=True)
-    if word not in get_words(data_dir):
+    if word not in _get_words(data_dir):
         with open(data_dir.joinpath("words.txt"), mode="a+") as f:
             logger.debug("Adding to history: %s", word)
             f.write(word + "\n")
 
 
-def create_html_file_content(translations):
+def _create_html_file_content(translations):
     """Create html string out of translation dict.
 
     Parameters
@@ -397,7 +399,7 @@ def create_html_file_content(translations):
     return "\n".join(content)
 
 
-def write_html_file(word, translations, data_dir, native=False):
+def _write_html_file(word, translations, data_dir, native=False):
     """Create html file of word translations.
 
     Parameters
@@ -409,7 +411,7 @@ def write_html_file(word, translations, data_dir, native=False):
     data_dir : pathlib.Path
         Location where html files are saved.
     """
-    content_str = create_html_file_content(translations)
+    content_str = _create_html_file_content(translations)
     html_string = HTML_TEMPLATE.replace("{% word %}", word)
     html_string = html_string.replace("{% content %}", content_str)
 
@@ -421,7 +423,7 @@ def write_html_file(word, translations, data_dir, native=False):
     save_file(fname, html_string, mk_parents=True)
 
 
-def create_index_content(words):
+def _create_index_content(words):
     """Create html string of index file.
 
     Parameters
@@ -447,7 +449,7 @@ def create_index_content(words):
     return "\n".join(content)
 
 
-def write_index_file(data_dir):
+def _write_index_file(data_dir):
     """Create index file of cached translations.
 
     Parameters
@@ -457,11 +459,11 @@ def write_index_file(data_dir):
     """
     cached_words = [
         w
-        for w in get_words(data_dir)
+        for w in _get_words(data_dir)
         if data_dir.joinpath("translations/{}.html".format(w)).is_file()
     ]
 
-    content_str = create_index_content(cached_words)
+    content_str = _create_index_content(cached_words)
     html_string = HTML_TEMPLATE.replace("{% word %}", "Index")
     html_string = html_string.replace("{% content %}", content_str)
 
@@ -490,7 +492,7 @@ def save_file(filename, data, mk_parents=True):
         f.write(data)
 
 
-def lookup_online(word):
+def _lookup_online(word):
     """Look up word on diki.pl.
 
     Parameters
@@ -549,23 +551,23 @@ def translate(word, config, use_cache=True, to_eng=False):
 
     if use_cache:
         logger.debug("Checking cache: %s", word)
-        translation = cache_lookup(word, data_dir, native=to_eng)
+        translation = _cache_lookup(word, data_dir, native=to_eng)
 
     if translation:
         return translation
 
-    html_dump = lookup_online(word)
+    html_dump = _lookup_online(word)
 
     try:
-        translation = parse_html(html_dump, native=to_eng)
+        translation = _parse_html(html_dump, native=to_eng)
     except WordNotFound as exn:
         logger.error(str(exn))
         raise exn
 
-    write_html_file(word, translation, data_dir, native=to_eng)
+    _write_html_file(word, translation, data_dir, native=to_eng)
     if not to_eng:
-        save_to_history(word, data_dir)
-        write_index_file(data_dir)
+        _save_to_history(word, data_dir)
+        _write_index_file(data_dir)
 
     return translation
 
@@ -600,3 +602,60 @@ def display_index(config):
     else:
         logger.info("Opening %s in '%s'", index_file.as_posix(), b.name)
         b.open(index_file.as_uri())
+
+
+def wrap_text(translations, linewrap=0):
+    """Pretty print translations.
+
+    If linewrap is set to 0 disble line wrapping.
+
+    Parameters
+    ----------
+    translations : list
+        List of word translations.
+    linewrap : int
+        Maximum line length before wrapping.
+    """
+    # pylint: disable=too-many-locals
+
+    def wrap(text, width=linewrap, findent=0, sindent=0, bold=False):
+        if width == 0:
+            text = " " * findent + text
+        else:
+            text = textwrap.fill(
+                text,
+                width=width,
+                initial_indent=" " * findent,
+                subsequent_indent=" " * sindent,
+            )
+        # don't use bold when stdout is pipe or redirect
+        if bold and sys.stdout.isatty():
+            text = "\033[0;1m" + text + "\033[0m"
+        return text
+
+    indent = 5
+    result = []
+    for i1, trans in enumerate(translations):
+        if i1 > 0:
+            result.append("\n")
+        for w in trans.word:
+            result.append(wrap(w, bold=True))
+        for i2, t in enumerate(trans.parts_of_speech):
+            if i2 > 0:
+                result.append("")
+            if t.part:
+                result.append("[{part}]".format(part=t.part))
+            for i3, m in enumerate(t.meanings, 1):
+                if i3 > 1:
+                    result.append("")
+                meaning = "{index:>3}. {meanings}".format(
+                    index=i3, meanings=", ".join(m.meaning)
+                )
+                result.append(wrap(meaning, sindent=indent, bold=True))
+                eindent = indent + 1
+                for e in m.examples:
+                    result.append("")
+                    result.append(wrap(e[0], findent=eindent, sindent=eindent))
+                    if e[1]:
+                        result.append(wrap(e[1], findent=eindent, sindent=eindent + 1))
+    return "\n".join(result)

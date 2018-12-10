@@ -2,62 +2,44 @@
 
 import logging
 import os
-import urllib.parse
-import urllib.request
 
 from pathlib import Path
 
 import pytest
 
-from context import TEST_DIR
-
 from dikicli.core import WordNotFound
 from dikicli.core import Config
-from dikicli.core import get_words, parse_html, parse_cached
-from dikicli.core import save_to_history
+from dikicli.core import _get_words, _parse_html, _parse_cached, _lookup_online
+from dikicli.core import _save_to_history
 from dikicli.core import translate
 from dikicli.templates import CONFIG_TEMPLATE
+from dikicli.core import Meaning, PartOfSpeech, Translation
+
+from .context import TEST_DIR
 
 logger = logging.getLogger(__name__)
-
-URL = "https://www.diki.pl/{word}"
-HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (compatible, MSIE 11, Windows NT 6.3; "
-        "Trident/7.0;  rv:11.0) like Gecko"
-    )
-}
-
-
-def get_html(word):
-    safe_url = URL.format(word=urllib.parse.quote(word))
-    req = urllib.request.Request(safe_url, headers=HEADERS)
-    with urllib.request.urlopen(req) as response:
-        return response.read()
 
 
 class ParserTester:
     def _test_translations_dict(self, html_dump, native=False, cached=False):
         if cached:
-            parsed = parse_cached(html_dump)
+            parsed = _parse_cached(html_dump)
         else:
-            parsed = parse_html(html_dump, native)
+            parsed = _parse_html(html_dump, native)
         assert len(parsed) > 0
         assert isinstance(parsed, list)
         for translation in parsed:
             key = translation[0]
             meanings = translation[1]
+            assert isinstance(translation, Translation)
             assert isinstance(key, tuple)
             assert isinstance(meanings, list)
             assert len(meanings) > 0
             for part in meanings:
-                assert isinstance(part, tuple)
-                # assert "part" in part
-                # assert "meanings_list" in part
+                assert isinstance(part, PartOfSpeech)
                 assert len(part.meanings) > 0
                 for m in part.meanings:
-                    # assert "examples" in m
-                    # assert "meaning" in m
+                    assert isinstance(m, Meaning)
                     assert len(m.meaning) > 0
                     assert isinstance(m.meaning, list)
                     assert isinstance(m.examples, list)
@@ -68,29 +50,22 @@ class ParserTester:
 @pytest.mark.vcr()
 class TestParsing(ParserTester):
     def test_parse_simple(self):
-        html_dump = get_html("juxtaposition")
-        parsed = parse_html(html_dump, native=False)
+        html_dump = _lookup_online("juxtaposition")
+        parsed = _parse_html(html_dump, native=False)
         assert len(parsed) == 1
         assert isinstance(parsed, list)
-        # assert parsed == []
         first_translation = parsed[0]
-        dict_entity = first_translation[0]
-        assert isinstance(dict_entity, tuple)
+        assert isinstance(first_translation, Translation)
+        assert first_translation[0] == ("juxtaposition",)
         meanings = first_translation[1]
         assert len(meanings) == 1
         assert isinstance(meanings, list)
         parts = meanings[0]
-        assert isinstance(parts, tuple)
-        # assert "part" in parts
-        # assert "meanings_list" in parts
+        assert isinstance(parts, PartOfSpeech)
         assert isinstance(parts.part, str)
         mlist = parts.meanings
         assert isinstance(mlist, list)
-        # assert isinstance(mlist[0], dict)
-        assert isinstance(mlist[0], tuple)
-        # assert "examples" in mlist[0]
-        # assert "meaning" in mlist[0]
-        # assert isinstance(mlist[0]["examples"], list)
+        assert isinstance(mlist[0], Meaning)
         assert isinstance(mlist[0].examples, list)
         assert len(mlist[0].examples) == 0
         assert isinstance(mlist[0].meaning, list)
@@ -100,25 +75,25 @@ class TestParsing(ParserTester):
     def test_parse_complex(self):
         words = ["guest", "dog", "work", "moll", "apple"]
         for word in words:
-            html_dump = get_html(word)
+            html_dump = _lookup_online(word)
             self._test_translations_dict(html_dump)
 
     def test_parse_native(self):
         words = ["krowa", "moll", "wąwóz"]
         for word in words:
-            html_dump = get_html(word)
+            html_dump = _lookup_online(word)
             self._test_translations_dict(html_dump, native=True)
 
     def test_parse_raises_not_found(self):
-        html_dump = get_html("vvvvxxxx")
+        html_dump = _lookup_online("vvvvxxxx")
         with pytest.raises(WordNotFound) as e:
-            parse_html(html_dump)
+            _parse_html(html_dump)
             assert str(e.value) == "Nie znaleziono tłumaczenia wpisanej frazy"
 
     def test_parse_raises_suggestions(self):
-        html_dump = get_html("colag")
+        html_dump = _lookup_online("colag")
         with pytest.raises(WordNotFound) as e:
-            parse_html(html_dump)
+            _parse_html(html_dump)
             assert "Czy chodziło ci o:" in str(e.value)
 
 
@@ -163,14 +138,14 @@ class TestGetWords:
             "pen",
             "glass",
         ]
-        assert get_words(path) == expected_words
+        assert _get_words(path) == expected_words
 
 
 class TestSaveToHistory:
     def test_save_one_word(self, tmpdir):
         data_dir = Path(tmpdir.mkdir("dikicli"))
         word = "this"
-        save_to_history(word, data_dir)
+        _save_to_history(word, data_dir)
         with open(data_dir.joinpath("words.txt")) as f:
             saved = f.readlines()
         assert saved == ["this\n"]
@@ -179,7 +154,7 @@ class TestSaveToHistory:
         data_dir = Path(tmpdir.mkdir("dikicli"))
         words = ["this", "that", "and", "something", "else"]
         for w in words:
-            save_to_history(w, data_dir)
+            _save_to_history(w, data_dir)
         with open(data_dir.joinpath("words.txt")) as f:
             saved = f.readlines()
         assert saved == ["this\n", "that\n", "and\n", "something\n", "else\n"]
@@ -187,7 +162,7 @@ class TestSaveToHistory:
     def test_save_word_when_parent_dirs_dont_exist(self, tmpdir):
         data_dir = Path(tmpdir.mkdir("dikicli")).joinpath("some", "nested", "folders")
         word = "this"
-        save_to_history(word, data_dir)
+        _save_to_history(word, data_dir)
         assert data_dir.is_dir()
         assert data_dir.name == "folders"
         with open(data_dir.joinpath("words.txt")) as f:

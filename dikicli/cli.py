@@ -1,72 +1,11 @@
 import argparse
 import sys
-import textwrap
 
 from .core import Config
 from .core import WordNotFound
 from .core import display_index
 from .core import translate
-
-
-def pretty_print(translations, linewrap=0):
-    """Pretty print translations.
-
-    If linewrap is set to 0 disble line wrapping.
-
-    Parameters
-    ----------
-    translations : dict
-        Dictionary of word translations.
-    linewrap : int
-        Maximum line length before wrapping.
-    """
-    # pylint: disable=too-many-locals
-
-    # TODO: wrapping and printing should be separate actions
-    #       i.e. we should create wrapped multiline string
-    #       and print it once
-
-    def print_wrapped(text, width=linewrap, findent=0, sindent=0, bold=False):
-        # don't use bold when stdout is pipe or redirect
-        if bold and sys.stdout.isatty():
-            text = "\033[0;1m" + text + "\033[0m"
-        if width == 0:
-            print(" " * findent, text)
-        else:
-            print(
-                textwrap.fill(
-                    text,
-                    width=width,
-                    initial_indent=" " * findent,
-                    subsequent_indent=" " * sindent,
-                )
-            )
-
-    indent = 5
-    for i1, trans in enumerate(translations):
-        words = trans.word
-        meanings = trans.parts_of_speech
-        if i1 > 0:
-            print("\n")
-        for w in words:
-            print_wrapped(w, bold=True)
-        for i2, t in enumerate(meanings):
-            if i2 > 0:
-                print()
-            if t.part:
-                print("[{part}]".format(part=t.part))
-            for i3, m in enumerate(t.meanings, 1):
-                if i3 > 1:
-                    print()
-                meaning = "{index:>3}. {meanings}".format(
-                    index=i3, meanings=", ".join(m.meaning)
-                )
-                print_wrapped(meaning, sindent=indent, bold=True)
-                for e in m.examples:
-                    print()
-                    print_wrapped(e[0], findent=indent + 2, sindent=indent + 2)
-                    if e[1]:
-                        print_wrapped(e[1], findent=indent + 2, sindent=indent + 3)
+from .core import wrap_text
 
 
 def get_parser():
@@ -127,7 +66,8 @@ def main():
         to_eng = args.pol_eng
         try:
             translation = translate(args.word, config, use_cache, to_eng)
-            pretty_print(translation, linewrap)
+            wrapped_text = wrap_text(translation, linewrap)
+            print(wrapped_text)
             sys.exit(0)
         except WordNotFound:
             sys.exit(1)
