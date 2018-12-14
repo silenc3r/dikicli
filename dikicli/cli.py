@@ -1,11 +1,49 @@
 import argparse
+import logging
+import logging.config
 import sys
 
+from .core import DEBUG
+from .core import LOG_FILE
 from .core import Config
 from .core import WordNotFound
 from .core import display_index
 from .core import translate
 from .core import wrap_text
+
+logging.config.dictConfig(
+    {
+        "version": 1,
+        "disable_existing_loggers": False,
+        "formatters": {
+            "verbose": {
+                "format": "%(asctime)s - %(levelname)s - %(name)s - %(message)s"
+            },
+            "simple": {"format": "%(message)s"},
+        },
+        "handlers": {
+            "console": {
+                "level": logging.WARNING,
+                "class": "logging.StreamHandler",
+                "formatter": "simple",
+            },
+            "file": {
+                "class": "logging.handlers.RotatingFileHandler",
+                "filename": LOG_FILE,
+                "maxBytes": 1048576,
+                "backupCount": 5,
+                "formatter": "verbose",
+            },
+        },
+        "loggers": {
+            "dikicli": {
+                "handlers": ["file", "console"],
+                "level": logging.DEBUG if DEBUG else logging.INFO,
+            }
+        },
+    }
+)
+logger = logging.getLogger(__name__)
 
 
 def get_parser():
