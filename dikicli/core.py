@@ -10,14 +10,14 @@ import textwrap
 import urllib.parse
 import urllib.request
 import webbrowser
-
 from collections import namedtuple
 from itertools import zip_longest
 from pathlib import Path
 
 from bs4 import BeautifulSoup
 
-from .templates import CONFIG_TEMPLATE, HTML_TEMPLATE
+from .templates import CONFIG_TEMPLATE
+from .templates import HTML_TEMPLATE
 
 Meaning = namedtuple("Meaning", ["meaning", "examples"])
 PartOfSpeech = namedtuple("PartOfSpeech", ["part", "meanings"])

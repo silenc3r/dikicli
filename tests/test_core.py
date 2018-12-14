@@ -1,23 +1,27 @@
-# pylint: disable=len-as-condition
-
 import logging
 import os
-
 from pathlib import Path
 
 import pytest
 
-from dikicli.core import WordNotFound
 from dikicli.core import Config
-from dikicli.core import _get_words, _parse_html, _parse_cached, _lookup_online
+from dikicli.core import Meaning
+from dikicli.core import PartOfSpeech
+from dikicli.core import Translation
+from dikicli.core import WordNotFound
+from dikicli.core import _get_words
+from dikicli.core import _lookup_online
+from dikicli.core import _parse_cached
+from dikicli.core import _parse_html
 from dikicli.core import _save_to_history
 from dikicli.core import translate
 from dikicli.templates import CONFIG_TEMPLATE
-from dikicli.core import Meaning, PartOfSpeech, Translation
 
 from .context import TEST_DIR
 
 logger = logging.getLogger(__name__)
+
+# pylint: disable=len-as-condition
 
 
 class ParserTester:
