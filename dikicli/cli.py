@@ -7,6 +7,7 @@ from .core import CACHE_DIR
 from .core import DEBUG
 from .core import Config
 from .core import WordNotFound
+from .core import __version__
 from .core import display_index
 from .core import translate
 from .core import wrap_text
@@ -53,6 +54,11 @@ logger = logging.getLogger(__name__)
 def get_parser():
     parser = argparse.ArgumentParser(
         prog="diki", description="Commandline interface for diki.pl"
+    )
+    parser.add_argument(
+        "--version",
+        action="version",
+        version="dikicli {version}".format(version=__version__),
     )
     parser.add_argument(
         "--create-config", action="store_true", help="create default configuration file"

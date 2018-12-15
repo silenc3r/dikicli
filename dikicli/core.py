@@ -18,6 +18,8 @@ from bs4 import BeautifulSoup
 from .templates import CONFIG_TEMPLATE
 from .templates import HTML_TEMPLATE
 
+__version__ = "0.2"
+
 Meaning = namedtuple("Meaning", ["meaning", "examples"])
 PartOfSpeech = namedtuple("PartOfSpeech", ["part", "meanings"])
 Translation = namedtuple("Translation", ["word", "parts_of_speech"])
