@@ -23,7 +23,7 @@ diki = "dikicli.cli:main"
 
 [tool.isort]
 force_single_line = true
+
 [build-system]
 requires = ["poetry>=0.12"]
 build-backend = "poetry.masonry.api"
-
