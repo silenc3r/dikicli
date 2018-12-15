@@ -1,5 +1,7 @@
 import logging
 import os
+import shutil
+import tempfile
 from pathlib import Path
 
 import pytest
@@ -22,6 +24,35 @@ from .context import TEST_DIR
 logger = logging.getLogger(__name__)
 
 # pylint: disable=len-as-condition
+
+
+@pytest.fixture
+def env():
+    orig_env = dict(os.environ)
+    data_dir = tempfile.mkdtemp(prefix="diki_data-")
+    cache_dir = tempfile.mkdtemp(prefix="diki_cache-")
+    os.environ["DIKI_DATA_DIR"] = data_dir
+    os.environ["DIKI_CACHE_DIR"] = cache_dir
+    os.environ["DIKI_CONFIG_FILE"] = "diki.conf"
+    os.environ["DIKI_DEBUG"] = "true"
+
+    yield
+
+    shutil.rmtree(data_dir)
+    shutil.rmtree(cache_dir)
+    os.environ.clear()
+    os.environ.update(orig_env)
+
+
+@pytest.fixture
+def conf_dict(env):
+    config = {
+        "data dir": os.environ["DIKI_DATA_DIR"],
+        "linewrap": "78",
+        "colors": "yes",
+        "web browser": "default",
+    }
+    return config
 
 
 class ParserTester:
@@ -249,9 +280,8 @@ class TestConfig:
 
 @pytest.mark.vcr()
 class TestTranslate:
-    def test_translate_remarkable(self):
-        config = Config()
-        config.read_config()
+    def test_translate_remarkable(self, conf_dict):
+        config = conf_dict
         assert translate("remarkable", config, use_cache=False)[0][0] == ("remarkable",)
 
     # TODO: need more tests
