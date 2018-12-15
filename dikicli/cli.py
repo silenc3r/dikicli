@@ -3,13 +3,17 @@ import logging
 import logging.config
 import sys
 
+from .core import CACHE_DIR
 from .core import DEBUG
-from .core import LOG_FILE
 from .core import Config
 from .core import WordNotFound
 from .core import display_index
 from .core import translate
 from .core import wrap_text
+
+LOG_FILE = CACHE_DIR.joinpath("diki.log")
+if not CACHE_DIR.exists():
+    CACHE_DIR.mkdir(parents=True)
 
 logging.config.dictConfig(
     {

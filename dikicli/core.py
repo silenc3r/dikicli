@@ -40,10 +40,6 @@ CONFIG_FILE = Path(
 
 DEBUG = os.environ.get("DIKI_DEBUG")
 
-LOG_FILE = CACHE_DIR.joinpath("diki.log")
-if not CACHE_DIR.exists():
-    CACHE_DIR.mkdir(parents=True)
-
 logger = logging.getLogger(__name__)
 
 
