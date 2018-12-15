@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "dikicli"
-version = "0.3"
+version = "0.3.1"
 description = "Commandline interface to diki.pl polish-english dictionary."
 authors = ["Dawid Zych <dawid.zych@yandex.com>"]
 license = "MIT"
@@ -19,11 +19,11 @@ pylint = "*"
 isort = "^4.3"
 
 [tool.poetry.scripts]
-diki = "diki.cli:main"
+diki = "dikicli.cli:main"
 
+[tool.isort]
+force_single_line = true
 [build-system]
 requires = ["poetry>=0.12"]
 build-backend = "poetry.masonry.api"
 
-[tool.isort]
-force_single_line = true
