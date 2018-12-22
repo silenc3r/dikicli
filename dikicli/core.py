@@ -621,6 +621,6 @@ def wrap_text(translations, linewrap=0):
                 for e in m.examples:
                     result.append("")
                     result.append(wrap(e[0], findent=eindent, sindent=eindent))
-                    if len(e) == 2:
+                    if len(e) == 2 and e[1]:
                         result.append(wrap(e[1], findent=eindent, sindent=eindent + 1))
     return "\n".join(result)
