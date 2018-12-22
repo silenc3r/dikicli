@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "dikicli"
-version = "0.3.2"
+version = "0.3.3"
 description = "Commandline interface to diki.pl polish-english dictionary."
 authors = ["Dawid Zych <dawid.zych@yandex.com>"]
 license = "MIT"
