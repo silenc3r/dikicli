@@ -351,10 +351,11 @@ def _create_html_file_content(translations):
                 content.append("".join(mng))
                 content.append('<div class="examples">')
                 for e in m.examples:
-                    content.append(
-                        "<p><span>{ex}</span><br><span>{tr}</span></p>"
-                        "".format(ex=e[0], tr=e[1])
-                    )
+                    exmpl = "<p><span>{ex}</span>".format(ex=e[0])
+                    if e[1]:
+                        exmpl += "<br><span>{tr}</span>".format(tr=e[1])
+                    exmpl += "</p>"
+                    content.append(exmpl)
                 content.append("</div>")  # end `examples`
                 content.append("</div>")  # end `meaning`
             content.append("</ol>")
@@ -620,6 +621,6 @@ def wrap_text(translations, linewrap=0):
                 for e in m.examples:
                     result.append("")
                     result.append(wrap(e[0], findent=eindent, sindent=eindent))
-                    if e[1]:
+                    if len(e) == 2:
                         result.append(wrap(e[1], findent=eindent, sindent=eindent + 1))
     return "\n".join(result)
