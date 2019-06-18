@@ -1,9 +1,4 @@
 add option to show similar words
+handle KeyboardInterrupt
 
 problematic words:
-- brass
-- service
-- influenza
-- pet
-- shawty
-- content

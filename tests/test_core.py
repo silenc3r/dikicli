@@ -277,6 +277,72 @@ class TestConfig:
         config.read_config()
         assert config["colors"] == "yes"
 
+    translation = [
+        Translation(
+            word=("chłosta",),
+            parts_of_speech=[
+                PartOfSpeech(
+                    part="rzeczownik",
+                    meanings=[
+                        Meaning(meaning=["lash"], examples=[]),
+                        Meaning(meaning=["birch"], examples=[]),
+                        Meaning(
+                            meaning=["whipping"],
+                            examples=[["chłosta, chłostanie", None]],
+                        ),
+                        Meaning(meaning=["flogging"], examples=[]),
+                        Meaning(
+                            meaning=["caning"],
+                            examples=[["chłosta, kara chłosty", None]],
+                        ),
+                        Meaning(
+                            meaning=["chastisement"],
+                            examples=[["chłosta (cielesna kara)", None]],
+                        ),
+                    ],
+                )
+            ],
+        ),
+        Translation(
+            word=("chłostać",),
+            parts_of_speech=[
+                PartOfSpeech(
+                    part="czasownik",
+                    meanings=[
+                        Meaning(
+                            meaning=["whip"],
+                            examples=[
+                                ["biczować, chłostać (za pomocą bata), smagać", None]
+                            ],
+                        ),
+                        Meaning(
+                            meaning=["lash"],
+                            examples=[
+                                [
+                                    "chłostać, smagać , wychłostać, wysmagać, zacinać batem",
+                                    None,
+                                ]
+                            ],
+                        ),
+                        Meaning(meaning=["birch"], examples=[]),
+                        Meaning(
+                            meaning=["scourge"],
+                            examples=[["biczować, chłostać (kogoś)", None]],
+                        ),
+                        Meaning(
+                            meaning=["flog"],
+                            examples=[["chłostać (biczem, batem)", None]],
+                        ),
+                        Meaning(
+                            meaning=["thresh"],
+                            examples=[["bić (kogoś), chłostać, spuszczać łomot", None]],
+                        ),
+                    ],
+                )
+            ],
+        ),
+    ]
+
 
 @pytest.mark.vcr()
 class TestTranslate:
