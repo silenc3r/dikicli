@@ -1,11 +1,12 @@
 *.egg-info
-.python-version
-test_log.txt
-.pytest_cache
 .env
-diki.conf
-tags
+.mypy_cache
+.pytest_cache
+.python-version
 .vscode
 build/*
+diki.conf
 dist/*
+tags
+test_log.txt
 tests/cassettes
