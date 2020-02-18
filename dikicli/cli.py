@@ -3,6 +3,7 @@
 import argparse
 import logging
 import logging.config
+import requests
 import sys
 
 from .core import CACHE_DIR
@@ -87,7 +88,7 @@ def get_parser():
     return parser
 
 
-def main():
+def _main():
     parser = get_parser()
     args = parser.parse_args()
 
@@ -119,7 +120,8 @@ def main():
             wrapped_text = wrap_text(translation, linewrap)
             print(wrapped_text)
             sys.exit(0)
-        except WordNotFound:
+        except (WordNotFound, requests.exceptions.ConnectionError) as e:
+            logger.error(e)
             sys.exit(1)
 
     # open index file in browser
@@ -127,5 +129,14 @@ def main():
         try:
             display_index(config)
             sys.exit(0)
-        except FileNotFoundError:
+        except FileNotFoundError as e:
+            logger.error(e)
             sys.exit(1)
+
+
+def main():
+    try:
+        _main()
+    except KeyboardInterrupt:
+        logger.warning("aborting...")
+        sys.exit(1)

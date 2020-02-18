@@ -519,14 +519,9 @@ def translate(word, config, use_cache=True, to_eng=False):
         return translation
 
     html_dump = _lookup_online(word)
-
-    try:
-        translation = _parse_html(html_dump, native=to_eng)
-    except WordNotFound as exn:
-        logger.error(str(exn))
-        raise exn
-
+    translation = _parse_html(html_dump, native=to_eng)
     _write_html_file(word, translation, data_dir, native=to_eng)
+
     if not to_eng:
         _save_to_history(word, data_dir)
         _write_index_file(data_dir)
@@ -559,8 +554,7 @@ def display_index(config):
         b = webbrowser.get()
     index_file = data_dir.joinpath("index.html")
     if not index_file.exists():
-        logger.error("File doesn't exist: %s", index_file.as_posix())
-        raise FileNotFoundError("Index file doesn't exist")
+        raise FileNotFoundError("Index file doesn't exist: %s", index_file.as_posix())
     else:
         logger.info("Opening %s in '%s'", index_file.as_posix(), b.name)
         b.open(index_file.as_uri())
