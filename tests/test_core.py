@@ -26,14 +26,15 @@ logger = logging.getLogger(__name__)
 # pylint: disable=len-as-condition
 
 
-@pytest.fixture
+@pytest.fixture(autouse=True)
 def env():
     orig_env = dict(os.environ)
     data_dir = tempfile.mkdtemp(prefix="diki_data-")
     cache_dir = tempfile.mkdtemp(prefix="diki_cache-")
     os.environ["DIKI_DATA_DIR"] = data_dir
     os.environ["DIKI_CACHE_DIR"] = cache_dir
-    os.environ["DIKI_CONFIG_FILE"] = "diki.conf"
+    if "DIKI_CONFIG_FILE" in os.environ:
+        del os.environ["DIKI_CONFIG_FILE"]
     os.environ["DIKI_DEBUG"] = "true"
 
     yield
