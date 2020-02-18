@@ -7,7 +7,7 @@ name = "pypi"
 "beautifulsoup4" = "*"
 
 [dev-packages]
-dikicli = {path = ".",editable = true}
+dikicli = {editable = true,path = "."}
 pytest = "*"
 pytest-vcr = "*"
 twine = "*"

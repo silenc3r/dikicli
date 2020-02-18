@@ -5,11 +5,10 @@ import html
 import logging
 import os
 import re
+import requests
 import shutil
 import sys
 import textwrap
-import urllib.parse
-import urllib.request
 import webbrowser
 from collections import namedtuple
 from itertools import zip_longest
@@ -472,7 +471,7 @@ def _lookup_online(word):
     str
         website HTML content.
     """
-    URL = "https://www.diki.pl/{word}"
+    URL = "https://www.diki.pl/" + word
     HEADERS = {
         "User-Agent": (
             "Mozilla/5.0 (compatible, MSIE 11, Windows NT 6.3; "
@@ -481,12 +480,8 @@ def _lookup_online(word):
     }
 
     logger.debug("Looking up online: %s", word)
-    quoted_word = urllib.parse.quote(word)
-    req = urllib.request.Request(URL.format(word=quoted_word), headers=HEADERS)
-    with urllib.request.urlopen(req) as response:
-        html_string = response.read().decode()
-
-    return html.unescape(html_string)
+    resp = requests.get(URL, headers=HEADERS)
+    return resp.text
 
 
 def translate(word, config, use_cache=True, to_eng=False):
