@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 "beautifulsoup4" = "*"
+requests = "*"
 
 [dev-packages]
 dikicli = {editable = true,path = "."}
@@ -13,3 +14,4 @@ pytest-vcr = "*"
 twine = "*"
 pylint = "*"
 isort = "*"
+pbr = "*"

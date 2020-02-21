@@ -1,4 +1,5 @@
 *.egg-info
+.eggs
 .env
 .mypy_cache
 .pytest_cache
