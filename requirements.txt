@@ -1,4 +1,4 @@
--i https://pypi.python.org/simple
+-i https://pypi.python.org/simple/
 beautifulsoup4==4.8.2
 certifi==2019.11.28
 chardet==3.0.4
