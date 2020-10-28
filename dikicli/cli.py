@@ -3,14 +3,14 @@
 import argparse
 import logging
 import logging.config
-import requests
 import sys
+
+import requests
 
 from .core import CACHE_DIR
 from .core import DEBUG
 from .core import Config
 from .core import WordNotFound
-
 from .core import display_index
 from .core import translate
 from .core import wrap_text
@@ -55,6 +55,7 @@ logger = logging.getLogger(__name__)
 
 
 def get_version():
+    # pylint: disable=import-outside-toplevel
     import pkg_resources
 
     return pkg_resources.get_distribution("dikicli").version

@@ -1,11 +1,9 @@
 # -*- coding: utf-8 -*-
 
 import configparser
-import html
 import logging
 import os
 import re
-import requests
 import shutil
 import sys
 import textwrap
@@ -14,6 +12,7 @@ from collections import namedtuple
 from itertools import zip_longest
 from pathlib import Path
 
+import requests
 from bs4 import BeautifulSoup
 
 from .templates import CONFIG_TEMPLATE
@@ -550,12 +549,14 @@ def display_index(config):
                 "Couldn't find '%s' browser. Falling back to default.", browser
             )
         b = webbrowser.get()
+
     index_file = data_dir.joinpath("index.html")
     if not index_file.exists():
-        raise FileNotFoundError("Index file doesn't exist: %s", index_file.as_posix())
-    else:
-        logger.info("Opening %s in '%s'", index_file.as_posix(), b.name)
-        b.open(index_file.as_uri())
+        raise FileNotFoundError(
+            "Index file doesn't exist: {index}".format(index=index_file.as_posix())
+        )
+    logger.info("Opening %s in '%s'", index_file.as_posix(), b.name)
+    b.open(index_file.as_uri())
 
 
 def wrap_text(translations, linewrap=0):
