@@ -14,4 +14,3 @@ upload:
 update-deps:
 	pipenv update
 	pipenv lock -r -d > requirements-dev.txt
-	pipenv lock -r > requirements.txt
