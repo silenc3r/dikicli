@@ -3,6 +3,7 @@
 import argparse
 import logging
 import logging.config
+import pathlib
 import sys
 
 import requests
@@ -12,6 +13,7 @@ from .core import DEBUG
 from .core import Config
 from .core import WordNotFound
 from .core import display_index
+from .core import get_stats
 from .core import translate
 from .core import wrap_text
 
@@ -74,6 +76,7 @@ def get_parser():
         "--create-config", action="store_true", help="create default configuration file"
     )
     parser.add_argument("-r", "--refresh", action="store_true", help="ignore cache")
+    parser.add_argument("-s", "--stats", action="store_true", help="show statistics")
     translation = parser.add_argument_group("translation")
     translation.add_argument("word", nargs="?", help="word to translate")
     translation.add_argument(
@@ -139,6 +142,12 @@ def _main():
         except FileNotFoundError as e:
             logger.error(e)
             sys.exit(1)
+
+    if args.stats:
+        en, pl = get_stats(pathlib.Path(config["data dir"]))
+        print("english words:  {}".format(en))
+        print(" polish words:  {}".format(pl))
+        sys.exit(0)
 
 
 def main():

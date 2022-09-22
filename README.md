@@ -18,3 +18,7 @@ Translate polish to engish:
 Display html file of all words translated so far:
 
     diki -i
+
+Show usage statistics:
+
+    diki --stats

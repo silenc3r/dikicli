@@ -559,6 +559,21 @@ def display_index(config):
     b.open(index_file.as_uri())
 
 
+def get_stats(data_dir: Path):
+    """Get usage statistics.
+    Returns (num_of_en_words, num_of_pl_words) tuple.
+    """
+    en_dir = data_dir.joinpath("translations")
+    pl_dir = data_dir.joinpath("translations_native")
+
+    def count_words(dir):
+        return len(list(dir.glob("*.html"))) if dir.is_dir() else 0
+
+    num_of_en_words = count_words(en_dir)
+    num_of_pl_words = count_words(pl_dir)
+    return num_of_en_words, num_of_pl_words
+
+
 def wrap_text(translations, linewrap=0):
     """Pretty print translations.
 
