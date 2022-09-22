@@ -106,7 +106,7 @@ class TestParsing(ParserTester):
         assert len(mlist[0].examples) == 0
         assert isinstance(mlist[0].meaning, list)
         assert len(mlist[0].meaning) == 1
-        assert mlist[0].meaning[0] == "zestawienie"
+        assert mlist[0].meaning[0] == "zestawienie (dwóch lub kilku rzeczy na zasadzie kontrastu)"
 
     def test_parse_complex(self):
         words = ["guest", "dog", "work", "moll", "apple"]
