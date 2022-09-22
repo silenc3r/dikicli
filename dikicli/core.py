@@ -526,29 +526,16 @@ def translate(word, config, use_cache=True, to_eng=False):
     return translation
 
 
-def display_index(config):
+def display_index(data_dir: Path, browser: str):
     """Open index in web browser.
-
-    Parameters
-    ----------
-    config : Config
-        Configuration settings.
-
-    Raises
-    ------
-    FileNotFoundError
-        If index file doesn't exist.
+    Raises FileNotFoundError if index file doesn't exist.
     """
-    browser = config["web browser"].lower()
-    data_dir = Path(config["data dir"])
-    if browser in webbrowser._browsers:
-        b = webbrowser.get(browser)
-    else:
-        if browser != "default":
-            logger.warning(
-                "Couldn't find '%s' browser. Falling back to default.", browser
-            )
-        b = webbrowser.get()
+    get_browser = lambda b: webbrowser.get() if b == "default" else webbrowser.get(b)
+    try:
+        b = get_browser(browser)
+    except webbrowser.Error:
+        logger.warning("Couldn't find '%s' browser. Falling back to default.", browser)
+        b = get_browser("default")
 
     index_file = data_dir.joinpath("index.html")
     if not index_file.exists():

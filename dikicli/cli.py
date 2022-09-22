@@ -137,7 +137,9 @@ def _main():
     # open index file in browser
     if args.display_index:
         try:
-            display_index(config)
+            browser = config["web browser"]
+            data_dir = pathlib.Path(config["data dir"])
+            display_index(data_dir, browser)
             sys.exit(0)
         except FileNotFoundError as e:
             logger.error(e)
