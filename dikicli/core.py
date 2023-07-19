@@ -265,48 +265,9 @@ def _cache_lookup(word, data_dir, native=False):
 
 
 def _get_words(data_dir):
-    """Get list of words from history file.
-
-    Parameters
-    ----------
-    data_dir : pathlib.Path
-        Directory where data is saved.
-
-    Returns
-    -------
-    word_list : list of str
-        List of words.
-    """
-    words_file = data_dir.joinpath("words.txt")
-    word_list = []
-    if not words_file.is_file():
-        return word_list
-    with open(words_file, mode="r") as f:
-        for l in f:
-            line = l.rstrip()
-            word_list.append(line)
-    return word_list
-
-
-def _save_to_history(word, data_dir):
-    """Write word to history file.
-
-    Parameters
-    ----------
-    word : str
-        Word to save to history.
-    data_dir : pathlib.Path
-        Directory where history file should be saved.
-
-    data_dir and it's parent directories will be created if needed.
-    """
-    if not data_dir.exists():
-        logger.debug("Creating DATA DIR: %s", data_dir.as_posix())
-        data_dir.mkdir(parents=True)
-    if word not in _get_words(data_dir):
-        with open(data_dir.joinpath("words.txt"), mode="a+") as f:
-            logger.debug("Adding to history: %s", word)
-            f.write(word + "\n")
+    """Return list of translated words."""
+    trans_dir = data_dir / "translations"
+    return [file.stem for file in trans_dir.iterdir()]
 
 
 def _create_html_file_content(translations):
@@ -413,18 +374,9 @@ def _create_index_content(words):
 
 
 def _write_index_file(data_dir):
-    """Create index file of cached translations.
+    """Create index file of cached translations."""
 
-    Parameters
-    ----------
-    data_dir : pathlib.Path
-        Cache directory location.
-    """
-    cached_words = [
-        w
-        for w in _get_words(data_dir)
-        if data_dir.joinpath("translations/{}.html".format(w)).is_file()
-    ]
+    cached_words = _get_words(data_dir)
 
     content_str = _create_index_content(cached_words)
     html_string = HTML_TEMPLATE.replace("{% word %}", "Index")
@@ -520,7 +472,6 @@ def translate(word, config, use_cache=True, to_eng=False):
     _write_html_file(word, translation, data_dir, native=to_eng)
 
     if not to_eng:
-        _save_to_history(word, data_dir)
         _write_index_file(data_dir)
 
     return translation
@@ -537,11 +488,8 @@ def display_index(data_dir: Path, browser: str):
         logger.warning("Couldn't find '%s' browser. Falling back to default.", browser)
         b = get_browser("default")
 
-    index_file = data_dir.joinpath("index.html")
-    if not index_file.exists():
-        raise FileNotFoundError(
-            "Index file doesn't exist: {index}".format(index=index_file.as_posix())
-        )
+    _write_index_file(data_dir)
+    index_file = data_dir / "index.html"
     logger.info("Opening %s in '%s'", index_file.as_posix(), b.name)
     b.open(index_file.as_uri())
 
