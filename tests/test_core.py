@@ -15,7 +15,6 @@ from dikicli.core import _get_words
 from dikicli.core import _lookup_online
 from dikicli.core import _parse_cached
 from dikicli.core import _parse_html
-from dikicli.core import _save_to_history
 from dikicli.core import translate
 from dikicli.templates import CONFIG_TEMPLATE
 
@@ -141,69 +140,6 @@ class TestParsingCached(ParserTester):
             with open(filename, mode="r") as f:
                 html_dump = f.read()
             self._test_translations_dict(html_dump, cached=True)
-
-
-class TestGetWords:
-    words = [
-        "guest",
-        "dog",
-        "work",
-        "moll",
-        "apple",
-        "donkey",
-        "juxtaposition",
-        "grave",
-        "pen",
-        "glass",
-    ]
-
-    def test_get_words(self, tmpdir):
-        data_dir = tmpdir.mkdir("dikicli")
-        f = data_dir.join("words.txt")
-        f.write("\n".join(self.words))
-        path = Path(data_dir)
-        expected_words = [
-            "guest",
-            "dog",
-            "work",
-            "moll",
-            "apple",
-            "donkey",
-            "juxtaposition",
-            "grave",
-            "pen",
-            "glass",
-        ]
-        assert _get_words(path) == expected_words
-
-
-class TestSaveToHistory:
-    def test_save_one_word(self, tmpdir):
-        data_dir = Path(tmpdir.mkdir("dikicli"))
-        word = "this"
-        _save_to_history(word, data_dir)
-        with open(data_dir.joinpath("words.txt")) as f:
-            saved = f.readlines()
-        assert saved == ["this\n"]
-
-    def test_save_several_words(self, tmpdir):
-        data_dir = Path(tmpdir.mkdir("dikicli"))
-        words = ["this", "that", "and", "something", "else"]
-        for w in words:
-            _save_to_history(w, data_dir)
-        with open(data_dir.joinpath("words.txt")) as f:
-            saved = f.readlines()
-        assert saved == ["this\n", "that\n", "and\n", "something\n", "else\n"]
-
-    def test_save_word_when_parent_dirs_dont_exist(self, tmpdir):
-        data_dir = Path(tmpdir.mkdir("dikicli")).joinpath("some", "nested", "folders")
-        word = "this"
-        _save_to_history(word, data_dir)
-        assert data_dir.is_dir()
-        assert data_dir.name == "folders"
-        with open(data_dir.joinpath("words.txt")) as f:
-            saved = f.readlines()
-        assert saved == ["this\n"]
 
 
 class TestConfig:
