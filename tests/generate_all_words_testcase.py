@@ -14,10 +14,10 @@ import os
 import tempfile
 import shutil
 import pytest
+from dikicli.core import lookup_online
 from dikicli.core import _parse_html
 from dikicli.helpers import flatten
 from dikicli.parsers import (
-    _lookup_online,
     parse_en_pl,
     Entity,
     Meaning,
@@ -56,7 +56,7 @@ class TestCompareAll:
             safe_w = w.replace("'", "_").replace("-", "_").replace(" ", "_")
             f.write(f"""\
     def test_compare_{safe_w}(self):
-        html_dump = _lookup_online("{w}")
+        html_dump = lookup_online("{w}").html
         result = parse_en_pl(html_dump)
         f_result = flatten(_parse_html(html_dump))
         assert result == f_result

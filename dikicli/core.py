@@ -6,16 +6,23 @@ import os
 import re
 import shutil
 import sys
+import urllib
 import webbrowser
 from collections import namedtuple
 from itertools import zip_longest
 from pathlib import Path
+from urllib.request import Request, urlopen
 
-import requests
 from bs4 import BeautifulSoup
 
-from .templates import CONFIG_TEMPLATE
-from .templates import HTML_TEMPLATE
+import dikicli.parsers
+from dikicli.helpers import flatten
+from dikicli.templates import CONFIG_TEMPLATE
+from dikicli.templates import HTML_TEMPLATE
+
+# HTML output types
+ContentSuccess = namedtuple("ContentSuccess", "html")
+ContentNotFound = namedtuple("ContentNotFound", "html")
 
 Meaning = namedtuple("Meaning", ["meaning", "examples"])
 PartOfSpeech = namedtuple("PartOfSpeech", ["part", "meanings"])
@@ -127,14 +134,34 @@ class Config:
         return filename
 
 
-def _parse_html(html_dump, native=False):
+def lookup_online(word: str) -> str:
+    URL = "https://www.diki.pl/" + word
+    HEADERS = {
+        "User-Agent": (
+            "Mozilla/5.0 (compatible, MSIE 11, Windows NT 6.3; "
+            "Trident/7.0;  rv:11.0) like Gecko"
+        )
+    }
+
+    request = Request(URL, headers=HEADERS)
+    try:
+        response = urlopen(request)
+        content = response.read().decode("utf-8")
+        return ContentSuccess(content)
+    except urllib.error.HTTPError as e:
+        if e.code == 404:
+            return ContentNotFound(e.read().decode("utf-8"))
+        raise e
+
+
+def _parse_html(html_dump, pl_to_en=False):
     """Parse html string.
 
     Parameters
     ----------
     html_dump : str
         HTML content.
-    native : bool, optional
+    pl_to_en : bool, optional
         Whether to translate from native to foreign language.
 
     Returns
@@ -154,7 +181,7 @@ def _parse_html(html_dump, native=False):
     for entity in soup.select(
         "div.diki-results-left-column > div > div.dictionaryEntity"
     ):
-        if not native:
+        if not pl_to_en:
             meanings = entity.select("ol.foreignToNativeMeanings")
         else:
             meanings = entity.select("ol.nativeToForeignEntrySlices")
@@ -168,7 +195,7 @@ def _parse_html(html_dump, native=False):
             meanings = []
             for elem in m.find_all("li", recursive=False):
                 examples = []
-                if not native:
+                if not pl_to_en:
                     meaning = [m.get_text().strip() for m in elem.select("span.hw")]
                     pattern = re.compile(r"\s{3,}")
                     for e in elem.find_all("div", class_="exampleSentence"):
@@ -199,41 +226,7 @@ def _parse_html(html_dump, native=False):
     raise WordNotFound("Nie znaleziono tłumaczenia wpisanej frazy")
 
 
-def _parse_cached(html_dump):
-    """Parse html string from cached html files.
-
-    Parameters
-    ----------
-    html_dump : string
-        HTML content
-
-    Returns
-    -------
-    translations : list
-        Translations list.
-    """
-    soup = BeautifulSoup(html_dump, "html.parser")
-    translations = []
-    for trans in soup.find_all("div", class_="translation"):
-        word = tuple(t.get_text() for t in trans.select("div.word > h2"))
-        trans_list = []
-        for part in trans.find_all("div", class_="part-of-speech"):
-            pn = part.find("p", class_="part-name")
-            if pn:
-                pn = pn.get_text().strip("[]")
-            meanings = []
-            for meaning in part.find_all("div", class_="meaning"):
-                m = [mn.get_text() for mn in meaning.select("li > span")]
-                examples = []
-                for e in meaning.find_all("p"):
-                    examples.append([ex.get_text() for ex in e.find_all("span")])
-                meanings.append(Meaning(m, examples))
-            trans_list.append(PartOfSpeech(pn, meanings))
-        translations.append(Translation(word, trans_list))
-    return translations
-
-
-def _cache_lookup(word, data_dir, native=False):
+def _cache_lookup(word, data_dir, pl_to_en=False):
     """Checks if word is in cache.
 
     Parameters
@@ -245,19 +238,18 @@ def _cache_lookup(word, data_dir, native=False):
 
     Returns
     -------
-    translation : str or None
+    translation : List[str] or None
         Translation of given word.
     """
     trans_dir = "translations"
-    if native:
+    if pl_to_en:
         trans_dir += "_native"
     logger.debug("Cache lookup: %s", word)
     filename = data_dir.joinpath(trans_dir, "{}.html".format(word))
     if filename.is_file():
         with open(filename, mode="r") as f:
             logger.debug("Cache found: %s", word)
-            # TODO: not sure if we should parse data here
-            translation = _parse_cached(f.read())
+            translation = dikicli.parsers.parse_cached(f.read())
             return translation
     logger.debug("Cache miss: %s", word)
     return None
@@ -269,77 +261,24 @@ def _get_words(data_dir):
     return [file.stem for file in trans_dir.iterdir()]
 
 
-def _create_html_file_content(translations):
-    """Create html string out of translation dict.
-
-    Parameters
-    ----------
-    tralnslations : dict
-        Dictionary of word translations.
-
-    Returns
-    -------
-    List[str]:
-        List of html lines.
-    """
-    content = []
-    for i1, t in enumerate(translations):
-        if i1 > 0:
-            content.append("<br>")
-        content.append('<div class="translation">')
-        content.append('<div class="word">')
-        for w in t.word:
-            content.append("<h2>{word}</h2>".format(word=w))
-        content.append("</div><!--close word-->")  # end `word`
-        for i2, t2 in enumerate(t.parts_of_speech):
-            if i2 > 0:
-                content.append("<br>")
-            if t2.part is not None:
-                content.append('<div class="part-of-speech">')
-                content.append('<p class="part-name">[{part}]</p>'.format(part=t2.part))
-            content.append("<ol>")
-            for m in t2.meanings:
-                content.append('<div class="meaning">')
-                mng = ["<strong><li>"]
-                mng += "<span>" + ", ".join(m.meaning) + "</span>"
-                mng.append("</li></strong>")
-                content.append("".join(mng))
-                content.append('<div class="examples">')
-                for e in m.examples:
-                    exmpl = "<p><span>{ex}</span>".format(ex=e[0])
-                    if e[1]:
-                        exmpl += "<br><span>{tr}</span>".format(tr=e[1])
-                    exmpl += "</p>"
-                    content.append(exmpl)
-                if content[-1] == '<div class="examples">':
-                    content.pop()
-                else:
-                    content.append("</div><!--close examples-->")  # end `examples`
-                content.append("</div><!--close meaning-->")  # end `meaning`
-            content.append("</ol>")
-            content.append("</div><!--close part-of-speech-->")  # end `part-of-speech`
-        content.append("</div><!--close translation-->")  # end `translation`
-    return content
-
-
-def _write_html_file(word, translations, data_dir, native=False):
+def _write_html_file(word, translations, data_dir, pl_to_en=False):
     """Create html file of word translations.
 
     Parameters
     ----------
     word : str
         Word that was translated.
-    tralnslations : dict
-        Dictionary of word translations.
+    tralnslations
+        List of translation items
     data_dir : pathlib.Path
         Location where html files are saved.
     """
-    content_str = "\n".join(_create_html_file_content(translations))
+    content_str = "\n".join(dikicli.parsers.generate_word_page(translations))
     html_string = HTML_TEMPLATE.replace("{% word %}", word)
     html_string = html_string.replace("{% content %}", content_str)
 
     trans_dir = "translations"
-    if native:
+    if pl_to_en:
         trans_dir += "_native"
     translations_dir = data_dir.joinpath(trans_dir)
     fname = translations_dir.joinpath("{word}.html".format(word=word))
@@ -406,33 +345,7 @@ def save_file(filename, data, mk_parents=True):
         f.write(data)
 
 
-def _lookup_online(word):
-    """Look up word on diki.pl.
-
-    Parameters
-    ----------
-    word : str
-        Word too look up.
-
-    Returns
-    -------
-    str
-        website HTML content.
-    """
-    URL = "https://www.diki.pl/" + word
-    HEADERS = {
-        "User-Agent": (
-            "Mozilla/5.0 (compatible, MSIE 11, Windows NT 6.3; "
-            "Trident/7.0;  rv:11.0) like Gecko"
-        )
-    }
-
-    logger.debug("Looking up online: %s", word)
-    resp = requests.get(URL, headers=HEADERS)
-    return resp.text
-
-
-def translate(word, config, use_cache=True, to_eng=False):
+def translate(word, config, use_cache=True, pl_to_en=False):
     """Translate a word.
 
     Parameters
@@ -443,34 +356,37 @@ def translate(word, config, use_cache=True, to_eng=False):
         Configuration settings.
     use_cache : bool, optional
         Wheter to use cache.
-    to_eng : bool, optional
+    pl_to_en : bool, optional
         Translate from Polish to English.
 
     Returns
     -------
     translation
         Translation of a word.
-
-    Raises
-    ------
-    WordNotFound
-        If word can't be found.
     """
     translation = None
     data_dir = Path(config["data dir"])
 
     if use_cache:
         logger.debug("Checking cache: %s", word)
-        translation = _cache_lookup(word, data_dir, native=to_eng)
+        translation = _cache_lookup(word, data_dir, pl_to_en=pl_to_en)
 
     if translation:
         return translation
 
-    html_dump = _lookup_online(word)
-    translation = _parse_html(html_dump, native=to_eng)
-    _write_html_file(word, translation, data_dir, native=to_eng)
+    match (lookup_online(word)):
+        case ContentNotFound(content):
+            translation = dikicli.parsers.parse_not_found(content)
+        case ContentSuccess(content):
+            if pl_to_en:
+                # FIXME: it is totally broken
+                translation = flatten(_parse_html(content, pl_to_en))
+                # TODO: write file
+            else:
+                translation = dikicli.parsers.parse_en_pl(content)
+                _write_html_file(word, translation, data_dir, pl_to_en=pl_to_en)
 
-    if not to_eng:
+    if not pl_to_en:
         _write_index_file(data_dir)
 
     return translation
@@ -506,3 +422,62 @@ def get_stats(data_dir: Path):
     num_of_en_words = count_words(en_dir)
     num_of_pl_words = count_words(pl_dir)
     return num_of_en_words, num_of_pl_words
+
+
+def wrap_text(translations, linewrap=0):
+    """Pretty print translations.
+
+    If lienwrap is set to 0 disable line wrapping.
+
+    Returns list of wrapped lines.
+    """
+    # TODO: move this to top after cleaning up old parser
+    from dikicli.parsers import Entity, Meaning, PartOfSpeech, Sentence, Info
+
+    def wrap(text, width=linewrap, findent=0, sindent=0, bold=False):
+        if width == 0:
+            text = " " * findent + text
+        else:
+            import textwrap
+
+            text = textwrap.fill(
+                text,
+                width=width,
+                initial_indent=" " * findent,
+                subsequent_indent=" " * sindent,
+            )
+        # don't use bold when stdout is pipe or redirect
+        if bold and sys.stdout.isatty():
+            text = "\033[0;1m" + text + "\033[0m"
+        return text
+
+    result = []
+    meaning_idx = 0
+    for i, x in enumerate(translations):
+        if isinstance(x, Entity):
+            meaning_idx = 1
+            if i > 0 and not isinstance(translations[i - 1], Entity):
+                result.append("")
+            result.append(wrap(x.val, bold=True))
+        elif isinstance(x, PartOfSpeech):
+            meaning_idx = 1
+            if i > 0 and not isinstance(translations[i - 1], Entity):
+                result.append("")
+            result.append(f"[{x.val}]")
+        elif isinstance(x, Meaning):
+            if i > 0 and isinstance(translations[i - 1], Sentence):
+                result.append("")
+            result.append(wrap(f"{meaning_idx:>3}. {x.val}", sindent=5, bold=True))
+            meaning_idx += 1
+        elif isinstance(x, Sentence):
+            result.append("")
+            s1 = wrap(x.val[0], findent=6, sindent=6)
+            s2 = wrap(x.val[1], findent=6, sindent=7)
+            result.append(s1)
+            result.append(s2)
+        elif isinstance(x, Info):
+            result.append(x.val)
+        else:
+            raise TypeError("wrap_text: unexpected translation type: %s" % type(x))
+
+    return result

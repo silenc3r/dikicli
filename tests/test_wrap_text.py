@@ -3,10 +3,11 @@ import shutil
 import tempfile
 import pytest
 
+from dikicli.core import lookup_online
+from dikicli.core import wrap_text
 from dikicli.parsers import (
-    _lookup_online,
     parse_en_pl,
-    wrap_text,
+    parse_not_found,
     Entity,
     Meaning,
     PartOfSpeech,
@@ -46,7 +47,7 @@ def conf_dict(env):
 
 
 def translate(word):
-    html_dump = _lookup_online(word)
+    html_dump = lookup_online(word).html
     result = parse_en_pl(html_dump)
     return result
 
@@ -54,19 +55,22 @@ def translate(word):
 @pytest.mark.vcr()
 class TestWrapText:
     def test_wrap_invalid_word(self):
-        translation = translate("yyyy")
+        html_dump = lookup_online("yyyy").html
+        translation = parse_not_found(html_dump)
         result = wrap_text(translation)
         assert result == ["Nie znaleziono dokładnego tłumaczenia wpisanej frazy."]
 
     def test_wrap_typo_eblem(self):
-        translation = translate("eblem")
+        html_dump = lookup_online("eblem").html
+        translation = parse_not_found(html_dump)
         result = wrap_text(translation)
         assert result == [
             "Nie znaleziono dokładnego tłumaczenia wpisanej frazy.\nCzy chodziło ci o: emblem"
         ]
 
     def test_wrap_typo_wose(self):
-        translation = translate("wose")
+        html_dump = lookup_online("wose").html
+        translation = parse_not_found(html_dump)
         result = wrap_text(translation)
         assert result == [
             "Nie znaleziono dokładnego tłumaczenia wpisanej frazy.\nCzy chodziło ci o: wise, whose, worse, dose, woke"

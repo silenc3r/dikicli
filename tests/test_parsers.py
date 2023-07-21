@@ -5,9 +5,13 @@ import shutil
 
 import pytest
 
+from dikicli.core import lookup_online
+from dikicli.core import ContentNotFound
 from dikicli.parsers import (
-    _lookup_online,
     parse_en_pl,
+    parse_cached,
+    parse_not_found,
+    generate_word_page,
     Entity,
     Meaning,
     PartOfSpeech,
@@ -38,7 +42,7 @@ def env():
 @pytest.mark.vcr()
 class TestEnPlParser:
     def test_parse_apple(self):
-        html_dump = _lookup_online("apple")
+        html_dump = lookup_online("apple").html
         result = parse_en_pl(html_dump)
         assert result == [
             Entity(val="apple"),
@@ -87,7 +91,7 @@ class TestEnPlParser:
         ]
 
     def test_parse_weight(self):
-        html_dump = _lookup_online("weight")
+        html_dump = lookup_online("weight").html
         result = parse_en_pl(html_dump)
         assert result == [
             Entity(val="weight"),
@@ -224,7 +228,7 @@ class TestEnPlParser:
         ]
 
     def test_parse_abandon(self):
-        html_dump = _lookup_online("abandon")
+        html_dump = lookup_online("abandon").html
         result1 = parse_en_pl(html_dump)
         assert result1 == [
             Entity(val="abandon"),
@@ -319,9 +323,9 @@ class TestEnPlParser:
         ]
 
     def test_parse_switch(self):
-        html_dump = _lookup_online("switch")
+        html_dump = lookup_online("switch").html
         result = parse_en_pl(html_dump)
-        result == [
+        assert result == [
             Entity(val="switch"),
             PartOfSpeech(val="rzeczownik"),
             Meaning(
@@ -461,9 +465,9 @@ class TestEnPlParser:
         ]
 
     def test_parse_pet(self):
-        html_dump = _lookup_online("pet")
+        html_dump = lookup_online("pet").html
         result = parse_en_pl(html_dump)
-        result == [
+        assert result == [
             Entity(val="pet"),
             PartOfSpeech(val="rzeczownik"),
             Meaning(val="zwierzątko domowe, zwierzę domowe"),
@@ -528,9 +532,9 @@ class TestEnPlParser:
         ]
 
     def test_parse_snitch(self):
-        html_dump = _lookup_online("snitch")
+        html_dump = lookup_online("snitch").html
         result = parse_en_pl(html_dump)
-        result == [
+        assert result == [
             Entity(val="snitch"),
             PartOfSpeech(val="rzeczownik"),
             Meaning(val="donosiciel, kapuś, kabel"),
@@ -542,9 +546,9 @@ class TestEnPlParser:
         ]
 
     def test_parse_guest(self):
-        html_dump = _lookup_online("guest")
+        html_dump = lookup_online("guest").html
         result = parse_en_pl(html_dump)
-        result == [
+        assert result == [
             Entity(val="guest"),
             PartOfSpeech(val="rzeczownik"),
             Meaning(val="gość (np. w domu, w hotelu)"),
@@ -621,9 +625,9 @@ class TestEnPlParser:
         ]
 
     def test_parse_sad(self):
-        html_dump = _lookup_online("sad")
+        html_dump = lookup_online("sad").html
         result = parse_en_pl(html_dump)
-        result == [
+        assert result == [
             Entity(val="sad"),
             PartOfSpeech(val="przymiotnik"),
             Meaning(val="smutny"),
@@ -668,9 +672,9 @@ class TestEnPlParser:
         ]
 
     def test_parse_vying(self):
-        html_dump = _lookup_online("vying")
+        html_dump = lookup_online("vying").html
         result = parse_en_pl(html_dump)
-        result == [
+        assert result == [
             Entity(val="vying"),
             PartOfSpeech(val="rzeczownik"),
             Meaning(val="współzawodniczenie"),
@@ -681,9 +685,9 @@ class TestEnPlParser:
         ]
 
     def test_parse_hodgepodge(self):
-        html_dump = _lookup_online("hodgepodge")
+        html_dump = lookup_online("hodgepodge").html
         result = parse_en_pl(html_dump)
-        result == [
+        assert result == [
             Entity(val="hotch-potch"),
             Entity(val="hotchpotch"),
             Entity(val="hodge-podge"),
@@ -693,9 +697,9 @@ class TestEnPlParser:
         ]
 
     def test_parse_would(self):
-        html_dump = _lookup_online("would")
+        html_dump = lookup_online("would").html
         result = parse_en_pl(html_dump)
-        result == [
+        assert result == [
             Entity(val="would"),
             PartOfSpeech(val="czasownik"),
             Meaning(
@@ -761,7 +765,7 @@ class TestEnPlParser:
                     "(Czy zamknąłbyś okno? Chłodno tutaj.)",
                 ]
             ),
-            Meaning(val="(czasownik modalny używany do zapropowania komuśczegoś)"),
+            Meaning(val="(czasownik modalny używany do zapropowania komuś czegoś)"),
             Sentence(val=["Would you like a tea?", "(Masz ochotę na herbatę?)"]),
             Sentence(
                 val=[
@@ -1288,9 +1292,9 @@ class TestEnPlParser:
         ]
 
     def test_parse_tumult(self):
-        html_dump = _lookup_online("tumult")
+        html_dump = lookup_online("tumult").html
         result = parse_en_pl(html_dump)
-        result == [
+        assert result == [
             Entity(val="tumult"),
             PartOfSpeech(val="rzeczownik"),
             Meaning(val="hałas, zgiełk, wrzawa"),
@@ -1299,9 +1303,9 @@ class TestEnPlParser:
         ]
 
     def test_parse_subordinate(self):
-        html_dump = _lookup_online("subordinate")
+        html_dump = lookup_online("subordinate").html
         result = parse_en_pl(html_dump)
-        result == [
+        assert result == [
             Entity(val="subordinate"),
             PartOfSpeech(val="czasownik"),
             Meaning(val="podporządkowywać, podporządkować (coś czemuś)"),
@@ -1316,16 +1320,53 @@ class TestEnPlParser:
             Meaning(val="podlegać komuś"),
         ]
 
-    def test_parse_non_existing_word(self):
-        html_dump = _lookup_online("yyyy")
+    def test_parse_remarkable(self):
+        html_dump = lookup_online("remarkable").html
         result = parse_en_pl(html_dump)
+        assert result == [
+            Entity(val="remarkable"),
+            PartOfSpeech(val="przymiotnik"),
+            Meaning(
+                val="niezwykły, warty odnotowania, godny uwagi, wybitny, niesamowity, zdumiewający, wyjątkowy"
+            ),
+            Sentence(
+                val=[
+                    "A computer is a remarkable feat of technology.",
+                    "(Komputer jest wartym odnotowania osiągnięciem technologii.)",
+                ]
+            ),
+            Sentence(
+                val=[
+                    "Could you recommend a remarkable book?",
+                    "(Czy mógłbyś polecić książkę godną uwagi?)",
+                ]
+            ),
+            Sentence(
+                val=["It's a remarkable monument!", "(To jest niezwykły pomnik!)"]
+            ),
+            Sentence(
+                val=[
+                    "He was a remarkable man who stood for peace in the world.",
+                    "(On był niezwykłym człowiekiem, który opowiadał się za pokojem na świecie.)",
+                ]
+            ),
+        ]
+
+
+@pytest.mark.vcr
+class TestNotFoundParser:
+    def test_parse_non_existing_word(self):
+        html_dump = lookup_online("yyyy")
+        assert isinstance(html_dump, ContentNotFound)
+        result = parse_not_found(html_dump.html)
         assert result == [
             Info(val="Nie znaleziono dokładnego tłumaczenia wpisanej frazy.")
         ]
 
     def test_parse_typo_eblem(self):
-        html_dump = _lookup_online("eblem")
-        result = parse_en_pl(html_dump)
+        html_dump = lookup_online("eblem")
+        assert isinstance(html_dump, ContentNotFound)
+        result = parse_not_found(html_dump.html)
         assert result == [
             Info(
                 val="Nie znaleziono dokładnego tłumaczenia wpisanej frazy.\nCzy chodziło ci o: emblem"
@@ -1333,10 +1374,84 @@ class TestEnPlParser:
         ]
 
     def test_parse_typo_wose(self):
-        html_dump = _lookup_online("wose")
-        result = parse_en_pl(html_dump)
+        html_dump = lookup_online("wose")
+        assert isinstance(html_dump, ContentNotFound)
+        result = parse_not_found(html_dump.html)
         assert result == [
             Info(
                 val="Nie znaleziono dokładnego tłumaczenia wpisanej frazy.\nCzy chodziło ci o: wise, whose, worse, dose, woke"
             )
         ]
+
+
+@pytest.mark.vcr
+class TestCachedParser:
+    def test_guest(self):
+        html_dump = lookup_online("guest").html
+        translations = parse_en_pl(html_dump)
+        cached_html = "".join(generate_word_page(translations))
+        cached_translations = parse_cached(cached_html)
+        assert translations == cached_translations
+
+    def test_switch(self):
+        html_dump = lookup_online("switch").html
+        translations = parse_en_pl(html_dump)
+        cached_html = "".join(generate_word_page(translations))
+        cached_translations = parse_cached(cached_html)
+        assert translations == cached_translations
+
+    def test_weight(self):
+        html_dump = lookup_online("weight").html
+        translations = parse_en_pl(html_dump)
+        cached_html = "".join(generate_word_page(translations))
+        cached_translations = parse_cached(cached_html)
+        assert translations == cached_translations
+
+    def test_would(self):
+        html_dump = lookup_online("would").html
+        translations = parse_en_pl(html_dump)
+        cached_html = "".join(generate_word_page(translations))
+        cached_translations = parse_cached(cached_html)
+        assert translations == cached_translations
+
+    def test_subordinate(self):
+        html_dump = lookup_online("subordinate").html
+        translations = parse_en_pl(html_dump)
+        cached_html = "".join(generate_word_page(translations))
+        cached_translations = parse_cached(cached_html)
+        assert translations == cached_translations
+
+    def test_apple(self):
+        html_dump = lookup_online("apple").html
+        translations = parse_en_pl(html_dump)
+        cached_html = "".join(generate_word_page(translations))
+        cached_translations = parse_cached(cached_html)
+        assert translations == cached_translations
+
+    def test_sad(self):
+        html_dump = lookup_online("sad").html
+        translations = parse_en_pl(html_dump)
+        cached_html = "".join(generate_word_page(translations))
+        cached_translations = parse_cached(cached_html)
+        assert translations == cached_translations
+
+    def test_pet(self):
+        html_dump = lookup_online("pet").html
+        translations = parse_en_pl(html_dump)
+        cached_html = "".join(generate_word_page(translations))
+        cached_translations = parse_cached(cached_html)
+        assert translations == cached_translations
+
+    def test_abandon(self):
+        html_dump = lookup_online("abandon").html
+        translations = parse_en_pl(html_dump)
+        cached_html = "".join(generate_word_page(translations))
+        cached_translations = parse_cached(cached_html)
+        assert translations == cached_translations
+
+    def test_tumult(self):
+        html_dump = lookup_online("tumult").html
+        translations = parse_en_pl(html_dump)
+        cached_html = "".join(generate_word_page(translations))
+        cached_translations = parse_cached(cached_html)
+        assert translations == cached_translations

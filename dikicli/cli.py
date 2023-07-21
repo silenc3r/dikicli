@@ -6,18 +6,13 @@ import logging.config
 import pathlib
 import sys
 
-import requests
-
 from dikicli.core import CACHE_DIR
 from dikicli.core import DEBUG
 from dikicli.core import Config
-from dikicli.core import WordNotFound
 from dikicli.core import display_index
 from dikicli.core import get_stats
 from dikicli.core import translate
-
-from dikicli.helpers import flatten
-from dikicli.parsers import wrap_text
+from dikicli.core import wrap_text
 
 LOG_FILE = CACHE_DIR.joinpath("diki.log")
 if not CACHE_DIR.exists():
@@ -126,15 +121,11 @@ def _main():
     # handle word translation
     if args.word:
         use_cache = not args.refresh
-        to_eng = args.pol_eng
-        try:
-            translation = translate(args.word, config, use_cache, to_eng)
-            wrapped_text = "\n".join(wrap_text(flatten(translation), linewrap))
-            print(wrapped_text)
-            sys.exit(0)
-        except (WordNotFound, requests.exceptions.ConnectionError) as e:
-            logger.error(e)
-            sys.exit(1)
+        pl_to_en = args.pol_eng
+        translation = translate(args.word, config, use_cache, pl_to_en)
+        wrapped_text = "\n".join(wrap_text(translation, linewrap))
+        print(wrapped_text)
+        sys.exit(0)
 
     # open index file in browser
     if args.display_index:

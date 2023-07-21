@@ -6,9 +6,9 @@ import shutil
 import pytest
 
 from dikicli.core import _parse_html
+from dikicli.core import lookup_online
 from dikicli.helpers import flatten
 from dikicli.parsers import (
-    _lookup_online,
     parse_en_pl,
     Entity,
     Meaning,
@@ -52,45 +52,45 @@ def conf_dict(env):
 @pytest.mark.vcr()
 class TestFlatten:
     def test_apple(self):
-        html_dump = _lookup_online("apple")
+        html_dump = lookup_online("apple").html
         result = parse_en_pl(html_dump)
-        f_result = flatten(_parse_html(html_dump.html))
+        f_result = flatten(_parse_html(html_dump))
         assert result == f_result
 
     def test_weight(self):
-        html_dump = _lookup_online("weight")
+        html_dump = lookup_online("weight").html
         result = parse_en_pl(html_dump)
-        f_result = flatten(_parse_html(html_dump.html))
+        f_result = flatten(_parse_html(html_dump))
         assert result == f_result
 
     def test_abandon(self):
-        html_dump = _lookup_online("abandon")
+        html_dump = lookup_online("abandon").html
         result = parse_en_pl(html_dump)
-        f_result = flatten(_parse_html(html_dump.html))
+        f_result = flatten(_parse_html(html_dump))
         assert result == f_result
 
     def test_pet(self):
-        html_dump = _lookup_online("pet")
+        html_dump = lookup_online("pet").html
         result = parse_en_pl(html_dump)
-        f_result = flatten(_parse_html(html_dump.html))
+        f_result = flatten(_parse_html(html_dump))
         assert result == f_result
 
     def test_snitch(self):
-        html_dump = _lookup_online("snitch")
+        html_dump = lookup_online("snitch").html
         result = parse_en_pl(html_dump)
-        f_result = flatten(_parse_html(html_dump.html))
+        f_result = flatten(_parse_html(html_dump))
         assert result == f_result
 
     def test_guest(self):
-        html_dump = _lookup_online("guest")
+        html_dump = lookup_online("guest").html
         result = parse_en_pl(html_dump)
-        f_result = flatten(_parse_html(html_dump.html))
+        f_result = flatten(_parse_html(html_dump))
         assert result == f_result
 
     def test_sad(self):
-        html_dump = _lookup_online("sad")
+        html_dump = lookup_online("sad").html
         result = parse_en_pl(html_dump)
-        f_result = flatten(_parse_html(html_dump.html))
+        f_result = flatten(_parse_html(html_dump))
         assert result == f_result
 
     def test_alternative_wordings(self):
@@ -105,25 +105,25 @@ class TestFlatten:
             "rose",
             "mayhem",
         ]:
-            html_dump = _lookup_online(word)
+            html_dump = lookup_online(word).html
             result = parse_en_pl(html_dump)
-            f_result = flatten(_parse_html(html_dump.html))
+            f_result = flatten(_parse_html(html_dump))
             assert result == f_result
 
     def test_would(self):
-        html_dump = _lookup_online("would")
+        html_dump = lookup_online("would").html
         result = parse_en_pl(html_dump)
-        f_result = flatten(_parse_html(html_dump.html))
+        f_result = flatten(_parse_html(html_dump))
         assert result == f_result
 
     def test_tumult(self):
-        html_dump = _lookup_online("tumult")
+        html_dump = lookup_online("tumult").html
         result = parse_en_pl(html_dump)
-        f_result = flatten(_parse_html(html_dump.html))
+        f_result = flatten(_parse_html(html_dump))
         assert result == f_result
 
     def test_subordinate(self):
-        html_dump = _lookup_online("subordinate")
+        html_dump = lookup_online("subordinate").html
         result = parse_en_pl(html_dump)
-        f_result = flatten(_parse_html(html_dump.html))
+        f_result = flatten(_parse_html(html_dump))
         assert result == f_result
