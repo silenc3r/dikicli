@@ -177,3 +177,52 @@ class EnPlParser(HTMLParser):
 
 def parse_en_pl(html_dump):
     return EnPlParser().parse(html_dump)
+
+
+def wrap_text(translations, linewrap=0):
+    """Pretty print translations.
+
+    If lienwrap is set to 0 disable line wrapping.
+    """
+
+    def wrap(text, width=linewrap, findent=0, sindent=0, bold=False):
+        if width == 0:
+            text = " " * findent + text
+        else:
+            import textwrap
+            text = textwrap.fill(
+                text,
+                width=width,
+                initial_indent=" " * findent,
+                subsequent_indent=" " * sindent,
+            )
+        # don't use bold when stdout is pipe or redirect
+        if bold and sys.stdout.isatty():
+            text = "\033[0;1m" + text + "\033[0m"
+        return text
+
+    result = []
+    meaning_idx = 0
+    for i, x in enumerate(translations):
+        if isinstance(x, Entity):
+            meaning_idx = 1
+            if i > 0 and not isinstance(translations[i-1], Entity):
+                result.append("")
+            result.append(wrap(x.val, bold=True))
+        elif isinstance(x, PartOfSpeech):
+            if i > 0 and not isinstance(translations[i-1], Entity):
+                result.append("")
+            result.append(f"[{x.val}]")
+        elif isinstance(x, Meaning):
+            if i > 0 and isinstance(translations[i-1], Sentence):
+                result.append("")
+            result.append(wrap(f"{meaning_idx:>3}. {x.val}", sindent=5, bold=True))
+            meaning_idx += 1
+        elif isinstance(x, Sentence):
+            result.append("")
+            s1 = wrap(x.val[0], findent=6, sindent=6)
+            s2 = wrap(x.val[1], findent=6, sindent=7)
+            result.append(s1)
+            result.append(s2)
+
+    return "\n".join(result)
