@@ -282,6 +282,6 @@ def wrap_text(translations, linewrap=0):
         elif isinstance(x, Info):
             result.append(x.val)
         else:
-            raise TypeError("wrap_text: unexpected translation type: %s", type(x))
+            raise TypeError("wrap_text: unexpected translation type: %s" % type(x))
 
     return result

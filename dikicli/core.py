@@ -279,8 +279,8 @@ def _create_html_file_content(translations):
 
     Returns
     -------
-    str:
-        html string of translation
+    List[str]:
+        List of html lines.
     """
     content = []
     for i1, t in enumerate(translations):
@@ -290,21 +290,18 @@ def _create_html_file_content(translations):
         content.append('<div class="word">')
         for w in t.word:
             content.append("<h2>{word}</h2>".format(word=w))
-        content.append("</div>")  # end `word`
+        content.append("</div><!--close word-->")  # end `word`
         for i2, t2 in enumerate(t.parts_of_speech):
             if i2 > 0:
                 content.append("<br>")
-            content.append('<div class="part-of-speech">')
             if t2.part is not None:
+                content.append('<div class="part-of-speech">')
                 content.append('<p class="part-name">[{part}]</p>'.format(part=t2.part))
             content.append("<ol>")
             for m in t2.meanings:
                 content.append('<div class="meaning">')
                 mng = ["<strong><li>"]
-                for i3, mn in enumerate(m.meaning):
-                    if i3 > 0:
-                        mng.append(", ")
-                    mng.append("<span>{meaning}</span>".format(meaning=mn))
+                mng += "<span>" + ", ".join(m.meaning) + "</span>"
                 mng.append("</li></strong>")
                 content.append("".join(mng))
                 content.append('<div class="examples">')
@@ -314,12 +311,15 @@ def _create_html_file_content(translations):
                         exmpl += "<br><span>{tr}</span>".format(tr=e[1])
                     exmpl += "</p>"
                     content.append(exmpl)
-                content.append("</div>")  # end `examples`
-                content.append("</div>")  # end `meaning`
+                if content[-1] == '<div class="examples">':
+                    content.pop()
+                else:
+                    content.append("</div><!--close examples-->")  # end `examples`
+                content.append("</div><!--close meaning-->")  # end `meaning`
             content.append("</ol>")
-            content.append("</div>")  # end `part-of-speech`
-        content.append("</div>")  # end `translation`
-    return "\n".join(content)
+            content.append("</div><!--close part-of-speech-->")  # end `part-of-speech`
+        content.append("</div><!--close translation-->")  # end `translation`
+    return content
 
 
 def _write_html_file(word, translations, data_dir, native=False):
@@ -334,7 +334,7 @@ def _write_html_file(word, translations, data_dir, native=False):
     data_dir : pathlib.Path
         Location where html files are saved.
     """
-    content_str = _create_html_file_content(translations)
+    content_str = "\n".join(_create_html_file_content(translations))
     html_string = HTML_TEMPLATE.replace("{% word %}", word)
     html_string = html_string.replace("{% content %}", content_str)
 
