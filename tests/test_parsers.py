@@ -12,6 +12,7 @@ from dikicli.parsers import (
     Meaning,
     PartOfSpeech,
     Sentence,
+    Info,
 )
 
 
@@ -32,17 +33,6 @@ def env():
     shutil.rmtree(cache_dir)
     os.environ.clear()
     os.environ.update(orig_env)
-
-
-@pytest.fixture
-def conf_dict(env):
-    config = {
-        "data dir": os.environ["DIKI_DATA_DIR"],
-        "linewrap": "78",
-        "colors": "yes",
-        "web browser": "default",
-    }
-    return config
 
 
 @pytest.mark.vcr()
@@ -1324,4 +1314,29 @@ class TestEnPlParser:
             Meaning(val="podporządkowany (komuś), zależny (od kogoś)"),
             Entity(val="be subordinate to somebody"),
             Meaning(val="podlegać komuś"),
+        ]
+
+    def test_parse_non_existing_word(self):
+        html_dump = _lookup_online("yyyy")
+        result = parse_en_pl(html_dump)
+        assert result == [
+            Info(val="Nie znaleziono dokładnego tłumaczenia wpisanej frazy.")
+        ]
+
+    def test_parse_typo_eblem(self):
+        html_dump = _lookup_online("eblem")
+        result = parse_en_pl(html_dump)
+        assert result == [
+            Info(
+                val="Nie znaleziono dokładnego tłumaczenia wpisanej frazy.\nCzy chodziło ci o: emblem"
+            )
+        ]
+
+    def test_parse_typo_wose(self):
+        html_dump = _lookup_online("wose")
+        result = parse_en_pl(html_dump)
+        assert result == [
+            Info(
+                val="Nie znaleziono dokładnego tłumaczenia wpisanej frazy.\nCzy chodziło ci o: wise, whose, worse, dose, woke"
+            )
         ]

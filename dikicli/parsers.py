@@ -5,6 +5,11 @@ from urllib.request import urlopen
 
 import os
 import sys
+import urllib
+
+# HTML output types
+ContentSuccess = namedtuple("ContentSuccess", "html")
+ContentNotFound = namedtuple("ContentNotFound", "html")
 
 
 def _lookup_online(word: str) -> str:
@@ -17,15 +22,21 @@ def _lookup_online(word: str) -> str:
     }
 
     request = Request(URL, headers=HEADERS)
-    response = urlopen(request)
-    content = response.read().decode("utf-8")
-    return content
+    try:
+        response = urlopen(request)
+        content = response.read().decode("utf-8")
+        return ContentSuccess(content)
+    except urllib.error.HTTPError as e:
+        if e.code == 404:
+            return ContentNotFound(e.read().decode("utf-8"))
+        raise e
 
 
 Entity = namedtuple("Entity", "val")
 PartOfSpeech = namedtuple("PartOfSpeech", "val")
 Meaning = namedtuple("Meaning", "val")
 Sentence = namedtuple("Sentence", "val")
+Info = namedtuple("Info", "val")
 
 
 class EnPlParser(HTMLParser):
@@ -175,8 +186,48 @@ class EnPlParser(HTMLParser):
         return tag == "span" and attrs == [("class", "exampleSentenceTranslation")]
 
 
+class NotFoundParser(HTMLParser):
+    def reset(self):
+        super().reset()
+        self.info = []
+        self.suggestions = []
+        self.should_read = True
+        self.in_p = False
+        self.in_suggestions = False
+
+    def parse(self, content):
+        self.reset()
+        self.feed(content)
+        result = self.info
+        if self.suggestions:
+            result += "\n"
+            result += "".join(self.suggestions)
+        return [Info(result)]
+
+    def handle_starttag(self, tag, attrs):
+        if tag == "p":
+            self.in_p = True
+        elif tag == "div" and attrs == [("class", "dictionarySuggestions")]:
+            self.in_suggestions = True
+
+    def handle_endtag(self, tag):
+        if tag == "div":
+            self.in_suggestions = False
+
+    def handle_data(self, data):
+        if self.in_p and self.should_read and data.strip() != "":
+            self.info = data.strip()
+            self.should_read = False
+        elif self.in_suggestions and data.strip() != "":
+            self.suggestions.append(data.lstrip())
+
+
 def parse_en_pl(html_dump):
-    return EnPlParser().parse(html_dump)
+    match html_dump:
+        case ContentSuccess(content):
+            return EnPlParser().parse(content)
+        case ContentNotFound(content):
+            return NotFoundParser().parse(content)
 
 
 def wrap_text(translations, linewrap=0):
@@ -190,6 +241,7 @@ def wrap_text(translations, linewrap=0):
             text = " " * findent + text
         else:
             import textwrap
+
             text = textwrap.fill(
                 text,
                 width=width,
@@ -206,15 +258,15 @@ def wrap_text(translations, linewrap=0):
     for i, x in enumerate(translations):
         if isinstance(x, Entity):
             meaning_idx = 1
-            if i > 0 and not isinstance(translations[i-1], Entity):
+            if i > 0 and not isinstance(translations[i - 1], Entity):
                 result.append("")
             result.append(wrap(x.val, bold=True))
         elif isinstance(x, PartOfSpeech):
-            if i > 0 and not isinstance(translations[i-1], Entity):
+            if i > 0 and not isinstance(translations[i - 1], Entity):
                 result.append("")
             result.append(f"[{x.val}]")
         elif isinstance(x, Meaning):
-            if i > 0 and isinstance(translations[i-1], Sentence):
+            if i > 0 and isinstance(translations[i - 1], Sentence):
                 result.append("")
             result.append(wrap(f"{meaning_idx:>3}. {x.val}", sindent=5, bold=True))
             meaning_idx += 1
@@ -224,5 +276,9 @@ def wrap_text(translations, linewrap=0):
             s2 = wrap(x.val[1], findent=6, sindent=7)
             result.append(s1)
             result.append(s2)
+        elif isinstance(x, Info):
+            result.append(x.val)
+        else:
+            raise TypeError("wrap_text: unexpected translation type: %s", type(x))
 
     return "\n".join(result)
