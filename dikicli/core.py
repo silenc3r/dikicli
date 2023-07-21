@@ -6,7 +6,6 @@ import os
 import re
 import shutil
 import sys
-import textwrap
 import webbrowser
 from collections import namedtuple
 from itertools import zip_longest

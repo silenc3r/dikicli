@@ -234,6 +234,8 @@ def wrap_text(translations, linewrap=0):
     """Pretty print translations.
 
     If lienwrap is set to 0 disable line wrapping.
+
+    Returns list of wrapped lines.
     """
 
     def wrap(text, width=linewrap, findent=0, sindent=0, bold=False):
@@ -262,6 +264,7 @@ def wrap_text(translations, linewrap=0):
                 result.append("")
             result.append(wrap(x.val, bold=True))
         elif isinstance(x, PartOfSpeech):
+            meaning_idx = 1
             if i > 0 and not isinstance(translations[i - 1], Entity):
                 result.append("")
             result.append(f"[{x.val}]")
@@ -281,4 +284,4 @@ def wrap_text(translations, linewrap=0):
         else:
             raise TypeError("wrap_text: unexpected translation type: %s", type(x))
 
-    return "\n".join(result)
+    return result

@@ -129,7 +129,7 @@ def _main():
         to_eng = args.pol_eng
         try:
             translation = translate(args.word, config, use_cache, to_eng)
-            wrapped_text = wrap_text(flatten(translation), linewrap)
+            wrapped_text = "\n".join(wrap_text(flatten(translation), linewrap))
             print(wrapped_text)
             sys.exit(0)
         except (WordNotFound, requests.exceptions.ConnectionError) as e:
