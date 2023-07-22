@@ -12,6 +12,7 @@ from collections import namedtuple
 from itertools import zip_longest
 from pathlib import Path
 from urllib.request import Request, urlopen
+import urllib.parse
 
 from bs4 import BeautifulSoup
 
@@ -135,6 +136,7 @@ class Config:
 
 
 def lookup_online(word: str) -> str:
+    word = urllib.parse.quote(word)
     URL = "https://www.diki.pl/" + word
     HEADERS = {
         "User-Agent": (

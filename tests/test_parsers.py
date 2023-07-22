@@ -9,11 +9,13 @@ from dikicli.core import lookup_online
 from dikicli.core import ContentNotFound
 from dikicli.parsers import (
     parse_en_pl,
+    parse_pl_en,
     parse_cached,
     parse_not_found,
     generate_word_page,
     Entity,
     Meaning,
+    Variation,
     PartOfSpeech,
     Sentence,
     Info,
@@ -1350,6 +1352,791 @@ class TestEnPlParser:
                     "(On był niezwykłym człowiekiem, który opowiadał się za pokojem na świecie.)",
                 ]
             ),
+        ]
+
+
+def translate_pl_en(word):
+    html_dump = lookup_online(word).html
+    result = parse_pl_en(html_dump)
+    return result
+
+
+@pytest.mark.vcr()
+class TestPlEnParser:
+    def test_pl_apple(self):
+        result = translate_pl_en("apple")
+        assert result == [
+            Entity(val="Apple"),
+            PartOfSpeech(val="rzeczownik"),
+            Meaning(val="Apple"),
+            Variation(val="Apple (firma komputerowa)"),
+            Sentence(
+                val=[
+                    "Steve Jobs was one of the co-founders of Apple.",
+                    "(Steve Jobs był jednym ze współzałożycieli Apple'a.)",
+                ]
+            ),
+            Sentence(
+                val=["I bought an Apple computer.", "(Kupiłem komputer firmy Apple.)"]
+            ),
+        ]
+
+    def test_pl_krowa(self):
+        result = translate_pl_en("krowa")
+        assert result == [
+            Entity(val="krowa"),
+            PartOfSpeech(val="rzeczownik"),
+            Meaning(val="cow"),
+            Variation(val="krowa"),
+            Sentence(val=["Cows give milk.", "(Krowy dają mleko.)"]),
+            Sentence(val=["The field was full of cows.", "(Pole było pełne krów.)"]),
+            Variation(val="krowa, stara krowa, babsko"),
+            Sentence(
+                val=[
+                    "What is this cow doing in my house?",
+                    "(Co to babsko robi w moim domu?)",
+                ]
+            ),
+            Sentence(
+                val=[
+                    "Don't listen to this old cow, she's telling fairy tales.",
+                    "(Nie słuchaj tej starej krowy, ona opowiada bajki.)",
+                ]
+            ),
+            Sentence(
+                val=[
+                    "My new teacher is a cow, I don't like her.",
+                    "(Moja nowa nauczycielka to stara krowa, nie lubię jej.)",
+                ]
+            ),
+            Meaning(val="moo cow, moo-cow"),
+            Variation(val="krowa (używane przez dzieci)"),
+            Meaning(val="hawkie"),
+            Meaning(val="milk kye"),
+        ]
+
+    def test_pl_wypić(self):
+        result = translate_pl_en("wypić")
+        assert result == [
+            Entity(val="wypić"),
+            PartOfSpeech(val="idiom"),
+            Meaning(val="down something"),
+            Variation(val="wyżłopać, wypić"),
+            Sentence(
+                val=["He downed the beer and belched.", "(On wyżłopał piwo i beknął.)"]
+            ),
+            Sentence(
+                val=[
+                    "After the race, she downed a whole bottle of water.",
+                    "(Po wyścigu ona wypiła całą butelkę wody.)",
+                ]
+            ),
+            PartOfSpeech(val="czasownik"),
+            Meaning(val="neck"),
+            Variation(val="wypić, obalić, golnąć, zrobić butelkę"),
+            Sentence(
+                val=[
+                    "She necked a mug of beer in 15 seconds.",
+                    "(Ona obaliła kufel piwa w 15 sekund.)",
+                ]
+            ),
+            Sentence(
+                val=[
+                    "I can neck this glass of vodka.",
+                    "(Mogę wypić ten kieliszek wódki.)",
+                ]
+            ),
+            Meaning(val="partake, partake of something"),
+            Variation(val="zjeść (porcję czegoś), wypić"),
+            Sentence(
+                val=[
+                    "Would you like to partake of a glass of water?",
+                    "(Masz ochotę wypić szklankę wody?)",
+                ]
+            ),
+            Entity(val="wypić coś"),
+            PartOfSpeech(val="phrasal verb"),
+            Meaning(val="knock something back"),
+            Variation(val="wypić coś, wychylić coś"),
+            Entity(val="pić"),
+            PartOfSpeech(val="czasownik"),
+            Meaning(val="drink"),
+            Sentence(val=["What would you like to drink?", "(Co chciałbyś do picia?)"]),
+            Sentence(
+                val=["She drank a glass of water.", "(Ona wypiła szklankę wody.)"]
+            ),
+            Sentence(
+                val=[
+                    "Can I have something to drink?",
+                    "(Czy mogę prosić coś do picia?)",
+                ]
+            ),
+            Meaning(val="have"),
+            Variation(val="jeść, pić"),
+            Sentence(val=["Let's have dinner.", "(Zjedzmy obiad.)"]),
+            Sentence(
+                val=[
+                    '"Why are you so weak?" "I didn\'t have breakfast."',
+                    '("Czemu jesteś taki słaby?" "Nie jadłem śniadania.")',
+                ]
+            ),
+            Entity(val="wypijać"),
+            PartOfSpeech(val="czasownik"),
+            Meaning(val="consume"),
+            Variation(val="zjadać, wypijać, spożywać, konsumować (np. jedzenie)"),
+            Sentence(
+                val=[
+                    "You can't consume alcohol in public places.",
+                    "(Nie możesz spożywać alkoholu w miejscach publicznych.)",
+                ]
+            ),
+            Sentence(
+                val=[
+                    "I consume 2000 calories a day.",
+                    "(Spożywam 2000 kalorii dziennie.)",
+                ]
+            ),
+            Entity(val="wypicie"),
+            PartOfSpeech(val="rzeczownik"),
+            Meaning(val="downing"),
+            Variation(val="wyżłopanie, wypicie"),
+            Meaning(val="partaking"),
+            Variation(val="zjedzenie (porcji czegoś), wypicie"),
+        ]
+
+    def test_pl_kilogram(self):
+        result = translate_pl_en("kilogram")
+        assert result == [
+            Entity(val="kilogram"),
+            PartOfSpeech(val="rzeczownik"),
+            Meaning(val="kilogram, kilo, kilogramme, kg"),
+            Sentence(
+                val=["It weighs about 10 kilograms.", "(To waży około 10 kilogramów.)"]
+            ),
+        ]
+
+    def test_pl_oszust(self):
+        result = translate_pl_en("oszust")
+        assert result == [
+            Entity(val="oszust"),
+            PartOfSpeech(val="rzeczownik"),
+            Meaning(val="fraud"),
+            Variation(val="oszust, naciągacz"),
+            Sentence(
+                val=[
+                    "You're not a lawyer, you're a fraud.",
+                    "(Nie jesteś prawnikiem, jesteś oszustem.)",
+                ]
+            ),
+            Sentence(
+                val=[
+                    "I invested in your business and you took my money. You're a fraud.",
+                    "(Zainwestowałem w twój biznes, a ty wziąłeś moje pieniądze. Jesteś oszustem.)",
+                ]
+            ),
+            Meaning(val="crook"),
+            Sentence(
+                val=[
+                    "Most of these politicians are just a bunch of crooks.",
+                    "(Większość z tych polityków to tylko banda oszustów.)",
+                ]
+            ),
+            Sentence(
+                val=[
+                    "I was deceived by some crook who told me it was gold.",
+                    "(Zostałem nabrany przez jakiegoś oszusta, który powiedział mi, że to było złoto.)",
+                ]
+            ),
+            Meaning(val="cheat"),
+            Variation(val="oszust, krętacz, szuler (np. w kartach)"),
+            Sentence(
+                val=[
+                    "Jordan Belfort is a well-known American cheat.",
+                    "(Jordan Belfort to dobrze znany amerykański krętacz.)",
+                ]
+            ),
+            Sentence(
+                val=[
+                    "I don't want to play with him, he's a cheat.",
+                    "(Nie chcę z nim grać, to oszust.)",
+                ]
+            ),
+            Meaning(val="cheater"),
+            Variation(val="oszust"),
+            Sentence(val=["Her husband is a cheater.", "(Jej mąż jest oszustem.)"]),
+            Sentence(
+                val=[
+                    "She called me a liar and a cheater.",
+                    "(Ona nazwała mnie kłamcą i oszustem.)",
+                ]
+            ),
+            Meaning(val="trickster, tricker"),
+            Variation(val="oszust, naciągacz"),
+            Meaning(val="fake"),
+            Variation(val="fałszerz, oszust"),
+            Sentence(
+                val=[
+                    "This man is a fake. Don't trust him.",
+                    "(Ten facet jest oszustem. Nie ufaj mu.)",
+                ]
+            ),
+            Sentence(
+                val=[
+                    "A fake is somebody who would use you to his own advantage.",
+                    "(Oszustem jest ktoś, kto wykorzystałby cię na swoją własną korzyść.)",
+                ]
+            ),
+            Meaning(val="fiddler"),
+            Variation(val="kanciarz, oszust"),
+            Meaning(
+                val="con artist, con man, conman, rip-off artist, con merchant, scam artist"
+            ),
+            Variation(val="kanciarz, oszust"),
+            Sentence(
+                val=[
+                    "This con artist has deceived a lot of people.",
+                    "(Ten kanciarz oszukał wielu ludzi.)",
+                ]
+            ),
+            Meaning(val="impostor, imposter"),
+            Variation(val="impostor, oszust (podający się za kogoś innego), szalbierz"),
+            Meaning(val="slicker"),
+            Meaning(val="Hollywood"),
+            Variation(val="kłamca, oszust"),
+            Sentence(
+                val=[
+                    "Don't believe this Hollywood, he wants to steal from you!",
+                    "(Nie wierz temu oszustowi, on chce cię okraść!)",
+                ]
+            ),
+            Sentence(
+                val=[
+                    "My brother is such a Hollywood - don't believe a word he says.",
+                    "(Mój brat jest takim kłamcą - nie wierz w żadne jego słowo.)",
+                ]
+            ),
+            Meaning(val="crowder"),
+            Meaning(val="swindler"),
+            Variation(val="oszust, szachraj, kanciarz, szacher macher"),
+            Meaning(val="fabricator"),
+            Variation(val="fałszerz, oszust, łgarz"),
+            Meaning(val="adventurer"),
+            Variation(val="awanturnik, aferzysta, oszust"),
+            Meaning(val="humbug"),
+            Variation(val="oszust, szachraj"),
+            Meaning(val="player"),
+            Variation(val="manipulant, oszust, krętacz"),
+            Sentence(
+                val=[
+                    "I wouldn't trust this player if I were you.",
+                    "(Nie ufałbym temu krętaczowi na twoim miejscu.)",
+                ]
+            ),
+            Sentence(
+                val=[
+                    "Don't believe him, he's a player - he must be cheating.",
+                    "(Nie wierz mu, to manipulant - na pewno oszukuje.)",
+                ]
+            ),
+            Sentence(
+                val=[
+                    "I know that he's a player but I'm watching his every move - he won't lie to me.",
+                    "(Wiem, że to oszust, ale obserwuję każdy jego ruch - nie okłamie mnie.)",
+                ]
+            ),
+            Meaning(val="phoney, phony"),
+            Variation(val="pozer, oszust"),
+            Meaning(val="racketeer"),
+            Variation(val="gangster, szantażysta, oszust, grandziarz"),
+            Meaning(val="deceiver"),
+            Variation(val="oszust, kłamca, fałszywiec"),
+            Meaning(val="faker"),
+            Variation(val="oszust, fałszerz"),
+            Meaning(val="victimiser, victimizer"),
+            Variation(val="oszust, naciągacz"),
+            Meaning(val="ringer"),
+            Variation(
+                val="oszust, profesjonalista udający amatora w grze (np. w bilard)"
+            ),
+            Meaning(val="imp"),
+            Meaning(val="wyle"),
+            Variation(val="oszust, kłamca, fałszywiec"),
+            Meaning(val="fraudster"),
+            Meaning(val="sharper"),
+            Variation(val="oszust (karciany), szuler"),
+            Meaning(val="scammer, scamster"),
+            Variation(val="oszust, naciągacz, kanciarz"),
+            Meaning(val="diddler"),
+            Variation(val="oszust, krętacz, szuler"),
+            Meaning(val="chouser"),
+            Meaning(val="cozener"),
+            Meaning(val="fleecer"),
+            Variation(val="oszust, szachraj, kanciarz"),
+            Meaning(val="flimflammer"),
+            Variation(val="oszust, szachraj, kanciarz"),
+            Meaning(val="gabber"),
+            Variation(val="oszust, kłamca"),
+            Meaning(val="hoodwinker"),
+            Meaning(val="confidence trickster"),
+            Variation(val="oszust, naciągacz"),
+            Meaning(val="defrauder"),
+            Variation(val="defraudant, oszust"),
+            Meaning(val="snake oil salesman"),
+            Variation(
+                val='osoba świadomie sprzedająca podróbki lub fałszywy towar (np. "cudowne" leki), oszust'
+            ),
+            Meaning(val="chouse, chowse"),
+            Meaning(val="chicaner"),
+            Meaning(val="baffler"),
+            Meaning(val="bunco artist"),
+            Meaning(val="sandbagger"),
+            Variation(val="oszust, krętacz"),
+            Meaning(val="confidence man"),
+            Meaning(val="double-crosser"),
+            Meaning(val="bilker"),
+            Variation(val="oszust, naciągacz"),
+            Meaning(val="off artist"),
+            Variation(val="oszust, naciągacz, kanciarz"),
+            Meaning(val="chiseller, chiseler"),
+            Variation(val="oszust, kanciarz"),
+            Meaning(val="welsher, welcher"),
+            Variation(val="oszust (uciekający z pieniędzmi)"),
+            Meaning(val="four flusher"),
+            Variation(val="oszust, krętacz"),
+            Meaning(val="bunco thief"),
+            Meaning(val="gypster"),
+            Variation(val="kanciarz, oszust"),
+            Meaning(val="mountebank"),
+            Variation(val="szarlatan, oszust, hochsztapler"),
+            Meaning(val="cogger"),
+            Variation(val="oszust (np. w grze w kości)"),
+            Meaning(val="falser"),
+            Variation(val="oszust, kłamca, fałszywiec"),
+            Meaning(val="faitour"),
+            Variation(val="impostor, oszust (podający się za kogoś innego), szalbierz"),
+            Meaning(val="chiseller"),
+            Variation(val="oszust, kanciarz"),
+            Meaning(val="burn artist"),
+            Variation(val="oszust, kanciarz, naciągacz"),
+            Meaning(val="magsman"),
+            Variation(val="oszust, naciągacz"),
+            Meaning(val="pseudo"),
+            Variation(val="fałszywiec, oszust, udawacz"),
+        ]
+
+    def test_pl_auto(self):
+        result = translate_pl_en("auto")
+        assert result == [
+            Entity(val="samochód osobowy, auto osobowe"),
+            PartOfSpeech(val="rzeczownik"),
+            Meaning(val="car, auto, automobile"),
+            Sentence(
+                val=[
+                    "He got struck by a car and is in hospital now.",
+                    "(On został potrącony przez samochód i jest teraz w szpitalu.)",
+                ]
+            ),
+            Sentence(
+                val=[
+                    "I think we should buy a second car.",
+                    "(Myślę, że powinniśmy kupić drugi samochód.)",
+                ]
+            ),
+            Sentence(
+                val=[
+                    "I wanted to buy this car but it was too expensive.",
+                    "(Chciałem kupić ten samochód, ale był za drogi.)",
+                ]
+            ),
+            Sentence(
+                val=[
+                    "I bought myself a brand new automobile.",
+                    "(Kupiłem sobie zupełnie nowy samochód.)",
+                ]
+            ),
+        ]
+
+    def test_pl_droga(self):
+        result = translate_pl_en("droga")
+        assert result == [
+            Entity(val="droga"),
+            PartOfSpeech(val="rzeczownik"),
+            Meaning(val="road"),
+            Variation(val="droga"),
+            Sentence(val=["Which road do we take?", "(Którą drogą pojedziemy?)"]),
+            Sentence(
+                val=["He kept his eyes on the road.", "(On uważnie patrzył na drogę.)"]
+            ),
+            Sentence(
+                val=[
+                    "This road is in very bad condition.",
+                    "(Ta droga jest w bardzo złym stanie.)",
+                ]
+            ),
+            Variation(val="droga (przenośnie, np. droga do celu)"),
+            Sentence(
+                val=[
+                    "The road to championship was a hard one.",
+                    "(Droga do mistrzostwa była ciężka.)",
+                ]
+            ),
+            Sentence(
+                val=[
+                    "My road to success wasn't easy but I did my best.",
+                    "(Droga do sukcesu nie była łatwa, ale robiłem co mogłem.)",
+                ]
+            ),
+            Meaning(val="path"),
+            Variation(val="ścieżka (po której można gdzieś dotrzeć), droga"),
+            Sentence(
+                val=[
+                    "They followed the path until they got to the river.",
+                    "(Oni podążali wzdłuż ścieżki, aż dotarli do rzeki.)",
+                ]
+            ),
+            Sentence(
+                val=[
+                    "He chose an interesting career path.",
+                    "(On wybrał interesującą ścieżkę kariery.)",
+                ]
+            ),
+            Sentence(
+                val=["This is the path to victory!", "(To jest droga do zwycięstwa!)"]
+            ),
+            Meaning(val="way"),
+            Variation(val="trasa, droga"),
+            Sentence(
+                val=[
+                    "Could you tell me the way to the airport?",
+                    "(Możesz mi wskazać drogę na lotnisko?)",
+                ]
+            ),
+            Sentence(
+                val=[
+                    "They stopped for fuel on their way home.",
+                    "(W drodze do domu zatrzymali się, żeby zatankować.)",
+                ]
+            ),
+            Sentence(
+                val=[
+                    "The way to our new house was bumpy.",
+                    "(Droga do naszego nowego domu była wyboista.)",
+                ]
+            ),
+            Variation(val="droga, przejście (przestrzeń przed czymś)"),
+            Sentence(val=["Get out of the way.", "(Zejdź z drogi.)"]),
+            Sentence(
+                val=[
+                    "The way was too narrow to fit the piano.",
+                    "(Przejście było zbyt wąskie, aby zmieścić pianino.)",
+                ]
+            ),
+            Meaning(val="route"),
+            Variation(val="trasa, droga"),
+            Sentence(
+                val=[
+                    "Take Route 65 north and get off at exit 4A.",
+                    "(Pojedź drogą numer 65 na północ i zjedź na wyjeździe numer 4A.)",
+                ]
+            ),
+            Sentence(
+                val=[
+                    "As you travel, have her follow the route on the map.",
+                    "(Jak będziecie jechać, niech ona śledzi trasę na mapie.)",
+                ]
+            ),
+            Sentence(
+                val=[
+                    "What is the shortest route from here to the airport?",
+                    "(Jaka jest najkrótsza droga stąd na lotnisko?)",
+                ]
+            ),
+            Meaning(val="drive"),
+            Variation(val="jazda, droga, podróż (samochodem)"),
+            Sentence(
+                val=["The drive home is easier.", "(Jazda do domu jest łatwiejsza.)"]
+            ),
+            Sentence(val=["This is a long drive.", "(To jest długa droga.)"]),
+            Sentence(
+                val=[
+                    "We've got a long drive ahead of us.",
+                    "(Mamy długą drogę przed sobą.)",
+                ]
+            ),
+            Sentence(val=["It's a 90 mile drive.", "(To 90 mil drogi.)"]),
+            Variation(val="droga (używane w nazwach dróg)"),
+            Sentence(
+                val=[
+                    "Have your ever been to Rodeo Drive?",
+                    "(Czy byłeś kiedyś na Rodeo Drive?)",
+                ]
+            ),
+            Meaning(val="track"),
+            Variation(val="ścieżka, droga"),
+            Sentence(
+                val=[
+                    "Follow this track and you'll find the beach you're looking for.",
+                    "(Podążaj tą drogą, a znajdziesz plażę, której szukasz.)",
+                ]
+            ),
+            Sentence(
+                val=[
+                    "I saw a hare on a forest track.",
+                    "(Zobaczyłem zająca na leśnej ścieżce.)",
+                ]
+            ),
+            Variation(val="tor, droga (np. burzy, tajfunu)"),
+            Sentence(
+                val=[
+                    "You can watch the track of the storm online.",
+                    "(Możesz oglądać tor burzy w internecie.)",
+                ]
+            ),
+            Sentence(
+                val=[
+                    "We have to analyze the track of the hurricane to be ready for it in the future.",
+                    "(Musimy przeanalizować drogę huraganu, żeby w przyszłości być na niego gotowym.)",
+                ]
+            ),
+            Meaning(val="channel"),
+            Variation(val="kanał, droga (system, metoda uzyskiwania informacji, dóbr)"),
+            Sentence(
+                val=[
+                    "There should be a direct channel of communication between the two offices.",
+                    "(Pomiędzy tymi dwoma biurami powinien być bezpośredni kanał komunikacyjny.)",
+                ]
+            ),
+            Sentence(
+                val=[
+                    "Please use the usual channel of contact.",
+                    "(Proszę korzystać ze zwykłego kanału kontaktu.)",
+                ]
+            ),
+            Variation(val="kanał, droga, sposób (np. wyrażania siebie)"),
+            Sentence(
+                val=[
+                    "That was an unusual channel of expressing emotions.",
+                    "(To był niezwykły sposób wyrażania emocji.)",
+                ]
+            ),
+            Sentence(
+                val=[
+                    "He found a channel of expressing his inner feelings.",
+                    "(On znalazł sposób na wyrażenie swoich wewnętrznych uczuć.)",
+                ]
+            ),
+            Meaning(val="avenue"),
+            Variation(val="droga (sposób osiągnięcia czegoś), możliwość"),
+            Sentence(
+                val=[
+                    "This job was her avenue to success.",
+                    "(Ta praca była dla niej drogą do sukcesu.)",
+                ]
+            ),
+            Sentence(
+                val=[
+                    "My avenue of escape is through this door.",
+                    "(Moja droga ucieczki wiedzie przez te drzwi.)",
+                ]
+            ),
+            Meaning(val="pad"),
+            Variation(val="droga, ścieżka"),
+            Meaning(val="trackway"),
+            Variation(val="ścieżka, droga"),
+            Meaning(val="passway"),
+            Meaning(val="marg"),
+            Variation(val="ulica, droga (w adresach, zapożyczone z jęz. indyjskiego)"),
+            Entity(val="drogi"),
+            PartOfSpeech(val="przymiotnik"),
+            Meaning(val="expensive"),
+            Sentence(
+                val=[
+                    "This watch is too expensive for me.",
+                    "(Ten zegarek jest dla mnie za drogi.)",
+                ]
+            ),
+            Sentence(
+                val=[
+                    "She bought a very expensive dress.",
+                    "(Ona kupiła bardzo drogą sukienkę.)",
+                ]
+            ),
+            Sentence(
+                val=[
+                    "Living in the city is really expensive.",
+                    "(Życie w mieście jest naprawdę drogie.)",
+                ]
+            ),
+            Meaning(val="beloved"),
+            Variation(val="ukochany, drogi"),
+            Sentence(
+                val=[
+                    "My beloved wife died two years ago.",
+                    "(Moja ukochana żona zmarła dwa lata temu.)",
+                ]
+            ),
+            Sentence(
+                val=[
+                    "This beloved country is threatened.",
+                    "(Ten ukochany kraj jest zagrożony.)",
+                ]
+            ),
+            Sentence(
+                val=[
+                    "His beloved son studies at the university.",
+                    "(Jego ukochany syn studiuje na uniwersytecie.)",
+                ]
+            ),
+            Meaning(val="dear"),
+            Variation(val="drogi, szanowny (używane w nagłówkach listów)"),
+            Sentence(
+                val=[
+                    "Dear Sir or Madam, (at the beginning of a letter)",
+                    "(Szanowni Państwo, (na początku listu))",
+                ]
+            ),
+            Sentence(
+                val=[
+                    "Dear Kate, (at the beginning of a letter)",
+                    "(Droga Kate, (na początku listu))",
+                ]
+            ),
+            Variation(val="drogi (np. przyjaciel)"),
+            Sentence(
+                val=[
+                    "My dear friend died last year.",
+                    "(Mój drogi przyjaciel zmarł w zeszłym roku.)",
+                ]
+            ),
+            Sentence(
+                val=[
+                    "His brother was very dear to him.",
+                    "(Jego brat był mu bardzo drogi.)",
+                ]
+            ),
+            Sentence(
+                val=[
+                    "It's good to be back in dear old Warsaw.",
+                    "(Dobrze być z powrotem w kochanej starej Warszawie.)",
+                ]
+            ),
+            Variation(val="drogi, kosztowny"),
+            Sentence(
+                val=[
+                    "Cigarettes in the European Union are dearer than in the countries that are not the member states.",
+                    "(Papierosy w Unii Europejskiej są droższe niż w krajach niebędących krajami członkowskimi.)",
+                ]
+            ),
+            Sentence(
+                val=[
+                    "I thought he was a scrooge, but he bought the dearest TV.",
+                    "(Myślałem, że on jest skąpy, ale kupił najdroższy telewizor.)",
+                ]
+            ),
+            Meaning(val="lush"),
+            Variation(val="drogi, luksusowy, bogaty"),
+            Meaning(val="darling"),
+            Variation(val="drogi, najukochańszy, najdroższy"),
+            Sentence(
+                val=[
+                    "She's always been my darling sister.",
+                    "(Ona zawsze była moją najukochańszą siostrą.)",
+                ]
+            ),
+            Sentence(
+                val=[
+                    "My darling wife is an angel.",
+                    "(Moja najukochańsza żona jest aniołem.)",
+                ]
+            ),
+            Meaning(val="valued"),
+            Variation(val="drogi, ceniony, cenny"),
+            Meaning(val="pricey, pricy"),
+            Variation(val="drogi, kosztowny"),
+            Meaning(val="high-priced"),
+            Meaning(val="high-cost"),
+            Variation(val="drogi, kosztowny"),
+            Meaning(val="cher"),
+            Variation(
+                val="drogi, ukochany, kochany (używane do mężczyzny lub chłopaka)"
+            ),
+            Meaning(val="spendy"),
+            Variation(val="drogi, kosztowny"),
+            Meaning(val="cost-prohibitive"),
+            Variation(val="kosztowny, drogi"),
+            Meaning(val="high-street"),
+            Variation(val="elegancki, drogi, prestiżowy"),
+            Meaning(val="expenseful"),
+            Meaning(val="spenny"),
+            Meaning(val="exy"),
+            PartOfSpeech(val="rzeczownik"),
+            Meaning(val="roads"),
+            Sentence(
+                val=[
+                    "The roads in Poland are in bad shape.",
+                    "(Drogi w Polsce są w złym stanie.)",
+                ]
+            ),
+            Sentence(
+                val=[
+                    "There are far too many accidents on European roads.",
+                    "(Na europejskich drogach dochodzi do zbyt wielu wypadków.)",
+                ]
+            ),
+            Meaning(val="tract"),
+            Variation(val="przewód (pokarmowy), drogi (oddechowe), układ (rozrodczy)"),
+            Sentence(
+                val=[
+                    "Nancy has a urinary tract infection.",
+                    "(Nancy ma zakażenie dróg moczowych.)",
+                ]
+            ),
+            Sentence(
+                val=[
+                    "Something seems to be stuck in the dog's food tract.",
+                    "(Wygląda na to, że coś utknęło w przewodzie pokarmowym psa.)",
+                ]
+            ),
+            Sentence(
+                val=[
+                    "We need to clear his air tract.",
+                    "(Musimy udrożnić jego drogi oddechowe.)",
+                ]
+            ),
+            Meaning(val="swankiness"),
+            Variation(val="drogi, luksusowy, stylowy"),
+            Meaning(val="trackside"),
+            Variation(val="obszar wzdłuż ścieżki, drogi"),
+            Variation(val="obszar wzdłuż toru, drogi"),
+            Meaning(val="dautie, dawtie"),
+            Variation(val="drogi, najukochańszy, najdroższy"),
+            Entity(val="swoją drogą"),
+            PartOfSpeech(val="przysłówek"),
+            Meaning(val="by the way, BTW, bee-tee-dubs"),
+            Variation(
+                val="jakby co, swoją drogą, przy okazji, nawiasem mówiąc, à propos"
+            ),
+            Sentence(
+                val=[
+                    "By the way, what are you searching for?",
+                    "(Swoją drogą, czego szukasz?)",
+                ]
+            ),
+            Sentence(
+                val=[
+                    "How are you doing now, by the way?",
+                    "(Jak sobie teraz radzisz, swoją drogą?)",
+                ]
+            ),
+            Sentence(
+                val=[
+                    "By the way, I must buy some shoes.",
+                    "(Swoją drogą, muszę kupić jakieś buty.)",
+                ]
+            ),
+            Entity(val="mój drogi"),
+            Meaning(val="my dear fellow"),
+            Variation(val="mój drogi, mój przyjacielu"),
         ]
 
 
