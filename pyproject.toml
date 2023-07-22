@@ -9,6 +9,12 @@ homepage = "https://github.com/silenc3r/dikicli"
 repository = "https://github.com/silenc3r/dikicli"
 keywords = ["diki", "dictionary"]
 classifiers = [
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3 :: Only",
     "Development Status :: 5 - Production/Stable",
     "Environment :: Console",
     "Intended Audience :: Education",
@@ -20,12 +26,11 @@ classifiers = [
 ]
 
 [tool.poetry.dependencies]
-python = "^3.6"
-beautifulsoup4 = ">=4.0"
-requests = ">=2.25.1"
+python = "^3.8"
+beautifulsoup4 = ">=4.8"
 
 [tool.poetry.group.dev.dependencies]
-pytest = ">=6.2.2"
+pytest = ">=7.4.0"
 pytest-vcr = ">=1.0.2"
 
 [tool.poetry.scripts]
