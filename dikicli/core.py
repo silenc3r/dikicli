@@ -275,7 +275,7 @@ def _write_html_file(word, translations, data_dir, pl_to_en=False):
     data_dir : pathlib.Path
         Location where html files are saved.
     """
-    content_str = "\n".join(dikicli.parsers.generate_word_page(translations))
+    content_str = dikicli.parsers.generate_word_page(translations)
     html_string = HTML_TEMPLATE.replace("{% word %}", word)
     html_string = html_string.replace("{% content %}", content_str)
 

@@ -2176,69 +2176,69 @@ class TestCachedParser:
     def test_guest(self):
         html_dump = lookup_online("guest").html
         translations = parse_en_pl(html_dump)
-        cached_html = "".join(generate_word_page(translations))
+        cached_html = generate_word_page(translations)
         cached_translations = parse_cached(cached_html)
         assert translations == cached_translations
 
     def test_switch(self):
         html_dump = lookup_online("switch").html
         translations = parse_en_pl(html_dump)
-        cached_html = "".join(generate_word_page(translations))
+        cached_html = generate_word_page(translations)
         cached_translations = parse_cached(cached_html)
         assert translations == cached_translations
 
     def test_weight(self):
         html_dump = lookup_online("weight").html
         translations = parse_en_pl(html_dump)
-        cached_html = "".join(generate_word_page(translations))
+        cached_html = generate_word_page(translations)
         cached_translations = parse_cached(cached_html)
         assert translations == cached_translations
 
     def test_would(self):
         html_dump = lookup_online("would").html
         translations = parse_en_pl(html_dump)
-        cached_html = "".join(generate_word_page(translations))
+        cached_html = generate_word_page(translations)
         cached_translations = parse_cached(cached_html)
         assert translations == cached_translations
 
     def test_subordinate(self):
         html_dump = lookup_online("subordinate").html
         translations = parse_en_pl(html_dump)
-        cached_html = "".join(generate_word_page(translations))
+        cached_html = generate_word_page(translations)
         cached_translations = parse_cached(cached_html)
         assert translations == cached_translations
 
     def test_apple(self):
         html_dump = lookup_online("apple").html
         translations = parse_en_pl(html_dump)
-        cached_html = "".join(generate_word_page(translations))
+        cached_html = generate_word_page(translations)
         cached_translations = parse_cached(cached_html)
         assert translations == cached_translations
 
     def test_sad(self):
         html_dump = lookup_online("sad").html
         translations = parse_en_pl(html_dump)
-        cached_html = "".join(generate_word_page(translations))
+        cached_html = generate_word_page(translations)
         cached_translations = parse_cached(cached_html)
         assert translations == cached_translations
 
     def test_pet(self):
         html_dump = lookup_online("pet").html
         translations = parse_en_pl(html_dump)
-        cached_html = "".join(generate_word_page(translations))
+        cached_html = generate_word_page(translations)
         cached_translations = parse_cached(cached_html)
         assert translations == cached_translations
 
     def test_abandon(self):
         html_dump = lookup_online("abandon").html
         translations = parse_en_pl(html_dump)
-        cached_html = "".join(generate_word_page(translations))
+        cached_html = generate_word_page(translations)
         cached_translations = parse_cached(cached_html)
         assert translations == cached_translations
 
     def test_tumult(self):
         html_dump = lookup_online("tumult").html
         translations = parse_en_pl(html_dump)
-        cached_html = "".join(generate_word_page(translations))
+        cached_html = generate_word_page(translations)
         cached_translations = parse_cached(cached_html)
         assert translations == cached_translations

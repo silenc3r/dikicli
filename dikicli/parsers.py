@@ -336,13 +336,12 @@ class PlEnParser(HTMLParser):
 
     def is_end_of_meaning(self, tag, attrs):
         return (
-            tag == "span" and attrs == [("class", "recordingsAndTranscriptions")]
-        ) or (
-            tag == "span"
-            and attrs == [("class", "dictionaryEntryHeaderAdditionalInformation")]
-        ) or (
-            tag == "span"
-            and attrs == [("class", "meaningAdditionalInformation")]
+            (tag == "span" and attrs == [("class", "recordingsAndTranscriptions")])
+            or (
+                tag == "span"
+                and attrs == [("class", "dictionaryEntryHeaderAdditionalInformation")]
+            )
+            or (tag == "span" and attrs == [("class", "meaningAdditionalInformation")])
         )
 
     def is_expecting_example_sentence(self, tag, attrs):
@@ -388,106 +387,118 @@ class NotFoundParser(HTMLParser):
             self.suggestions.append(data.lstrip())
 
 
-def generate_word_page(translations):
+def generate_html_lines(translations):
     """Create list of html strings that make up word page.
     translations: list of translation elements
     returns: list of html lines
     """
-    from dikicli.parsers import Entity, PartOfSpeech, Meaning, Sentence
-
     content = []
-    next_entity = False
-    first_sentence = True
-    first_meaning = True
-    content.append('<div class="translation">')
-    content.append('<div class="word">')
-    for i, t in enumerate(translations):
-        if isinstance(t, Entity):
-            first_sentence = True
-            first_meaning = True
-            if i > 0:
-                if isinstance(translations[i - 1], Sentence):
-                    content.append("</div><!--close examples-->")  # close sentences
-                    content.append("</div><!--close meaning-->")  # close meaning
-                    content.append("</ol>")
-                    content.append(
-                        "</div><!--close part-of-speech-->"
-                    )  # close part of speech
-                    content.append(
-                        "</div><!--close translation-->"
-                    )  # close translation
-                    content.append("<br>")
-                    content.append('<div class="translation">')
-                    content.append('<div class="word">')
-                if isinstance(translations[i - 1], Meaning):
-                    content.append("</div><!--close meaning-->")  # close meaning
-                    content.append("</ol>")
-                    content.append(
-                        "</div><!--close part-of-speech-->"
-                    )  # close part of speech
-                    content.append(
-                        "</div><!--close translation-->"
-                    )  # close translation
-                    content.append("<br>")
-                    content.append('<div class="translation">')
-                    content.append('<div class="word">')
-            content.append(f"<h2>{t.val}</h2>")
-        elif isinstance(t, PartOfSpeech):
-            first_sentence = True
-            first_meaning = True
-            if isinstance(translations[i - 1], Sentence):
-                content.append("</div><!--close examples-->")
-                content.append("</div><!--close meaning-->")
-                content.append("</ol>")
-                content.append(
-                    "</div><!--close part-of-speech-->"
-                )  # close part of speech
-                content.append("<br>")
-            elif isinstance(translations[i - 1], Meaning):
-                content.append("</div><!--close meaning-->")
-                content.append("</ol>")
-                content.append(
-                    "</div><!--close part-of-speech-->"
-                )  # close part of speech
-                content.append("<br>")
-            elif isinstance(translations[i - 1], Entity):
-                content.append("</div><!--close word-->")  # close word
-            content.append(f'<div class="part-of-speech">')
-            content.append(f'<p class="part-name">[{t.val}]</p>')
-        elif isinstance(t, Meaning):
-            first_sentence = True
-            if isinstance(translations[i - 1], Sentence):
-                content.append("</div><!--close examples-->")
-                content.append("</div><!--close meaning-->")
-            elif isinstance(translations[i - 1], Meaning):
-                content.append("</div><!--close meaning-->")
-            elif isinstance(translations[i - 1], Entity):
-                content.append("</div><!--close word-->")  # close word
-            if first_meaning:
-                first_meaning = False
-                content.append("<ol>")
-            content.append('<div class="meaning">')
-            content.append(f"<strong><li><span>{t.val}</span></li></strong>")
-        elif isinstance(t, Sentence):
-            if first_sentence:
-                first_sentence = False
-                content.append('<div class="examples">')
-            content.append(f"<p><span>{t.val[0]}</span><br><span>{t.val[1]}</span></p>")
+
+    def peek(index, type_):
+        if not index < len(translations):
+            return False
+
+        return isinstance(translations[index], type_)
+
+    def append_indented(tag, indent):
+        indent_str = " " * indent * 4
+        content.append(indent_str + tag)
+
+    def consume_entity(index, indent=0):
+        elem = translations[index]
+        if not isinstance(elem, Entity):
+            raise ValueError("Expected `Entity`, got %s: %s" % (type(elem), elem))
+        append_indented('<div class="word">', indent + 1)
+        append_indented(f"<h2>{elem.val}</h2>", indent + 2)
+        while peek(index + 1, Entity):
+            index += 1
+            elem = translations[index]
+            append_indented(f"<h2>{elem.val}</h2>", indent + 2)
+        append_indented("</div><!--close word-->", indent + 1)
+        index = consume_pos(index + 1, indent + 1)
+        append_indented("<br>", indent + 1)
+        return index
+
+    def consume_pos(index, indent):
+        elem = translations[index]
+        if isinstance(elem, PartOfSpeech):
+            append_indented(f'<div class="part-of-speech">', indent)
+            append_indented(f'<p class="part-name">[{elem.val}]</p>', indent + 1)
+            append_indented("<ol>", indent + 1)
+            index = consume_meaning(index + 1, indent + 2)
+            append_indented("</ol>", indent + 1)
+            append_indented("</div><!--close part-of-speech-->", indent)
+            if peek(index, PartOfSpeech):
+                append_indented("<br>", indent)
+                index = consume_pos(index, indent)
+            return index
+        elif isinstance(elem, Meaning):
+            append_indented("<ol>", indent)
+            index = consume_meaning(index, indent + 1)
+            append_indented("</ol>", indent)
+            return index
         else:
-            raise TypeError("Invalid translation item type %s" % type(t))
+            raise ValueError(
+                "Expected `PartOfSpeech` or `Meaning`, got %s: %s" % (type(elem), elem)
+            )
 
-    if isinstance(translations[-1], Sentence):
-        content.append("</div><!--close examples-->")
-        content.append("</div><!--close meaning-->")
-        content.append("</ol>")
-        content.append("</div><!--close part-of-speech-->")  # close part of speech
-    elif isinstance(translations[-1], Meaning):
-        content.append("</div><!--close meaning-->")
-        content.append("</ol>")
-        content.append("</div><!--close part-of-speech-->")  # close part of speech
-    content.append("</div><!--close translation-->")  # close translation
+    def consume_meaning(index, indent):
+        elem = translations[index]
+        if not isinstance(elem, Meaning):
+            raise ValueError("Expected `Meaning`, got %s: %s" % s(type(elem), elem))
 
+        append_indented("<li>", indent)
+        append_indented('<div class="meaning">', indent + 1)
+        append_indented(f"<p><strong><span>{elem.val}</span></strong></p>", indent + 2)
+        index = consume_variation(index + 1, indent + 2)
+        append_indented("</div><!--close meaning-->", indent + 1)
+        append_indented("</li>", indent)
+
+        if peek(index, Meaning):
+            index = consume_meaning(index, indent)
+
+        return index
+
+    def consume_variation(index, indent):
+        if index >= len(translations):
+            return index
+        elem = translations[index]
+        if isinstance(elem, Variation):
+            # TODO
+            pass
+        elif isinstance(elem, Sentence):
+            append_indented('<div class="examples">', indent)
+            index = consume_sentence(index, indent + 1)
+            append_indented("</div><!--close examples-->", indent)
+            return index
+        else:
+            return index
+
+    def consume_sentence(index, indent):
+        if index >= len(translations):
+            return index
+
+        elem = translations[index]
+        if isinstance(elem, Sentence):
+            append_indented(
+                f"<p><span>{elem.val[0]}</span><br><span>{elem.val[1]}</span></p>",
+                indent,
+            )
+            index = consume_sentence(index + 1, indent)
+
+        return index
+
+    content.append('<div class="translation">')
+    index = 0
+    while index < len(translations):
+        index = consume_entity(index)
+    content.append("</div><!--close translation-->")
     return content
+
+
+def generate_word_page(translations):
+    html_lines = generate_html_lines(translations)
+    return "\n".join(html_lines)
 
 
 class CachedParser(HTMLParser):
@@ -520,7 +531,7 @@ class CachedParser(HTMLParser):
         if tag == "div":
             self.read_entity = False
             self.read_examples = False
-        elif tag == "li":
+        elif tag == "strong":
             self.result.append(Meaning("".join(self.meanings)))
             self.meanings = []
             self.read_meaning = False
