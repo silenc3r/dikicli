@@ -17,7 +17,7 @@ import urllib.parse
 from bs4 import BeautifulSoup
 
 import dikicli.parsers
-from dikicli.helpers import flatten
+from dikicli.helpers import flatten, flatten_compat
 from dikicli.templates import CONFIG_TEMPLATE
 from dikicli.templates import HTML_TEMPLATE
 
@@ -49,6 +49,9 @@ DEBUG = os.environ.get("DIKI_DEBUG")
 
 logger = logging.getLogger(__name__)
 
+
+class ParseError(Exception):
+    pass
 
 class WordNotFound(Exception):
     pass
@@ -149,10 +152,11 @@ def lookup_online(word: str) -> str:
     try:
         response = urlopen(request)
         content = response.read().decode("utf-8")
-        return ContentSuccess(content)
+        return content
     except urllib.error.HTTPError as e:
         if e.code == 404:
-            return ContentNotFound(e.read().decode("utf-8"))
+            content = e.read().decode("utf-8")
+            return content
         raise e
 
 
@@ -180,7 +184,8 @@ def _parse_html(html_dump, pl_to_en=False):
 
     soup = BeautifulSoup(html_dump, "html.parser")
     translations = []
-    for entity in soup.select(
+    dikiContainer = soup.find("div", class_="dikiContainer")
+    for entity in dikiContainer.select(
         "div.diki-results-left-column > div > div.dictionaryEntity"
     ):
         if not pl_to_en:
@@ -222,10 +227,89 @@ def _parse_html(html_dump, pl_to_en=False):
     if translations:
         return translations
     # if translation wasn't found check if there are any suggestions
-    suggestions = soup.find("div", class_="dictionarySuggestions")
+    not_found = dikiContainer.p.img.find(string=True, recursive=False).strip()
+    suggestions = dikiContainer.div.b
     if suggestions:
-        raise WordNotFound(suggestions.get_text().strip())
-    raise WordNotFound("Nie znaleziono tłumaczenia wpisanej frazy")
+        raise WordNotFound(f"{not_found}\n{suggestions.get_text().strip()}")
+    raise WordNotFound(not_found)
+
+
+def parse_en_pl(html_dump):
+    """Parse html string."""
+
+    soup = BeautifulSoup(html_dump, "html.parser")
+    result = []
+    dikiContainer = soup.find("div", class_="dikiContainer")
+
+    # word not found
+    if not dikiContainer.find("div", class_="diki-results-container", recursive=False):
+        err_msg = dikiContainer.p.img.find(string=True, recursive=False).strip()
+        suggestions = dikiContainer.div.b
+        if suggestions:
+            err_msg += "\n" + suggestions.get_text().strip()
+        raise WordNotFound(err_msg)
+
+    id_en_pl = dikiContainer.find_all("div", id="en-pl")
+    if len(id_en_pl) > 1:
+        raise ParseError("Didn't expect multiple divs with 'en-pl' tag")
+
+    # word found, moving to 'diki-results-container'
+    en_pl_parent = id_en_pl[0].parent
+    _newline = en_pl_parent.next_sibling
+    # first sibling should be newline
+    if _newline.get_text() != "\n":
+        raise ParseError("Expected newline")
+
+    # second sibling should contain our results
+    resultsContainer = _newline.next_sibling
+    if not (resultsContainer.has_attr('class')
+            and resultsContainer.get('class') == ['diki-results-container']):
+        raise ParseError("Expected 'diki-results-container'")
+
+    left_column = resultsContainer.find("div", class_="diki-results-left-column").find("div")
+    entities = left_column.find_all("div", class_="dictionaryEntity")
+
+    for ent in entities:
+        entry = {}
+        variants = ent.find("div", class_="hws").find_all("span", class_="hw")
+        entry["Entry"] = [v.get_text().strip() for v in variants]
+        entry["PartsOfSpeech"] = []
+        pos_nodes = ent.find_all("div", class_="partOfSpeechSectionHeader")
+        parts = (p.get_text().strip().replace("\xa0", " ") for p in pos_nodes)
+        meaning_nodes = ent.find_all("ol", class_="foreignToNativeMeanings", recursive=False)
+
+        if len(pos_nodes) == 0 and len(meaning_nodes) > 1:
+            raise ParseError("Found 0 partOfSpeech and many foreignToNativeMeanings")
+
+        for pos, mean in zip_longest(parts, meaning_nodes, fillvalue=""):
+            mean_list = []
+            for elem in mean.find_all("li", recursive=False):
+                # this needs to be recursive because profanity words are contained in additional span
+                meaning = [m.get_text().strip() for m in elem.find_all("span", class_="hw", recursive=True)]
+                if not meaning:
+                    raise ParseError("Meaning is empty")
+                sentences = []
+                # recursive because of profanity words
+                for ex_node in elem.find_all("div", class_="exampleSentence", recursive=True):
+                    sentence = {}
+                    stc = ""
+                    for s in ex_node.find_all(string=True, recursive=False):
+                        stc = s.strip()
+                        if stc:
+                            break
+                    if not stc:
+                        raise ParseError("Example sentence is empty")
+                    sentence["Sentence"] = stc
+                    sentence["Translation"] = ex_node.find("span", class_="exampleSentenceTranslation").get_text().strip()
+                    if not sentence["Translation"]:
+                        raise ParseError("Sentence translation is empty")
+                    sentences.append(sentence)
+                mean_list.append({"Meaning": meaning, "ExampleSentences": sentences})
+            entry["PartsOfSpeech"].append({"Part": pos, "Meanings": mean_list})
+
+        result.append(entry)
+
+    return result
 
 
 def _cache_lookup(word, data_dir, pl_to_en=False):
@@ -376,20 +460,16 @@ def translate(word, config, use_cache=True, pl_to_en=False):
     if translation:
         return translation
 
-    match (lookup_online(word)):
-        case ContentNotFound(content):
-            translation = dikicli.parsers.parse_not_found(content)
-        case ContentSuccess(content):
-            if pl_to_en:
-                # FIXME: it is totally broken
-                translation = flatten(_parse_html(content, pl_to_en))
-                # TODO: write file
-            else:
-                translation = dikicli.parsers.parse_en_pl(content)
-                _write_html_file(word, translation, data_dir, pl_to_en=pl_to_en)
-
-    if not pl_to_en:
-        _write_index_file(data_dir)
+    content = lookup_online(word)
+    if pl_to_en:
+        # FIXME: it is totally broken
+        translation = flatten_compat(_parse_html(content, pl_to_en))
+        # TODO: write file
+    else:
+        # translation = dikicli.parsers.parse_en_pl(content)
+        translation = flatten_compat(parse_en_pl(content))
+        # _write_html_file(word, translation, data_dir, pl_to_en=pl_to_en)
+        # _write_index_file(data_dir)
 
     return translation
 

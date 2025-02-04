@@ -13,6 +13,7 @@ from dikicli.core import display_index
 from dikicli.core import get_stats
 from dikicli.core import translate
 from dikicli.core import wrap_text
+from dikicli.core import WordNotFound
 
 LOG_FILE = CACHE_DIR.joinpath("diki.log")
 if not CACHE_DIR.exists():
@@ -122,10 +123,14 @@ def _main():
     if args.word:
         use_cache = not args.refresh
         pl_to_en = args.pol_eng
-        translation = translate(args.word, config, use_cache, pl_to_en)
-        wrapped_text = "\n".join(wrap_text(translation, linewrap))
-        print(wrapped_text)
-        sys.exit(0)
+        try:
+            translation = translate(args.word, config, use_cache, pl_to_en)
+            wrapped_text = "\n".join(wrap_text(translation, linewrap))
+            print(wrapped_text)
+            sys.exit(0)
+        except WordNotFound as e:
+            print(e, file=sys.stderr)
+            sys.exit(1)
 
     # open index file in browser
     if args.display_index:

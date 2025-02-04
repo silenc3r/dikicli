@@ -15,15 +15,8 @@ import tempfile
 import shutil
 import pytest
 from dikicli.core import lookup_online
-from dikicli.core import _parse_html
-from dikicli.helpers import flatten
-from dikicli.parsers import (
-    parse_en_pl,
-    Entity,
-    Meaning,
-    PartOfSpeech,
-    Sentence,
-)
+from dikicli.core import _parse_html, parse_en_pl
+from dikicli.helpers import to_dict
 
 
 @pytest.fixture(autouse=True)
@@ -50,15 +43,12 @@ class TestCompareAll:
 """)
         words = get_words()
         for w in words:
-            comma_problems = ["hubris", "misfit", "wiry", "until", "scoop", "strain", "work", "hog"]
-            if w in comma_problems:
-                continue
             safe_w = w.replace("'", "_").replace("-", "_").replace(" ", "_")
             f.write(f"""\
     def test_compare_{safe_w}(self):
-        html_dump = lookup_online("{w}").html
+        html_dump = lookup_online("{w}")
         result = parse_en_pl(html_dump)
-        f_result = flatten(_parse_html(html_dump))
+        f_result = to_dict(_parse_html(html_dump))
         assert result == f_result
 
 """)
