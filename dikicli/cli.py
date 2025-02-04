@@ -124,7 +124,8 @@ def _main():
         use_cache = not args.refresh
         pl_to_en = args.pol_eng
         try:
-            translation = translate(args.word, config, use_cache, pl_to_en)
+            data_dir = pathlib.Path(config["data dir"])
+            translation = translate(args.word, data_dir, use_cache, pl_to_en)
             wrapped_text = "\n".join(wrap_text(translation, linewrap))
             print(wrapped_text)
             sys.exit(0)

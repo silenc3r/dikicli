@@ -431,15 +431,15 @@ def save_file(filename, data, mk_parents=True):
         f.write(data)
 
 
-def translate(word, config, use_cache=True, pl_to_en=False):
+def translate(word, data_dir, use_cache=True, pl_to_en=False):
     """Translate a word.
 
     Parameters
     ----------
     word : str
         Word to translate.
-    config : Config
-        Configuration settings.
+    data_dir : Path
+        Data directory path.
     use_cache : bool, optional
         Wheter to use cache.
     pl_to_en : bool, optional
@@ -451,7 +451,6 @@ def translate(word, config, use_cache=True, pl_to_en=False):
         Translation of a word.
     """
     translation = None
-    data_dir = Path(config["data dir"])
 
     if use_cache:
         logger.debug("Checking cache: %s", word)
@@ -463,7 +462,7 @@ def translate(word, config, use_cache=True, pl_to_en=False):
     content = lookup_online(word)
     if pl_to_en:
         # FIXME: it is totally broken
-        translation = flatten_compat(_parse_html(content, pl_to_en))
+        translation = flatten(_parse_html(content, pl_to_en))
         # TODO: write file
     else:
         # translation = dikicli.parsers.parse_en_pl(content)
