@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
 import configparser
+import json
 import logging
 import os
 import re
@@ -369,6 +370,46 @@ def _write_html_file(word, translations, data_dir, pl_to_en=False):
     translations_dir = data_dir.joinpath(trans_dir)
     fname = translations_dir.joinpath("{word}.html".format(word=word))
     save_file(fname, html_string, mk_parents=True)
+
+
+def cache_lookup(word, cache_dir):
+    """Check cache for given word.
+
+    Args:
+        word (str): Word to look up.
+        cache_dir (pathlib.Path): Path to cache directory.
+
+    Returns:
+        dict or None: Translation structure or None.
+
+    """
+    logger.debug("Cache lookup: %s in cache_dir: %s", (word, cache_dir.as_posix()))
+    filename = cache_dir / f"{word}.json"
+    if filename.is_file():
+        with open(filename) as f:
+            logger.debug("Cache hit: %s", word)
+            return json.load(f)
+
+    logger.debug("Cache miss: %s", word)
+
+
+def cache_store(word, translations, cache_dir):
+    """Create json file with translations of the word.
+
+    If cache_dir doesn't exist it will be created.
+
+    Args:
+        word (str)               : Word that was translated
+        translations (dict)      : Translations structure
+        cache_dir (pathlib.Path) : Path to cache directory
+    """
+    if not cache_dir.exists():
+        logger.debug("Creating cache directory")
+        cache_dir.mkdir(parents=True)
+
+    logger.debug("Saving %s to cache dir %s", (word, cache_dir.as_posix()))
+    with open(cache_dir / f"{word}.json", mode="w") as f:
+        json.dump(translations, f, indent=4, ensure_ascii=False)
 
 
 def _create_index_content(words):
