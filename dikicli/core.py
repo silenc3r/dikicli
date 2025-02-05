@@ -4,6 +4,7 @@ import configparser
 import json
 import logging
 import os
+import pathlib
 import re
 import shutil
 import sys
@@ -177,7 +178,7 @@ def _parse_html(html_dump, pl_to_en=False):
         Translations list.
 
     Raises
-    ------
+    -----   -
     WordNotFound
         If word can't be found.
     """
@@ -345,7 +346,7 @@ def _cache_lookup(word, data_dir, pl_to_en=False):
 def _get_words(data_dir):
     """Return list of translated words."""
     trans_dir = data_dir / "translations"
-    return [file.stem for file in trans_dir.iterdir()]
+    return [p.stem for p in sorted(pathlib.Path(trans_dir).iterdir(), key=os.path.getmtime)]
 
 
 def _write_html_file(word, translations, data_dir, pl_to_en=False):
@@ -383,7 +384,7 @@ def cache_lookup(word, cache_dir):
         dict or None: Translation structure or None.
 
     """
-    logger.debug("Cache lookup: %s in cache_dir: %s", (word, cache_dir.as_posix()))
+    logger.debug("Cache lookup: %s in cache_dir: %s", word, cache_dir.as_posix())
     filename = cache_dir / f"{word}.json"
     if filename.is_file():
         with open(filename) as f:
@@ -392,11 +393,10 @@ def cache_lookup(word, cache_dir):
 
     logger.debug("Cache miss: %s", word)
 
-
 def cache_store(word, translations, cache_dir):
     """Create json file with translations of the word.
 
-    If cache_dir doesn't exist it will be created.
+    If `cache_dir` doesn't exist it will be created.
 
     Args:
         word (str)               : Word that was translated
@@ -404,10 +404,10 @@ def cache_store(word, translations, cache_dir):
         cache_dir (pathlib.Path) : Path to cache directory
     """
     if not cache_dir.exists():
-        logger.debug("Creating cache directory")
+        logger.debug("Creating cache directory %s", cache_dir.as_posix())
         cache_dir.mkdir(parents=True)
 
-    logger.debug("Saving %s to cache dir %s", (word, cache_dir.as_posix()))
+    logger.debug("Saving %s to cache dir %s", word, cache_dir.as_posix())
     with open(cache_dir / f"{word}.json", mode="w") as f:
         json.dump(translations, f, indent=4, ensure_ascii=False)
 
@@ -601,5 +601,59 @@ def wrap_text(translations, linewrap=0):
             result.append(x.val)
         else:
             raise TypeError("wrap_text: unexpected translation type: %s" % type(x))
+
+    return result
+
+
+def wrap_text_new(trans_dict, width=0):
+    """Pretty print translations with line wrapping.
+
+    When width is 0 thre's no linewrapping performed.
+
+    Args:
+        trans_dict (dict): Translation data structure.
+        width (int): Line width.
+
+    Returns:
+        result (list): List of formatted lines.
+
+    """
+    is_tty = sys.stdout.isatty()
+
+    import textwrap
+
+    def wrap(text, initial_indent=0, subsequent_indent=0, bold=False):
+        ii = " " * initial_indent
+        si = " " * subsequent_indent
+        if width == 0:
+            text = ii + text
+        else:
+            text = textwrap.fill(text, width, initial_indent=ii, subsequent_indent=si)
+
+        # don't use bold when stdout is pipe or redirect
+        if bold and is_tty:
+            text = "\033[0;1m" + text + "\033[0m"
+
+        return text
+
+    result = []
+
+    for entry in trans_dict:
+        for e in entry["Entry"]:
+            result.append(wrap(e, bold=True))
+        for pos in entry["PartsOfSpeech"]:
+            if pos["Part"]:
+                part = f"[{pos['Part']}]"
+                result.append(wrap(part))
+            for i, meaning in enumerate(pos["Meanings"], start=1):
+                mean = f"{i:>3}. {', '.join(meaning['Meaning'])}"
+                result.append(wrap(mean, 0, 5, True))
+                result.append("")
+
+                if meaning["ExampleSentences"]:
+                    for ex in meaning["ExampleSentences"]:
+                        result.append(wrap(ex["Sentence"], 6, 6))
+                        result.append(wrap(ex["Translation"], 6, 6))
+                        result.append("")
 
     return result

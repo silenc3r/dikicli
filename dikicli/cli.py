@@ -13,6 +13,7 @@ from dikicli.core import display_index
 from dikicli.core import get_stats
 from dikicli.core import translate
 from dikicli.core import wrap_text
+from dikicli.core import wrap_text_new
 from dikicli.core import WordNotFound
 from dikicli.core import lookup_online
 from dikicli.core import cache_store, cache_lookup
@@ -179,8 +180,7 @@ def _main():
             # en -> pl
             try:
                 translation = translate_en_pl(args.word, data_dir, use_cache)
-                translation = flatten_compat(translation)
-                wrapped_text = "\n".join(wrap_text(translation, linewrap))
+                wrapped_text = "\n".join(wrap_text_new(translation, linewrap))
                 print(wrapped_text)
                 sys.exit(0)
             except WordNotFound as e:
