@@ -14,6 +14,10 @@ from dikicli.core import get_stats
 from dikicli.core import translate
 from dikicli.core import wrap_text
 from dikicli.core import WordNotFound
+from dikicli.core import lookup_online
+from dikicli.core import cache_store, cache_lookup
+from dikicli.core import parse_en_pl
+from dikicli.helpers import flatten_compat
 
 LOG_FILE = CACHE_DIR.joinpath("diki.log")
 if not CACHE_DIR.exists():
@@ -96,6 +100,50 @@ def get_parser():
     return parser
 
 
+def translate_f(word, cache_dir, use_cache, parse_fn):
+    """Translate a word.
+
+    If cache_dir doesn't exist it will be created.
+
+    Args:
+        word (str): Word to translate.
+        cache_dir (pathlib.Path): Path to cache directory.
+        use_cache (bool): Whether to use cached data.
+        parse_fn (fn): Parse function.
+
+    Returns:
+        dict: Translation data structure.
+
+    Raises:
+        WordNotFound: When word was not found.
+
+    """
+    translation = None
+
+    if use_cache and cache_dir.is_dir():
+        translation = cache_lookup(word, cache_dir)
+        if translation:
+            return translation
+
+    # This can throw WordNotFound
+    html_dump = lookup_online(word)
+    translation = parse_fn(html_dump)
+
+    if use_cache:
+        # cache_dir will be created if it doesn't exist.
+        cache_store(word, translation, cache_dir)
+
+    return translation
+
+
+def translate_en_pl(word, cache_dir, use_cache):
+    return translate_f(word, cache_dir / "words_en", use_cache, parse_en_pl)
+
+
+def translate_pl_en(word, cache_dir, use_cache):
+    return translate_f(word, cache_dir / "words_pl", use_cache, parse_pl_en)
+
+
 def _main():
     parser = get_parser()
     args = parser.parse_args()
@@ -119,25 +167,40 @@ def _main():
         print("New config file created: {}".format(config_file))
         sys.exit(0)
 
+
+    data_dir = pathlib.Path(config["data dir"])
+
     # handle word translation
     if args.word:
         use_cache = not args.refresh
+
         pl_to_en = args.pol_eng
-        try:
-            data_dir = pathlib.Path(config["data dir"])
-            translation = translate(args.word, data_dir, use_cache, pl_to_en)
-            wrapped_text = "\n".join(wrap_text(translation, linewrap))
-            print(wrapped_text)
-            sys.exit(0)
-        except WordNotFound as e:
-            print(e, file=sys.stderr)
-            sys.exit(1)
+        if not pl_to_en:
+            # en -> pl
+            try:
+                translation = translate_en_pl(args.word, data_dir, use_cache)
+                translation = flatten_compat(translation)
+                wrapped_text = "\n".join(wrap_text(translation, linewrap))
+                print(wrapped_text)
+                sys.exit(0)
+            except WordNotFound as e:
+                print(e, file=sys.stderr)
+                sys.exit(1)
+        else:
+            # pl -> en
+            try:
+                translation = translate(args.word, data_dir, use_cache, pl_to_en)
+                wrapped_text = "\n".join(wrap_text(translation, linewrap))
+                print(wrapped_text)
+                sys.exit(0)
+            except WordNotFound as e:
+                print(e, file=sys.stderr)
+                sys.exit(1)
 
     # open index file in browser
     if args.display_index:
         try:
             browser = config["web browser"]
-            data_dir = pathlib.Path(config["data dir"])
             display_index(data_dir, browser)
             sys.exit(0)
         except FileNotFoundError as e:
@@ -145,7 +208,7 @@ def _main():
             sys.exit(1)
 
     if args.stats:
-        en, pl = get_stats(pathlib.Path(config["data dir"]))
+        en, pl = get_stats(data_dir)
         print("english words:  {}".format(en))
         print(" polish words:  {}".format(pl))
         sys.exit(0)
