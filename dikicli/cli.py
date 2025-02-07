@@ -10,18 +10,18 @@ import sys
 from dikicli.core import CACHE_DIR
 from dikicli.core import DEBUG
 from dikicli.core import Config
+from dikicli.core import WordNotFound
+from dikicli.core import cache_lookup
+from dikicli.core import cache_store
+from dikicli.core import generate_index_html
+from dikicli.core import generate_word_page
 from dikicli.core import get_stats
+from dikicli.core import get_word_list
+from dikicli.core import lookup_online
+from dikicli.core import parse_en_pl
 from dikicli.core import translate
 from dikicli.core import wrap_text
 from dikicli.core import wrap_text_new
-from dikicli.core import WordNotFound
-from dikicli.core import lookup_online
-from dikicli.core import cache_store, cache_lookup
-from dikicli.core import parse_en_pl
-from dikicli.core import generate_index_html
-from dikicli.core import generate_word_page
-from dikicli.core import get_word_list
-from dikicli.helpers import flatten_compat
 
 LOG_FILE = CACHE_DIR.joinpath("diki.log")
 if not CACHE_DIR.exists():
@@ -125,7 +125,7 @@ def translate_f(word, cache_dir, use_cache, parse_fn):
     translation = None
 
     if use_cache and cache_dir.is_dir():
-        translation = cache_lookup(word, cache_dir)
+        translation = cache_lookup(cache_dir, word)
         if translation:
             return translation
 
@@ -135,7 +135,7 @@ def translate_f(word, cache_dir, use_cache, parse_fn):
 
     if use_cache:
         # cache_dir will be created if it doesn't exist.
-        cache_store(word, translation, cache_dir)
+        cache_store(cache_dir, word, translation)
 
     return translation
 
@@ -170,7 +170,6 @@ def _main():
         config_file = config.create_default_config()
         print("New config file created: {}".format(config_file))
         sys.exit(0)
-
 
     data_dir = pathlib.Path(config["data dir"])
 
@@ -223,7 +222,7 @@ def _main():
             if plist[0] != "words":
                 return None
             word = plist[1]
-            return generate_word_page(word, cache_dir)
+            return generate_word_page(cache_dir, word)
 
         server.open_index()
         sys.exit(0)

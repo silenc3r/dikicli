@@ -9,17 +9,18 @@ import re
 import shutil
 import sys
 import urllib
-import webbrowser
+import urllib.parse
 from collections import namedtuple
 from itertools import zip_longest
 from pathlib import Path
-from urllib.request import Request, urlopen
-import urllib.parse
+from urllib.request import Request
+from urllib.request import urlopen
 
 from bs4 import BeautifulSoup
 
 import dikicli.parsers
-from dikicli.helpers import flatten, flatten_compat
+from dikicli.helpers import flatten
+from dikicli.helpers import flatten_compat
 from dikicli.templates import CONFIG_TEMPLATE
 from dikicli.templates import HTML_TEMPLATE
 
@@ -354,7 +355,7 @@ def get_word_list(cache_dir):
     return [p.stem for p in sorted(pathlib.Path(cache_dir).iterdir(), key=os.path.getmtime)]
 
 
-def cache_lookup(word, cache_dir):
+def cache_lookup(cache_dir, word):
     """Check cache for given word.
 
     Args:
@@ -362,7 +363,7 @@ def cache_lookup(word, cache_dir):
         cache_dir (pathlib.Path): Path to cache directory.
 
     Returns:
-        dict or None: Translation structure or None.
+        dict | None: Translation structure or None.
 
     """
     logger.debug("Cache lookup: %s in cache_dir: %s", word, cache_dir.as_posix())
@@ -374,15 +375,15 @@ def cache_lookup(word, cache_dir):
 
     logger.debug("Cache miss: %s", word)
 
-def cache_store(word, translations, cache_dir):
+def cache_store(cache_dir, word, translations):
     """Create json file with translations of the word.
 
     If `cache_dir` doesn't exist it will be created.
 
     Args:
+        cache_dir (pathlib.Path) : Path to cache directory
         word (str)               : Word that was translated
         translations (dict)      : Translations structure
-        cache_dir (pathlib.Path) : Path to cache directory
     """
     if not cache_dir.exists():
         logger.debug("Creating cache directory %s", cache_dir.as_posix())
@@ -438,7 +439,7 @@ def generate_index_html(cache_dir):
     return html_string
 
 
-def generate_word_page(word, cache_dir):
+def generate_word_page(cache_dir, word):
     """Generates an HTML page for a given word using cached translations.
 
     This function retrieves the translation data for the specified word from
@@ -447,15 +448,15 @@ def generate_word_page(word, cache_dir):
     returns `None`.
 
     Args:
-        word (str): The word to generate the page for.
         cache_dir (pathlib.Path): The directory where cached translation data
         is stored.
+        word (str): The word to generate the page for.
 
     Returns:
         str | None: The generated HTML page as a string if the word is found in the
         cache, otherwise `None`.
     """
-    trans_dict = cache_lookup(word, cache_dir)
+    trans_dict = cache_lookup(cache_dir, word)
     if trans_dict is None:
         return None
 
@@ -531,7 +532,11 @@ def wrap_text(translations, linewrap=0):
     Returns list of wrapped lines.
     """
     # TODO: move this to top after cleaning up old parser
-    from dikicli.parsers import Entity, Meaning, PartOfSpeech, Sentence, Info
+    from dikicli.parsers import Entity
+    from dikicli.parsers import Info
+    from dikicli.parsers import Meaning
+    from dikicli.parsers import PartOfSpeech
+    from dikicli.parsers import Sentence
 
     def wrap(text, width=linewrap, findent=0, sindent=0, bold=False):
         if width == 0:
