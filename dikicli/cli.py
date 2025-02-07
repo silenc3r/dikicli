@@ -4,12 +4,12 @@ import argparse
 import logging
 import logging.config
 import pathlib
+import random
 import sys
 
 from dikicli.core import CACHE_DIR
 from dikicli.core import DEBUG
 from dikicli.core import Config
-from dikicli.core import display_index
 from dikicli.core import get_stats
 from dikicli.core import translate
 from dikicli.core import wrap_text
@@ -18,6 +18,9 @@ from dikicli.core import WordNotFound
 from dikicli.core import lookup_online
 from dikicli.core import cache_store, cache_lookup
 from dikicli.core import parse_en_pl
+from dikicli.core import generate_index_html
+from dikicli.core import generate_word_page
+from dikicli.core import get_word_list
 from dikicli.helpers import flatten_compat
 
 LOG_FILE = CACHE_DIR.joinpath("diki.log")
@@ -199,13 +202,31 @@ def _main():
 
     # open index file in browser
     if args.display_index:
-        try:
-            browser = config["web browser"]
-            display_index(data_dir, browser)
-            sys.exit(0)
-        except FileNotFoundError as e:
-            logger.error(e)
-            sys.exit(1)
+        from dikicli.server import Server
+        server = Server()
+        cache_dir = data_dir / "words_en"
+
+        @server.route("/")
+        def index(path):
+            return generate_index_html(cache_dir)
+
+        @server.route("/random_word")
+        def random_word(path):
+            wlist = get_word_list(cache_dir)
+            word = random.choice(wlist)
+            return {"redirect": f"/words/{word}"}
+
+        @server.route("default")
+        def get_word(path):
+            path = path[1:]
+            plist = path.split("/")
+            if plist[0] != "words":
+                return None
+            word = plist[1]
+            return generate_word_page(word, cache_dir)
+
+        server.open_index()
+        sys.exit(0)
 
     if args.stats:
         en, pl = get_stats(data_dir)

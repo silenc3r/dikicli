@@ -349,28 +349,9 @@ def _get_words(data_dir):
     return [p.stem for p in sorted(pathlib.Path(trans_dir).iterdir(), key=os.path.getmtime)]
 
 
-def _write_html_file(word, translations, data_dir, pl_to_en=False):
-    """Create html file of word translations.
-
-    Parameters
-    ----------
-    word : str
-        Word that was translated.
-    tralnslations
-        List of translation items
-    data_dir : pathlib.Path
-        Location where html files are saved.
-    """
-    content_str = dikicli.parsers.generate_word_page(translations)
-    html_string = HTML_TEMPLATE.replace("{% word %}", word)
-    html_string = html_string.replace("{% content %}", content_str)
-
-    trans_dir = "translations"
-    if pl_to_en:
-        trans_dir += "_native"
-    translations_dir = data_dir.joinpath(trans_dir)
-    fname = translations_dir.joinpath("{word}.html".format(word=word))
-    save_file(fname, html_string, mk_parents=True)
+def get_word_list(cache_dir):
+    """Return list of translated words."""
+    return [p.stem for p in sorted(pathlib.Path(cache_dir).iterdir(), key=os.path.getmtime)]
 
 
 def cache_lookup(word, cache_dir):
@@ -412,23 +393,22 @@ def cache_store(word, translations, cache_dir):
         json.dump(translations, f, indent=4, ensure_ascii=False)
 
 
-def _create_index_content(words):
-    """Create html string of index file.
+def create_index_content(words):
+    """Create HTML string of index file.
 
-    Parameters
-    ----------
-    words : list of str
-        List of cached words.
+    Args:
+        words (list): List of cached words.
 
-    Returns
-    -------
-    str
-        html string.
+    Returns:
+        str: HTML string.
     """
     content = ["<h1>Index</h1>", "<ul>"]
+    button = '<a href="random_word"><button type="button">Random word</button></a>'
+    content.append(button)
+    content.append('<hr>')
     for word in words:
         content.append(
-            '<li><a href="translations/{word}.html">{word}</a></li>'.format(word=word)
+            '<li><a href="words/{word}">{word}</a></li>'.format(word=word)
         )
 
     content.append("</ul>")
@@ -438,38 +418,52 @@ def _create_index_content(words):
     return "\n".join(content)
 
 
-def _write_index_file(data_dir):
-    """Create index file of cached translations."""
+def generate_index_html(cache_dir):
+    """Generates an HTML index page listing cached translations.
 
-    cached_words = _get_words(data_dir)
+    This function retrieves a list of cached words from the specified cache
+    directory and generates an HTML page displaying the available translations.
 
-    content_str = _create_index_content(cached_words)
+    Args:
+        cache_dir (pathlib.Path): The path to the directory containing cached
+        translation files.
+
+    Returns:
+        str: An HTML string representing the index page of cached translations.
+    """
+    cached_words = get_word_list(cache_dir)
+    content_str = create_index_content(cached_words)
     html_string = HTML_TEMPLATE.replace("{% word %}", "Index")
     html_string = html_string.replace("{% content %}", content_str)
-
-    filename = data_dir.joinpath("index.html")
-    save_file(filename, html_string, mk_parents=True)
+    return html_string
 
 
-def save_file(filename, data, mk_parents=True):
-    """Save file to disk.
+def generate_word_page(word, cache_dir):
+    """Generates an HTML page for a given word using cached translations.
 
-    Paramaters
-    ----------
-    filename : pathlib.Path
-        Path to the file.
-    data : str
-        File contents.
-    mk_parents : bool, optional
-        If to create parent directories.
+    This function retrieves the translation data for the specified word from
+    the cache directory. If the word is found, it processes the translations
+    and generates an HTML page. If the word is not in the cache, the function
+    returns `None`.
+
+    Args:
+        word (str): The word to generate the page for.
+        cache_dir (pathlib.Path): The directory where cached translation data
+        is stored.
+
+    Returns:
+        str | None: The generated HTML page as a string if the word is found in the
+        cache, otherwise `None`.
     """
-    parent = filename.parent
-    if not parent.exists() and mk_parents:
-        logger.debug("Creating directory: %s", parent.as_posix())
-        parent.mkdir(parents=True)
-    with open(filename, mode="w") as f:
-        logger.debug("Saving file: %s", filename.as_posix())
-        f.write(data)
+    trans_dict = cache_lookup(word, cache_dir)
+    if trans_dict is None:
+        return None
+
+    translations = flatten_compat(trans_dict)
+    content_str = dikicli.parsers.generate_word_page(translations)
+    html_string = HTML_TEMPLATE.replace("{% word %}", word)
+    html_string = html_string.replace("{% content %}", content_str)
+    return html_string
 
 
 def translate(word, data_dir, use_cache=True, pl_to_en=False):
@@ -512,23 +506,6 @@ def translate(word, data_dir, use_cache=True, pl_to_en=False):
         # _write_index_file(data_dir)
 
     return translation
-
-
-def display_index(data_dir: Path, browser: str):
-    """Open index in web browser.
-    Raises FileNotFoundError if index file doesn't exist.
-    """
-    get_browser = lambda b: webbrowser.get() if b == "default" else webbrowser.get(b)
-    try:
-        b = get_browser(browser)
-    except webbrowser.Error:
-        logger.warning("Couldn't find '%s' browser. Falling back to default.", browser)
-        b = get_browser("default")
-
-    _write_index_file(data_dir)
-    index_file = data_dir / "index.html"
-    logger.info("Opening %s in '%s'", index_file.as_posix(), b.name)
-    b.open(index_file.as_uri())
 
 
 def get_stats(data_dir: Path):
