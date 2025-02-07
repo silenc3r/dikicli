@@ -253,6 +253,9 @@ def parse_en_pl(html_dump):
         raise WordNotFound(err_msg)
 
     id_en_pl = dikiContainer.find_all("div", id="en-pl")
+    if not id_en_pl:
+        raise WordNotFound("Nie znaleziono dokładnego tłumaczenia wpisanej frazy.")
+
     if len(id_en_pl) > 1:
         raise ParseError("Didn't expect multiple divs with 'en-pl' tag")
 
