@@ -24,10 +24,6 @@ from dikicli.helpers import flatten_compat
 from dikicli.templates import CONFIG_TEMPLATE
 from dikicli.templates import HTML_TEMPLATE
 
-# HTML output types
-ContentSuccess = namedtuple("ContentSuccess", "html")
-ContentNotFound = namedtuple("ContentNotFound", "html")
-
 Meaning = namedtuple("Meaning", ["meaning", "examples"])
 PartOfSpeech = namedtuple("PartOfSpeech", ["part", "meanings"])
 Translation = namedtuple("Translation", ["word", "parts_of_speech"])
@@ -55,6 +51,7 @@ logger = logging.getLogger(__name__)
 
 class ParseError(Exception):
     pass
+
 
 class WordNotFound(Exception):
     pass
@@ -268,11 +265,15 @@ def parse_en_pl(html_dump):
 
     # second sibling should contain our results
     resultsContainer = _newline.next_sibling
-    if not (resultsContainer.has_attr('class')
-            and resultsContainer.get('class') == ['diki-results-container']):
+    if not (
+        resultsContainer.has_attr("class")
+        and resultsContainer.get("class") == ["diki-results-container"]
+    ):
         raise ParseError("Expected 'diki-results-container'")
 
-    left_column = resultsContainer.find("div", class_="diki-results-left-column").find("div")
+    left_column = resultsContainer.find("div", class_="diki-results-left-column").find(
+        "div"
+    )
     entities = left_column.find_all("div", class_="dictionaryEntity")
 
     for ent in entities:
@@ -282,7 +283,9 @@ def parse_en_pl(html_dump):
         entry["PartsOfSpeech"] = []
         pos_nodes = ent.find_all("div", class_="partOfSpeechSectionHeader")
         parts = (p.get_text().strip().replace("\xa0", " ") for p in pos_nodes)
-        meaning_nodes = ent.find_all("ol", class_="foreignToNativeMeanings", recursive=False)
+        meaning_nodes = ent.find_all(
+            "ol", class_="foreignToNativeMeanings", recursive=False
+        )
 
         if len(pos_nodes) == 0 and len(meaning_nodes) > 1:
             raise ParseError("Found 0 partOfSpeech and many foreignToNativeMeanings")
@@ -291,12 +294,17 @@ def parse_en_pl(html_dump):
             mean_list = []
             for elem in mean.find_all("li", recursive=False):
                 # this needs to be recursive because profanity words are contained in additional span
-                meaning = [m.get_text().strip() for m in elem.find_all("span", class_="hw", recursive=True)]
+                meaning = [
+                    m.get_text().strip()
+                    for m in elem.find_all("span", class_="hw", recursive=True)
+                ]
                 if not meaning:
                     raise ParseError("Meaning is empty")
                 sentences = []
                 # recursive because of profanity words
-                for ex_node in elem.find_all("div", class_="exampleSentence", recursive=True):
+                for ex_node in elem.find_all(
+                    "div", class_="exampleSentence", recursive=True
+                ):
                     sentence = {}
                     stc = ""
                     for s in ex_node.find_all(string=True, recursive=False):
@@ -306,7 +314,11 @@ def parse_en_pl(html_dump):
                     if not stc:
                         raise ParseError("Example sentence is empty")
                     sentence["Sentence"] = stc
-                    sentence["Translation"] = ex_node.find("span", class_="exampleSentenceTranslation").get_text().strip()
+                    sentence["Translation"] = (
+                        ex_node.find("span", class_="exampleSentenceTranslation")
+                        .get_text()
+                        .strip()
+                    )
                     if not sentence["Translation"]:
                         raise ParseError("Sentence translation is empty")
                     sentences.append(sentence)
@@ -350,12 +362,16 @@ def _cache_lookup(word, data_dir, pl_to_en=False):
 def _get_words(data_dir):
     """Return list of translated words."""
     trans_dir = data_dir / "translations"
-    return [p.stem for p in sorted(pathlib.Path(trans_dir).iterdir(), key=os.path.getmtime)]
+    return [
+        p.stem for p in sorted(pathlib.Path(trans_dir).iterdir(), key=os.path.getmtime)
+    ]
 
 
 def get_word_list(cache_dir):
     """Return list of translated words."""
-    return [p.stem for p in sorted(pathlib.Path(cache_dir).iterdir(), key=os.path.getmtime)]
+    return [
+        p.stem for p in sorted(pathlib.Path(cache_dir).iterdir(), key=os.path.getmtime)
+    ]
 
 
 def cache_lookup(cache_dir, word):
@@ -377,6 +393,7 @@ def cache_lookup(cache_dir, word):
             return json.load(f)
 
     logger.debug("Cache miss: %s", word)
+
 
 def cache_store(cache_dir, word, translations):
     """Create json file with translations of the word.
@@ -409,11 +426,9 @@ def create_index_content(words):
     content = ["<h1>Index</h1>", "<ul>"]
     button = '<a href="random_word"><button type="button">Random word</button></a>'
     content.append(button)
-    content.append('<hr>')
+    content.append("<hr>")
     for word in words:
-        content.append(
-            '<li><a href="words/{word}">{word}</a></li>'.format(word=word)
-        )
+        content.append('<li><a href="words/{word}">{word}</a></li>'.format(word=word))
 
     content.append("</ul>")
     if not words:
@@ -442,7 +457,57 @@ def generate_index_html(cache_dir):
     return html_string
 
 
-def generate_word_page(cache_dir, word):
+def generate_page_lines(trans_dict):
+    def append(list_, tag, indent):
+        indent_str = " " * indent * 4
+        list_.append(f"{indent_str}{tag}")
+
+    content = []
+
+    for entity in trans_dict:
+        append(content, '<div class="translation">', 0)
+        append(content, '<div class="word">', 1)
+        for word in entity["Entry"]:
+            append(content, f"<h2>{word}</h2>", 2)
+        append(content, "</div><!--close-word-->", 1)
+
+        append(content, '<div class="parts-of-speech">', 1)
+        for i, pos in enumerate(entity["PartsOfSpeech"]):
+            if i > 0:
+                append(content, "<br>", 2)
+            append(content, '<div class="part">', 2)
+            append(content, f'<p class="part-name">{pos["Part"]}</p>', 3)
+            append(content, '<div class="meanings">', 3)
+            append(content, "<ol>", 4)
+            for meaning in pos["Meanings"]:
+                append(content, "<li>", 5)
+                append(content, '<div class="meaning">', 6)
+                append(
+                    content,
+                    f'<p><strong><span>{", ".join(meaning["Meaning"])}</span></strong></p>',
+                    7,
+                )
+                append(content, '<div class="examples">', 7)
+                for es in meaning["ExampleSentences"]:
+                    append(
+                        content,
+                        f'<p><span>{es["Sentence"]}</span><br><span>{es["Translation"]}</span></p>',
+                        8,
+                    )
+                append(content, "</div><!--close-examples-->", 7)
+                append(content, "</div><!--close-meaning-->", 6)
+                append(content, "</li>", 5)
+            append(content, "</ol>", 4)
+            append(content, "</div><!--close-meanings-->", 3)
+            append(content, "</div><!--close-part-->", 2)
+        append(content, "</div><!--close-parts-of-speech-->", 1)
+        append(content, "</div><!--close-translation-->", 0)
+        append(content, "<br>", 0)
+
+    return content
+
+
+def generate_word_html(cache_dir, word):
     """Generates an HTML page for a given word using cached translations.
 
     This function retrieves the translation data for the specified word from
@@ -463,8 +528,7 @@ def generate_word_page(cache_dir, word):
     if trans_dict is None:
         return None
 
-    translations = flatten_compat(trans_dict)
-    content_str = dikicli.parsers.generate_word_page(translations)
+    content_str = "\n".join(generate_page_lines(trans_dict))
     html_string = HTML_TEMPLATE.replace("{% word %}", word)
     html_string = html_string.replace("{% content %}", content_str)
     return html_string

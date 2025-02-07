@@ -45,7 +45,7 @@ def generate_html_lines(translations):
     def consume_pos(index, indent):
         elem = translations[index]
         if isinstance(elem, PartOfSpeech):
-            append_indented(f'<div class="part-of-speech">', indent)
+            append_indented('<div class="part-of-speech">', indent)
             append_indented(f'<p class="part-name">[{elem.val}]</p>', indent + 1)
             append_indented("<ol>", indent + 1)
             index = consume_meaning(index + 1, indent + 2)
@@ -68,7 +68,7 @@ def generate_html_lines(translations):
     def consume_meaning(index, indent):
         elem = translations[index]
         if not isinstance(elem, Meaning):
-            raise ValueError("Expected `Meaning`, got %s: %s" % s(type(elem), elem))
+            raise ValueError("Expected `Meaning`, got %s: %s" % (type(elem), elem))
 
         append_indented("<li>", indent)
         append_indented('<div class="meaning">', indent + 1)
@@ -174,6 +174,7 @@ class CachedParser(HTMLParser):
             self.meanings.append(data)
         elif self.read_examples:
             self.sentences.append(data)
+
 
 def parse_cached(html_dump):
     return CachedParser().parse(html_dump)

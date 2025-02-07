@@ -14,7 +14,7 @@ from dikicli.core import WordNotFound
 from dikicli.core import cache_lookup
 from dikicli.core import cache_store
 from dikicli.core import generate_index_html
-from dikicli.core import generate_word_page
+from dikicli.core import generate_word_html
 from dikicli.core import get_stats
 from dikicli.core import get_word_list
 from dikicli.core import lookup_online
@@ -202,6 +202,7 @@ def _main():
     # open index file in browser
     if args.display_index:
         from dikicli.server import Server
+
         server = Server()
         cache_dir = data_dir / "words_en"
 
@@ -222,7 +223,7 @@ def _main():
             if plist[0] != "words":
                 return None
             word = plist[1]
-            return generate_word_page(cache_dir, word)
+            return generate_word_html(cache_dir, word)
 
         server.open_index()
         sys.exit(0)
