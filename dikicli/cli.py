@@ -81,7 +81,9 @@ def get_parser():
     parser.add_argument(
         "--create-config", action="store_true", help="create default configuration file"
     )
-    parser.add_argument("-r", "--refresh", action="store_true", help="ignore cache")
+    parser.add_argument(
+        "-r", "--refresh", action="store_true", dest="ignore_cache", help="ignore cache"
+    )
     parser.add_argument("-s", "--stats", action="store_true", help="show statistics")
     translation = parser.add_argument_group("translation")
     translation.add_argument("word", nargs="?", help="word to translate")
@@ -104,7 +106,7 @@ def get_parser():
     return parser
 
 
-def translate_f(word, cache_dir, use_cache, parse_fn):
+def translate_f(word, parse_fn, cache_dir, ignore_cache):
     """Translate a word.
 
     If cache_dir doesn't exist it will be created.
@@ -112,7 +114,7 @@ def translate_f(word, cache_dir, use_cache, parse_fn):
     Args:
         word (str): Word to translate.
         cache_dir (pathlib.Path): Path to cache directory.
-        use_cache (bool): Whether to use cached data.
+        ignore_cache (bool): Whether to use cached data.
         parse_fn (fn): Parse function.
 
     Returns:
@@ -124,7 +126,7 @@ def translate_f(word, cache_dir, use_cache, parse_fn):
     """
     translation = None
 
-    if use_cache and cache_dir.is_dir():
+    if not ignore_cache and cache_dir.is_dir():
         translation = cache_lookup(cache_dir, word)
         if translation:
             return translation
@@ -133,19 +135,18 @@ def translate_f(word, cache_dir, use_cache, parse_fn):
     html_dump = lookup_online(word)
     translation = parse_fn(html_dump)
 
-    if use_cache:
-        # cache_dir will be created if it doesn't exist.
-        cache_store(cache_dir, word, translation)
+    # cache_dir will be created if it doesn't exist.
+    cache_store(cache_dir, word, translation)
 
     return translation
 
 
-def translate_en_pl(word, cache_dir, use_cache):
-    return translate_f(word, cache_dir / "words_en", use_cache, parse_en_pl)
+def translate_en_pl(word, cache_dir, ignore_cache):
+    return translate_f(word, parse_en_pl, cache_dir / "words_en", ignore_cache)
 
 
-def translate_pl_en(word, cache_dir, use_cache):
-    return translate_f(word, cache_dir / "words_pl", use_cache, parse_pl_en)
+def translate_pl_en(word, cache_dir, ignore_cache):
+    return translate_f(word, parse_pl_en, cache_dir / "words_pl", ignore_cache)
 
 
 def _main():
@@ -175,13 +176,13 @@ def _main():
 
     # handle word translation
     if args.word:
-        use_cache = not args.refresh
+        use_cache = not args.ignore_cache
 
         pl_to_en = args.pol_eng
         if not pl_to_en:
             # en -> pl
             try:
-                translation = translate_en_pl(args.word, data_dir, use_cache)
+                translation = translate_en_pl(args.word, data_dir, args.ignore_cache)
                 wrapped_text = "\n".join(wrap_text_new(translation, linewrap))
                 print(wrapped_text)
                 sys.exit(0)

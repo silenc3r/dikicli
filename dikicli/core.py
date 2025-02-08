@@ -237,6 +237,7 @@ def _parse_html(html_dump, pl_to_en=False):
 def parse_en_pl(html_dump):
     """Parse html string."""
 
+    lang = "en"
     soup = BeautifulSoup(html_dump, "html.parser")
     result = []
     dikiContainer = soup.find("div", class_="dikiContainer")
@@ -280,6 +281,7 @@ def parse_en_pl(html_dump):
         entry = {}
         variants = ent.find("div", class_="hws").find_all("span", class_="hw")
         entry["Entry"] = [v.get_text().strip() for v in variants]
+        entry["Language"] = lang
         entry["PartsOfSpeech"] = []
         pos_nodes = ent.find_all("div", class_="partOfSpeechSectionHeader")
         parts = (p.get_text().strip().replace("\xa0", " ") for p in pos_nodes)
@@ -323,6 +325,122 @@ def parse_en_pl(html_dump):
                         raise ParseError("Sentence translation is empty")
                     sentences.append(sentence)
                 mean_list.append({"Meaning": meaning, "ExampleSentences": sentences})
+            entry["PartsOfSpeech"].append({"Part": pos, "Meanings": mean_list})
+
+        result.append(entry)
+
+    return result
+
+
+def parse_pl_en(html_dump):
+    """Parse html string."""
+
+    lang = "pl"
+    soup = BeautifulSoup(html_dump, "html.parser")
+    result = []
+    dikiContainer = soup.find("div", class_="dikiContainer")
+
+    # word not found
+    if not dikiContainer.find("div", class_="diki-results-container", recursive=False):
+        err_msg = dikiContainer.p.img.find(string=True, recursive=False).strip()
+        suggestions = dikiContainer.div.b
+        if suggestions:
+            err_msg += "\n" + suggestions.get_text().strip()
+        raise WordNotFound(err_msg)
+
+    id_pl_en = dikiContainer.find_all("div", id="pl-en")
+    if not id_pl_en:
+        raise WordNotFound("Nie znaleziono dokładnego tłumaczenia wpisanej frazy.")
+
+    if len(id_pl_en) > 1:
+        raise ParseError("Didn't expect multiple divs with 'pl-en' tag")
+
+    # word found, moving to 'diki-results-container'
+    pl_en_parent = id_pl_en[0].parent
+    _newline = pl_en_parent.next_sibling
+    # first sibling should be newline
+    if _newline.get_text() != "\n":
+        raise ParseError("Expected newline")
+
+    # second sibling should contain our results
+    resultsContainer = _newline.next_sibling
+    if not (
+        resultsContainer.has_attr("class")
+        and resultsContainer.get("class") == ["diki-results-container"]
+    ):
+        raise ParseError("Expected 'diki-results-container'")
+
+    left_column = resultsContainer.find("div", class_="diki-results-left-column").find(
+        "div"
+    )
+    entities = left_column.find_all("div", class_="dictionaryEntity")
+
+    for ent in entities:
+        entry = {}
+        variants = ent.find("div", class_="hws").find_all("span", class_="hw")
+        entry["Entry"] = [v.get_text().strip() for v in variants]
+        entry["Language"] = lang
+        entry["PartsOfSpeech"] = []
+        pos_nodes = ent.find_all("div", class_="partOfSpeechSectionHeader")
+        parts = (p.get_text().strip().replace("\xa0", " ") for p in pos_nodes)
+        meaning_nodes = ent.find_all(
+            "ol", class_="nativeToForeignEntrySlices", recursive=False
+        )
+
+        if not meaning_nodes:
+            raise ParseError("Found 0 nativeToForeignEntrySlices")
+
+        if len(pos_nodes) == 0 and len(meaning_nodes) > 1:
+            raise ParseError("Found 0 partOfSpeech and many nativeToForeignEntrySlices")
+
+        for pos, mean in zip_longest(parts, meaning_nodes, fillvalue=""):
+            mean_list = []
+            for elem in mean.find_all("li", recursive=False):
+                # this needs to be recursive because profanity words are contained in additional span
+                meaning = [
+                    m.get_text().strip()
+                    for m in elem.find_all("span", class_="hw", recursive=False)
+                ]
+                if not meaning:
+                    raise ParseError("Meaning is empty")
+
+                var_div = elem.find("ul", class_="nativeToForeignMeanings")
+                variants = []
+                if var_div:
+                    for var in var_div.find_all("li", recursive=False):
+                        vlist = var.find_all("span", class_="hw")
+                        vnames = [v.get_text().strip() for v in vlist]
+
+                        if not vnames:
+                            raise ParseError("Found variant, but no meanings")
+
+                        sentences = []
+                        for ex_node in var.find_all("div", class_="exampleSentence"):
+                            sentence = {}
+                            stc = ""
+                            for s in ex_node.find_all(string=True, recursive=False):
+                                stc = s.strip()
+                                if stc:
+                                    break
+                            if not stc:
+                                raise ParseError("Example sentence is empty")
+                            sentence["Sentence"] = stc
+                            sentence["Translation"] = (
+                                ex_node.find(
+                                    "span", class_="exampleSentenceTranslation"
+                                )
+                                .get_text()
+                                .strip()
+                            )
+                            if not sentence["Translation"]:
+                                raise ParseError("Sentence translation is empty")
+                            sentences.append(sentence)
+                        variants.append(
+                            {"Variant": vnames, "ExampleSentences": sentences}
+                        )
+
+                mean_list.append({"Meaning": meaning, "Variants": variants})
+
             entry["PartsOfSpeech"].append({"Part": pos, "Meanings": mean_list})
 
         result.append(entry)

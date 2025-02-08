@@ -5,9 +5,13 @@
 .pytest_cache
 .python-version
 .vscode
+.ipynb*
+*.ipynb
 build/*
 diki.conf
 dist/*
 tags
 test_log.txt
 tests/cassettes
+/tests/htmldump_pl/
+/tests/htmldump_en/
