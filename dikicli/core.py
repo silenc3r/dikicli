@@ -5,12 +5,10 @@ import json
 import logging
 import os
 import pathlib
-import re
 import shutil
 import sys
 import urllib
 import urllib.parse
-from collections import namedtuple
 from itertools import zip_longest
 from pathlib import Path
 from urllib.request import Request
@@ -20,10 +18,6 @@ from bs4 import BeautifulSoup
 
 from dikicli.templates import CONFIG_TEMPLATE
 from dikicli.templates import HTML_TEMPLATE
-
-Meaning = namedtuple("Meaning", ["meaning", "examples"])
-PartOfSpeech = namedtuple("PartOfSpeech", ["part", "meanings"])
-Translation = namedtuple("Translation", ["word", "parts_of_speech"])
 
 XDG_DATA_HOME = os.environ.get("XDG_DATA_HOME", "~/.local/share")
 XDG_CACHE_HOME = os.environ.get("XDG_CACHE_HOME", "~/.cache")
@@ -155,80 +149,6 @@ def lookup_online(word: str) -> str:
             content = e.read().decode("utf-8")
             return content
         raise e
-
-
-def _parse_html(html_dump, pl_to_en=False):
-    """Parse html string.
-
-    Parameters
-    ----------
-    html_dump : str
-        HTML content.
-    pl_to_en : bool, optional
-        Whether to translate from native to foreign language.
-
-    Returns
-    -------
-    translations : list
-        Translations list.
-
-    Raises
-    -----   -
-    WordNotFound
-        If word can't be found.
-    """
-    # pylint: disable=too-many-locals
-
-    soup = BeautifulSoup(html_dump, "html.parser")
-    translations = []
-    dikiContainer = soup.find("div", class_="dikiContainer")
-    for entity in dikiContainer.select(
-        "div.diki-results-left-column > div > div.dictionaryEntity"
-    ):
-        if not pl_to_en:
-            meanings = entity.select("ol.foreignToNativeMeanings")
-        else:
-            meanings = entity.select("ol.nativeToForeignEntrySlices")
-        if not meanings:
-            # this can happen when word exists in both polish and english, e.g. 'pet'
-            continue
-        word = tuple(e.get_text().strip() for e in entity.select("div.hws h1 span.hw"))
-        parts = [p.get_text().strip() for p in entity.select("span.partOfSpeech")]
-        parts_list = []
-        for part, m in zip_longest(parts, meanings):
-            meanings = []
-            for elem in m.find_all("li", recursive=False):
-                examples = []
-                if not pl_to_en:
-                    meaning = [m.get_text().strip() for m in elem.select("span.hw")]
-                    pattern = re.compile(r"\s{3,}")
-                    for e in elem.find_all("div", class_="exampleSentence"):
-                        example = re.split(pattern, e.get_text().strip())
-                        examples.append(example)
-                else:
-                    meaning = [elem.find("span", recursive=False).get_text().strip()]
-                    # When translating to polish 'examples' are just synonyms of translation
-                    synonyms = ", ".join(
-                        sorted(
-                            set(
-                                x.get_text().strip()
-                                for x in elem.select("ul > li > span.hw")
-                            )
-                        )
-                    )
-                    if synonyms:
-                        examples.append([synonyms, None])
-                meanings.append(Meaning(meaning, examples))
-            parts_list.append(PartOfSpeech(part, meanings))
-        translations.append(Translation(word, parts_list))
-    if translations:
-        return translations
-    # if translation wasn't found check if there are any suggestions
-    not_found = dikiContainer.p.img.find(string=True, recursive=False).strip()
-    suggestions = dikiContainer.div.b
-    if suggestions:
-        raise WordNotFound(f"{not_found}\n{suggestions.get_text().strip()}")
-    raise WordNotFound(not_found)
 
 
 def parse_en_pl(html_dump):
@@ -445,14 +365,6 @@ def parse_pl_en(html_dump):
     return result
 
 
-def _get_words(data_dir):
-    """Return list of translated words."""
-    trans_dir = data_dir / "translations"
-    return [
-        p.stem for p in sorted(pathlib.Path(trans_dir).iterdir(), key=os.path.getmtime)
-    ]
-
-
 def get_word_list(cache_dir):
     """Return list of translated words."""
     return [
@@ -620,15 +532,15 @@ def generate_word_html(cache_dir, word):
     return html_string
 
 
-def get_stats(data_dir: Path):
+def get_stats(cache_dir: pathlib.Path):
     """Get usage statistics.
     Returns (num_of_en_words, num_of_pl_words) tuple.
     """
-    en_dir = data_dir.joinpath("translations")
-    pl_dir = data_dir.joinpath("translations_native")
+    en_dir = cache_dir / "words_en"
+    pl_dir = cache_dir / "words_pl"
 
     def count_words(dir):
-        return len(list(dir.glob("*.html"))) if dir.is_dir() else 0
+        return len(list(dir.glob("*.json"))) if dir.is_dir() else 0
 
     num_of_en_words = count_words(en_dir)
     num_of_pl_words = count_words(pl_dir)
