@@ -365,13 +365,6 @@ def parse_pl_en(html_dump):
     return result
 
 
-def get_word_list(cache_dir):
-    """Return list of translated words."""
-    return [
-        p.stem for p in sorted(pathlib.Path(cache_dir).iterdir(), key=os.path.getmtime)
-    ]
-
-
 def cache_lookup(cache_dir, word):
     """Check cache for given word.
 
@@ -410,6 +403,13 @@ def cache_store(cache_dir, word, translations):
     logger.debug("Saving %s to cache dir %s", word, cache_dir.as_posix())
     with open(cache_dir / f"{word}.json", mode="w") as f:
         json.dump(translations, f, indent=4, ensure_ascii=False)
+
+
+def get_word_list(cache_dir):
+    """Return list of translated words."""
+    return [
+        p.stem for p in sorted(pathlib.Path(cache_dir).iterdir(), key=os.path.getmtime)
+    ]
 
 
 def create_index_content(words):
@@ -547,7 +547,7 @@ def get_stats(cache_dir: pathlib.Path):
     return num_of_en_words, num_of_pl_words
 
 
-def wrap_text_new(trans_dict, width=0):
+def wrap_text(trans_dict, width=0):
     """Pretty print translations with line wrapping.
 
     When width is 0 thre's no linewrapping performed.
