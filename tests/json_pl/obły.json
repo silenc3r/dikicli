@@ -1,0 +1,61 @@
+[
+    {
+        "Entry": [
+            "obły"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "teres"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "okrągły",
+            "pulchny",
+            "gruby"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rotund"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "w kształcie jajka"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "egg-shaped"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,184 @@
+[
+    {
+        "Entry": [
+            "opis"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "description"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "opis (np. przestępcy, przedmiotu)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "The full description is to be found in the manual.",
+                                        "Translation": "(Pełny opis jest do znalezienia w instrukcji obsługi.)"
+                                    },
+                                    {
+                                        "Sentence": "He gave us detailed description of the thief.",
+                                        "Translation": "(Podał nam pełny opis złodzieja.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "reconstruction"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "odtworzenie (wyglądu czegoś)",
+                                    "opis (wydarzeń)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "This damage is going to make facial reconstruction very difficult.",
+                                        "Translation": "(Te uszkodzenia sprawią, że odtworzenie twarzy będzie bardzo trudne.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "characterization",
+                            "characterisation"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "opis (jakiejś osoby)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "We still don't have any characterization of the suspect.",
+                                        "Translation": "(Nadal nie mamy żadnego opisu podejrzanego.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "survey"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "pogląd",
+                                    "opis",
+                                    "badanie ogólne"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "depiction"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "opis (czegoś)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I will not be careless in my depiction.",
+                                        "Translation": "(Nie będę niedbały w przedstawieniu tej sytuacji.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "panorama"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "opis",
+                                    "panorama"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "specs"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "specyfikacje",
+                                    "opis (funkcjonowania czegoś)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "We have some specs for our new bathroom.",
+                                        "Translation": "(Mamy pewne specyfikacje dotyczące naszej nowej łazienki.)"
+                                    },
+                                    {
+                                        "Sentence": "I did everything according to the specs but it didn't work.",
+                                        "Translation": "(Zrobiłem wszystko zgodnie z opisem, ale to nie zadziałało.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "delineation"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "opis",
+                                    "zarys",
+                                    "wizja (czegoś)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "This is the delineation of our purpose.",
+                                        "Translation": "(To jest wizja naszego celu.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "opis czegoś"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "description of something"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    }
+]

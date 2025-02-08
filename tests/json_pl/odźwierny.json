@@ -1,0 +1,77 @@
+[
+    {
+        "Entry": [
+            "odźwierny"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "porter"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "portier",
+                                    "odźwierny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "doorman"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "odźwierny",
+                                    "portier",
+                                    "bileter (np. w kinie)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "usher"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "odźwierny (sądowy)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "custodian",
+                            "custos"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "woźny (w szkole)",
+                                    "odźwierny (przy wejściu)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

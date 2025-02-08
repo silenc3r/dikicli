@@ -1,0 +1,125 @@
+[
+    {
+        "Entry": [
+            "miniony"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "past"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "były",
+                                    "miniony"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "In the past days we were much happier.",
+                                        "Translation": "(W minionych dniach byliśmy dużo szczęśliwsi.)"
+                                    },
+                                    {
+                                        "Sentence": "The past few months have been difficult.",
+                                        "Translation": "(Kilka minionych miesięcy było trudnych.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bygone"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "przeszły",
+                                    "miniony",
+                                    "dawny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "foregone"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "miniony",
+                                    "przesądzony"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "forepassed",
+                            "forepast"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "przeszły",
+                                    "miniony",
+                                    "dawny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bygones"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "miniony",
+                                    "dawny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "gone"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "miniony (np. czas)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bypast"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "miniony",
+                                    "przeszły",
+                                    "ubiegły"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

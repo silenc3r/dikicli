@@ -1,0 +1,188 @@
+[
+    {
+        "Entry": [
+            "umożliwiać"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "enable"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "umożliwiać",
+                                    "dawać możność",
+                                    "dawać możliwość",
+                                    "pozwalać",
+                                    "czynić możliwym",
+                                    "stwarzać odpowiednie warunki"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I will enable you to have access to all the options.",
+                                        "Translation": "(Dam ci możliwość posiadania dostępu do wszystkich opcji.)"
+                                    },
+                                    {
+                                        "Sentence": "A walker enables the elderly to walk.",
+                                        "Translation": "(Balkonik umożliwia starszym ludziom chodzenie.)"
+                                    },
+                                    {
+                                        "Sentence": "My wife enabled me to continue my work.",
+                                        "Translation": "(Moja żona stworzyła mi odpowiednie warunki do kontynuowania mojej pracy.)"
+                                    },
+                                    {
+                                        "Sentence": "My aunt enabled me to go to school.",
+                                        "Translation": "(Moja ciocia umożliwiła mi chodzenie do szkoły.)"
+                                    },
+                                    {
+                                        "Sentence": "This loan will enable my trip.",
+                                        "Translation": "(Ta pożyczka umożliwi moją wycieczkę.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "permit"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "pozwalać",
+                                    "umożliwiać"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "You should permit him to do what he loves.",
+                                        "Translation": "(Powinieneś umożliwić mu robienie tego, co kocha.)"
+                                    },
+                                    {
+                                        "Sentence": "We won't permit you to go to the party.",
+                                        "Translation": "(Nie pozwolimy ci pójść na przyjęcie.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "facilitate"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ułatwiać",
+                                    "umożliwiać"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "All of this must facilitate growth and the ability to create jobs.",
+                                        "Translation": "(Wszystko to musi ułatwiać wzrost i możliwość tworzenia nowych miejsc pracy.)"
+                                    },
+                                    {
+                                        "Sentence": "Schools should facilitate and promote physical activity for students.",
+                                        "Translation": "(Szkoły powinny ułatwiać i promować wśród uczniów aktywność fizyczną.)"
+                                    },
+                                    {
+                                        "Sentence": "In order to get ourselves out of recession, we should facilitate trade.",
+                                        "Translation": "(Aby wyjść z recesji, powinniśmy ułatwiać handel.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "umożliwiać coś komuś"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "make it possible for somebody to do something"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "umożliwiać coś komuś",
+                                    "umożliwiać komuś zrobienie czegoś"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "My parents made it possible for me to go to college.",
+                                        "Translation": "(Moi rodzice umożliwili mi pójście na studia.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "umożliwiać coś"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "allow of something"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "pozwalać na coś",
+                                    "umożliwiać coś"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "An open ending allows of many interpretations.",
+                                        "Translation": "(Otwarte zakończenie pozwala na wiele interpretacji.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "umożliwić coś"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "clear the path",
+                            "clear a path"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    }
+]

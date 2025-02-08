@@ -1,0 +1,86 @@
+[
+    {
+        "Entry": [
+            "potwarz"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "smear"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "oszczerstwo",
+                                    "potwarz"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "This allegation was a smear.",
+                                        "Translation": "(Ta insynuacja była oszczerstwem.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "slur"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "oszczerstwo",
+                                    "obelga",
+                                    "afront",
+                                    "potwarz"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Her letter contained lots of slurs on her colleagues.",
+                                        "Translation": "(Jej list zawierał wiele obelg na temat jej kolegów z pracy.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "libel"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "oszczerstwo",
+                                    "paszkwil",
+                                    "potwarz",
+                                    "zniesławienie (w formie pisemnej)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "calumny"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "kalumnia",
+                                    "oszczerstwo",
+                                    "potwarz"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "Entry": [
+            "skubać"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "toy"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "skubać (jedzenie)",
+                                    "bawić się (jedzeniem)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Don't toy with food.",
+                                        "Translation": "(Nie baw się jedzeniem.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "crop"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "skubać",
+                                    "przygryzać (np. trawę, rośliny)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Cows crop the grass on my field.",
+                                        "Translation": "(Krowy skubią trawę na moim polu.)"
+                                    },
+                                    {
+                                        "Sentence": "I observed the goat which was cropping the grass.",
+                                        "Translation": "(Obserwowałem kozę, która skubała trawę.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pick"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "dłubać",
+                                    "skubać (np. krostki na twarzy)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "If you keep picking your skin like that, you will end with scars all over your face.",
+                                        "Translation": "(Jeśli będziesz tak dalej dłubać w skórze, skończysz z bliznami na całej twarzy.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nibble"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "skubać",
+                                    "skubnąć",
+                                    "szczypnąć (jeść małymi porcjami)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "skubać coś"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "peck at"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "dziobać (w jedzeniu)",
+                                    "jeść nieentuzjastycznie",
+                                    "skubać coś"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pluck at something"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "skubać coś (np. z nerwów)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I was so nervous that I plucked at my shirt.",
+                                        "Translation": "(Byłem tak zdenerwowany, że skubałem moją koszulę.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

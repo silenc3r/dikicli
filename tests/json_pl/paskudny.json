@@ -1,0 +1,432 @@
+[
+    {
+        "Entry": [
+            "paskudny"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "terrible"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "ugly"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "paskudny",
+                                    "okropny (np. plotki)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "People say ugly things about me.",
+                                        "Translation": "(Ludzie opowiadają o mnie paskudne rzeczy.)"
+                                    },
+                                    {
+                                        "Sentence": "She's spreading ugly rumours about me.",
+                                        "Translation": "(Ona rozpowiada o mnie okropne plotki.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "foul"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "okropny",
+                                    "obrzydliwy",
+                                    "odrażający",
+                                    "paskudny",
+                                    "ohydny"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "This meal's taste is foul.",
+                                        "Translation": "(Smak tego dania jest okropny.)"
+                                    },
+                                    {
+                                        "Sentence": "The murder was foul. The body is missing its head.",
+                                        "Translation": "(Morderstwo było ohydne. Ciału brakuje głowy.)"
+                                    }
+                                ]
+                            },
+                            {
+                                "Variant": [
+                                    "paskudny",
+                                    "burzowy",
+                                    "zimny (np. o dniu, pogodzie)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "This weather is foul. It's so cold.",
+                                        "Translation": "(Ta pogoda jest paskudna. Jest tak zimno.)"
+                                    },
+                                    {
+                                        "Sentence": "What a foul day! It's raining again!",
+                                        "Translation": "(Co za paskudny dzień! Znów pada!)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nasty"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wstrętny",
+                                    "paskudny (np. wygląd, zapach, smak)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "This soup has a nasty taste, I won't eat it.",
+                                        "Translation": "(Ta zupa ma paskudny smak, nie zjem jej.)"
+                                    },
+                                    {
+                                        "Sentence": "This fish has a nasty smell.",
+                                        "Translation": "(Ta ryba ma wstrętny zapach.)"
+                                    },
+                                    {
+                                        "Sentence": "Don't eat this meat, it is nasty.",
+                                        "Translation": "(Nie jedz tego mięsa, ono jest paskudne.)"
+                                    }
+                                ]
+                            },
+                            {
+                                "Variant": [
+                                    "paskudny (mokry lub zimny, o pogodzie)"
+                                ],
+                                "ExampleSentences": []
+                            },
+                            {
+                                "Variant": [
+                                    "paskudny",
+                                    "poważny (np. choroba, uraz)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I caught a nasty cold, I have to stay in bed for a week.",
+                                        "Translation": "(Złapałem paskudne przeziębienie, muszę zostać w łóżku przez tydzień.)"
+                                    },
+                                    {
+                                        "Sentence": "The cut on my leg is nasty. I have to go to the doctor.",
+                                        "Translation": "(Skaleczenie na mojej nodze jest paskudne. Muszę iść do lekarza.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "hideous"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "szkaradny",
+                                    "ohydny",
+                                    "paskudny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "filthy"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "paskudny",
+                                    "ohydny"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "The weather is just filthy today.",
+                                        "Translation": "(Pogoda jest dzisiaj po prostu paskudna.)"
+                                    },
+                                    {
+                                        "Sentence": "I'm in a filthy temper. Leave me alone.",
+                                        "Translation": "(Jestem w paskudnym nastroju. Zostaw mnie samego.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "abominable"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "obrzydliwy",
+                                    "wstrętny",
+                                    "ohydny",
+                                    "paskudny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "fearful"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "okropny",
+                                    "paskudny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "beastly"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wredny",
+                                    "paskudny",
+                                    "nieznośny",
+                                    "okropny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "yucky",
+                            "yukky"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "obrzydliwy",
+                                    "ohydny",
+                                    "paskudny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "confounded"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "przeklęty",
+                                    "paskudny",
+                                    "irytujący"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "skeevy"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ohydny",
+                                    "paskudny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "icky-poo"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wstrętny",
+                                    "obrzydliwy",
+                                    "paskudny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nastiness"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "paskudny",
+                                    "wstrętny smak"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "gicky"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "obrzydliwy",
+                                    "wstrętny",
+                                    "okropny",
+                                    "odrażający",
+                                    "paskudny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "grotty"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "brzydki",
+                                    "kiepski",
+                                    "paskudny",
+                                    "marnej jakości",
+                                    "podły"
+                                ],
+                                "ExampleSentences": []
+                            },
+                            {
+                                "Variant": [
+                                    "okropny",
+                                    "paskudny (np. o samopoczuciu)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I've been feeling grotty for the last few days.",
+                                        "Translation": "(Przez ostatnie parę dni okropnie się czułem.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "minging"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "paskudny",
+                                    "obrzydliwy"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "piss ugly"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wstrętny",
+                                    "paskudny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "sleazo"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "obskurny",
+                                    "paskudny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "oogly"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "szkaradny",
+                                    "brzydki",
+                                    "paskudny (inna pisownia słowa \"ugly\")"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "butters"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "obrzydliwy",
+                                    "odpychający",
+                                    "paskudny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "grody to the max"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wstrętny",
+                                    "obrzydliwy",
+                                    "paskudny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

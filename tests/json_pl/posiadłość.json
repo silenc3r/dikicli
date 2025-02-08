@@ -1,0 +1,150 @@
+[
+    {
+        "Entry": [
+            "posiadłość"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "property"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "posiadłość",
+                                    "nieruchomość"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Are you aware of the fact that you are on private property?",
+                                        "Translation": "(Czy zdajesz sobie sprawę z faktu, że jesteś na terenie prywatnej posiadłości?)"
+                                    },
+                                    {
+                                        "Sentence": "This property has been in my family for ages.",
+                                        "Translation": "(Ta posiadłość jest w mojej rodzinie od wieków.)"
+                                    },
+                                    {
+                                        "Sentence": "Sir, you have to leave, this is a private property.",
+                                        "Translation": "(Proszę pana, musi pan odejść, to prywatna posiadłość.)"
+                                    },
+                                    {
+                                        "Sentence": "I own five properties in the country.",
+                                        "Translation": "(Posiadam na wsi pięć nieruchomości.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "estate"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "posiadłość",
+                                    "majątek ziemski"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "This estate is 300 acres large.",
+                                        "Translation": "(Ta posiadłość ma 300 akrów.)"
+                                    },
+                                    {
+                                        "Sentence": "He was a rich estate owner.",
+                                        "Translation": "(On był bogatym właścicielem ziemskim.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "mansion"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "rezydencja",
+                                    "willa",
+                                    "posiadłość",
+                                    "posesja",
+                                    "dworek"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "possession"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "dobytek",
+                                    "własność",
+                                    "posiadłość"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "He got rid of all of his possesions.",
+                                        "Translation": "(On pozbył się całego swojego dobytku.)"
+                                    }
+                                ]
+                            },
+                            {
+                                "Variant": [
+                                    "posiadłość (terytorium innego państwa)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "The United Kingdom lost most of their overseas possesions in the twentieth century.",
+                                        "Translation": "(Wielka Brytania straciła większość swoich zamorskich posiadłości w dwudziestym wieku.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pinca"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ranczo",
+                                    "posiadłość (w Hiszpanii i rejonach hiszpańskojęzycznych)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "manse"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "rezydencja",
+                                    "posiadłość"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

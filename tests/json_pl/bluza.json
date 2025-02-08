@@ -1,0 +1,72 @@
+[
+    {
+        "Entry": [
+            "bluza"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sweatshirt"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "bluza (z kapturem lub bez)",
+                                    "bluza sportowa",
+                                    "górna część dresu"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Last week, she wore my sweatshirt without asking.",
+                                        "Translation": "(Tydzień temu ona wzięła moją bluzę bez pytania.)"
+                                    },
+                                    {
+                                        "Sentence": "He was wearing a dark hooded sweatshirt.",
+                                        "Translation": "(On nosił ciemną bluzę z kapturem.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "tunic"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "bluza (bez rękawów)",
+                                    "tunika (noszona przez kobiety)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "She wore a red tunic.",
+                                        "Translation": "(On miała na sobie czerwoną bluzę.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "chaqueta"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "kurtka",
+                                    "bluza"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

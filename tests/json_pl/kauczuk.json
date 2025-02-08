@@ -1,0 +1,58 @@
+[
+    {
+        "Entry": [
+            "kauczuk"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "india rubber"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "kauczuk",
+                                    "guma"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "caoutchouc"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "kauczuk",
+                                    "guma"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "gum elastic",
+                            "gum"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "guma",
+                                    "kauczuk"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "Entry": [
+            "koc"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "blanket"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "rug"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "koc",
+                                    "pled"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

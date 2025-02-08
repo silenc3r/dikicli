@@ -1,0 +1,134 @@
+[
+    {
+        "Entry": [
+            "przystępny"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "affordable"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "przystępny (w przystępnej cenie)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I bought a dress at an affordable price.",
+                                        "Translation": "(Kupiłam sukienkę w przystępnej cenie.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "popular"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "dostępny",
+                                    "przystępny"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "They offer popular prices.",
+                                        "Translation": "(Oni oferują przystępne ceny.)"
+                                    },
+                                    {
+                                        "Sentence": "She didn't smile and wasn't popular.",
+                                        "Translation": "(Ona się nie uśmiechała i nie była przystępna.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "straightforward"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "jasny (o instrukcji)",
+                                    "prosty (o sprawie)",
+                                    "przystępny (o informacji)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "We would like to get straightforward information about the promotion.",
+                                        "Translation": "(Chcielibyśmy dostać jasną informację o tej promocji.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "accessible"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "approachable"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "semplice"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "prosty",
+                                    "przystępny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "come-at-able"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "łatwo dostępny",
+                                    "przystępny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "easy to approach"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "przystępny (o człowieku)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

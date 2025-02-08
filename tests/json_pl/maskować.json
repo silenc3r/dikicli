@@ -1,0 +1,130 @@
+[
+    {
+        "Entry": [
+            "maskować"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mask"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "camouflage"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "maskować",
+                                    "zamaskować",
+                                    "kamuflować",
+                                    "zakamuflować",
+                                    "ukryć",
+                                    "ukrywać (np. czołg)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "masquerade"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "maskować",
+                                    "ukrywać się",
+                                    "udawać kogoś innego"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "veneer"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "anonymize",
+                            "anonymise"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "maskować",
+                                    "czynić anonimowym",
+                                    "zanonimizować"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "maskować się"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "disguise"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "przebrać",
+                                    "przebierać się",
+                                    "zmieniać wygląd",
+                                    "maskować się (ubrać się w coś, aby nie zostać rozpoznanym)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "She disguised herself by wearing a wig.",
+                                        "Translation": "(Przebrała się zakładając perukę.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "camouflage oneself"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ukrywać się",
+                                    "maskować się",
+                                    "kamuflować się"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

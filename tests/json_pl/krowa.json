@@ -1,0 +1,84 @@
+[
+    {
+        "Entry": [
+            "krowa"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "cow"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "krowa"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Cows give milk.",
+                                        "Translation": "(Krowy dają mleko.)"
+                                    },
+                                    {
+                                        "Sentence": "The field was full of cows.",
+                                        "Translation": "(Pole było pełne krów.)"
+                                    }
+                                ]
+                            },
+                            {
+                                "Variant": [
+                                    "krowa",
+                                    "stara krowa",
+                                    "babsko"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "What is this cow doing in my house?",
+                                        "Translation": "(Co to babsko robi w moim domu?)"
+                                    },
+                                    {
+                                        "Sentence": "Don't listen to this old cow, she's telling fairy tales.",
+                                        "Translation": "(Nie słuchaj tej starej krowy, ona opowiada bajki.)"
+                                    },
+                                    {
+                                        "Sentence": "My new teacher is a cow, I don't like her.",
+                                        "Translation": "(Moja nowa nauczycielka to stara krowa, nie lubię jej.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "moo cow",
+                            "moo-cow"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "krowa (używane przez dzieci)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "hawkie"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "milk kye"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,88 @@
+[
+    {
+        "Entry": [
+            "niepotrzebnie"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "needlessly"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "gratuitously"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "zbędnie",
+                                    "niepotrzebnie"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "superfluously"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "redundantly"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "zbędnie",
+                                    "niepotrzebnie"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "otiosely"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "bezcelowo",
+                                    "niepotrzebnie"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "unnecessarily"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "niepotrzebnie",
+                                    "zbytecznie"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

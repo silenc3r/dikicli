@@ -1,0 +1,77 @@
+[
+    {
+        "Entry": [
+            "dorożka"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "cab"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "surrey"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "hackney"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "dorożka",
+                                    "koń dorożkarski"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "drosky",
+                            "droshky"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "lekka bryczka",
+                                    "dorożka (rosyjska)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "hackney coach",
+                            "hackney carriage"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "dorożka",
+                                    "fiakier"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "hackneyed carriage"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,221 @@
+[
+    {
+        "Entry": [
+            "powstać"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rise"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wstawać",
+                                    "powstać"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "All rise, please.",
+                                        "Translation": "(Proszę powstać.)"
+                                    },
+                                    {
+                                        "Sentence": "You have to rise when the Queen enters.",
+                                        "Translation": "(Musicie wstać, kiedy wchodzi Królowa.)"
+                                    }
+                                ]
+                            },
+                            {
+                                "Variant": [
+                                    "powstać (przeciwko czemuś)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "All women should rise against inequality and discrimination.",
+                                        "Translation": "(Wszystkie kobiety powinny powstać przeciwko nierówności i dyskryminacji.)"
+                                    },
+                                    {
+                                        "Sentence": "We need to rise against our oppressors!",
+                                        "Translation": "(Musimy powstać przeciwko naszym ciemiężcom!)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "uprise"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "powstać",
+                                    "podnieść"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "get to one's feet",
+                            "rise to one's feet"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "powstać",
+                                    "wstać"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "powstawać"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "arise"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nadarzać się",
+                                    "powstawać",
+                                    "pojawiać się (o problemie, trudnej sytuacji)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I seized the opportunity as soon as it arose.",
+                                        "Translation": "(Skorzystałem z okazji, kiedy tylko się nadarzyła.)"
+                                    },
+                                    {
+                                        "Sentence": "Contact me if any problems arise.",
+                                        "Translation": "(Skontaktuj się ze mną, jeżeli pojawią się jakieś problemy.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "originate"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "powstawać",
+                                    "pojawiać się",
+                                    "rodzić się",
+                                    "zaczynać się",
+                                    "pochodzić (z jakiegoś okresu)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "My grandmother's jewellery originates from the 19th century.",
+                                        "Translation": "(Biżuteria mojej babci pochodzi z XIX wieku.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "develop",
+                            "develope"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "powstawać (np. uszkodzenie)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "A crack in the hull has developed.",
+                                        "Translation": "(Powstało pęknięcie w kadłubie.)"
+                                    },
+                                    {
+                                        "Sentence": "No damage has developed during the transport.",
+                                        "Translation": "(Podczas transportu nie powstało żadne uszkodzenie.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "flow"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wynikać",
+                                    "powstawać",
+                                    "brać się"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Are there any problems that flow from this theory?",
+                                        "Translation": "(Czy są jakieś problemy, które wynikają z tej teorii?)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "callus"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "powstawać (o nagniotku, odcisku)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "come into being"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "zaistnieć",
+                                    "powstawać"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

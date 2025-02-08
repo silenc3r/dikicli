@@ -1,0 +1,249 @@
+[
+    {
+        "Entry": [
+            "bezpodstawny"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "unfounded"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nieuzasadniony (o zarzutach)",
+                                    "bezpodstawny (o podejrzeniach, obawach)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I hope that my fears will prove to be unfounded.",
+                                        "Translation": "(Mam nadzieję, że moje obawy okażą się bezpodstawne.)"
+                                    },
+                                    {
+                                        "Sentence": "The charges were unfounded.",
+                                        "Translation": "(Zarzuty były nieuzasadnione.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "idle"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "bezpodstawny",
+                                    "czczy",
+                                    "daremny",
+                                    "jałowy (np. działanie)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "unwarranted"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "bezpodstawny (np. plotka, obawa)",
+                                    "niepotrzebny (np. zakłócenie)",
+                                    "nieusprawiedliwiony (np. ograniczenia)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "illegitimate"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "niezasadny",
+                                    "bezpodstawny",
+                                    "nieuzasadniony"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "You don't have to worry, his claims are illegitimate.",
+                                        "Translation": "(Nie musisz się martwić, jego żądania są bezpodstawne.)"
+                                    },
+                                    {
+                                        "Sentence": "Your conclusions are illegitimate, correct them.",
+                                        "Translation": "(Twoje wnioski są nieuzasadnione, popraw je.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "gratuitous"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "bezpodstawny",
+                                    "niepotrzebny (np. przemoc, wandalizm)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "unsubstantiated"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "niepotwierdzony",
+                                    "nieudowodniony",
+                                    "bezpodstawny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "unjustified"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nieuzasadniony",
+                                    "bezpodstawny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "insubstantial"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wiotki",
+                                    "bezpodstawny",
+                                    "słaby (np. struktura, dowód)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "baseless"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "undeserved"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "niezasłużony",
+                                    "bezpodstawny",
+                                    "niesłuszny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "unprovoked"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "bezpodstawny",
+                                    "nieuzasadniony",
+                                    "niezasłużony (np. atak)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "groundless"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "bezpodstawny",
+                                    "nieuzasadniony (o czynach, emocjach)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "unsubstantial"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "ungrounded"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "bezpodstawny",
+                                    "nieuzasadniony"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "foundationless"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nieuzasadniony (o zarzutach)",
+                                    "bezpodstawny (o podejrzeniach, obawach)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ill-founded"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "bezpodstawny",
+                                    "oparty na błędnych założeniach"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

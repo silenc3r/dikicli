@@ -1,0 +1,230 @@
+[
+    {
+        "Entry": [
+            "kręty"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "spiral"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "spiralny (o kształcie)",
+                                    "kręty (o schodach)",
+                                    "zwojowy (np. film)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "She ran down the spiral stairs.",
+                                        "Translation": "(Ona zbiegła po spiralnych schodach.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "twisting",
+                            "twisty"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "winding"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "kręty",
+                                    "wijący się"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "sinuous"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "kręty (np. korytarz)",
+                                    "falisty (np. szlak, ścieżka)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Do not enter the sinuous path.",
+                                        "Translation": "(Nie wchodź na krętą ścieżkę.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "tortuous"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "kręty (o ścieżce)",
+                                    "wijący się (np. strumyk)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "devious"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "okrężny (o drodze)",
+                                    "kręty (o ścieżce)",
+                                    "pokrętny (np. sposób)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "meandering"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "kręty",
+                                    "wijący się"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "tight"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "kręty",
+                                    "wąski (np. zakręt)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "This curve is tight, watch out.",
+                                        "Translation": "(Ten zakręt jest wąski, uważaj.)"
+                                    },
+                                    {
+                                        "Sentence": "This city has very narrow streets.",
+                                        "Translation": "(To miasto ma bardzo wąskie uliczki.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "serpentine"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wijący się (o rzece)",
+                                    "kręty (o ścieżce)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bendy"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "kręty (np. droga)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "anfractuous"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "kręty",
+                                    "zawiły"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "meandrous"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "kręty",
+                                    "wijący się"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "flexuous",
+                            "flexuose"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wijący się",
+                                    "kręty"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "kręt"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "moment of momentum"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    }
+]

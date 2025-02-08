@@ -1,0 +1,631 @@
+[
+    {
+        "Entry": [
+            "obrzydliwy"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "awful"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "okropny",
+                                    "wstrętny",
+                                    "obrzydliwy"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "That food smells awful.",
+                                        "Translation": "(To jedzenie pachnie wstrętnie.)"
+                                    },
+                                    {
+                                        "Sentence": "He told me many awful things.",
+                                        "Translation": "(On powiedział mi wiele okropnych rzeczy.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "filthy"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "obrzydliwy",
+                                    "bardzo brudny"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "His hands were filthy.",
+                                        "Translation": "(Jego ręce były okropnie brudne.)"
+                                    },
+                                    {
+                                        "Sentence": "She brushed the filthy hair back from her face and smiled.",
+                                        "Translation": "(Ona odgarnęła brudne włosy z twarzy i uśmiechnęła się.)"
+                                    },
+                                    {
+                                        "Sentence": "Your habit of biting your nails is filthy.",
+                                        "Translation": "(Twój nawyk obgryzania paznokci jest obrzydliwy.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "horrible"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "obrzydliwy",
+                                    "potworny"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I have a horrible feeling that I will fail.",
+                                        "Translation": "(Mam okropne przeczucie, że mi się nie uda.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "foul"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "okropny",
+                                    "obrzydliwy",
+                                    "odrażający",
+                                    "paskudny",
+                                    "ohydny"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "This meal's taste is foul.",
+                                        "Translation": "(Smak tego dania jest okropny.)"
+                                    },
+                                    {
+                                        "Sentence": "The murder was foul. The body is missing its head.",
+                                        "Translation": "(Morderstwo było ohydne. Ciału brakuje głowy.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "disgusting"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wstrętny",
+                                    "obrzydliwy",
+                                    "zmierzły"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I think smoking is a disgusting habit.",
+                                        "Translation": "(Myślę, że palenie to wstrętny nawyk.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "gross"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "sprośny",
+                                    "wulgarny",
+                                    "obrzydliwy"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "He often tells us gross jokes.",
+                                        "Translation": "(On często opowiada nam sprośne dowcipy.)"
+                                    },
+                                    {
+                                        "Sentence": "Your story is gross, don't tell it to your wife.",
+                                        "Translation": "(Twoja historyjka jest wulgarna, nie opowiadaj jej swojej żonie.)"
+                                    }
+                                ]
+                            },
+                            {
+                                "Variant": [
+                                    "obrzydliwy",
+                                    "odrzucający"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "heinous"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "obrzydliwy",
+                                    "ohydny",
+                                    "potworny",
+                                    "haniebny"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "His behaviour was heinous. I'll talk to his parents.",
+                                        "Translation": "(Jego zachowanie było haniebne. Porozmawiam z jego rodzicami.)"
+                                    },
+                                    {
+                                        "Sentence": "This heinous crime has to be solved.",
+                                        "Translation": "(Ta obrzydliwa zbrodnia musi zostać rozwiązana.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "poisonous"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "distasteful"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "niesmaczny",
+                                    "wstrętny",
+                                    "obrzydliwy (np. żart, film)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "abominable"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "obrzydliwy",
+                                    "wstrętny",
+                                    "ohydny",
+                                    "paskudny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "slimy"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "obrzydliwy",
+                                    "obleśny",
+                                    "ohydny (o osobie)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "This old man is slimy!",
+                                        "Translation": "(Ten stary mężczyzna jest obleśny!)"
+                                    },
+                                    {
+                                        "Sentence": "A slimy guy wanted some money.",
+                                        "Translation": "(Obrzydliwy facet chciał trochę pieniędzy.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "gut-wrenching"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "obrzydliwy",
+                                    "ohydny",
+                                    "ogromnie przygnębiający"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "grungy"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "brudny",
+                                    "wstrętny",
+                                    "obrzydliwy"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "god-awful"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "obrzydliwy",
+                                    "wstrętny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "yucky",
+                            "yukky"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "obrzydliwy",
+                                    "ohydny",
+                                    "paskudny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "crusty"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "obrzydliwy",
+                                    "niesmaczny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "detestable"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "obrzydliwy",
+                                    "wstrętny (o osobie)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "scabby"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "obrzydliwy",
+                                    "ohydny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "execrable"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ohydny",
+                                    "wstrętny",
+                                    "okropny",
+                                    "obrzydliwy"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "foul-tasting"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "obrzydliwy (w smaku)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "grody"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "obrzydliwy",
+                                    "wstrętny",
+                                    "obleśny",
+                                    "odpychający"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "icky-poo"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wstrętny",
+                                    "obrzydliwy",
+                                    "paskudny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "stomach-turning"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ohydny",
+                                    "wywołujący mdłości",
+                                    "obrzydliwy"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "gicky"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "obrzydliwy",
+                                    "wstrętny",
+                                    "okropny",
+                                    "odrażający",
+                                    "paskudny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "squicky"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "pukey",
+                            "puky"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "cruddy"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "lepki",
+                                    "obrzydliwy"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "oogy"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wstrętny",
+                                    "ohydny",
+                                    "obrzydliwy"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "scungy"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "obrzydliwy",
+                                    "obleśny",
+                                    "parszywy"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "scaggy",
+                            "skaggy"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "minging"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "paskudny",
+                                    "obrzydliwy"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "butters"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "obrzydliwy",
+                                    "odpychający",
+                                    "paskudny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "yechy"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ohydny",
+                                    "obrzydliwy"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "beastie"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "obrzydliwy",
+                                    "ohydny",
+                                    "odpychający"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "chunderous"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "obrzydliwy",
+                                    "przyprawiający o mdłości"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "fugly"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "cholernie brzydki",
+                                    "obrzydliwy"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "grody to the max"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wstrętny",
+                                    "obrzydliwy",
+                                    "paskudny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ill-faced"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ohydny",
+                                    "obrzydliwy"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

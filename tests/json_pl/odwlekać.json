@@ -1,0 +1,130 @@
+[
+    {
+        "Entry": [
+            "odwlekać"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "hold up"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "opóźniać",
+                                    "odwlekać"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Hold your departure up.",
+                                        "Translation": "(Opóźnij swój wyjazd.)"
+                                    },
+                                    {
+                                        "Sentence": "She wants to hold up the ceremony.",
+                                        "Translation": "(Ona chce opóźnić ceremonię.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "procrastinate"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "odkładać",
+                                    "odwlekać (zrobienie czegoś)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Most of us procrastinate, because it's hard to get started.",
+                                        "Translation": "(Większość z nas odwleka wykonanie zadań, ponieważ ciężko jest zacząć.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "odwlekać coś"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "hold something over"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "przekładać coś na później",
+                                    "odwlekać coś"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "She always holds everything over and then complains she lacks time.",
+                                        "Translation": "(Ona zawsze wszystko odwleka, a później narzeka, że brak jej czasu.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "odwlec"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "delay"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "odłożyć",
+                                    "odwlec"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I really couldn't delay it any longer.",
+                                        "Translation": "(Naprawdę nie mogłem tego bardziej odwlekać.)"
+                                    },
+                                    {
+                                        "Sentence": "You shouldn't delay a doctor's appointment.",
+                                        "Translation": "(Nie powinieneś odkładać wizyty u lekarza.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

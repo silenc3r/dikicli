@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "deklinacja"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "declension"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "deklinacja (odmiana rzeczownika, przymiotnika, zaimka lub liczebnika przez przypadki i liczby)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

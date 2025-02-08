@@ -1,0 +1,41 @@
+[
+    {
+        "Entry": [
+            "zaślepka"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "plug"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "dummy plug"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "obturator"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "migawka",
+                                    "zaślepka"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

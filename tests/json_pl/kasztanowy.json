@@ -1,0 +1,89 @@
+[
+    {
+        "Entry": [
+            "kasztanowy"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "auburn"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "kasztanowaty",
+                                    "kasztanowy (np. o kolorze włosów)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "maroon"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "kasztanowy (połączenie brązu i czerwieni)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "sorrel"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "kasztanowy (koń)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "chestnut"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "badious"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "kasztanowy (o kolorze)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nutbrown"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "orzechowy",
+                                    "brązowy",
+                                    "kasztanowy (o kolorze włosów lub oczu)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

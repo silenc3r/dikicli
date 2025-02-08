@@ -1,0 +1,95 @@
+[
+    {
+        "Entry": [
+            "celownik"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "the post",
+                            "the finishing post"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "celownik (meta w wyścigach konnych)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "His horse was the last at the finishing post.",
+                                        "Translation": "(Jego koń dotarł do mety ostatni.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "sights",
+                            "sight"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "gunpoint"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "muszka",
+                                    "celownik"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "gun sight",
+                            "gunsight",
+                            "gun-sight"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "dative case"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "celownik (przypadek gramatyczny)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rear sight"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "dative"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "celownik (w gramatyce)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

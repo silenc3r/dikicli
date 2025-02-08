@@ -1,0 +1,65 @@
+[
+    {
+        "Entry": [
+            "kolacja"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "supper"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "kolacja (lekki posiłek jedzony wieczorem)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Will you have supper with me tonight?",
+                                        "Translation": "(Zjesz dzisiaj ze mną kolację?)"
+                                    },
+                                    {
+                                        "Sentence": "Let's have supper in the garden.",
+                                        "Translation": "(Zjedzmy kolację w ogrodzie.)"
+                                    },
+                                    {
+                                        "Sentence": "Supper is ready.",
+                                        "Translation": "(Kolacja jest gotowa.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dinner"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "przyjęcie",
+                                    "obiad",
+                                    "kolacja"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "We invited them over for dinner.",
+                                        "Translation": "(Zaprosiliśmy ich do nas na obiad.)"
+                                    },
+                                    {
+                                        "Sentence": "The dinner did not go quite as planned.",
+                                        "Translation": "(Przyjęcie nie wypadło całkiem tak, jak było zaplanowane.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

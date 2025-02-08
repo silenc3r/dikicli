@@ -1,0 +1,87 @@
+[
+    {
+        "Entry": [
+            "awanturniczy"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rowdy"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "hałaśliwy",
+                                    "awanturniczy",
+                                    "niesforny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "lawless"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "zanarchizowany",
+                                    "samowolny",
+                                    "awanturniczy"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rogue"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nieokiełznany",
+                                    "awanturniczy",
+                                    "niekontrolowany"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "swashbuckling"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "awanturniczy",
+                                    "zawadiacki"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "blood-and-thunder"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "awanturniczy (np. film, powieść)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

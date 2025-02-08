@@ -1,0 +1,67 @@
+[
+    {
+        "Entry": [
+            "zgryz"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bite"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "occlusion"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "kłopot"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "trouble"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "zmartwienie",
+            "niepokój",
+            "frasunek"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "worry"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    }
+]

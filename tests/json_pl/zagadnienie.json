@@ -1,0 +1,74 @@
+[
+    {
+        "Entry": [
+            "zagadnienie"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "issue"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "kwestia",
+                                    "sprawa",
+                                    "zagadnienie (np. będąca przedmiotem dyskusji)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "This is a very important issue.",
+                                        "Translation": "(To jest bardzo ważna kwestia.)"
+                                    },
+                                    {
+                                        "Sentence": "I don't know why it's such an issue.",
+                                        "Translation": "(Nie wiem dlaczego jest to taki problem.)"
+                                    },
+                                    {
+                                        "Sentence": "This issue is no simpler today than it was then.",
+                                        "Translation": "(Ta kwestia wcale nie jest prostsza dziś, niż była wtedy.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "question",
+                            "qu."
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "zagadnienie",
+                                    "kwestia"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "What do you think of the current war question?",
+                                        "Translation": "(Co sądzisz w kwestii obecnej wojny?)"
+                                    },
+                                    {
+                                        "Sentence": "This question will be solved next week.",
+                                        "Translation": "(To zagadnienie zostanie rozwiązane w przyszłym tygodniu.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "problem",
+                            "prob."
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    }
+]

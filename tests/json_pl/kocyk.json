@@ -1,0 +1,21 @@
+[
+    {
+        "Entry": [
+            "kocyk"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "blankie"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    }
+]

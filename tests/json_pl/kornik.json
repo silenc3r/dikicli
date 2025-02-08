@@ -1,0 +1,41 @@
+[
+    {
+        "Entry": [
+            "kornik"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sawyer"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "woodworm"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "czerw drzewny",
+                                    "kornik"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bark beetle"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    }
+]

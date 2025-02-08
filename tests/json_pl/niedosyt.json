@@ -1,0 +1,79 @@
+[
+    {
+        "Entry": [
+            "brak",
+            "niedobór",
+            "deficyt"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "shortage",
+                            "shtg."
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "brak (np. gotówki)",
+                                    "niedobór (np. pracowników)",
+                                    "deficyt (budżetowy)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "We are suffering from the shortage of food.",
+                                        "Translation": "(Cierpimy na niedobór jedzenia.)"
+                                    },
+                                    {
+                                        "Sentence": "There is a shortage of vaccinations in Africa.",
+                                        "Translation": "(W Afryce jest deficyt szczepionek.)"
+                                    },
+                                    {
+                                        "Sentence": "The recent shortage of money made us suffer.",
+                                        "Translation": "(Niedawny brak gotówki sprawił, że cierpieliśmy.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "niedosyt czegoś"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "want of something"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "brak czegoś",
+                                    "niedostatek czegoś",
+                                    "niedosyt czegoś"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "People are dying for want of proper health care.",
+                                        "Translation": "(Ludzie umierają z braku odpowiedniej opieki zdrowotnej.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

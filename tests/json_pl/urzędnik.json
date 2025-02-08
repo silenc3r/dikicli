@@ -1,0 +1,130 @@
+[
+    {
+        "Entry": [
+            "urzędnik"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "official"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "urzędnik",
+                                    "urzędniczka",
+                                    "funkcjonariusz",
+                                    "oficjel"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "She is a government official.",
+                                        "Translation": "(Ona jest rządowym urzędnikiem.)"
+                                    },
+                                    {
+                                        "Sentence": "This official is very rude. I will file a complaint.",
+                                        "Translation": "(Ta urzędniczka jest bardzo niegrzeczna. Złożę skargę.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "clerk"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "urzędnik",
+                                    "urzędniczka",
+                                    "pracownik biurowy"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "He worked as a clerk to support his family.",
+                                        "Translation": "(Pracował jako urzędnik, żeby utrzymać rodzinę.)"
+                                    },
+                                    {
+                                        "Sentence": "Don't complain, you're a clerk - it's a good job.",
+                                        "Translation": "(Nie narzekaj, jesteś pracownikiem biurowym - to dobra praca.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bureaucrat"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "biurokrata",
+                                    "urzędnik",
+                                    "urzędniczka"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I have no time to handle all those bureaucrats.",
+                                        "Translation": "(Nie mam czasu użerać się z tymi wszystkimi biurokratami.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "functionary"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "funkcjonariusz",
+                                    "urzędnik",
+                                    "urzędniczka"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "diwan"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "urzędnik",
+                                    "urzędniczka",
+                                    "funkcjonariusz (w Indiach)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "officer-in-charge",
+                            "officer in charge",
+                            "OIC"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "osoba odpowiedzialna (za coś)",
+                                    "urzędnik"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,246 @@
+[
+    {
+        "Entry": [
+            "pupa"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bottom"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "tyłek",
+                                    "pupa (pośladki)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "She has a beautiful bottom.",
+                                        "Translation": "(Ona ma piękną pupę.)"
+                                    },
+                                    {
+                                        "Sentence": "Sit on your bottom and listen to me!",
+                                        "Translation": "(Siadaj na tyłku i mnie słuchaj!)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rear",
+                            "rear end"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "tyłek",
+                                    "pupa (pośladki)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "If I were you, I would mind your own rear.",
+                                        "Translation": "(Na twoim miejscu uważałabym na swój tyłek.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bum"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "tyłek",
+                                    "pupa (pośladki)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Just sit on your bum and watch.",
+                                        "Translation": "(Po prostu usiądź na tyłku i oglądaj.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "backside"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "tyłek",
+                                    "pupa (pośladki)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "fanny"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "pupa",
+                                    "tyłek"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "behind"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "tyłek",
+                                    "pupa (pośladki)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "He'd sit on his lazy behind all day and do nothing.",
+                                        "Translation": "(On zawsze siedział na swoim leniwym tyłku i nic nie robił.)"
+                                    },
+                                    {
+                                        "Sentence": "I kicked him in the behind.",
+                                        "Translation": "(Kopnąłem go w tyłek.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "tush",
+                            "tushie",
+                            "tushy"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "tyłek",
+                                    "pupa",
+                                    "pośladki"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Look at that Spaniard, nice tush.",
+                                        "Translation": "(Popatrz na tego Hiszpana, ładny tyłek.)"
+                                    },
+                                    {
+                                        "Sentence": "Do I dare to touch his tushie?",
+                                        "Translation": "(Czy odważę się dotknąć jego pośladków?)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "posterior"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "tyłek",
+                                    "pupa (pośladki)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "derriere"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "pupa",
+                                    "tyłek"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "botty"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "pupa (w dziecięcej mowie)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "patootie"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "tyłek",
+                                    "pupa",
+                                    "pośladki"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "coit"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "tyłek",
+                                    "pupa",
+                                    "pośladki"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "toches",
+                            "tuchas"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "tyłek",
+                                    "pośladki",
+                                    "pupa"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

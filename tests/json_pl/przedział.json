@@ -1,0 +1,94 @@
+[
+    {
+        "Entry": [
+            "przedział"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "range"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "zakres",
+                                    "przedział (np. cen lub temperatur)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "They offer computers in the price range from $500 to $2000.",
+                                        "Translation": "(Oni oferują komputery w zakresie cen od $500 do $2000.)"
+                                    },
+                                    {
+                                        "Sentence": "Most of the students are in the 19-24 age range.",
+                                        "Translation": "(Większość studentów jest w przedziale wiekowym od 19 do 24 lat.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "compartment"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "przedział (np. w pociągu, samolocie)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "On business trips, I travel in a first-class compartment.",
+                                        "Translation": "(W podróże służbowe jeżdżę w przedziale pierwszej klasy.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "span"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "okres (czas trwania czegoś)",
+                                    "przedział"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "We distinguish long term and short term memory span.",
+                                        "Translation": "(Wyróżniamy pamięć długo i krótko terminową.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "interval"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "przedział (liczb)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "compartition"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    }
+]

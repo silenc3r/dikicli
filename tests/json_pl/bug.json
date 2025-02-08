@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "Bug"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "the Bug",
+                            "the Bug River"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "Bug (rzeka)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

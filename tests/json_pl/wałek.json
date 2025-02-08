@@ -1,0 +1,151 @@
+[
+    {
+        "Entry": [
+            "wałek"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "roller"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wałek (do malowania ścian)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "He painted the wall with a roller.",
+                                        "Translation": "(On pomalował ściany wałkiem.)"
+                                    }
+                                ]
+                            },
+                            {
+                                "Variant": [
+                                    "wałek (do włosów)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "When I saw her last time, she still had rollers in her hair.",
+                                        "Translation": "(Jak ją ostatnio widziałem, nadal miała wałki we włosach.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "roll"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wałek (np. tłuszczu)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "He has so many fat rolls that he can't count them anymore.",
+                                        "Translation": "(On ma tyle wałków tłuszczu, że nie może ich już policzyć.)"
+                                    },
+                                    {
+                                        "Sentence": "She is ashamed of her fat rolls.",
+                                        "Translation": "(Ona wstydzi się swoich wałków tłuszczu.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "arbour",
+                            "arbor"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wał",
+                                    "wałek (np. w maszynie, tokarce)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "curler"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "papilot",
+                                    "wałek (do włosów)",
+                                    "lokówka (do włosów)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "A curler curls hair.",
+                                        "Translation": "(Lokówka kręci włosy.)"
+                                    },
+                                    {
+                                        "Sentence": "She can't go out, she has curlers in her hair.",
+                                        "Translation": "(Ona nie może wyjść, ma wałki we włosach.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bolster"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wałek",
+                                    "podgłówek"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "He adjusted his bolster and went to sleep.",
+                                        "Translation": "(On dopasował swój podgłówek i poszedł spać.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "brayer"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wałek (narzędzie graficzne do pokrywania matrycy farbą)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "platen"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wałek (maszyny do pisania)",
+                                    "płyta dociskowa"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

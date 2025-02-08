@@ -1,0 +1,268 @@
+[
+    {
+        "Entry": [
+            "opiekować"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mother"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "matkować",
+                                    "troszczyć się",
+                                    "opiekować (jak matka)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "You're an adult, I won't mother you!",
+                                        "Translation": "(Jesteś dorosły, nie będę ci matkować!)"
+                                    },
+                                    {
+                                        "Sentence": "She mothered the lamb until it recovered.",
+                                        "Translation": "(Ona matkowała owieczkę, dopóki ta nie wyzdrowiała.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "opiekować się"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "care"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "attend"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "pielęgnować",
+                                    "opiekować się"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I can't come to the party. I have to attend my baby.",
+                                        "Translation": "(Nie mogę iść na imprezę. Muszę opiekować się moim dzieckiem.)"
+                                    },
+                                    {
+                                        "Sentence": "The bitch attends her puppies.",
+                                        "Translation": "(Suka opiekuje się swoimi szczeniakami.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "sit"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "chaperon",
+                            "chaperone"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "opiekować się kimś"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "care for somebody"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "troszczyć się o kogoś",
+                                    "opiekować się kimś"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "After her husband's death, she cares for her children alone.",
+                                        "Translation": "(Po śmierci swojego męża, ona sama troszczy się o swoje dzieci.)"
+                                    },
+                                    {
+                                        "Sentence": "I care for my grandmother.",
+                                        "Translation": "(Opiekuję się moją babcią.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "look after somebody"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "zajmować się kimś",
+                                    "opiekować się kimś"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Jane is looking after the children.",
+                                        "Translation": "(Jane opiekuje się dziećmi.)"
+                                    },
+                                    {
+                                        "Sentence": "Do you have any experience in looking after small children?",
+                                        "Translation": "(Masz jakieś doświadczenie w opiekowaniu się małymi dziećmi?)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "attend to somebody"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "zajmować się kimś",
+                                    "opiekować się kimś",
+                                    "pielęgnować kogoś (np. chorego)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "She attends to her ill grandmother.",
+                                        "Translation": "(Ona opiekuje się swoją chorą babcią.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "tend to somebody"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "opiekować się kimś",
+                                    "zajmować się kimś",
+                                    "troszczyć się o kogoś"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I tended to my grandmother until the day she died.",
+                                        "Translation": "(Opiekowałam się moją babcią do dnia jej śmierci.)"
+                                    },
+                                    {
+                                        "Sentence": "Can you please tend to my children while I'm at work?",
+                                        "Translation": "(Czy możesz, proszę, zająć się moimi dziećmi, kiedy ja będę w pracy?)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "take care of somebody"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "opiekować się kimś",
+                                    "zajmować się kimś"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "They took care of her after that accident.",
+                                        "Translation": "(Oni zaopiekowali się nią po tamtym wypadku.)"
+                                    },
+                                    {
+                                        "Sentence": "The teachers in the kindergarten take care of the kids properly.",
+                                        "Translation": "(Przedszkolanki odpowiednio opiekują się dziećmi.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sit with somebody"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "opiekować się kimś (np. dziećmi)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "have charge of somebody"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            },
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "be in attendance on somebody"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "opiekować się kimś",
+                                    "służyć komuś"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

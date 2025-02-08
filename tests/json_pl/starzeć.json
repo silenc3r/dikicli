@@ -1,0 +1,87 @@
+[
+    {
+        "Entry": [
+            "starzeć się"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "age"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "grow older",
+                            "grow in years"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "be getting old"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "starzeć się",
+                                    "zużywać się"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "be slipping"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "tracić formę",
+                                    "podupadać kondycyjnie",
+                                    "starzeć się",
+                                    "opuszczać się"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "You're slipping, man.",
+                                        "Translation": "(Starzejesz się, chłopie.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "be getting on"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "starzeć się",
+                                    "posuwać się w latach"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

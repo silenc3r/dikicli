@@ -1,0 +1,52 @@
+[
+    {
+        "Entry": [
+            "czerstwy"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "stale"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "czerstwy (chleb)",
+                                    "sczerstwiały"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "This bread's stale - have we got another loaf?",
+                                        "Translation": "(Ten chleb jest czerstwy - czy mamy jeszcze jeden bochenek?)"
+                                    },
+                                    {
+                                        "Sentence": "The only thing I have to eat is some stale bread.",
+                                        "Translation": "(Jedyne co mam do jedzenia to trochę czerstwego chleba.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "husky"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "czerstwy",
+                                    "krzepki (o mężczyźnie)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

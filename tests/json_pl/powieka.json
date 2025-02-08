@@ -1,0 +1,34 @@
+[
+    {
+        "Entry": [
+            "powieka"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "eyelid",
+                            "lid"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "palpebra"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "blepharon"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "Entry": [
+            "świerk"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "spruce"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    }
+]

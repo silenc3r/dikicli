@@ -1,0 +1,259 @@
+[
+    {
+        "Entry": [
+            "metoda"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "way"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "sposób",
+                                    "metoda (robienia czegoś)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "The way you do this is completely wrong!",
+                                        "Translation": "(Sposób, w jaki to robisz jest całkowicie nieprawidłowy!)"
+                                    },
+                                    {
+                                        "Sentence": "The chef showed them the correct way to chop carrots.",
+                                        "Translation": "(Kucharz pokazał im prawidłowy sposób krojenia marchewek.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "method"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "metoda"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "The method was very simple.",
+                                        "Translation": "(Metoda była bardzo prosta.)"
+                                    },
+                                    {
+                                        "Sentence": "We need to find a method to test our theory.",
+                                        "Translation": "(Musimy znaleźć metodę na przetestowanie naszej teorii.)"
+                                    },
+                                    {
+                                        "Sentence": "His teaching methods are effective.",
+                                        "Translation": "(Jego metody nauczania są efektywne.)"
+                                    }
+                                ]
+                            },
+                            {
+                                "Variant": [
+                                    "metoda (część klasy w programie)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "A method is used in object-orientated programming.",
+                                        "Translation": "(Metoda jest używana w programowaniu obiektowym.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "approach"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "podejście",
+                                    "metoda (sposób robienia czegoś)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Let's try a different approach.",
+                                        "Translation": "(Spróbujmy innego podejścia.)"
+                                    },
+                                    {
+                                        "Sentence": "I don't understand his approaches.",
+                                        "Translation": "(Nie rozumiem jego metod.)"
+                                    },
+                                    {
+                                        "Sentence": "This teacher uses an innovative approach of teaching.",
+                                        "Translation": "(Ten nauczyciel stosuje innowacyjną metodę nauczania.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "system",
+                            "syst."
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "sposób",
+                                    "metoda"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "This is the best system to get what you want.",
+                                        "Translation": "(To jest najlepszy sposób na dostanie tego, czego chcesz.)"
+                                    },
+                                    {
+                                        "Sentence": "You should try my system - it always works.",
+                                        "Translation": "(Powinieneś spróbować mojej metody - zawsze działa.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "technique"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "metoda",
+                                    "sposób (robienia czegoś)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "It's one of many techniques for solving this problem.",
+                                        "Translation": "(To jest jedna z wielu metod na rozwiązanie tego problemu.)"
+                                    },
+                                    {
+                                        "Sentence": "You should try my technique - it's easier.",
+                                        "Translation": "(Powinieneś wypróbować mój sposób - jest łatwiejszy.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "process"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "metoda",
+                                    "technologia"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Their process is a secret.",
+                                        "Translation": "(Ich metoda to tajemnica.)"
+                                    },
+                                    {
+                                        "Sentence": "This invention uses an advanced process.",
+                                        "Translation": "(Ta wynalazek używa zaawansowanej technologii.)"
+                                    },
+                                    {
+                                        "Sentence": "This process is mine.",
+                                        "Translation": "(Ta technologia jest moja.)"
+                                    },
+                                    {
+                                        "Sentence": "I don't fully understand this process.",
+                                        "Translation": "(Nie do końca rozumiem tę metodę.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "mode"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "sposób",
+                                    "metoda"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "line"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "sposób",
+                                    "metoda",
+                                    "podejście"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Your line to children is amazing.",
+                                        "Translation": "(Twoje podejście do dzieci jest niesamowite.)"
+                                    },
+                                    {
+                                        "Sentence": "I really admire his line to life.",
+                                        "Translation": "(Naprawdę podziwiam jego podejście do życia.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "quomodo"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "metoda",
+                                    "sposób (robienia czegoś)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "metoda czegoś"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mode of something"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "sposób czegoś",
+                                    "metoda czegoś"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

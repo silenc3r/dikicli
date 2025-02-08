@@ -1,0 +1,178 @@
+[
+    {
+        "Entry": [
+            "konstrukcja"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "structure"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "struktura",
+                                    "konstrukcja"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "The structure of this office is very confusing.",
+                                        "Translation": "(Struktura tego biura jest bardzo zagmatwana.)"
+                                    },
+                                    {
+                                        "Sentence": "This is a simple grammatical structure.",
+                                        "Translation": "(To jest prosta struktura gramatyczna.)"
+                                    },
+                                    {
+                                        "Sentence": "The structure of the building is unstable.",
+                                        "Translation": "(Konstrukcja budynku jest niestabilna.)"
+                                    }
+                                ]
+                            },
+                            {
+                                "Variant": [
+                                    "budowla",
+                                    "budynek",
+                                    "konstrukcja"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "This structure was built in 1734.",
+                                        "Translation": "(Ta budowla została wybudowana w 1734 roku.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "design"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "konstrukcja (sposób, w jaki coś jest skonstruowane, zaprojektowane)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Was there a fault in the design of the engine?",
+                                        "Translation": "(Czy w konstrukcji silnika był błąd?)"
+                                    },
+                                    {
+                                        "Sentence": "There is no rule about the design of a saddle.",
+                                        "Translation": "(Nie ma zasady dotyczącej konstrukcji siodełka.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "construction"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "konstrukcja (coś, co zostało zbudowane)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "In my opinion, that metal construction spoils the view.",
+                                        "Translation": "(Moim zdaniem tamta metalowa konstrukcja psuje krajobraz.)"
+                                    },
+                                    {
+                                        "Sentence": "This whole construction is made from glass.",
+                                        "Translation": "(Cała ta konstrukcja jest zrobiona ze szkła.)"
+                                    }
+                                ]
+                            },
+                            {
+                                "Variant": [
+                                    "konstrukcja (gramatyczna)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "It is a difficult grammar construction.",
+                                        "Translation": "(To jest trudna konstrukcja gramatyczna.)"
+                                    },
+                                    {
+                                        "Sentence": "Build a sentence using this construction.",
+                                        "Translation": "(Zbuduj zdanie, używając tej konstrukcji.)"
+                                    },
+                                    {
+                                        "Sentence": "Present Simple has a simple grammatical construction.",
+                                        "Translation": "(Present Simple ma prostą konstrukcję gramatyczną.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "fabric"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "construct"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "konstrukcja (np. zdaniowa)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "konstrukcja czegoś"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "the fabric of something"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "konstrukcja czegoś (np. budynku)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "framework of something",
+                            "framework for something"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "rama czegoś",
+                                    "konstrukcja czegoś"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

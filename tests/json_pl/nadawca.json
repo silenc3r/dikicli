@@ -1,0 +1,72 @@
+[
+    {
+        "Entry": [
+            "nadawca"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "broadcaster"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nadawca (firma nadająca programy radiowe i telewizyjne)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Here's a message from our broadcaster.",
+                                        "Translation": "(Oto wiadomość od naszego nadawcy.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "sender"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nadawca (listu, wiadomości)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "communication source"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "forwarder"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "consignor"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nadawca",
+                                    "wysyłający (towar)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

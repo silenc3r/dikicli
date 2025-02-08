@@ -1,0 +1,21 @@
+[
+    {
+        "Entry": [
+            "przepastny"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "precipitous"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    }
+]

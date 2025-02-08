@@ -1,0 +1,92 @@
+[
+    {
+        "Entry": [
+            "opaska"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "band"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "opaska",
+                                    "przepaska"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "She wore a band on her head.",
+                                        "Translation": "(Ona miała na głowie opaskę.)"
+                                    },
+                                    {
+                                        "Sentence": "I've lost my band, have you seen it?",
+                                        "Translation": "(Zgubiłam moją opaskę, widziałeś ją gdzieś?)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "armband"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "opaska (np. identyfikacyjna)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "circlet"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "diadem",
+                                    "opaska (na głowę)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "sweatband"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "opaska (na głowę, czoło)",
+                                    "przepaska"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "finish casing"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "opaska (drzwiowa lub okienna)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

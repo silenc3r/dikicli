@@ -1,0 +1,156 @@
+[
+    {
+        "Entry": [
+            "kundel"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "scrub"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "mieszaniec",
+                                    "kundel (o zwierzęciu)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "My dog is a scrub.",
+                                        "Translation": "(Mój pies to kundel.)"
+                                    },
+                                    {
+                                        "Sentence": "Don't call my cat a scrub!",
+                                        "Translation": "(Nie nazywaj mojego kota mieszańcem!)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "mutt"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "mongrel"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "pooch"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "psisko",
+                                    "kundel",
+                                    "psiak",
+                                    "pies"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "tyke",
+                            "tike"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "kundel",
+                                    "mieszaniec (o psie)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "barker"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "kundel",
+                                    "sierściuch",
+                                    "burek",
+                                    "pies (zwłaszcza taki, który dużo szczeka)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "You should keep that barker on a leash.",
+                                        "Translation": "(Powinnaś trzymać tego kundla na smyczy.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "cur"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "kundel",
+                                    "burek (nierasowy pies)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "mong"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "demiwolf"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "kundel (połączenie psa z wilkiem)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "mixed breed",
+                            "mix-breed"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "mieszaniec",
+                                    "kundel"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bitser"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    }
+]

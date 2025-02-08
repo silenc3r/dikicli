@@ -1,0 +1,114 @@
+[
+    {
+        "Entry": [
+            "wyblakły"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "faded"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wyblakły",
+                                    "spłowiały"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I can't read what the sign says, the letters are faded.",
+                                        "Translation": "(Nie umiem przeczytać, co jest napisane na szyldzie, litery są wyblakłe.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dingy"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wypłowiały",
+                                    "wyblakły",
+                                    "zszarzały"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I used a new detergent and my clothes are all dingy.",
+                                        "Translation": "(Użyłem nowy środek piorący i moje ubrania są całe wypłowiałe.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bleached"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "odbarwiony",
+                                    "utleniony",
+                                    "wyblakły (np. o drewnie, tapicerce, kolorze)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "wyblaknąć"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bleach"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "rozjaśnić się",
+                                    "spłowieć (np. na słońcu)",
+                                    "blaknąć",
+                                    "wyblaknąć"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "blanch"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "zblednąć",
+                                    "spłowieć",
+                                    "zblaknąć",
+                                    "wyblaknąć"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

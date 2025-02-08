@@ -1,0 +1,47 @@
+[
+    {
+        "Entry": [
+            "biernik"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "accusative"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "objective case"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "accusative case"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "biernik (przypadek gramatyczny)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "accusative case",
+                            "acc"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    }
+]

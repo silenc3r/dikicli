@@ -1,0 +1,236 @@
+[
+    {
+        "Entry": [
+            "lipa"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dog"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "lipa",
+                                    "szmelc",
+                                    "tandeta"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "This equipment is a dog!",
+                                        "Translation": "(Ten sprzęt to szmelc!)"
+                                    },
+                                    {
+                                        "Sentence": "She sells dogs.",
+                                        "Translation": "(Ona sprzedaje tandetę.)"
+                                    },
+                                    {
+                                        "Sentence": "I won't even give you 10 dollars for this dog!",
+                                        "Translation": "(Nie dam ci nawet dziesięciu dolarów za tę tandetę!)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "sham"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "lipa",
+                                    "oszustwo",
+                                    "przekręt"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I fear that the deal is a sham.",
+                                        "Translation": "(Obawiam się, że ta transakcja to oszustwo.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "lime tree",
+                            "linden",
+                            "basswood",
+                            "tilia"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "humbug"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "blaga",
+                                    "lipa",
+                                    "nonsens",
+                                    "oszustwo",
+                                    "zakłamanie"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wind-up",
+                            "windup"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "podpucha",
+                                    "ściema",
+                                    "lipa"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "stinker"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "lipa (kiepskie przedstawienie, fatalna książka)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dreck",
+                            "drek"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "lipa (coś bardzo złej jakości)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "swizz",
+                            "swiz"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "lipa",
+                                    "chała"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "selling-plater"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "lipa",
+                                    "bubel",
+                                    "nędza"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "slick shit"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "pic na wodę",
+                                    "ściema",
+                                    "lipa"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pork pie",
+                            "porkie pie",
+                            "porky"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ściema",
+                                    "lipa",
+                                    "kłamstwo"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "shicer"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "lipa",
+                                    "szajs",
+                                    "szmira"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "a dog's dinner"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "piece of shit",
+                            "piece of crap"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "chała",
+                                    "chłam",
+                                    "lipa"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

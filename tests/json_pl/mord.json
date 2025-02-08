@@ -1,0 +1,239 @@
+[
+    {
+        "Entry": [
+            "morda"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "muzzle"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "pysk",
+                                    "pyszczek",
+                                    "morda",
+                                    "mordka (psa, konia)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "mug"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "gęba",
+                                    "morda"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "trap"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "morda",
+                                    "japa",
+                                    "pysk"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Shut your trap, I need to focus.",
+                                        "Translation": "(Zamknij japę, muszę się skupić.)"
+                                    },
+                                    {
+                                        "Sentence": "I'm not going to the party, I don't want to see his trap.",
+                                        "Translation": "(Nie idę na imprezę, nie chcę widzieć jego mordy.)"
+                                    },
+                                    {
+                                        "Sentence": "I can't look at his ugly trap.",
+                                        "Translation": "(Nie mogę patrzeć na jego brzydki pysk.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "puss"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "pysk",
+                                    "morda"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "clock"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "gęba",
+                                    "morda",
+                                    "pysk",
+                                    "facjata"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I don't like his clock, it's annoying.",
+                                        "Translation": "(Nie lubię jego mordy, jest denerwująca.)"
+                                    },
+                                    {
+                                        "Sentence": "Your clock is annoying.",
+                                        "Translation": "(Twoja facjata jest irytująca.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kisser"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "pysk",
+                                    "ryj",
+                                    "ryło",
+                                    "morda",
+                                    "paszcza",
+                                    "jadaczka",
+                                    "japa"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pan"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "gęba",
+                                    "morda",
+                                    "jadaczka",
+                                    "facjata"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Shut your pan, you're annoying me.",
+                                        "Translation": "(Zamknij gębę, denerwujesz mnie.)"
+                                    },
+                                    {
+                                        "Sentence": "He has a big pan and no brain.",
+                                        "Translation": "(On ma dużą jadaczkę i brak mózgu.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "mush"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "morda",
+                                    "facjata",
+                                    "uśmiech"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "yap"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "gęba",
+                                    "morda",
+                                    "jadaczka"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "laughing gear"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "gęba",
+                                    "morda"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "potato trap"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "gęba",
+                                    "morda"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "cakehole",
+                            "pie hole",
+                            "piehole"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "buzia",
+                                    "usta",
+                                    "japa",
+                                    "jadaczka",
+                                    "morda",
+                                    "gęba"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

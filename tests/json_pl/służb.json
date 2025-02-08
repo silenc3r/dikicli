@@ -1,0 +1,173 @@
+[
+    {
+        "Entry": [
+            "służba"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "service",
+                            "services"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "praca",
+                                    "służba"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "He thanked the soldiers for their service.",
+                                        "Translation": "(On podziękował żołnierzom za ich służbę.)"
+                                    },
+                                    {
+                                        "Sentence": "The service at his house was quite easy.",
+                                        "Translation": "(Praca w jego domu była całkiem lekka.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "service"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "służba (oficjalna organizacja, np. służba zdrowia)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "The health service needs to be improved.",
+                                        "Translation": "(Służba zdrowia potrzebuje poprawy.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "the help"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "służba (np. w domu)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Oh, don't worry. The help will clean it up.",
+                                        "Translation": "(Nie martw się. Służba to posprząta.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "establishment"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "personel",
+                                    "służba",
+                                    "stan liczebny"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "That has nothing to do with the security establishment.",
+                                        "Translation": "(To nie ma nic do czynienia z personelem bezpieczeństwa.)"
+                                    },
+                                    {
+                                        "Sentence": "I have good news, the whole establishment is getting a raise.",
+                                        "Translation": "(Mam dobre wieści, cały personel dostaje podwyżkę.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "detail"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "służba (przeznaczona do konkretnego zadania)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "This detail will take care of it.",
+                                        "Translation": "(Ta służba zajmie się tym.)"
+                                    },
+                                    {
+                                        "Sentence": "I don't know in what kind of detail he works in.",
+                                        "Translation": "(Nie wiem w jakiej służbie on pracuje.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "stint"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "służba (w wojsku)",
+                                    "kadencja (na urzędzie)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "He did a stint in the army.",
+                                        "Translation": "(On odbył służbę w wojsku.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ministry"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "tour of duty"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "służba (przez kilka miesięcy, np. w obcym kraju)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "servanthood"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "służba",
+                                    "bycie sługą"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

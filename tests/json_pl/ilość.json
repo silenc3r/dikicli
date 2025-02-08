@@ -1,0 +1,179 @@
+[
+    {
+        "Entry": [
+            "ilość"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "amount",
+                            "amt."
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ilość",
+                                    "liczba",
+                                    "wielkość"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Did you add the right amount of sugar?",
+                                        "Translation": "(Czy dodałeś odpowiednią ilość cukru?)"
+                                    },
+                                    {
+                                        "Sentence": "I spent a large amount of time fixing it.",
+                                        "Translation": "(Spędziłem dużą ilość czasu naprawiając to.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "quantity",
+                            "qty",
+                            "qty."
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ilość",
+                                    "wielkość",
+                                    "dawka (konkretna ilość lub wielkość czegoś)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "They sold a large quantity of books.",
+                                        "Translation": "(Oni sprzedali dużą ilość książek.)"
+                                    },
+                                    {
+                                        "Sentence": "This plant needs only a small quantity of water.",
+                                        "Translation": "(Ta roślina potrzebuje tylko niewielką ilość wody.)"
+                                    },
+                                    {
+                                        "Sentence": "She has a large quantity of boxes filled with toys.",
+                                        "Translation": "(Ona ma dużą ilość pudełek wypełnionych zabawkami.)"
+                                    },
+                                    {
+                                        "Sentence": "So why are you selling it in such small quantities?",
+                                        "Translation": "(Więc czemu sprzedajesz to w takich małych dawkach?)"
+                                    },
+                                    {
+                                        "Sentence": "It is a poison and even small quantities affect health.",
+                                        "Translation": "(Jest trucizną i nawet w małych ilościach wpływa na zdrowie.)"
+                                    }
+                                ]
+                            },
+                            {
+                                "Variant": [
+                                    "ilość"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "We pay more attention to quantity than quality.",
+                                        "Translation": "(Większą uwagę przywiązujemy do ilości niż do jakości.)"
+                                    },
+                                    {
+                                        "Sentence": "It is not the quantity but the quality of development cooperation that counts.",
+                                        "Translation": "(Liczy się nie ilość, ale jakość pomocy rozwojowej.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "volume",
+                            "vol."
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ilość",
+                                    "wielkość (gdy czegoś jest dużo)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "The band produced great volume of terrible songs.",
+                                        "Translation": "(Zespół wyprodukował ogromną ilość fatalnych piosenek.)"
+                                    },
+                                    {
+                                        "Sentence": "An enormous volume of old books was found in the basement.",
+                                        "Translation": "(Ogromna ilość starych książek została znaleziona w piwnicy.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "quantum"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ilość",
+                                    "kwota"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "feck"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ilość",
+                                    "liczba",
+                                    "wielkość"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "ilość czegoś"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "amount of something"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "number of something"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "liczba czegoś",
+                                    "ilość czegoś"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "Entry": [
+            "gramatura"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "basis weight"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "gramatura",
+                                    "waga bazowa ryzy papieru"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "grammage"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "area density",
+                            "areal density",
+                            "surface density",
+                            "superficial density"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    }
+]

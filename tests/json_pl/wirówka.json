@@ -1,0 +1,86 @@
+[
+    {
+        "Entry": [
+            "wirówka"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "centrifuge"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "centryfuga",
+                                    "wirówka",
+                                    "wirownica",
+                                    "wirówka laboratoryjna"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "spinner"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wirówka (w pralce)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "creamer"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "centryfuga",
+                                    "wirówka (do oddzielania mleka)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "centrifugal machine"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wirówka",
+                                    "centryfuga"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "spin-dryer",
+                            "spin-drier"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wirówka (do bielizny)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,226 @@
+[
+    {
+        "Entry": [
+            "smuga"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "trail"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "smuga",
+                                    "ślady"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "He left a trail of muddy shoe prints behind him.",
+                                        "Translation": "(On zostawił za sobą ścieżkę brudnych odcisków butów.)"
+                                    },
+                                    {
+                                        "Sentence": "The plane left a white trail behind it.",
+                                        "Translation": "(Samolot pozostawił za sobą białą smugę.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "streak"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "pasemko (we włosach)",
+                                    "smuga (na szybie, papierze)",
+                                    "pręga (na skórze)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "She had black hair with a blue streak.",
+                                        "Translation": "(Ona miała czarne włosy z niebieskim pasemkiem.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "plume"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "smuga (np. dymu)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I saw a plume of smoke coming from the chimney.",
+                                        "Translation": "(Widziałem smugę dymu unoszącą się z komina.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "swath",
+                            "swathe"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "pas (ziemi)",
+                                    "smuga (światła)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "It was a gigantic swath of torn-up ground extending to the horizon.",
+                                        "Translation": "(To był gigantyczny pas zrytej ziemi rozciągający się aż po horyzont.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "smear"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "plama",
+                                    "smuga (farby, sadzy)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Catherine found blood smear on the floor where she was playing.",
+                                        "Translation": "(Catherine znalazła smugę krwi na podłodze, gdzie się bawiła.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "smudge"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "plama",
+                                    "smuga (na papierze, ubraniu)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "You have a smudge on your trousers.",
+                                        "Translation": "(Masz plamę na swoich spodniach.)"
+                                    },
+                                    {
+                                        "Sentence": "The paper has smudges on it. I need another one.",
+                                        "Translation": "(Papier ma na sobie plamy. Potrzebuję innego.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wisp"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "strużka",
+                                    "smuga (np. dymu, mgły)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "The flame left only a tiny wisp of smoke.",
+                                        "Translation": "(Płomień pozostawił jedynie cienką smugę dymu.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bar"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "smuga (wąski pasek światła lub koloru)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "You can see a bar of light just above the horizon.",
+                                        "Translation": "(Możesz zobaczyć smugę światła tuż nad horyzontem.)"
+                                    },
+                                    {
+                                        "Sentence": "His shirt was covered in paint bars.",
+                                        "Translation": "(Jego koszula była pokryta smugami farby.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "thread"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "smuga",
+                                    "smużka (np. dymu)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "He left a thread of cigarette smoke.",
+                                        "Translation": "(On zostawił smugę papierosowego dymu.)"
+                                    },
+                                    {
+                                        "Sentence": "I saw a thread of smoke coming out of my kitchen.",
+                                        "Translation": "(Zobaczyłem smugę dymu wydostającego się z mojej kuchni.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "band"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "pas",
+                                    "pasmo",
+                                    "smuga"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I saw a band of light in the dark.",
+                                        "Translation": "(Zobaczyłem smugę światła w ciemności.)"
+                                    },
+                                    {
+                                        "Sentence": "This band of land belongs to me.",
+                                        "Translation": "(To pasmo ziemi należy do mnie.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

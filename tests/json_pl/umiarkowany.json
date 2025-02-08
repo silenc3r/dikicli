@@ -1,0 +1,150 @@
+[
+    {
+        "Entry": [
+            "umiarkowany"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "moderate"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "umiarkowany",
+                                    "średni"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Start your training with some moderate exercise.",
+                                        "Translation": "(Rozpocznij trening od umiarkowanych ćwiczeń.)"
+                                    },
+                                    {
+                                        "Sentence": "Cook it over a moderate heat.",
+                                        "Translation": "(Gotuj to na średnim ogniu.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "mild"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "łagodny (np. pogoda)",
+                                    "umiarkowany (np. klimat)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "The winter was very mild this year.",
+                                        "Translation": "(W tym roku zima była bardzo łagodna.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "temperate"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "umiarkowany (klimat)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Most of Europe has temperate climate.",
+                                        "Translation": "(Większość Europy jest w klimacie umiarkowanym.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "restrained"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "powściągliwy",
+                                    "umiarkowany",
+                                    "wstrzemięźliwy (o człowieku)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "suave"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "łagodny (o muzyce)",
+                                    "umiarkowany (o klimacie)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "middle-of-the-road"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "środkowy",
+                                    "przeciętny",
+                                    "umiarkowany"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "equable"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "umiarkowany",
+                                    "łagodny",
+                                    "leżący w strefie umiarkowanej",
+                                    "stały (np. klimat, warunki)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "goldilocks"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "względnie stabilny",
+                                    "umiarkowany",
+                                    "wyważony"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

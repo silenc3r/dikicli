@@ -1,0 +1,55 @@
+[
+    {
+        "Entry": [
+            "mianownik"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "denominator"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "mianownik (w matematyce)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nominative case"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "mianownik (przypadek gramatyczny)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nominative",
+                            "nom"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "mianownik (w gramatyce)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,793 @@
+[
+    {
+        "Entry": [
+            "okropny"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "terrible"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "straszny",
+                                    "okropny"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I've made a terrible mistake sending this text message to her.",
+                                        "Translation": "(Popełniłem straszny błąd, wysyłając jej tego SMSa.)"
+                                    },
+                                    {
+                                        "Sentence": "He's had a terrible accident.",
+                                        "Translation": "(On miał okropny wypadek.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "awful"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "okropny",
+                                    "wstrętny",
+                                    "obrzydliwy"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "That food smells awful.",
+                                        "Translation": "(To jedzenie pachnie wstrętnie.)"
+                                    },
+                                    {
+                                        "Sentence": "He told me many awful things.",
+                                        "Translation": "(On powiedział mi wiele okropnych rzeczy.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nasty"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "niegrzeczny",
+                                    "okropny",
+                                    "irytujący (np. zachowanie)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I'm ashamed of my son's nasty behaviour.",
+                                        "Translation": "(Wstydzę się za okropne zachowanie mojego syna.)"
+                                    },
+                                    {
+                                        "Sentence": "Her behaviour is nasty, she has no class.",
+                                        "Translation": "(Jej zachowanie jest okropne, ona nie ma klasy.)"
+                                    }
+                                ]
+                            },
+                            {
+                                "Variant": [
+                                    "okropny",
+                                    "nieprzyjemny (np. doświadczenie, sytuacja)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "It was a nasty experience when I got fired.",
+                                        "Translation": "(To było okropne doświadczenie, kiedy zostałem zwolniony.)"
+                                    },
+                                    {
+                                        "Sentence": "My parents quarrelled and it was a nasty situation.",
+                                        "Translation": "(Moi rodzice się pokłócili i to była nieprzyjemna sytuacja.)"
+                                    },
+                                    {
+                                        "Sentence": "Their divorce was nasty. Everyone is happy that it's over.",
+                                        "Translation": "(Ich rozwód był okropny. Wszyscy są szczęśliwi, że to już koniec.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "horrible"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nieprzyjemny",
+                                    "niemiły",
+                                    "okropny"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Why are you being so horrible to me?",
+                                        "Translation": "(Dlaczego jesteś dla mnie taki okropny?)"
+                                    }
+                                ]
+                            },
+                            {
+                                "Variant": [
+                                    "koszmarny",
+                                    "straszny",
+                                    "fatalny",
+                                    "okropny (np. doświadczenie)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "It was a horrible experience!",
+                                        "Translation": "(To było koszmarne doświadczenie!)"
+                                    },
+                                    {
+                                        "Sentence": "This film was extremely horrible.",
+                                        "Translation": "(Ten film był niezwykle koszmarny.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "foul"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "okropny",
+                                    "obrzydliwy",
+                                    "odrażający",
+                                    "paskudny",
+                                    "ohydny"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "This meal's taste is foul.",
+                                        "Translation": "(Smak tego dania jest okropny.)"
+                                    },
+                                    {
+                                        "Sentence": "The murder was foul. The body is missing its head.",
+                                        "Translation": "(Morderstwo było ohydne. Ciału brakuje głowy.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ugly"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "paskudny",
+                                    "okropny (np. plotki)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "People say ugly things about me.",
+                                        "Translation": "(Ludzie opowiadają o mnie paskudne rzeczy.)"
+                                    },
+                                    {
+                                        "Sentence": "She's spreading ugly rumours about me.",
+                                        "Translation": "(Ona rozpowiada o mnie okropne plotki.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "horrific"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "okropny",
+                                    "straszliwy",
+                                    "przerażający"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Unfortunately, they live in horrific conditions.",
+                                        "Translation": "(Niestety, oni żyją w przerażających warunkach.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dire"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "okropny",
+                                    "przerażający",
+                                    "potworny"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I was shocked after hearing the dire news.",
+                                        "Translation": "(Byłem zszokowany po usłyszeniu tej potwornej wiadomości.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dreadful"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "okropny",
+                                    "straszny (nieprzyjemny)"
+                                ],
+                                "ExampleSentences": []
+                            },
+                            {
+                                "Variant": [
+                                    "fatalny",
+                                    "okropny (złej jakości)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "obnoxious"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wstrętny",
+                                    "okropny",
+                                    "ohydny",
+                                    "nieznośny",
+                                    "odpychający"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "His behaviour was obnoxious today!",
+                                        "Translation": "(Dzisiaj jego zachowanie było okropne!)"
+                                    },
+                                    {
+                                        "Sentence": "What an obnoxious smell!",
+                                        "Translation": "(Co za wstrętny zapach!)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "gruesome"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "makabryczny",
+                                    "okropny",
+                                    "straszny",
+                                    "przerażający"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "horrifying"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "przerażający",
+                                    "szokujący",
+                                    "okropny",
+                                    "przeraźliwy",
+                                    "wstrząsający"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "lousy"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "parszywy",
+                                    "nędzny",
+                                    "kiepski",
+                                    "podły",
+                                    "okropny (np. bardzo złej jakości)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "The food was lousy.",
+                                        "Translation": "(Jedzenie było parszywe.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dismal"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "okropny",
+                                    "fatalny (np. błąd)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "sickening"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "szokujący",
+                                    "oburzający",
+                                    "okropny (np. postępek)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "grisly"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "makabryczny",
+                                    "potworny",
+                                    "przerażający",
+                                    "okropny (np. opowieść, eksperyment)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "horrid"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "okropny",
+                                    "straszny",
+                                    "odrażający"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ghastly"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "okropny",
+                                    "nie do zniesienia (np. osoba, rodzina)"
+                                ],
+                                "ExampleSentences": []
+                            },
+                            {
+                                "Variant": [
+                                    "okropny",
+                                    "wyjątkowo brzydki (np. obraz)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "appalling"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "okropny",
+                                    "potworny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "atrocious"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ohydny (np. obraz)",
+                                    "okropny (o zachowaniu)",
+                                    "wstrętny (o pogodzie)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Do not hang this atrocious picture.",
+                                        "Translation": "(Nie wieszaj tego ohydnego obrazu.)"
+                                    },
+                                    {
+                                        "Sentence": "We won't go outside, the weather is atrocious.",
+                                        "Translation": "(Nie wyjdziemy na zewnątrz, pogoda jest wstrętna.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "abysmal",
+                            "bismal"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "okropny",
+                                    "fatalny",
+                                    "beznadziejny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wicked"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "okropny",
+                                    "koszmarny",
+                                    "potworny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "hellish"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "diabelski",
+                                    "piekielny",
+                                    "okropny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "fearful"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "okropny",
+                                    "paskudny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "beastly"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wredny",
+                                    "paskudny",
+                                    "nieznośny",
+                                    "okropny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "hateful"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "okropny (o osobie)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "hellacious"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "okropny",
+                                    "starszny",
+                                    "beznadziejny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "execrable"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ohydny",
+                                    "wstrętny",
+                                    "okropny",
+                                    "obrzydliwy"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "direful"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "okropny",
+                                    "straszny",
+                                    "przerażający"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "reestie"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wstrętny",
+                                    "okropny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "gicky"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "obrzydliwy",
+                                    "wstrętny",
+                                    "okropny",
+                                    "odrażający",
+                                    "paskudny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "sucky"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "okropny",
+                                    "beznadziejny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "grotty"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "okropny",
+                                    "paskudny (np. o samopoczuciu)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I've been feeling grotty for the last few days.",
+                                        "Translation": "(Przez ostatnie parę dni okropnie się czułem.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ugsome"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "okropny",
+                                    "straszny",
+                                    "odrażający"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nefandous"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "niecenzuralny",
+                                    "ohydny",
+                                    "okropny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "perishing"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "okropny",
+                                    "cholerny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zuzzy"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "okropny",
+                                    "fatalny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "killer"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "straszny",
+                                    "okropny",
+                                    "morderczy"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "It was a killer walk, I have to rest.",
+                                        "Translation": "(To był morderczy spacer, muszę odpocząć.)"
+                                    },
+                                    {
+                                        "Sentence": "I have to quit this killer job, I hate it.",
+                                        "Translation": "(Muszę rzucić tę okropną pracę, nienawidzę jej.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "from hunger"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "fatalny",
+                                    "okropny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "like death warmed over"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "straszny",
+                                    "okropny",
+                                    "przerażający"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "ktoś okropny"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "cow of a somebody"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    }
+]

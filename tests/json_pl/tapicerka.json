@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "wyściółka",
+            "podbicie",
+            "obicie"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "padding"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    }
+]

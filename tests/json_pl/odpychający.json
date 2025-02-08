@@ -1,0 +1,490 @@
+[
+    {
+        "Entry": [
+            "odpychający"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "obnoxious"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wstrętny",
+                                    "okropny",
+                                    "ohydny",
+                                    "nieznośny",
+                                    "odpychający"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "His behaviour was obnoxious today!",
+                                        "Translation": "(Dzisiaj jego zachowanie było okropne!)"
+                                    },
+                                    {
+                                        "Sentence": "What an obnoxious smell!",
+                                        "Translation": "(Co za wstrętny zapach!)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "forbidding"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "posępny",
+                                    "odpychający"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "repulsive"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "odpychający",
+                                    "repulsywny",
+                                    "wstrętny",
+                                    "obślizgły"
+                                ],
+                                "ExampleSentences": []
+                            },
+                            {
+                                "Variant": [
+                                    "odpychający (np. oddziaływania)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "revolting"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "odrażający",
+                                    "odpychający"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "The smell coming from the kitchen was revolting.",
+                                        "Translation": "(Zapach dochodzący z kuchni był odrażający.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dour"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "unsympathetic"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "antypatyczny",
+                                    "niesympatyczny",
+                                    "odpychający"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "sleazy"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "obleśny",
+                                    "wstrętny (o osobie)",
+                                    "odpychający (typ człowieka)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "off-putting"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "odpychający",
+                                    "niepociągający"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "He found the shop assistant nosy and off-putting.",
+                                        "Translation": "(Jego zdaniem sprzedawca był wścibski i odpychający.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "repellent"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wstrętny",
+                                    "odpychający",
+                                    "odrażający (np. widok)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "unappealing"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "niepociągający",
+                                    "nieprzyjemny",
+                                    "odpychający"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "grody"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "obrzydliwy",
+                                    "wstrętny",
+                                    "obleśny",
+                                    "odpychający"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "noisome"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "odpychający",
+                                    "wstrętny",
+                                    "odrażający",
+                                    "cuchnący",
+                                    "śmierdzący"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "vomity"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wstrętny",
+                                    "odpychający",
+                                    "odrażający"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "skeezy"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "obleśny",
+                                    "odpychający"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "butters"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "obrzydliwy",
+                                    "odpychający",
+                                    "paskudny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "beastie"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "obrzydliwy",
+                                    "ohydny",
+                                    "odpychający"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "odpychać kogoś"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "shove somebody"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "popychać kogoś",
+                                    "odpychać kogoś"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "\"Let's get out of here,\" I said, shoving Jane.",
+                                        "Translation": "(\"Chodźmy stąd\", powiedziałem, popychając Jane.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "push somebody back"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "odpychać"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "repel"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "odpychać",
+                                    "wzbudzać niechęć",
+                                    "wzbudzać odrazę"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "repulse"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "odpychać",
+                                    "odtrącać",
+                                    "zrażać"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "abstrude"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            },
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "push away"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "odpychać",
+                                    "odsuwać"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "odepchnąć"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "stave"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "detrude"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "odepchnąć",
+                                    "zepchnąć"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "odepchnąć kogoś"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "beat somebody away"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "odepchnąć kogoś",
+                                    "odpędzać kogoś"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "jostle somebody away"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "odepchnąć kogoś",
+                                    "odtrącić kogoś"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "thrust somebody away"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "odpychać się"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "repel"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "odpychać się (np. pola magnetyczne)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,118 @@
+[
+    {
+        "Entry": [
+            "obowiązkowy"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mandatory"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "obowiązkowy",
+                                    "obligatoryjny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "compulsory"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "obowiązkowy",
+                                    "przymusowy"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Attendance is compulsory.",
+                                        "Translation": "(Obecność jest obowiązkowa.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "obligatory"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "obowiązkowy",
+                                    "przymusowy"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "observant"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "obowiązkowy",
+                                    "sumienny",
+                                    "pilny",
+                                    "gorliwy (w przestrzeganiu praw, obowiązków itp.)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I find myself an observant Christian.",
+                                        "Translation": "(Uważam się za sumiennego chrześcijanina.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dutiful"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "posłuszny",
+                                    "obowiązkowy",
+                                    "sumienny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "duteous"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "unmissable"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "obowiązkowy",
+                                    "wart uwagi"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

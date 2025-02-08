@@ -1,0 +1,234 @@
+[
+    {
+        "Entry": [
+            "nijaki"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dull"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nijaki",
+                                    "matowy (np. kolor)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "You chose a dull colour. I don't like it.",
+                                        "Translation": "(Wybrałeś matowy kolor. Nie podoba mi się.)"
+                                    },
+                                    {
+                                        "Sentence": "The color of the walls is dull, we should paint it red.",
+                                        "Translation": "(Kolor ścian jest nijaki, powinniśmy przemalować go na czerwono.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bland"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "mdły",
+                                    "nijaki (np. smak)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "She ate bland food for about a week.",
+                                        "Translation": "(Ona jadła mdłe posiłki przez około tydzień.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "grey",
+                            "gray"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nudny",
+                                    "nijaki"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "What a grey evening.",
+                                        "Translation": "(Co za nudny wieczór.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "unremarkable"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nijaki",
+                                    "niczym się niewyróżniający"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "lacklustre",
+                            "lackluster"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nijaki",
+                                    "bez wyrazu",
+                                    "bez życia",
+                                    "przygasły",
+                                    "bez blasku",
+                                    "bezbarwny (np. występ, oczy, włosy)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "featureless"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nijaki",
+                                    "niewyróżniający się",
+                                    "bez charakteru"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "watered-down"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "stonowany",
+                                    "nijaki",
+                                    "mdły"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "neuter"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nijaki (rodzaju nijakiego)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wishy-washy"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "rozmyty",
+                                    "nijaki (np. kolor)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nonglare"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nijaki",
+                                    "matowy (np. kolor)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dullish"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nijaki",
+                                    "matowy (np. kolor) do pewnego stopnia"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "not so hot"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nieszczególny",
+                                    "nijaki"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nondescript"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nijaki",
+                                    "nieokreślony",
+                                    "bez wyrazu"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "Entry": [
+            "przekątna"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "diagonal"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "przekątna"
+                                ],
+                                "ExampleSentences": []
+                            },
+                            {
+                                "Variant": [
+                                    "linia ukośna",
+                                    "przekątna"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

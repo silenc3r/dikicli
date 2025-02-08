@@ -1,0 +1,88 @@
+[
+    {
+        "Entry": [
+            "funkcjonariusz"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "official"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "urzędnik",
+                                    "urzędniczka",
+                                    "funkcjonariusz",
+                                    "oficjel"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "She is a government official.",
+                                        "Translation": "(Ona jest rządowym urzędnikiem.)"
+                                    },
+                                    {
+                                        "Sentence": "This official is very rude. I will file a complaint.",
+                                        "Translation": "(Ta urzędniczka jest bardzo niegrzeczna. Złożę skargę.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "functionary"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "funkcjonariusz",
+                                    "urzędnik",
+                                    "urzędniczka"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "diwan"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "urzędnik",
+                                    "urzędniczka",
+                                    "funkcjonariusz (w Indiach)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "garda (Irish)"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "eskorta",
+                                    "straż",
+                                    "ochrona",
+                                    "ochroniarz",
+                                    "oficer",
+                                    "funkcjonariusz (np. policji)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

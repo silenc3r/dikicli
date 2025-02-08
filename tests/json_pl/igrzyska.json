@@ -1,0 +1,115 @@
+[
+    {
+        "Entry": [
+            "igrzyska"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "games"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "igrzyska (w starożytności)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "The games were held in antiquity.",
+                                        "Translation": "(Igrzyska odbywały się w starożytności.)"
+                                    },
+                                    {
+                                        "Sentence": "These bloody games must come to an end!",
+                                        "Translation": "(Te krwawe igrzyska muszą się zakończyć!)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "zimowe igrzyska olimpijskie"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "Winter Olympics"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            },
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "Winter Olympic Games"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "igrzyska olimpijskie",
+            "olimpiada"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "the Olympic Games",
+                            "the Olympics",
+                            "the Olympiad"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "Igrzyska Brytyjskiej Wspólnoty Narodów"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "Commonwealth Games"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "Igrzyska Brytyjskiej Wspólnoty Narodów (Commonwealthu)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

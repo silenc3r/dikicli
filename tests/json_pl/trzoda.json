@@ -1,0 +1,35 @@
+[
+    {
+        "Entry": [
+            "gromada",
+            "stado"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "flock"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "gromada",
+                                    "stado (ptaków, owiec, kóz)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "A flock of sheep has escaped onto the road.",
+                                        "Translation": "(Stado owiec wydostało się na ulicę.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

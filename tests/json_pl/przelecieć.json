@@ -1,0 +1,264 @@
+[
+    {
+        "Entry": [
+            "przelecieć"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "hook up"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "przelecieć",
+                                    "bzyknąć",
+                                    "uprawiać przygodny seks"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "We hooked up once but we never dated.",
+                                        "Translation": "(Bzykaliśmy się raz, ale nigdy nie byliśmy związani.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "slip her a length"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "zerżnąć",
+                                    "przelecieć (kobietę)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "yam"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "bzyknąć",
+                                    "przelecieć"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "carry"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "lecieć",
+                                    "przelecieć",
+                                    "pokonać dystans (np. kopnięta piłka)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "The ball carried the whole pitch.",
+                                        "Translation": "(Piłka przeleciała całe boisko.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nail"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "przelecieć",
+                                    "bzyknąć"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Did you nail my girlfriend?",
+                                        "Translation": "(Przeleciałeś moją dziewczynę?)"
+                                    },
+                                    {
+                                        "Sentence": "You won't nail her, she's too pretty for you.",
+                                        "Translation": "(Nie bzykniesz jej, jest dla ciebie za ładna.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "shag"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "zerżnąć",
+                                    "przelecieć",
+                                    "bzykać"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "knock"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "przelecieć",
+                                    "puknąć (odbyć stosunek)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Did you knock her?",
+                                        "Translation": "(Przeleciałeś ją?)"
+                                    },
+                                    {
+                                        "Sentence": "He wanted to knock her but she refused.",
+                                        "Translation": "(On chciał ją przelecieć, ale ona odmówiła.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "hit"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "uprawiać seks",
+                                    "przelecieć (kogoś)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I'd hit that.",
+                                        "Translation": "(Przeleciałbym ją.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "przelecieć kogoś"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "do"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "przelecieć kogoś",
+                                    "przespać się z kimś"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I did her last week, it was amazing!",
+                                        "Translation": "(Przeleciałem ją w zeszłym tygodniu, było niesamowicie!)"
+                                    },
+                                    {
+                                        "Sentence": "To do me is the only thing he wants.",
+                                        "Translation": "(On chce mnie tylko przelecieć.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "boff somebody"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            },
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "do a knock"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "przelecieć kogoś",
+                                    "przeruchać kogoś"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "przelatywać"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "fly"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "przelatywać (np. przez morze)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "We're flying over the Baltic Sea right now!",
+                                        "Translation": "(Przelatujemy w tej chwili przez morze Bałtyckie!)"
+                                    },
+                                    {
+                                        "Sentence": "We flew over New York.",
+                                        "Translation": "(Przelecieliśmy nad Nowym Jorkiem.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

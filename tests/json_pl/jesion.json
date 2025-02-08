@@ -1,0 +1,47 @@
+[
+    {
+        "Entry": [
+            "jesion"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ash"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "ash tree"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "jesion (rodzaj roślin)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "fraxinus"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "jesion (rodzaj drzewa)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

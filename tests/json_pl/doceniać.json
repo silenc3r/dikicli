@@ -1,0 +1,254 @@
+[
+    {
+        "Entry": [
+            "doceniać"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "appreciate"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "doceniać (np. ważność problemu, znaczenie czegoś)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I appreciate your help.",
+                                        "Translation": "(Doceniam twoją pomoc.)"
+                                    },
+                                    {
+                                        "Sentence": "She appreciates your work and effort.",
+                                        "Translation": "(Ona docenia twoją pracę i wysiłek.)"
+                                    },
+                                    {
+                                        "Sentence": "I appreciate your concern, but I'm OK.",
+                                        "Translation": "(Doceniam twoją troskę, ale wszystko ze mną w porządku.)"
+                                    },
+                                    {
+                                        "Sentence": "I appreciate your concern, but I'm OK.",
+                                        "Translation": "(Doceniam twoją troskę, ale wszystko ze mną w porządku.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "recognise",
+                            "recognize"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "doceniać (czyjś wysiłek)",
+                                    "uznawać (czyjeś osiągnięcia)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I recognize your effort.",
+                                        "Translation": "(Doceniam twój wysiłek.)"
+                                    },
+                                    {
+                                        "Sentence": "Don't worry, your achievements will be recognized.",
+                                        "Translation": "(Nie martw się, twoje osiągnięcia zostaną docenione.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "esteem"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "poważać",
+                                    "szanować",
+                                    "cenić",
+                                    "doceniać"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I esteem your effort, but it was unnecessary.",
+                                        "Translation": "(Szanuję twój wysiłek, ale nie był on konieczny.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "doceniać coś"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "hold something dear"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "cenić coś",
+                                    "doceniać coś"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "nie doceniać"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ignore"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nie doceniać",
+                                    "bagatelizować (np. problem)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Stop ignoring the problem, we are in trouble!",
+                                        "Translation": "(Przestań bagatelizować problem, mamy kłopoty!)"
+                                    },
+                                    {
+                                        "Sentence": "The boss ignored his workers' strike.",
+                                        "Translation": "(Szef zbagatelizował strajk swoich pracowników.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "underestimate"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nie doceniać (czegoś)",
+                                    "bagatelizować"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "undervalue"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nie doceniać (czegoś)",
+                                    "nisko cenić (kogoś)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "underrate"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nie doceniać (kogoś)",
+                                    "zaniżać znaczenie (czegoś)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "He underrates the work I do for him.",
+                                        "Translation": "(On nie docenia pracy, jaką dla niego wykonuję.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "misprize",
+                            "misprise"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "nie doceniać czegoś"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "be unappreciative of something"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "nie doceniać kogoś"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "take somebody for granted"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nie doceniać kogoś",
+                                    "nie być wdzięcznym za kogoś",
+                                    "brać kogoś za pewnik"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

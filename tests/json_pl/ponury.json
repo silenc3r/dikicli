@@ -1,0 +1,715 @@
+[
+    {
+        "Entry": [
+            "ponury"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bleak"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ponury",
+                                    "smętny",
+                                    "niewesoły",
+                                    "marny (np. widok na przyszłość)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Samantha has a bleak smile.",
+                                        "Translation": "(Samantha ma ponury uśmiech.)"
+                                    },
+                                    {
+                                        "Sentence": "His expression remained bleak.",
+                                        "Translation": "(Wyraz jego twarzy pozostał smętny.)"
+                                    },
+                                    {
+                                        "Sentence": "My future looks bleak.",
+                                        "Translation": "(Moja przyszłość wydaje się marna.)"
+                                    }
+                                ]
+                            },
+                            {
+                                "Variant": [
+                                    "ponury",
+                                    "przygnębiający (np. krajobraz)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Our world seems bleak to me.",
+                                        "Translation": "(Nasz świat wydaje mi się przygnębiający.)"
+                                    },
+                                    {
+                                        "Sentence": "This landscape is quite bleak.",
+                                        "Translation": "(Ten krajobraz jest dość ponury.)"
+                                    },
+                                    {
+                                        "Sentence": "The bleak moors are scary at night.",
+                                        "Translation": "(Ponure wrzosowiska są straszne nocą.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "gloomy"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ponury",
+                                    "posępny"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "He is a gloomy sort of person who never smiles.",
+                                        "Translation": "(On jest posępnym typem osoby, która nigdy się nie uśmiecha.)"
+                                    },
+                                    {
+                                        "Sentence": "For the rest of the evening we were nervous and gloomy.",
+                                        "Translation": "(Przez resztę wieczoru byliśmy podenerwowani i posępni.)"
+                                    },
+                                    {
+                                        "Sentence": "It was a gloomy night: foggy and cold.",
+                                        "Translation": "(To była ponura noc: mglista i zimna.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "sinister"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "złowieszczy",
+                                    "złowrogi",
+                                    "ponury"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "There was something sinister in his eyes.",
+                                        "Translation": "(W jego oczach było coś złowrogiego.)"
+                                    },
+                                    {
+                                        "Sentence": "It just makes the whole thing seem sinister.",
+                                        "Translation": "(To tylko sprawia, że cała rzecz wygląda na złowieszczą.)"
+                                    },
+                                    {
+                                        "Sentence": "I was frightened by the sinister shadow outside.",
+                                        "Translation": "(Byłam przestraszona złowrogim cieniem na zewnątrz.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "sombre",
+                            "somber"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ponury",
+                                    "posępny",
+                                    "złowieszczy"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Neither man smiled; both remained tense and sombre.",
+                                        "Translation": "(Żaden z mężczyzn nie uśmiechnął się; obaj pozostali napięci i posępni.)"
+                                    },
+                                    {
+                                        "Sentence": "His expression was somber.",
+                                        "Translation": "(Jego wyraz twarzy był ponury.)"
+                                    },
+                                    {
+                                        "Sentence": "It was a somber thought, a thought he did not like.",
+                                        "Translation": "(To była posępna myśl, myśl, która mu się nie podobała.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "grim"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ponury",
+                                    "srogi"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "sullen"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nadąsany",
+                                    "posępny",
+                                    "ponury"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Stop being sullen without any reason.",
+                                        "Translation": "(Przestań być nadąsana bez powodu.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dismal"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ponury",
+                                    "posępny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "moody"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "markotny",
+                                    "ponury"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "He becomes moodier with age.",
+                                        "Translation": "(Z wiekiem robi się coraz bardziej markotny.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dark"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ponury",
+                                    "czarny (np. nastrój, okres)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "We live in very dark times.",
+                                        "Translation": "(Żyjemy w bardzo ponurych czasach.)"
+                                    },
+                                    {
+                                        "Sentence": "When my dog died, I was in a very dark mood.",
+                                        "Translation": "(Kiedy mój pies umarł, byłem w bardzo ponurym nastroju.)"
+                                    }
+                                ]
+                            },
+                            {
+                                "Variant": [
+                                    "czarny",
+                                    "ponury (np. myśli, uczucia)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I was really sad, my thoughts were very dark.",
+                                        "Translation": "(Byłem naprawdę smutny, moje myśli były bardzo ponure.)"
+                                    },
+                                    {
+                                        "Sentence": "Don't let your mind be dominated by dark thoughts.",
+                                        "Translation": "(Nie pozwól, aby twój umysł został zdominowany przez czarne myśli.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "miserable"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "pochmurny",
+                                    "szary",
+                                    "ponury (o pogodzie)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "The weather was miserable.",
+                                        "Translation": "(Pogoda była ponura.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "lurid"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ponury",
+                                    "straszny",
+                                    "upiorny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "drab"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "bury",
+                                    "bezbarwny",
+                                    "szary",
+                                    "ponury"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dour"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "srogi",
+                                    "posępny",
+                                    "ponury (np. sposób bycia, krajobraz, nastrój)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "glum"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ponury",
+                                    "posępny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dreary",
+                            "drear"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ponury (pogoda, krajobraz)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "This dreary landscape makes me sad.",
+                                        "Translation": "(Ten ponury krajobraz mnie zasmuca.)"
+                                    },
+                                    {
+                                        "Sentence": "Today's weather is dreary and depressing.",
+                                        "Translation": "(Dzisiejsza pogoda jest ponura i przygnębiająca.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "brooding"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ponury",
+                                    "zamyślony"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "joyless"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nieszczęśliwy",
+                                    "smutny",
+                                    "ponury",
+                                    "szary"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "cheerless"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ponury",
+                                    "posępny",
+                                    "smętny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "lugubrious"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ponury",
+                                    "żałobny",
+                                    "żałosny (np. nastrój)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "sepulchral"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ponury (np. nastrój)",
+                                    "grobowy (np. głos)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "grum"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "loury",
+                            "lowery"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ponury",
+                                    "posępny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "atrabilarious"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ponury",
+                                    "melancholijny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "uncheerful"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ponury",
+                                    "przygnębiający"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "darksome"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ciemny (o miejscu)",
+                                    "ponury (np. nastrój)",
+                                    "pochmurny (dzień)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "unmerry"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "smutny",
+                                    "ponury",
+                                    "markotny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "Novemberish",
+                            "Novembery"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "charakterystyczny dla listopada",
+                                    "ponury"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "lowering"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ponury",
+                                    "groźny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dolesome"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ponury",
+                                    "posępny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "Decemberish"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ponury",
+                                    "lodowaty",
+                                    "ciemny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dreich"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ponury",
+                                    "nieprzyjemny",
+                                    "przygnębiający",
+                                    "pochmurny",
+                                    "dżdżysty (o pogodzie)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "doomy"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "pesymistyczny",
+                                    "ponury"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "oorie",
+                            "ourie",
+                            "owrie",
+                            "ourey"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "posępny",
+                                    "ponury",
+                                    "przygnębiający"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "agelastic"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ponury",
+                                    "nigdy się nie uśmiechający"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "saturnine"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "posępny",
+                                    "ponury"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "tenebrous",
+                            "tenebrious"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ciemny",
+                                    "ponury"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dreich",
+                            "dreigh",
+                            "driegh"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "dowie"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ponury",
+                                    "posępny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "sombrous"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ponury",
+                                    "posępny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "morose"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ponury",
+                                    "posępny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

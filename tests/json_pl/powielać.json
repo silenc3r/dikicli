@@ -1,0 +1,93 @@
+[
+    {
+        "Entry": [
+            "powielać"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "reproduce"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "reprodukować",
+                                    "powielać",
+                                    "kopiować"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "He reproduced the original painting pretty accurately.",
+                                        "Translation": "(On całkiem wiernie skopiował oryginalny obraz.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ditto"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "powielić",
+                                    "powielać"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "replicate"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "replikować",
+                                    "kopiować",
+                                    "powielać"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "manifold"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "hektografować",
+                                    "powielać"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "mimeograph",
+                            "mimeo"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "powielać",
+                                    "kopiować"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

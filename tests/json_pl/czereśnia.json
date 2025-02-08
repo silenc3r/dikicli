@@ -1,0 +1,87 @@
+[
+    {
+        "Entry": [
+            "czereśnia"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "cherry",
+                            "wild cherry",
+                            "sweet cherry"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "czereśnia (owoc lub drzewo z rodzaju śliwowatych)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "These wild cherries are quite sour.",
+                                        "Translation": "(Te czereśnie są dosyć kwaśne.)"
+                                    },
+                                    {
+                                        "Sentence": "Did you leave any wild cherries for me?",
+                                        "Translation": "(Czy zostawiłeś jakieś czereśnie dla mnie?)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "cherry tree"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wiśnia",
+                                    "czereśnia (drzewo)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "mazzard"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "gean"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "czereśnia trześnia",
+                                    "czereśnia"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "Prunus avium"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wiśnia ptasia",
+                                    "czereśnia (gatunek rośliny)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

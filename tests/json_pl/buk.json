@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "buk"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "beech"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "buk (gatunek drzewa)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

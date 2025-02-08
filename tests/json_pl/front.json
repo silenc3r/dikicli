@@ -1,0 +1,161 @@
+[
+    {
+        "Entry": [
+            "front"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "front"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "front",
+                                    "przód"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "They sat at the front.",
+                                        "Translation": "(Oni usiedli z przodu.)"
+                                    }
+                                ]
+                            },
+                            {
+                                "Variant": [
+                                    "przód",
+                                    "front (najważniejsza część)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Don't put your bags in the front of the bus.",
+                                        "Translation": "(Nie kładź bagaży z przodu autobusu.)"
+                                    },
+                                    {
+                                        "Sentence": "I would like to sit in the front.",
+                                        "Translation": "(Chciałbym usiąść z przodu.)"
+                                    }
+                                ]
+                            },
+                            {
+                                "Variant": [
+                                    "front (budynku)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "The front of a building is from another century.",
+                                        "Translation": "(Front budynku jest z innego wieku.)"
+                                    },
+                                    {
+                                        "Sentence": "The shop front attracts customers.",
+                                        "Translation": "(Front sklepu przyciąga klientów.)"
+                                    }
+                                ]
+                            },
+                            {
+                                "Variant": [
+                                    "front (używane w nazwach organizacji)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "His grandfather was a member of the National Front.",
+                                        "Translation": "(Jego dziadek należał do Frontu Narodowego.)"
+                                    }
+                                ]
+                            },
+                            {
+                                "Variant": [
+                                    "front (linia walki)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "The soldiers were fighting on the front.",
+                                        "Translation": "(Żołnierze walczyli na froncie.)"
+                                    },
+                                    {
+                                        "Sentence": "They were on the front line ready to attack.",
+                                        "Translation": "(Oni byli na linii walki gotowi do ataku.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "camp"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "obóz",
+                                    "front (grupa ludzi o podobnych poglądach, działających w podobnej sprawie)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Our camp opposed to their ideas.",
+                                        "Translation": "(Nasz front sprzeciwiał się ich pomysłom.)"
+                                    },
+                                    {
+                                        "Sentence": "Don't speak to him, he is from the opposite camp.",
+                                        "Translation": "(Nie rozmawiaj z nim, on jest z przeciwnego obozu.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "battlefront"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "front (linia walki)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "forepart"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "przednia część",
+                                    "przód",
+                                    "front"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "fronted"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "mający przód",
+                                    "front"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

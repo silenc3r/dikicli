@@ -1,0 +1,587 @@
+[
+    {
+        "Entry": [
+            "poważny"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "serious"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "poważny (np. sytuacja, problem)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Are you serious?",
+                                        "Translation": "(Czy mówisz poważnie?)"
+                                    },
+                                    {
+                                        "Sentence": "Fortunately, it wasn't a serious accident.",
+                                        "Translation": "(Na szczęście, to nie był poważny wypadek.)"
+                                    },
+                                    {
+                                        "Sentence": "As you know, we want everyone to be serious about their work.",
+                                        "Translation": "(Jak wiesz, chcemy, żeby każdy poważnie traktował swoją pracę.)"
+                                    }
+                                ]
+                            },
+                            {
+                                "Variant": [
+                                    "ważny",
+                                    "poważny"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "This is a serious matter.",
+                                        "Translation": "(To jest poważna sprawa.)"
+                                    },
+                                    {
+                                        "Sentence": "This is a serious conversation, don't laugh.",
+                                        "Translation": "(To jest poważna rozmowa, nie śmiej się.)"
+                                    }
+                                ]
+                            },
+                            {
+                                "Variant": [
+                                    "poważny",
+                                    "duży (w dużej ilości)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "This car costs serious money.",
+                                        "Translation": "(To auto kosztuje poważne pieniądze.)"
+                                    },
+                                    {
+                                        "Sentence": "You've stolen a serious amount of money.",
+                                        "Translation": "(Ukradłaś dużą ilość pieniędzy.)"
+                                    }
+                                ]
+                            },
+                            {
+                                "Variant": [
+                                    "poważny (o związku miłosnym)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "They have been in a serious relationship for three years now.",
+                                        "Translation": "(Oni są w poważnym związku od trzech lat.)"
+                                    },
+                                    {
+                                        "Sentence": "He wants to propose to her - I think their relationship is serious.",
+                                        "Translation": "(On chce się jej oświadczyć - myślę, że ich związek jest poważny.)"
+                                    },
+                                    {
+                                        "Sentence": "I don't think our relationship is serious.",
+                                        "Translation": "(Nie sądzę, aby nasz związek był poważny.)"
+                                    }
+                                ]
+                            },
+                            {
+                                "Variant": [
+                                    "poważny",
+                                    "rozsądny (o osobie)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "He almost never laughs, he is very serious.",
+                                        "Translation": "(On prawie nigdy się nie śmieje, jest bardzo poważny.)"
+                                    },
+                                    {
+                                        "Sentence": "You can hire him, he's a serious person.",
+                                        "Translation": "(Możesz go zatrudnić, jest rozsądną osobą.)"
+                                    },
+                                    {
+                                        "Sentence": "When will you become serious?",
+                                        "Translation": "(Kiedy staniesz się rozsądny?)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "real"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "prawdziwy",
+                                    "poważny (np. problem, niebezpieczeństwo)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "This is a real problem.",
+                                        "Translation": "(To jest prawdziwy problem.)"
+                                    },
+                                    {
+                                        "Sentence": "That's a real problem - do you need my help?",
+                                        "Translation": "(To jest faktyczny problem - potrzebujesz mojej pomocy?)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "severe"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "poważny",
+                                    "ciężki",
+                                    "intensywny"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "He hardly recovered from a severe illness.",
+                                        "Translation": "(On ledwo wyzdrowiał z poważnej choroby.)"
+                                    },
+                                    {
+                                        "Sentence": "She has a severe problem with alcohol.",
+                                        "Translation": "(Ona ma poważny problem z alkoholem.)"
+                                    },
+                                    {
+                                        "Sentence": "She was diagnosed with severe depression.",
+                                        "Translation": "(Zdiagnozowano u niej ciężką depresję.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bad"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "poważny",
+                                    "dotkliwy",
+                                    "ciężki"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "They've had a bad accident.",
+                                        "Translation": "(Oni mieli poważny wypadek.)"
+                                    },
+                                    {
+                                        "Sentence": "I had a bad headache yesterday.",
+                                        "Translation": "(Miałem wczoraj dotkliwy ból głowy.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "intense"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "zasadniczy",
+                                    "intensywny",
+                                    "poważny"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "My boss is intense.",
+                                        "Translation": "(Mój szef jest zasadniczy.)"
+                                    },
+                                    {
+                                        "Sentence": "His look was so intense that I had to look away.",
+                                        "Translation": "(Jego spojrzenie było tak intensywne, że musiałem odwrócić wzrok.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "critical"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "poważny",
+                                    "niepokojący",
+                                    "krytyczny (np. sytuacja, okres)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "The situation in my country is critical.",
+                                        "Translation": "(Sytuacja w moim kraju jest niepokojąca.)"
+                                    },
+                                    {
+                                        "Sentence": "We need to work together in this critical situation.",
+                                        "Translation": "(Musimy pracować razem w tej poważnej sytuacji.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "grave"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "poważny",
+                                    "nie na żarty (np. niebezpieczeństwo)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "They didn't know they were in grave danger.",
+                                        "Translation": "(Oni nie wiedzieli, że są w poważnym niebezpieczeństwie.)"
+                                    }
+                                ]
+                            },
+                            {
+                                "Variant": [
+                                    "poważny",
+                                    "posępny"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "His face was grave rather than friendly.",
+                                        "Translation": "(Jego twarz była raczej posępna niż przyjazna.)"
+                                    },
+                                    {
+                                        "Sentence": "The young man's face was calm and grave.",
+                                        "Translation": "(Twarz młodego mężczyzny była spokojna i posępna.)"
+                                    },
+                                    {
+                                        "Sentence": "There's no question that our situation was grave.",
+                                        "Translation": "(Nie ulegało wątpliwości, że nasza sytuacja była poważna.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "earnest"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "poważny (np. osoba)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "This is too earnest for me.",
+                                        "Translation": "(To jest zbyt poważne dla mnie.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "solemn"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "poważny (np. wyraz twarzy)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "She had a solemn expression on her face, as before.",
+                                        "Translation": "(Ona miała poważny wyraz twarzy, tak jak przedtem.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "sober"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "poważny",
+                                    "stateczny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "acute"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "dolegliwy",
+                                    "dotkliwy",
+                                    "dręczący",
+                                    "poważny (np. o problemie)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dignified"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "dense"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "zawierający głębokie treści",
+                                    "poważny (np. książka, artykuł)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nasty"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "paskudny",
+                                    "poważny (np. choroba, uraz)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I caught a nasty cold, I have to stay in bed for a week.",
+                                        "Translation": "(Złapałem paskudne przeziębienie, muszę zostać w łóżku przez tydzień.)"
+                                    },
+                                    {
+                                        "Sentence": "The cut on my leg is nasty. I have to go to the doctor.",
+                                        "Translation": "(Skaleczenie na mojej nodze jest paskudne. Muszę iść do lekarza.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "businesslike"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "rzeczowy",
+                                    "poważny (np. osoba, interes)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "egregious"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "gruby",
+                                    "poważny (np. błąd)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "staid"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "poważny",
+                                    "staromodny",
+                                    "stateczny (o osobie)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "grievous"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "bolesny",
+                                    "poważny (np. błąd, strata)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "aggravated"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "kwalifikowany",
+                                    "poważny (o przestępstwie)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "straight"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "uporządkowany",
+                                    "poważny"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "He's always so straight, I don't like him.",
+                                        "Translation": "(On jest zawsze taki poważny, nie lubię go.)"
+                                    },
+                                    {
+                                        "Sentence": "Don't be so straight, you should go out and have some fun!",
+                                        "Translation": "(Nie bądź taki uporządkowany, powinieneś wyjść i trochę się zabawić!)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "unsmiling"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nieuśmiechnięty",
+                                    "poważny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "portentous"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "pompatyczny",
+                                    "uroczysty",
+                                    "nadęty",
+                                    "poważny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "straight-faced"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "serious-minded"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "charakteryzujący się powagą",
+                                    "poważny",
+                                    "rozważny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "sostenuto"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "sostenuto",
+                                    "poważny",
+                                    "spokojny (określa ekspresję i tempa utworu muzycznego)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nonfrivolous"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nielekkomyślny",
+                                    "niefrywolny",
+                                    "poważny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "sobersided"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "poważny",
+                                    "zrównoważony",
+                                    "trzeźwo myślący"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "legit"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "poważny",
+                                    "uczciwy (np. biznesmen)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

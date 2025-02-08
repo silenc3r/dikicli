@@ -1,0 +1,57 @@
+[
+    {
+        "Entry": [
+            "czołgać się"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "crawl"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "czołgać się (np. żołnierz na poligonie)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "She crawled to the phone and dialed 911.",
+                                        "Translation": "(Doczołgała się do telefonu i wykręciła 911.)"
+                                    },
+                                    {
+                                        "Sentence": "The soldiers were crawling in mud.",
+                                        "Translation": "(Żołnierze czołgali się w błocie.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "grovel"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "czołgać się",
+                                    "pełzać"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "becrawl"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    }
+]

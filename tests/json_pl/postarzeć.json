@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "postarzeć się"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "get old",
+                            "grow old"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "postarzeć się",
+                                    "zestarzeć się"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

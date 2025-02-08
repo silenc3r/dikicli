@@ -1,0 +1,106 @@
+[
+    {
+        "Entry": [
+            "świecki"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "secular"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "lay"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "temporal"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "doczesny (o sprawach)",
+                                    "ziemski (o dobrach)",
+                                    "świecki"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "worldly"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "profane"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "non-religious",
+                            "nonreligious"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "świecki",
+                                    "laicki"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "laic"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "undenominational"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "laical"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "layman"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "świecki",
+                                    "osoba świecka"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

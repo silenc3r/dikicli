@@ -1,0 +1,68 @@
+[
+    {
+        "Entry": [
+            "kunszt"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "art"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "umiejętność",
+                                    "zręczność",
+                                    "kunszt"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "He posseses the art of annoying me.",
+                                        "Translation": "(On posiada umiejętność denerwowania mnie.)"
+                                    },
+                                    {
+                                        "Sentence": "She has the art of an elephant.",
+                                        "Translation": "(Ona ma zręczność słonia.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "artistry"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "kunszt",
+                                    "mistrzostwo",
+                                    "sztuka"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "craftsmanship"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "kunszt",
+                                    "mistrzostwo"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,369 @@
+[
+    {
+        "Entry": [
+            "uczciwy"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "honest"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "uczciwy"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "He is an honest, hard-working man.",
+                                        "Translation": "(On jest uczciwym, pracowitym człowiekiem.)"
+                                    }
+                                ]
+                            },
+                            {
+                                "Variant": [
+                                    "uczciwy",
+                                    "sprawiedliwy",
+                                    "uczciwie zasłużony",
+                                    "uczciwie zarobiony"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "genuine"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "szczery",
+                                    "uczciwy (np. osoba, opinia)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "She gave me a genuine smile.",
+                                        "Translation": "(Ona obdarowała mnie szczerym uśmiechem.)"
+                                    },
+                                    {
+                                        "Sentence": "I am a genuine person.",
+                                        "Translation": "(Jestem uczciwą osobą.)"
+                                    },
+                                    {
+                                        "Sentence": "I need your genuine opinion.",
+                                        "Translation": "(Potrzebuję twojej szczerej opinii.)"
+                                    },
+                                    {
+                                        "Sentence": "She has shown a genuine interest in charity work.",
+                                        "Translation": "(Ona wykazała szczere zainteresowanie pracą charytatywną.)"
+                                    },
+                                    {
+                                        "Sentence": "He is a genuine person, you can trust him.",
+                                        "Translation": "(On jest szczerą osobą, możesz mu zaufać.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "straight"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "szczery",
+                                    "uczciwy"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "He's a straight man, he always tells the truth.",
+                                        "Translation": "(On jest szczerym mężczyzną, zawsze mówi prawdę.)"
+                                    },
+                                    {
+                                        "Sentence": "I feel like you are not being straight.",
+                                        "Translation": "(Wydaje mi się, że nie jesteś szczera.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "clean"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "czysty",
+                                    "uczciwy",
+                                    "niewinny"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "In my opinion he is absolutely clean.",
+                                        "Translation": "(W moim przekonaniu on jest całkowicie niewinny.)"
+                                    },
+                                    {
+                                        "Sentence": "She's clean, she had no idea about the burglary.",
+                                        "Translation": "(Ona jest niewinna, nie miała pojęcia o włamaniu.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "plain"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "szczery",
+                                    "uczciwy"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Cris is a plain guy.",
+                                        "Translation": "(Cris to uczciwy facet.)"
+                                    },
+                                    {
+                                        "Sentence": "Kate is a plain person, you can trust her.",
+                                        "Translation": "(Kate jest szczerą osobą, możesz jej zaufać.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "right",
+                            "r."
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "słuszny",
+                                    "uczciwy",
+                                    "moralnie właściwy"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "righteous"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "sprawiedliwy",
+                                    "uczciwy",
+                                    "moralny (o człowieku)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Your father is righteous, he gave me my money back.",
+                                        "Translation": "(Twój ojciec jest uczciwy, oddał mi moje pieniądze.)"
+                                    },
+                                    {
+                                        "Sentence": "Only the righteous people will go to heaven.",
+                                        "Translation": "(Tylko sprawiedliwi ludzie pójdą do nieba.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "honourable",
+                            "honorable"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "uczciwy",
+                                    "prawy"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "scrupulous"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "uczciwy",
+                                    "sumienny (np. prawnik)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "clean-handed"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "above board",
+                            "above-board",
+                            "aboveboard"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "uczciwy",
+                                    "szczery",
+                                    "legalny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "legit"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "poważny",
+                                    "uczciwy (np. biznesmen)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dinkum"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "uczciwy",
+                                    "szczery"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "integrous"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "prawy",
+                                    "uczciwy"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "up-and-up"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "uczciwy",
+                                    "porządny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "straight as an arrow"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "uczciwy",
+                                    "przyzwoity",
+                                    "szczery"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "straight as a die",
+                            "as straight as a die"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "uczciwy",
+                                    "całkowicie szczery"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rectitudinous"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "prawy",
+                                    "uczciwy",
+                                    "rzetelny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "truepenny"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "uczciwy",
+                                    "godny zaufania człowiek"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

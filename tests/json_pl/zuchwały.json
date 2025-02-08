@@ -1,0 +1,207 @@
+[
+    {
+        "Entry": [
+            "zuchwały"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bold"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "zuchwały",
+                                    "bezczelny (np. uwaga)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "She ignored his bold remark.",
+                                        "Translation": "(Ona zignorowała jego bezczelny komentarz.)"
+                                    },
+                                    {
+                                        "Sentence": "It was a bold question.",
+                                        "Translation": "(To było bezczelne pytanie.)"
+                                    },
+                                    {
+                                        "Sentence": "Your bold behaviour is inappropriate right now.",
+                                        "Translation": "(Twoje zuchwałe zachowanie jest teraz nieodpowiednie.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "audacious"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "śmiały",
+                                    "zuchwały (np. plan)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pert"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "zuchwały",
+                                    "łobuzerski",
+                                    "szelmowski"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "cheeky"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "zawadiacki",
+                                    "zuchwały (o uśmiechu)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "He had the most wonderful, cheeky smile.",
+                                        "Translation": "(Miał najpiękniejszy, zawadiacki uśmiech.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nervy"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "pewny siebie",
+                                    "zuchwały"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "impudent"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "bezczelny",
+                                    "zuchwały (np. o dziecku, o języku, o zachowaniu)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "boldfaced",
+                            "bold faced",
+                            "bold-faced"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "zuchwały",
+                                    "bezwstydny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "temerarious"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "śmiały",
+                                    "zuchwały"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "perkish"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "bezczelny",
+                                    "zuchwały"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "gallus"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "śmiały",
+                                    "zuchwały",
+                                    "lekkomyślny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "paughty"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "śmiały",
+                                    "bezczelny",
+                                    "zuchwały"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "malapert"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "śmiały",
+                                    "bezczelny",
+                                    "zuchwały"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

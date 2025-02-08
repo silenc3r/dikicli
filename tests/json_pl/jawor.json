@@ -1,0 +1,43 @@
+[
+    {
+        "Entry": [
+            "jawor"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sycamore"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "jawor (gatunek klonu)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "acer pseudoplatanus"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "klon jawor",
+                                    "jawor",
+                                    "klon jaworowy (gatunek drzewa)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "Entry": [
+            "bolączka"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "malady"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "bolączka",
+                                    "problem społeczny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "gripe"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "bolączka",
+                                    "powód do narzekań"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Her biggest gripe is that he is happy with someone new.",
+                                        "Translation": "(Jej największą bolączką jest to, że on jest szczęśliwy z kimś nowym.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

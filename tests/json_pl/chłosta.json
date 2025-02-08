@@ -1,0 +1,204 @@
+[
+    {
+        "Entry": [
+            "chłosta"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "lash"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "birch"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "whipping"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "chłosta",
+                                    "chłostanie"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "flogging"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "caning"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "chłosta",
+                                    "kara chłosty"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "chastisement"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "chłosta (cielesna kara)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "six of the best"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "chłosta",
+                                    "kara cielesna (zazwyczaj sześć uderzeń kijem)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "chłostać"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "whip"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "biczować",
+                                    "smagać",
+                                    "chłostać (za pomocą bata)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Some prisoners were whipped across the soles of their feet.",
+                                        "Translation": "(Niektórzy więźniowie byli chłostani po stopach.)"
+                                    },
+                                    {
+                                        "Sentence": "He whipped the boy for stealing the bread.",
+                                        "Translation": "(On schłostał chłopca za kradzież chleba.)"
+                                    },
+                                    {
+                                        "Sentence": "He whipped his horse to ride faster.",
+                                        "Translation": "(On uderzył batem swojego konia, aby jechać szybciej.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "lash"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "chłostać",
+                                    "wychłostać",
+                                    "smagać",
+                                    "wysmagać",
+                                    "zacinać batem"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "He lashed the horses so they would run faster.",
+                                        "Translation": "(On smagał konie, żeby biegły szybciej.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "birch"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "scourge"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "biczować",
+                                    "chłostać (kogoś)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "flog"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "chłostać (biczem, batem)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "thresh"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "chłostać",
+                                    "bić (kogoś)",
+                                    "spuszczać łomot"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

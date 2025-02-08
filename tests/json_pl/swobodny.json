@@ -1,0 +1,372 @@
+[
+    {
+        "Entry": [
+            "swobodny"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "casual"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "swobodny",
+                                    "poufały",
+                                    "nieformalny (np. nastawienie)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I'm sorry if I got too casual.",
+                                        "Translation": "(Wybacz, jeżeli byłem zbyt poufały.)"
+                                    },
+                                    {
+                                        "Sentence": "His behaviour was too casual; I didn't like that.",
+                                        "Translation": "(Jego zachowanie było zbyt swobodne; nie spodobało mi się to.)"
+                                    },
+                                    {
+                                        "Sentence": "I am quite casual about meeting a celebrity.",
+                                        "Translation": "(Mam całkiem swobodne podejście do poznawania gwiazd.)"
+                                    },
+                                    {
+                                        "Sentence": "Remain casual and don't mention about anything unusual going on.",
+                                        "Translation": "(Bądź spokojny i nie wspominaj o niczym niezwykłym.)"
+                                    }
+                                ]
+                            },
+                            {
+                                "Variant": [
+                                    "swobodny",
+                                    "codzienny",
+                                    "nieformalny (np. o ubraniu)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "At work we are allowed to wear casual clothes on Friday.",
+                                        "Translation": "(W pracy możemy nosić luźne ubrania w piątki.)"
+                                    },
+                                    {
+                                        "Sentence": "I always wear casual clothes when I'm at home.",
+                                        "Translation": "(Zawsze noszę codzienne ubrania, kiedy jestem w domu.)"
+                                    }
+                                ]
+                            },
+                            {
+                                "Variant": [
+                                    "przypadkowy",
+                                    "przygodny",
+                                    "okazjonalny",
+                                    "okazyjny",
+                                    "swobodny",
+                                    "przelotny (np. znajomość)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "It was a casual one night stand.",
+                                        "Translation": "(To była przypadkowa przygoda na jedną noc.)"
+                                    },
+                                    {
+                                        "Sentence": "I'm not interested in casual relationships.",
+                                        "Translation": "(Nie interesują mnie przelotne związki.)"
+                                    }
+                                ]
+                            },
+                            {
+                                "Variant": [
+                                    "nieuważny",
+                                    "niedbały",
+                                    "swobodny",
+                                    "nonszalancki",
+                                    "pospolity",
+                                    "zwyczajny"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "To the casual observer everything seemed to be normal.",
+                                        "Translation": "(Dla nieuważnego obserwatora wszystko wdawało się normalne.)"
+                                    },
+                                    {
+                                        "Sentence": "She baked a casual cheesecake, nothing special.",
+                                        "Translation": "(Ona upiekła zwyczajny sernik, nic specjalnego.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "loose"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "informal"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nieformalny",
+                                    "swobodny (strój)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "The invitation said the attire is informal.",
+                                        "Translation": "(W zaproszeniu napisano, że strój jest nieformalny.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "lax"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "rozluźniony",
+                                    "swobodny",
+                                    "niesurowy",
+                                    "nierygorystyczny (np. dyscyplina, zasady)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "careless"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "naturalny",
+                                    "swobodny",
+                                    "niedbały (np. chód, sposób ubierania się)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "effortless"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "łatwy",
+                                    "lekki",
+                                    "swobodny",
+                                    "nie wymagający wysiłku"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "unfettered"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nieskrępowany",
+                                    "swobodny (np. rynek, działalność gospodarcza)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "unrestrained"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "swobodny",
+                                    "nieograniczony",
+                                    "niepohamowany"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "freed"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "swobodny",
+                                    "oswobodzony"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "uninhibited"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "bez zahamowań",
+                                    "nieskrępowany",
+                                    "swobodny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "free-flowing"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "swobodny",
+                                    "łagodny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "freewheeling"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "beztroski",
+                                    "swobodny"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "She leads such a freewheeling life.",
+                                        "Translation": "(Ona prowadzi tak beztroskie życie.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "free and easy"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "free-fall"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "niesterowany",
+                                    "swobodny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "unconstricted"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nieskrępowany",
+                                    "swobodny (o przedmiotach)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "unrestrictedly"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "bez ograniczeń",
+                                    "nieskrępowany",
+                                    "swobodny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "shirt-sleeve"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "bezpośredni",
+                                    "swobodny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dégagé"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "swobodny",
+                                    "niewymuszony"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "lowse"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            },
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "off the chain"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wolny",
+                                    "nieskrępowany",
+                                    "swobodny",
+                                    "poza kontrolą",
+                                    "szalony"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

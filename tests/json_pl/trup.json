@@ -1,0 +1,62 @@
+[
+    {
+        "Entry": [
+            "trup"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "corpse",
+                            "corse"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "zwłoki",
+                                    "trup",
+                                    "ciało"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "The killer concealed the corpse in the cellar.",
+                                        "Translation": "(Morderca ukrył zwłoki w piwnicy.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dog meat"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "trupa"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "company",
+                            "co."
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    }
+]

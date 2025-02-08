@@ -1,0 +1,195 @@
+[
+    {
+        "Entry": [
+            "stonowany"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "soft"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "stonowany (kolor)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I want to paint the walls with a soft, beige color.",
+                                        "Translation": "(Chcę pomalować ściany stonowanym, beżowym kolorem.)"
+                                    },
+                                    {
+                                        "Sentence": "You look great in this soft pink.",
+                                        "Translation": "(Wyglądasz świetnie w tym stonowanym różu.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "neutral"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "neutralny",
+                                    "stonowany (np. ton głosu)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Her neutral voice has calmed me down.",
+                                        "Translation": "(Jej stonowany głos uspokoił mnie.)"
+                                    },
+                                    {
+                                        "Sentence": "I didn't know if she was happy or not because the tone of her voice was neutral.",
+                                        "Translation": "(Nie wiedziałem, czy jest szczęśliwa czy nie, bo jej ton głosu był neutralny.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "low-key",
+                            "low-keyed",
+                            "lowkey"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "niewyróżniający się",
+                                    "niewidoczny",
+                                    "stonowany"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "muted"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "stonowany",
+                                    "powściągliwy (np. reakcja)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "mellow"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "łagodny (smak, ton, charakter)",
+                                    "aksamitny",
+                                    "miły w dotyku (materiał)",
+                                    "stonowany (kolor)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "restrained"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "stonowany",
+                                    "przygaszony (np. o kolorach)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "watered-down"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "stonowany",
+                                    "nijaki",
+                                    "mdły"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "toned-down"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "stonować"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "water down"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "stonować",
+                                    "złagodzić (np. wulgarne słownictwo w filmie)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "stonować coś"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "tone something down"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "stonować coś (np. kolor, światło)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

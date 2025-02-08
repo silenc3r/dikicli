@@ -1,0 +1,77 @@
+[
+    {
+        "Entry": [
+            "dopełniacz"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "genitive case"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "dopełniacz (przypadek gramatyczny)",
+                                    "dop. (skrót)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "complement system"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "układ dopełniacza",
+                                    "dopełniacz"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "fixator"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "przeciwciało wiążące",
+                                    "dopełniacz",
+                                    "czynnik stabilizujący"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "possessive"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "genitive"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "dopełniacz (w gramatyce)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

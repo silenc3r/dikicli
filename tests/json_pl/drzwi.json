@@ -1,0 +1,88 @@
+[
+    {
+        "Entry": [
+            "drzwi"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "door"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "entry",
+                            "entryway"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "drzwi",
+                                    "wejście"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I'll meet you at the entry.",
+                                        "Translation": "(Spotkajmy się przy wejściu.)"
+                                    },
+                                    {
+                                        "Sentence": "This entry leads to the living room.",
+                                        "Translation": "(Te drzwi prowadzą do salonu.)"
+                                    },
+                                    {
+                                        "Sentence": "The meeting was at the entryway.",
+                                        "Translation": "(Spotkanie było przy wejściu.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "doorway"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "drzwi",
+                                    "wejście"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "We've opened a doorway to a world we know nothing about.",
+                                        "Translation": "(Otworzyliśmy drzwi do świata, o którym nic nie wiemy.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "trapdoor"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "drzwi (zwodowe, spustowe)",
+                                    "klapa (w podłodze, dachu)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "yett"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,762 @@
+[
+    {
+        "Entry": [
+            "ukrywać"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "hide"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "chować",
+                                    "ukrywać"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "The girl hid the doll in the garden.",
+                                        "Translation": "(Dziewczynka ukryła lalkę w ogrodzie.)"
+                                    },
+                                    {
+                                        "Sentence": "He was hiding it from the police.",
+                                        "Translation": "(On ukrywał to przed policją.)"
+                                    },
+                                    {
+                                        "Sentence": "She hid her face in her hands.",
+                                        "Translation": "(Ona schowała twarz w dłoniach.)"
+                                    },
+                                    {
+                                        "Sentence": "They were hiding Jews during the Second World War.",
+                                        "Translation": "(Oni ukrywali Żydów podczas drugiej wojny światowej.)"
+                                    },
+                                    {
+                                        "Sentence": "Are you hiding illegal immigrants?",
+                                        "Translation": "(Czy ukrywacie nielegalnych imigrantów?)"
+                                    }
+                                ]
+                            },
+                            {
+                                "Variant": [
+                                    "ukrywać",
+                                    "zamaskowywać (np. swoje uczucia)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "She is good in hiding her feelings.",
+                                        "Translation": "(Ona jest dobra w ukrywaniu swoich uczuć.)"
+                                    },
+                                    {
+                                        "Sentence": "They should have hidden themselves in the bushes better.",
+                                        "Translation": "(Oni powinni byli się lepiej zamaskować w krzakach.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "mask"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "screen"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ukrywać (przed czymś)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I will screen your money.",
+                                        "Translation": "(Ja ukryję twoje pieniądze.)"
+                                    },
+                                    {
+                                        "Sentence": "She screened her diary from her mother.",
+                                        "Translation": "(Ona ukryła swój pamiętnik przed matką.)"
+                                    },
+                                    {
+                                        "Sentence": "Do you screen any secrets from me?",
+                                        "Translation": "(Czy ukrywasz przede mną jakieś tajemnice?)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "conceal"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ukrywać",
+                                    "skrywać"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "The path was concealed by long grass.",
+                                        "Translation": "(Ścieżka była ukryta przez długą trawę.)"
+                                    },
+                                    {
+                                        "Sentence": "The money was so cleverly concealed that the police couldn't find it.",
+                                        "Translation": "(Pieniądze były tak sprytnie ukryte, że policja nie mogła ich znaleźć.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "obscure"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "przesłaniać",
+                                    "zagłuszać",
+                                    "ukrywać"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Managers deliberately obscured the real situation.",
+                                        "Translation": "(Menadżerowie celowo ukryli prawdziwą sytuację.)"
+                                    },
+                                    {
+                                        "Sentence": "This mistake has been obscured so far.",
+                                        "Translation": "(Jak dotąd ten błąd był ukryty.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bury"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ukrywać",
+                                    "chować (np. okulary pod stosem papierów)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I'm looking for my glasses, did you bury them under a pile of papers again?",
+                                        "Translation": "(Szukam moich okularów, czy znowu schowałeś je pod stosem papierów?)"
+                                    },
+                                    {
+                                        "Sentence": "When I came in his room, he buried something under the books.",
+                                        "Translation": "(Kiedy wszedłem do jego pokoju, ukrył coś pod książkami.)"
+                                    }
+                                ]
+                            },
+                            {
+                                "Variant": [
+                                    "ukrywać (np. informację, fakt w większym dokumencie)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "The police buried the evidence.",
+                                        "Translation": "(Policja ukryła dowody.)"
+                                    },
+                                    {
+                                        "Sentence": "That company buries all inconvenient facts somewhere in the files.",
+                                        "Translation": "(Ta firma ukrywa wszystkie niewygodne fakty gdzieś w dokumentach.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "withhold"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "zatajać",
+                                    "zastrzec",
+                                    "ukrywać (np. imię, informacje)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "cache"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ukryć",
+                                    "ukrywać"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "harbour",
+                            "harbor"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ukryć",
+                                    "ukrywać"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "camouflage"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "maskować",
+                                    "zamaskować",
+                                    "kamuflować",
+                                    "zakamuflować",
+                                    "ukryć",
+                                    "ukrywać (np. czołg)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "suppress"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "tuszować (np. dowód)",
+                                    "ukrywać (fakty)",
+                                    "zatajać (prawdę)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "submerge",
+                            "submerse"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "skrywać (uczucia)",
+                                    "dusić w sobie (emocje)",
+                                    "ukrywać (myśli)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "secrete"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ukrywać (coś)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "shroud"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ukrywać (kogoś)",
+                                    "przykrywać (kogoś czymś)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dissemble"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ukrywać",
+                                    "ukryć (np. prawdę, emocje)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "hugger"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "hoodwink"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "bescreen"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "zasłaniać",
+                                    "ukrywać"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "overmask"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "zasłaniać",
+                                    "skrywać",
+                                    "ukrywać"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "huggermugger"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            },
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "stash away"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "chomikować",
+                                    "ukrywać"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "ukrywać coś"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "veil"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ukrywać coś",
+                                    "nie przedstawić czegoś bezpośrednio",
+                                    "zawoalować"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "keep something back"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ukrywać coś",
+                                    "zataić coś"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "fight something down"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ukrywać coś",
+                                    "zwalczać coś",
+                                    "tłumić coś"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "You have to fight your emotions down and stay calm.",
+                                        "Translation": "(Musisz stłumić swoje emocje i pozostać spokojnym.)"
+                                    },
+                                    {
+                                        "Sentence": "He's trying to fight down his sadness but it doesn't work.",
+                                        "Translation": "(On próbuje ukrywać swój smutek, ale to nie działa.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "ukrywać kogoś"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "keep somebody in concealment"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "ukryć"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "cover",
+                            "kiver"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ukryć",
+                                    "zakryć",
+                                    "zasłonić"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I covered my face with my hands.",
+                                        "Translation": "(Zasłoniłem twarz rękami.)"
+                                    },
+                                    {
+                                        "Sentence": "He raised a hand to cover a cough.",
+                                        "Translation": "(Uniósł dłoń, aby ukryć kaszel.)"
+                                    },
+                                    {
+                                        "Sentence": "A red overcoat covered her legs.",
+                                        "Translation": "(Czerwony płaszcz zakrywał jej nogi.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "disguise"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ukryć (np. uczucia)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "He disguises his feeling for her.",
+                                        "Translation": "(On ukrywa swoje uczucie do niej.)"
+                                    },
+                                    {
+                                        "Sentence": "He had to disguise his true identity.",
+                                        "Translation": "(On musiał ukryć swoją prawdziwą tożsamość.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "varnish"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "zatuszować",
+                                    "ukryć (np. prawdę)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "They wanted to varnish the truth about you.",
+                                        "Translation": "(Oni chcieli ukryć prawdę o tobie.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bewrap"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "dissimulate"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "zataić",
+                                    "ukryć (coś)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "ukrywać się"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "hide"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "chować się",
+                                    "ukrywać się"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Where are you hiding?",
+                                        "Translation": "(Gdzie się chowasz?)"
+                                    },
+                                    {
+                                        "Sentence": "Stop hiding from me.",
+                                        "Translation": "(Przestań się przede mną ukrywać.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "masquerade"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "maskować",
+                                    "ukrywać się",
+                                    "udawać kogoś innego"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "be in smoke"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ukrywać się",
+                                    "pozostawać w ukryciu"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "They want to arrest him so he has to be in smoke.",
+                                        "Translation": "(Chcą go aresztować, więc musi pozostawać w ukryciu.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "keep in concealment"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "camouflage oneself"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ukrywać się",
+                                    "maskować się",
+                                    "kamuflować się"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "ukryć coś"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "hush something up"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "zatuszować coś",
+                                    "ukryć coś"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "nie ukrywać czegoś"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "make no bones about doing something"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "ukryć się"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "go into hiding"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "go to earth"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "bield"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "schronić się",
+                                    "ukryć się (Szkocja, Północna Anglia)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

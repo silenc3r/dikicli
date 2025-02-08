@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "kawka"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "jackdaw",
+                            "daw"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "kawka (ptak)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

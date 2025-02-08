@@ -1,0 +1,113 @@
+[
+    {
+        "Entry": [
+            "narzeczona"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "fiancée"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "bride-to-be"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "narzeczona",
+            "narzeczony"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "intended"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "narzeczony",
+                                    "narzeczona"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "narzeczony"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "fiancé"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "fella"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "chłopak",
+                                    "narzeczony"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "People are just jealous, because I'm with the best fella in town.",
+                                        "Translation": "(Ludzie są po prostu zazdrośni, bo jestem z najlepszym chłopakiem w mieście.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bridegroom-to-be"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "przyszły mąż",
+                                    "narzeczony"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "betrothed"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    }
+]

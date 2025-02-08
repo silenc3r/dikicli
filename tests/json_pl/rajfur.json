@@ -1,0 +1,57 @@
+[
+    {
+        "Entry": [
+            "rajfur"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pimp"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "rajfur",
+                                    "stręczyciel"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "procurer"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "stręczyciel",
+                                    "rajfur"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pander"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "stręczyciel",
+                                    "rajfur"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

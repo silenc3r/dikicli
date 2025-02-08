@@ -1,0 +1,152 @@
+[
+    {
+        "Entry": [
+            "pachołek"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "cone"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "minion"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "sługa",
+                                    "sługus",
+                                    "pachołek"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "lackey",
+                            "lacquey"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "pachołek",
+                                    "sługus"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bollard"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "pachołek",
+                                    "słupek",
+                                    "poler (używany do cumowania statków w porcie)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bitt"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "pachołek (element statku)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bitts"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "poler",
+                                    "pachoł",
+                                    "pachołek",
+                                    "knecht"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zip coon"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "sługus",
+                                    "pachołek",
+                                    "podnóżek"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "running dog"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "sługus",
+                                    "pachołek"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "varlet"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "pachołek",
+                                    "służący"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "fart catcher"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "sługus",
+                                    "pachołek (który podąża za swoim panem)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

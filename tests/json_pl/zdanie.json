@@ -1,0 +1,425 @@
+[
+    {
+        "Entry": [
+            "zdanie"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "opinion"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "opinia",
+                                    "zdanie",
+                                    "pogląd"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "That is the common opinion, certainly.",
+                                        "Translation": "(To jest z pewnością powszechna opinia.)"
+                                    },
+                                    {
+                                        "Sentence": "He has a higher opinion of you than you think.",
+                                        "Translation": "(On ma lepsze zdanie o tobie, niż ci się wydaje.)"
+                                    },
+                                    {
+                                        "Sentence": "In my opinion, you shouldn't do it.",
+                                        "Translation": "(Moim zdaniem nie powinieneś tego robić.)"
+                                    },
+                                    {
+                                        "Sentence": "Our opinions are divided.",
+                                        "Translation": "(Nasze opinie są podzielone.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "view"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "pogląd",
+                                    "zdanie",
+                                    "opinia"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "In my view, you had a right to do it.",
+                                        "Translation": "(Moim zdaniem, miałeś prawo to zrobić.)"
+                                    },
+                                    {
+                                        "Sentence": "He rarely expresses his views in public.",
+                                        "Translation": "(On rzadko wyraża swe poglądy publicznie.)"
+                                    },
+                                    {
+                                        "Sentence": "She has strong views about religion.",
+                                        "Translation": "(Ona ma zdecydowane poglądy na temat religii.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "sentence"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "thought"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "zdanie",
+                                    "opinia"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I don't care about your thoughts.",
+                                        "Translation": "(Nie obchodzą mnie twoje opinie.)"
+                                    },
+                                    {
+                                        "Sentence": "Your thought is valuable.",
+                                        "Translation": "(Twoje zdanie jest cenne.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "position"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "opinia",
+                                    "zdanie"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Your position on the issue will be noted.",
+                                        "Translation": "(Panskie zdanie na ten temat zostanie odnotowane.)"
+                                    },
+                                    {
+                                        "Sentence": "Everyone has a different position on that subject.",
+                                        "Translation": "(Każdy ma inne zdanie na ten temat.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "proposition"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "twierdzenie",
+                                    "zdanie"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "If we do not accept the proposition, the logic falls apart.",
+                                        "Translation": "(Jeżeli nie przyjmiemy tej tezy, cała logika się rozpada.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "sentiment"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "opinia",
+                                    "zdanie (na jakiś temat)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Do you have a sentiment on this topic you would like to share?",
+                                        "Translation": "(Czy masz opinię na ten temat, którą chciałbyś się podzielić?)"
+                                    },
+                                    {
+                                        "Sentence": "I respect your sentiment on this issue, but we need to proceed according to the plan.",
+                                        "Translation": "(Doceniam twoją opinię w tej sprawie, ale musimy postępować zgodnie z planem.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "prequalification"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "uprzednie zaliczenie",
+                                    "zdanie"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "prequalifying"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "uprzednie zaliczenie",
+                                    "zdanie"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "tuppenceworth"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "opinia",
+                                    "zdanie (na jakiś temat)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "zdawać"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pass out"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "zdawać",
+                                    "zaliczać"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pass"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "zdawać (np. egzamin)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I passed my driving test!",
+                                        "Translation": "(Zdałam egzamin na prawo jazdy!)"
+                                    },
+                                    {
+                                        "Sentence": "She passed the descriptive grammar test.",
+                                        "Translation": "(Ona zdała test z gramatyki opisowej.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "zdawać się"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "seem",
+                            "seemeth"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wydawać się",
+                                    "zdawać się",
+                                    "wyglądać na"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "It seems unlikely that he will come.",
+                                        "Translation": "(Wydaje się to mało prawdopodobne, że on przyjdzie.)"
+                                    },
+                                    {
+                                        "Sentence": "You seem sad, what's happened?",
+                                        "Translation": "(Wydajesz się smutny, co się stało?)"
+                                    },
+                                    {
+                                        "Sentence": "He's so weak, he seems sick.",
+                                        "Translation": "(On jest taki słaby, wygląda na chorego.)"
+                                    },
+                                    {
+                                        "Sentence": "She seems to be tired.",
+                                        "Translation": "(Ona zdaje się być zmęczona.)"
+                                    },
+                                    {
+                                        "Sentence": "We seem to have lost the way.",
+                                        "Translation": "(Zdaje się, że się zgubiliśmy.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "look"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wyglądać na",
+                                    "wydawać się",
+                                    "zdawać się"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "She didn't look happy.",
+                                        "Translation": "(Ona nie wyglądała na zadowoloną.)"
+                                    },
+                                    {
+                                        "Sentence": "You look depressed - what's wrong?",
+                                        "Translation": "(Wyglądasz na przygnębionego - co jest nie tak?)"
+                                    },
+                                    {
+                                        "Sentence": "He looked very surprised.",
+                                        "Translation": "(On wyglądał na mocno zaskoczonego.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "sound"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "zdawać się (o kimś, wnioskując z jego głosu, np. zdawać się smutnym)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "You sound very sad.",
+                                        "Translation": "(Brzmisz bardzo smutno.)"
+                                    },
+                                    {
+                                        "Sentence": "She sounded really happy, I think she's in love.",
+                                        "Translation": "(Ona zdawała się bardzo szczęśliwa, myślę, że jest zakochana.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "nie zdać"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "fail"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nie zdać",
+                                    "oblać (np. egzamin)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "We failed all our exams.",
+                                        "Translation": "(Oblaliśmy wszystkie nasze egzaminy.)"
+                                    },
+                                    {
+                                        "Sentence": "I failed my driving test.",
+                                        "Translation": "(Nie zdałam egzaminu na prawo jazdy.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "get a fail"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nie zdać",
+                                    "dostać ocenę niedostateczną"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

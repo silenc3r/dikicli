@@ -1,0 +1,164 @@
+[
+    {
+        "Entry": [
+            "patroszyć"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "gut"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "patroszyć",
+                                    "bebeszyć",
+                                    "wybebeszać"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Those guys with knives will gut you if you say a word.",
+                                        "Translation": "(Ci goście z nożami wypatroszą cię, jeżeli powiesz choć słowo.)"
+                                    },
+                                    {
+                                        "Sentence": "He gutted the fish before cooking it.",
+                                        "Translation": "(On wypatroszył rybę przed jej gotowaniem.)"
+                                    },
+                                    {
+                                        "Sentence": "Can you gut this duck?",
+                                        "Translation": "(Czy możesz wypatroszyć tę kaczkę?)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "embowel"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "field-dress"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "patroszyć (głównie dziczyznę)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "wypatroszyć"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "clean"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wypatroszyć",
+                                    "wyczyścić"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "He cleaned the fish and sold them on the market.",
+                                        "Translation": "(On patroszył ryby i sprzedawał je na targu.)"
+                                    },
+                                    {
+                                        "Sentence": "You have to clean the fish if we want to eat it for dinner.",
+                                        "Translation": "(Musisz wypatroszyć rybę, jeśli chcesz, żebyśmy ją zjedli na obiad.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bowel"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "eviscerate"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "usunąć wnętrzności",
+                                    "wypatroszyć"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "disembowel"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wypatroszyć (dosł. usunąć jelita)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "degut"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "disbowel"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wypatroszyć (dosł. usunąć jelita)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "exenterate"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "usunąć wnętrzności",
+                                    "wypatroszyć"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

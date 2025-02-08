@@ -1,0 +1,72 @@
+[
+    {
+        "Entry": [
+            "oślizgły"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "slimy"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "pokryty śluzem",
+                                    "lepki",
+                                    "szlamowaty",
+                                    "oślizły",
+                                    "oślizgły"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "The sand on the beach was slimy.",
+                                        "Translation": "(Piasek na plaży był szlamowaty.)"
+                                    },
+                                    {
+                                        "Sentence": "I touched the slimy wall in the dark cellar.",
+                                        "Translation": "(Dotknąłem oślizgłej ściany w ciemnej piwnicy.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "clammy"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "lepki",
+                                    "oślizgły",
+                                    "oślizły",
+                                    "obślizgły"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "slithery"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "oślizgły",
+                                    "oślizły",
+                                    "obślizgły"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

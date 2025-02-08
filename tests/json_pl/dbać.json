@@ -1,0 +1,158 @@
+[
+    {
+        "Entry": [
+            "dbać"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "care"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "dbać",
+                                    "utrzymywać w dobrej kondycji"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I'm going to teach you how to care for your shoes.",
+                                        "Translation": "(Nauczę cię jak dbać o swoje buty.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "cherish"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "pielęgnować",
+                                    "dbać",
+                                    "czcić"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "After my mother's death, I cherish all memories of her.",
+                                        "Translation": "(Po śmierci mamy pielęgnuję wszelkie wspomnienia o niej.)"
+                                    }
+                                ]
+                            },
+                            {
+                                "Variant": [
+                                    "pielęgnować",
+                                    "otaczać opieką",
+                                    "troszczyć się",
+                                    "dbać",
+                                    "hołubić"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "My son cherishes his baby sister.",
+                                        "Translation": "(Mój synek troszczy się o swoją młodszą siostrzyczkę.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nurse"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "dbać",
+                                    "zadbać"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Her friends said that she should nurse her body.",
+                                        "Translation": "(Jej koleżanki powiedziały, że ona powinna zadbać o swoje ciało.)"
+                                    },
+                                    {
+                                        "Sentence": "You didn't nurse your plant and it withered.",
+                                        "Translation": "(Nie dbałaś o swoją roślinę i zwiędła.)"
+                                    },
+                                    {
+                                        "Sentence": "The mother had no idea how to nurse a newborn baby.",
+                                        "Translation": "(Matka nie miała pojęcia jak dbać o noworodka.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "nie dbać"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "forget"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "zapominać",
+                                    "nie dbać (np. o starych przyjaciół)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Everyone forgot about the old lady.",
+                                        "Translation": "(Wszyscy zapomnieli o starszej pani.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "not care a fig",
+                            "not give a fig"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nie dbać (o coś)",
+                                    "guzik kogoś obchodzić (o czymś)",
+                                    "nie obchodzić"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I don't give a fig about this.",
+                                        "Translation": "(Guzik mnie to obchodzi.)"
+                                    },
+                                    {
+                                        "Sentence": "She doesn't care a fig about what other people say.",
+                                        "Translation": "(Ona nie dba o to co mówią inni ludzie.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

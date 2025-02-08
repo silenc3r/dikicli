@@ -1,0 +1,79 @@
+[
+    {
+        "Entry": [
+            "wrotki"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "skates"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "roller skates"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "rotifers",
+                            "Rotifera"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "wrotka"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "skate"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "wrotek"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rotifer"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wrotek (rodzaj bezkręgowca)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "Entry": [
+            "adresat"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "recipient"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "adresat (listu)",
+                                    "odbiorca (np. nagrody)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "The recipient was not home, so the letter could not be delivered.",
+                                        "Translation": "(List nie mógł zostać doręczony, gdyż adresata nie było w domu.)"
+                                    },
+                                    {
+                                        "Sentence": "This university was the top recipient of money from the government.",
+                                        "Translation": "(Ten uniwersytet został głównym odbiorcą pieniędzy od rządu.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "addressee"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "adresat (odbiorca listu)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

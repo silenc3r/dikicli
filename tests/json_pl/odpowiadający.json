@@ -1,0 +1,665 @@
+[
+    {
+        "Entry": [
+            "odpowiadający"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "responsive"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "odpowiadający",
+                                    "reagujący"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "The victim of the accident was awake and responsive.",
+                                        "Translation": "(Ofiara wypadku była przytomna i reagująca na bodźce.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "respondent"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "odpowiadający czemuś"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "corresponding",
+                            "corresponding to something"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "odpowiedni",
+                                    "odpowiadający czemuś"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "odpowiadać"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "suit"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "odpowiadać",
+                                    "pasować (komuś)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Will that suit you?",
+                                        "Translation": "(Będzie ci to odpowiadać?)"
+                                    },
+                                    {
+                                        "Sentence": "\"When do you want to meet?\" \"Any time that might suit you.\"",
+                                        "Translation": "(\"Kiedy chcesz się spotkać?\" \"Kiedy tylko będzie ci pasować.\")"
+                                    },
+                                    {
+                                        "Sentence": "That dress suits you.",
+                                        "Translation": "(Ta sukienka ci pasuje.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "reply"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "odpowiadać (np. na to co ktoś napisał lub powiedział)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Asked why, he replied: \"Just for fun\".",
+                                        "Translation": "(Zapytany dlaczego, odpowiedział: \"Po prostu dla zabawy\".)"
+                                    },
+                                    {
+                                        "Sentence": "I haven't replied to his letter yet.",
+                                        "Translation": "(Nie odpowiedziałem jeszcze na jego list.)"
+                                    }
+                                ]
+                            },
+                            {
+                                "Variant": [
+                                    "odpowiadać (podobnym zachowaniem lub gestem)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "respond"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "odpowiadać (np. na wiadomość)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Jack never responds to my emails.",
+                                        "Translation": "(Jack nigdy nie odpowiada na moje e-maile.)"
+                                    },
+                                    {
+                                        "Sentence": "Why didn't you respond to my letters?",
+                                        "Translation": "(Dlaczego nie odpowiadałaś na moje listy?)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "field"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "odpowiadać (na trudne pytania)",
+                                    "odbierać (liczne telefony)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "The President fielded questions on the conflict in Africa.",
+                                        "Translation": "(Prezydent odpowiedział na pytania dotyczące konfliktu w Afryce.)"
+                                    },
+                                    {
+                                        "Sentence": "We field numerous calls from the paparazzi.",
+                                        "Translation": "(Odbieramy liczne telefony od paparazzi.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "answer"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "odpowiadać (na list)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "She wrote me a long letter, I should answer her.",
+                                        "Translation": "(Napisała mi długi list, powinienem jej odpowiedzieć.)"
+                                    },
+                                    {
+                                        "Sentence": "I did intend to answer your letter but I was too busy.",
+                                        "Translation": "(Naprawdę zamierzałem odpowiedzieć na twój list, ale byłem zbyt zajęty.)"
+                                    }
+                                ]
+                            },
+                            {
+                                "Variant": [
+                                    "odpowiadać",
+                                    "reagować",
+                                    "zareagować (na coś)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "He answered his mother in a rude manner.",
+                                        "Translation": "(On odpowiedział swojej matce w niegrzeczny sposób.)"
+                                    },
+                                    {
+                                        "Sentence": "I tried to talk to him, I even poked him but he didn't answer.",
+                                        "Translation": "(Próbowałem z nim porozmawiać, nawet go szturchnąłem, ale on nie zareagował.)"
+                                    },
+                                    {
+                                        "Sentence": "Did you steal his wallet? Answer me!",
+                                        "Translation": "(Czy ukradłeś jego portfel? Odpowiedz mi!)"
+                                    },
+                                    {
+                                        "Sentence": "I asked her about her exams but she didn't answer me.",
+                                        "Translation": "(Zapytałem ją o jej egzaminy, ale mi nie odpowiedziała.)"
+                                    }
+                                ]
+                            },
+                            {
+                                "Variant": [
+                                    "odpowiadać (np. wymaganiom)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "This new app answers all my internet needs.",
+                                        "Translation": "(Ta nowa aplikacja odpowiada wszystkim moim internetowym potrzebom.)"
+                                    },
+                                    {
+                                        "Sentence": "Our new employee seems to answer all of our requirements.",
+                                        "Translation": "(Nasz nowy pracownik zdaje się odpowiadać wszystkim naszym wymaganiom.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "agree"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "pasować (do siebie)",
+                                    "odpowiadać (sobie)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "The red color agrees with you.",
+                                        "Translation": "(Czerwony kolor ci pasuje.)"
+                                    },
+                                    {
+                                        "Sentence": "The red blouse doesn't agree with your red hair.",
+                                        "Translation": "(Ta czerwona bluzka nie pasuje do twoich rudych włosów.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "return"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "odpowiadać (np. na wiadomość, pytanie)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "They did not return my contact request.",
+                                        "Translation": "(Oni nie odpowiedzieli na moją prośbę o kontakt.)"
+                                    },
+                                    {
+                                        "Sentence": "Finally! They have returned my query.",
+                                        "Translation": "(Wreszcie! Odpowiedzieli na moje zapytanie.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "represent"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "odpowiadać",
+                                    "stanowić"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "This number of people doesn't even represent half of our team.",
+                                        "Translation": "(Ta liczba ludzi nie odpowiada nawet połowie naszej drużyny.)"
+                                    },
+                                    {
+                                        "Sentence": "Fat should not represent more than 20% of this cheese.",
+                                        "Translation": "(Tłuszcz nie powinien stanowić więcej niż 20% tego sera.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "correspond"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "odpowiadać",
+                                    "korespondować",
+                                    "pokrywać się (być ekwiwalentnym)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "tally"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "zgadzać się",
+                                    "odpowiadać (sobie)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "His version of events doesn't tally with mine.",
+                                        "Translation": "(Jego wersja wypadków nie zgadza się z moją.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rejoin"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "odpowiadać (na zarzuty)",
+                                    "odeprzeć (krytykę)",
+                                    "odpowiedzieć (błyskotliwie)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "hit back"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nie pozostawać dłużnym",
+                                    "odpowiadać (np. na atak)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "answer back"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "odpierać (krytykę)",
+                                    "odpowiadać (na krytykę)",
+                                    "reagować",
+                                    "zareagować (na krytykę)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "odpowiadać czemuś"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "comply"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "zastosować się",
+                                    "stosować się",
+                                    "odpowiadać czemuś"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "complying"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "zastosować się",
+                                    "stosować się",
+                                    "odpowiadać czemuś"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "answer to something"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "odpowiadać czemuś (np. opisowi)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "be in consonance with something"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "być zgodnym z czymś",
+                                    "odpowiadać czemuś"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "be in line with something"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "odpowiadać czemuś",
+                                    "być zgodnym z czymś"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "run parallel to something"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "odpowiadać czemuś",
+                                    "być ekwiwalentem czegoś"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "be suitable for something"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nadawać się do czegoś",
+                                    "odpowiadać czemuś"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "This candidate is suitable for the job.",
+                                        "Translation": "(Ten kandydat nadaje się do tej pracy.)"
+                                    },
+                                    {
+                                        "Sentence": "This shirt is suitable for the party.",
+                                        "Translation": "(Ta koszula nadaje się na przyjęcie.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "odpowiadać komuś"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "suit somebody's book"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "pasować do czyichś planów",
+                                    "odpowiadać komuś",
+                                    "być komuś na rękę"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Your proposition suits my book, we can do it together.",
+                                        "Translation": "(Twoja propozycja pasuje do moich planów, możemy zrobić to razem.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "be to somebody's liking"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "sit well with somebody"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "odpowiadać komuś",
+                                    "pasować komuś"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "sit right with somebody"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "pasować komuś",
+                                    "odpowiadać komuś"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "odpowiadać sobie"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "match"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "odpowiadać sobie (np. siłą)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Those programs match each other.",
+                                        "Translation": "(Te programy odpowiadają sobie.)"
+                                    },
+                                    {
+                                        "Sentence": "Peter and Jane match perfectly.",
+                                        "Translation": "(Peter i Jane idealnie sobie odpowiadają.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "nie odpowiadający"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "unaccountable"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nie odpowiadający (przed nim)",
+                                    "nie tłumaczący się"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I'm unaccountable to anyone, but myself.",
+                                        "Translation": "(Nie odpowiadam przed nikim oprócz siebie.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "Entry": [
+            "przejściówka"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "adapter"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,120 @@
+[
+    {
+        "Entry": [
+            "pośredni"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "intermediate"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "pośredni (np. forma, etap, krok)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "The intermediate stage will help familiarize the test subjects with their environment.",
+                                        "Translation": "(Etap pośredni pomoże obiektom testowym zaznajomić się z ich otoczeniem.)"
+                                    },
+                                    {
+                                        "Sentence": "This is an intermediate form of our project, as we are still introducing amendments.",
+                                        "Translation": "(To pośrednia forma naszego projektu, gdyż nadal wprowadzamy poprawki.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "indirect"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "pośredni",
+                                    "nie wprost"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "implied"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ukryty",
+                                    "pośredni"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "intervening"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "vicarious"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "zastępczy",
+                                    "delegowany",
+                                    "pośredni"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "roundabout"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "pośredni",
+                                    "okólny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "interjacent"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "pośredni",
+                                    "przegradzający"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "borderline"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,109 @@
+[
+    {
+        "Entry": [
+            "nachalny"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "intrusive"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wścibski",
+                                    "natrętny",
+                                    "nachalny",
+                                    "natarczywy"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "It's none of your business. Don't be intrusive.",
+                                        "Translation": "(To nie twój interes. Nie bądź wścibski.)"
+                                    },
+                                    {
+                                        "Sentence": "She asks too many questions, she's so intrusive.",
+                                        "Translation": "(Ona zadaje zbyt dużo pytań, ona jest taka nachalna.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pushy"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "natrętny",
+                                    "natarczywy",
+                                    "nachalny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "strident"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "natarczywy",
+                                    "nachalny"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I've grown tired of his strident requests.",
+                                        "Translation": "(Męczą mnie jego natarczywe prośby.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "thrusting"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nachalny",
+                                    "agresywny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nonintrusive"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "niebędący wścibski",
+                                    "natrętny",
+                                    "nachalny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "thrustful"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    }
+]

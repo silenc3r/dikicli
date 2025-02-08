@@ -1,0 +1,41 @@
+[
+    {
+        "Entry": [
+            "jodła"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "fir"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "jodła",
+                                    "jedlina"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "The tree they cut down was a fir.",
+                                        "Translation": "(Drzewo, które oni ścięli, było jodłą.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "fir tree",
+                            "Abies"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,267 @@
+[
+    {
+        "Entry": [
+            "przekraczać coś"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "go beyond something"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "przekraczać coś",
+                                    "wykraczać poza coś"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "His behaviour goes beyond any limits.",
+                                        "Translation": "(Jego zachowanie przekracza wszelkie granice.)"
+                                    },
+                                    {
+                                        "Sentence": "This case went beyond my knowledge.",
+                                        "Translation": "(Ta sprawa wykroczyła poza moją wiedzę.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "przekraczać"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "transcend"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "przekraczać",
+                                    "przewyższać",
+                                    "prześcigać"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "This film transcended everyone's expectations.",
+                                        "Translation": "(Ten film przekroczył oczekiwania wszystkich.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "surpass"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "przekraczać (oczekiwania)",
+                                    "przechodzić (wyobrażenie)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "The results surpassed all our expectations.",
+                                        "Translation": "(Wyniki przekroczyły nasze oczekiwania.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "overrun"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "przekroczyć",
+                                    "przekraczać (np. czas, budżet)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "overstep"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "przekraczać",
+                                    "przekroczyć (np. dopuszczalne granice)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "transgress"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "naruszać (przepisy)",
+                                    "przekraczać (uprawnienia)",
+                                    "łamać (prawo)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pass"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "przekraczać (np. jakąś wartość)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Our operating costs passed the acceptable threshold.",
+                                        "Translation": "(Nasze koszty działania przekroczyły akceptowalny próg.)"
+                                    },
+                                    {
+                                        "Sentence": "I didn't buy the car because its total price passed 8000 dollars.",
+                                        "Translation": "(Nie kupiłem tego samochodu, bo jego całkowita cena przekroczyła 8000 dolarów.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "run over"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "przekraczać (np. budżet)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "przekroczyć"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "cross"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "przechodzić",
+                                    "przekroczyć",
+                                    "przeprawić się (np. przez rzekę)",
+                                    "przemierzyć (np. przez pokój, przez ocean)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "The train crosses all of Europe.",
+                                        "Translation": "(Ten pociąg przemierza całą Europę.)"
+                                    },
+                                    {
+                                        "Sentence": "I don't want to cross the river, what if I drown?",
+                                        "Translation": "(Nie chcę przeprawiać się przez tę rzekę, co jeżeli się utopię?)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "exceed"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "przekroczyć",
+                                    "przewyższyć"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "The weight of the letter should not exceed 500 grams.",
+                                        "Translation": "(Waga listu nie powinna przekraczać 500 gramów.)"
+                                    },
+                                    {
+                                        "Sentence": "I am totally convinced that Europe will exceed our expectations.",
+                                        "Translation": "(Jestem całkowicie przekonany, że Europa przekroczy nasze oczekiwania.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "overdraw"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "przekroczyć",
+                                    "przekraczać stan"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "przekroczyć coś"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "stride over"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    }
+]

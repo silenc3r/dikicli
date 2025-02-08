@@ -1,0 +1,43 @@
+[
+    {
+        "Entry": [
+            "nadmiarowy"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "surplus"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nadmiarowy",
+                                    "nadwyżkowy"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "redundant"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nadmiarowy",
+                                    "nadliczbowy"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

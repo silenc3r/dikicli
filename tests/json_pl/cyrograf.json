@@ -1,0 +1,35 @@
+[
+    {
+        "Entry": [
+            "cyrograf"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "chirograph"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "pact with the Devil"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "pakt z diabłem",
+                                    "cyrograf"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

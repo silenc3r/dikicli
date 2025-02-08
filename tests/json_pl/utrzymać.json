@@ -1,0 +1,547 @@
+[
+    {
+        "Entry": [
+            "utrzymać kogoś"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "provide for somebody"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "utrzymać kogoś",
+                                    "zadbać o kogoś"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "If I don't get a better job I won't be able to provide for my family.",
+                                        "Translation": "(Jeśli nie zdobędę lepszej pracy, nie będę w stanie utrzymać swojej rodziny.)"
+                                    },
+                                    {
+                                        "Sentence": "My father provides for us.",
+                                        "Translation": "(Mój ojciec nas utrzymuje.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "utrzymać coś"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "keep something up",
+                            "keep up something"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "utrzymać coś",
+                                    "podtrzymać coś (np. decyzję polityczną)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "utrzymywać"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "claim"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "twierdzić",
+                                    "utrzymywać"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "He claimed he wasn't there the previous night.",
+                                        "Translation": "(On utrzymywał, że nie było go tam zeszłej nocy.)"
+                                    },
+                                    {
+                                        "Sentence": "She claims that she has been there twice, but I don't believe her.",
+                                        "Translation": "(Ona twierdzi, że była tam dwa razy, ale nie wierzę jej.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "maintain"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "utrzymywać",
+                                    "konserwować",
+                                    "podtrzymywać",
+                                    "zachowywać na tym samym poziomie"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "You must maintain a steady temperature to bake this cake properly.",
+                                        "Translation": "(Należy utrzymać stałą temperaturę, żeby poprawnie upiec to ciasto.)"
+                                    },
+                                    {
+                                        "Sentence": "Honey, we have to maintain our lifestyle.",
+                                        "Translation": "(Kochanie, musimy zachowywać nasz styl życia na tym samym poziomie.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "support"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "sustain"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "podtrzymywać (rozmowę, zainteresowanie)",
+                                    "utrzymywać (np. dobrą jakość)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I tried to sustain the conversation, but he was just too boring.",
+                                        "Translation": "(Próbowałem podtrzymać rozmowę, ale on był po prostu zbyt nudny.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "assert"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "twierdzić (coś)",
+                                    "zapewniać (o czymś)",
+                                    "utrzymywać (coś)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "He asserted that no one will get a passing grade without submitting an essay.",
+                                        "Translation": "(On zapewnił, że nikt nie dostanie pozytywnej oceny bez przedłożenia eseju.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "argue"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "dowodzić (czegoś)",
+                                    "utrzymywać"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "This scientist argues that the theory of evolution is false.",
+                                        "Translation": "(Ten naukowiec utrzymuje, że teoria ewolucji jest fałszywa.)"
+                                    },
+                                    {
+                                        "Sentence": "This man argues he has seen Jesus.",
+                                        "Translation": "(Ten mężczyzna utrzymuje, iż widział Pana Jezusa.)"
+                                    },
+                                    {
+                                        "Sentence": "She's arguing that buying a new car is a waste of money.",
+                                        "Translation": "(Ona dowodzi, że kupienie nowego samochodu jest stratą pieniędzy.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "defend"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "utrzymywać (np. tytuł mistrzowski)",
+                                    "podtrzymywać (stanowisko w jakiejś sprawie)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "He defended his title this year, too.",
+                                        "Translation": "(On obronił swój tytuł również w tym roku.)"
+                                    },
+                                    {
+                                        "Sentence": "She defended her stance on abortion in the latest interview.",
+                                        "Translation": "(Ona podtrzymała swoje stanowisko w sprawie aborcji w ostatnim wywiadzie.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "contend"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "twierdzić",
+                                    "utrzymywać (np. pogląd, swoje zdanie)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Members of his family contend that he died from a heart attack.",
+                                        "Translation": "(Członkowie jego rodziny utrzymują, że zmarł na zawał serca.)"
+                                    },
+                                    {
+                                        "Sentence": "He contends that the Earth is flat.",
+                                        "Translation": "(On utrzymuje, iż Ziemia jest płaska.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "hold that"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "utrzymywać",
+                                    "że"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "keep"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "utrzymywać (kogoś jakąś sumą pieniędzy, np. rodzinę)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "You won't be able to keep the family on just one salary.",
+                                        "Translation": "(Nie będziesz w stanie utrzymać rodziny z tylko jednej wypłaty.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "allege"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "powoływać",
+                                    "przytaczać",
+                                    "twierdzić",
+                                    "utrzymywać (np. że coś nielegalnego miało miejsce)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "affirm"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "twierdzić",
+                                    "utrzymywać"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "profess"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "utrzymywać",
+                                    "twierdzić",
+                                    "zapewniać (zwykle fałszywie)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "purport"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "podawać się (za kogoś innego)",
+                                    "utrzymywać",
+                                    "twierdzić"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "hold"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "mieć (np. opinię)",
+                                    "utrzymywać",
+                                    "twierdzić"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "He holds an opinion different from mine.",
+                                        "Translation": "(On ma inną opinię niż ja.)"
+                                    },
+                                    {
+                                        "Sentence": "A glass of red wine is held to be good for the health.",
+                                        "Translation": "(Istnieje opinia, że lampka czerwonego wina jest dobra dla zdrowia.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "keep something going"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "utrzymywać",
+                                    "kontynuować coś"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "escot"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "podtrzymywać",
+                                    "utrzymywać"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "utrzymywać kogoś"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sustain somebody"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "utrzymywać kogoś",
+                                    "zapewniać komuś utrzymanie"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "utrzymywać się"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "continue"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "trwać",
+                                    "utrzymywać się",
+                                    "kontynuować"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "This cannot continue much longer.",
+                                        "Translation": "(To nie może trwać dłużej.)"
+                                    },
+                                    {
+                                        "Sentence": "You should continue dancing - you're really talented!",
+                                        "Translation": "(Powinieneś kontynuować tańczenie - jesteś naprawdę utalentowany!)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "manage"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "radzić sobie",
+                                    "utrzymywać się"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Mom, I can manage on my own.",
+                                        "Translation": "(Mamo, mogę się sam utrzymać.)"
+                                    },
+                                    {
+                                        "Sentence": "How do you manage in the big city?",
+                                        "Translation": "(Jak sobie radzisz w wielkim mieście?)"
+                                    },
+                                    {
+                                        "Sentence": "I can manage on my own.",
+                                        "Translation": "(Dam sobie radę sam.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "persist"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "utrzymywać się",
+                                    "nie ustępować (np. ból)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "If the pain persists, call the nurse.",
+                                        "Translation": "(Jeżeli ból nie ustąpi, proszę zawołać pielęgniarkę.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "linger",
+                            "linger on"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "trwać",
+                                    "utrzymywać się (np. o zapachu, smaku)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "make a living by doing something"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "utrzymywać się (z czegoś)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "persister"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "utrzymywać się",
+                                    "nie ustępować (np. o bólu)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "sustain oneself"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    }
+]

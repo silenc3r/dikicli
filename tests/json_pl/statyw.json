@@ -1,0 +1,84 @@
+[
+    {
+        "Entry": [
+            "statyw"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "arm"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "statyw (mikroskopu)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I need to adjust the arm of the microscope.",
+                                        "Translation": "(Muszę ustawić statyw mikroskopu.)"
+                                    },
+                                    {
+                                        "Sentence": "If you want to have a better look, bring the arm closer to yourself.",
+                                        "Translation": "(Jeżeli chcesz lepiej zobaczyć, przysuń do siebie statyw.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "tripod",
+                            "tripod stand"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "statyw",
+                                    "trójnóg"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "They put the machine gun on a tripod to increase stability.",
+                                        "Translation": "(Oni zamontowali karabin maszynowy na trójnogu zeby poprawić stabilność.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "support stand"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "statyw (sprzęt laboratoryjny)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "trivet",
+                            "trevet"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "statyw (np. do aparatu)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

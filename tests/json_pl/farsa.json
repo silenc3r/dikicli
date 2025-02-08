@@ -1,0 +1,48 @@
+[
+    {
+        "Entry": [
+            "farsa"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "farce"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "farsa (sytuacja)"
+                                ],
+                                "ExampleSentences": []
+                            },
+                            {
+                                "Variant": [
+                                    "farsa (humorystyczne dzieło teatralne lub filmowe)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pantomime"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "farsa",
+                                    "głupie zachowanie"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

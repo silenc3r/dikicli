@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "kichać"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sneeze",
+                            "neeze"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    }
+]

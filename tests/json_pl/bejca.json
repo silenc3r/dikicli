@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "bejca"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wood stain"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "bejca (impregnat do barwienia drewna)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "Entry": [
+            "harmonijny"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "harmonious"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "harmonijny",
+                                    "zgodny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "harmonic"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "harmonijny",
+                                    "harmoniczny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "concordant"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "zgodny",
+                                    "harmonijny",
+                                    "dostosowany"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "symphonious"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "harmonijny",
+                                    "zgodny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "concinnous"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "harmonijny",
+                                    "zgodny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "companionate"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "harmonijny",
+                                    "zgodny",
+                                    "zgrany"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

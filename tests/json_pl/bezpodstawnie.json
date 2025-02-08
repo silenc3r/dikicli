@@ -1,0 +1,132 @@
+[
+    {
+        "Entry": [
+            "bezpodstawnie"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "falsely"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "niesłusznie",
+                                    "bezpodstawnie"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "You falsely believe what he tells you.",
+                                        "Translation": "(Niesłusznie wierzysz w to, co on ci mówi.)"
+                                    },
+                                    {
+                                        "Sentence": "They falsely imprisoned him.",
+                                        "Translation": "(Oni bezpodstawnie go uwięzili.)"
+                                    },
+                                    {
+                                        "Sentence": "She falsely assumed that I work for them.",
+                                        "Translation": "(Ona niesłusznie założyła, że ja dla nich pracuję.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "without merit"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "bezpodstawnie",
+                                    "bezzasadnie"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "baselessly"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "unjustifiably"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "niesłusznie",
+                                    "bezpodstawnie"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "illegitimately"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "bezpodstawnie",
+                                    "bezzasadnie"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "fawningly"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "niesłusznie",
+                                    "bezpodstawnie"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "without just case"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "for shiggles"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "bez powodu",
+                                    "bezpodstawnie",
+                                    "bez przyczyny",
+                                    "dla jaj",
+                                    "dla zgrywu"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

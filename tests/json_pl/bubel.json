@@ -1,0 +1,117 @@
+[
+    {
+        "Entry": [
+            "bubel"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "lemon"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "coś niskiej jakości",
+                                    "coś niezadowalającego",
+                                    "knot",
+                                    "bubel"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dud"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "bubel",
+                                    "niewypał"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "reject"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wybrakowany (produkt)",
+                                    "odrzucony (towar)",
+                                    "bubel"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "shit"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "tandeta",
+                                    "bubel",
+                                    "badziewie"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "My designer purse is shit.",
+                                        "Translation": "(Moja torebka od projektanta to badziewie.)"
+                                    },
+                                    {
+                                        "Sentence": "Are you trying to sell me this shit?",
+                                        "Translation": "(Próbujesz sprzedać mi tę tandetę?)"
+                                    },
+                                    {
+                                        "Sentence": "What's this shit? I don't want it!",
+                                        "Translation": "(Co to za badziewie? Nie chcę tego!)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "clinker"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "tandeta",
+                                    "bubel"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "selling-plater"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "lipa",
+                                    "bubel",
+                                    "nędza"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

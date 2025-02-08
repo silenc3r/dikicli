@@ -1,0 +1,48 @@
+[
+    {
+        "Entry": [
+            "kamerton"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "tuning fork"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "kamerton (widełki stroikowe używane do strojenia instrumentów)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "concert pitch"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "diapason"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "diapazon",
+                                    "kamerton (przyrząd do strojenia instrumentów)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

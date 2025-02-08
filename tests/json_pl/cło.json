@@ -1,0 +1,92 @@
+[
+    {
+        "Entry": [
+            "cło"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "duty"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "opłata celna",
+                                    "cło"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Don't buy anything, we'll have to pay the duty.",
+                                        "Translation": "(Nic nie kupuj, będziemy musieli zapłacić cło.)"
+                                    },
+                                    {
+                                        "Sentence": "The duty in this country is very high.",
+                                        "Translation": "(Cło w tym kraju jest bardzo wysokie.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "tariff",
+                            "customs tariff"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "cło",
+                                    "taryfa (celna)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "He had to pay the tariff every time he drove this road.",
+                                        "Translation": "(On musiał płacić cło za każdym razem, kiedy jechał tą drogą.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "customs"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "cło",
+                                    "opłata celna"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "custom duty"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "cło",
+                                    "opłata celna"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "custom-house duty"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    }
+]

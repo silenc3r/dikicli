@@ -1,0 +1,591 @@
+[
+    {
+        "Entry": [
+            "złośliwy"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mean"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "złośliwy",
+                                    "wredny",
+                                    "podły"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Don't be so mean.",
+                                        "Translation": "(Nie bądź taki złośliwy.)"
+                                    },
+                                    {
+                                        "Sentence": "It was mean of you to eat the whole cake.",
+                                        "Translation": "(To było złośliwe z twojej strony, że zjadłeś całe ciasto.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nasty"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nieprzyjemny",
+                                    "złośliwy",
+                                    "niemiły (o osobie)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "When he was asked to leave he got nasty.",
+                                        "Translation": "(Kiedy poproszono go o wyjście, zaczął być nieprzyjemny.)"
+                                    },
+                                    {
+                                        "Sentence": "She's nasty. She yells at people and offends everyone.",
+                                        "Translation": "(Ona jest nieprzyjemna. Ona krzyczy na ludzi i obraża wszystkich.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "vicious"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "podły",
+                                    "złośliwy",
+                                    "nikczemny"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Their words were so vicious that she cried.",
+                                        "Translation": "(Ich słowa były tak złośliwe, że się popłakała.)"
+                                    },
+                                    {
+                                        "Sentence": "These vicious rumours aren't true!",
+                                        "Translation": "(Te podłe plotki nie są prawdziwe!)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "malicious"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "złośliwy",
+                                    "podły"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Your malicious remark wounded me deeply.",
+                                        "Translation": "(Twoja złośliwa uwaga głęboko mnie zraniła.)"
+                                    },
+                                    {
+                                        "Sentence": "How can you be so malicious to me?",
+                                        "Translation": "(Jak możesz być dla mnie taki podły?)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "malevolent"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "złośliwy",
+                                    "nieżyczliwy",
+                                    "wrogi",
+                                    "wrogo nastawiony"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "He was a malevolent juvenile delinquent.",
+                                        "Translation": "(On był złośliwym młodocianym przestępcą.)"
+                                    },
+                                    {
+                                        "Sentence": "I felt a malevolent stare at me.",
+                                        "Translation": "(Poczułam na sobie wrogie spojrzenie.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "mischievous"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "malignant"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "złośliwy",
+                                    "zły",
+                                    "pełen złej woli",
+                                    "wrogi"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "virulent"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "zjadliwy",
+                                    "złośliwy"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wanton"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nieokiełznany",
+                                    "złośliwy",
+                                    "grymaśny"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Your child is wanton. I won't tolerate his behaviour.",
+                                        "Translation": "(Twoje dziecko jest złośliwe. Nie będę tolerował jego zachowania.)"
+                                    },
+                                    {
+                                        "Sentence": "I think that his aspirations are wanton.",
+                                        "Translation": "(Myślę, że jego zapędy są nieokiełznane.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "venomous"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "złośliwy",
+                                    "pełen złości"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "caustic"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "złośliwy",
+                                    "uszczypliwy"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "prickly",
+                            "pricky"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "kąśliwy",
+                                    "złośliwy (o człowieku)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "spiteful"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "złośliwy",
+                                    "dokuczliwy (o osobie)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "snide"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "złośliwy (o uwadze)",
+                                    "uszczypliwy (komentarz)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "malign"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "szkodliwy",
+                                    "zgubny",
+                                    "złośliwy"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Foreign domination had a malign influence on local politics.",
+                                        "Translation": "(Zagraniczna dominacja miała zgubny wpływ na lokalną politykę.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "snarky"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "złośliwy",
+                                    "wredny (np. komentarz, uwaga)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "catty",
+                            "cattish"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "uszczypliwy",
+                                    "złośliwy"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bitchy"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "jędzowaty",
+                                    "złośliwy",
+                                    "wredny"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "You can be really bitchy!",
+                                        "Translation": "(Potrafisz być naprawdę złośliwy!)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "sharp-tongued"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "złośliwy",
+                                    "zgryźliwy"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "jeering"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "szyderczy",
+                                    "złośliwy"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "evil-minded"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "złośliwy",
+                                    "perfidny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ill-natured"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "złośliwy",
+                                    "nieprzyjemny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "mean-looking"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "złośliwy",
+                                    "wredny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wenchy",
+                            "whenchy"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "złośliwy",
+                                    "jędzowaty"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bloody-minded"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "perfidny",
+                                    "złośliwy"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "cattie"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "uszczypliwy",
+                                    "złośliwy"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "maleficent"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "szkodliwy",
+                                    "złośliwy"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "prankish"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "pliskie",
+                            "plisky"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "picayunish"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "dauby"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "podły",
+                                    "złośliwy",
+                                    "nikczemny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "despiteful",
+                            "despiteous"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "teenful"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "uciążliwy",
+                                    "szkodliwy",
+                                    "złośliwy"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "narky"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "zgryźliwy",
+                                    "złośliwy",
+                                    "cięty"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wantoner"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "osoba zachowująca się w sposób nieokiełznany",
+                                    "złośliwy",
+                                    "grymaśny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wantoning"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "zachowywanie się w sposób nieokiełznany",
+                                    "złośliwy",
+                                    "grymaśny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "sardoniczny",
+            "szyderczy",
+            "ironiczny",
+            "drwiący",
+            "pogardliwy"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sardonic"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    }
+]

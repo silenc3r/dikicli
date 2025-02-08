@@ -1,0 +1,81 @@
+[
+    {
+        "Entry": [
+            "spójny"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "consistent"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "jednolity",
+                                    "spójny",
+                                    "konsekwentny",
+                                    "logiczny",
+                                    "stały",
+                                    "zgodny"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "To be a good teacher, you have to be consistent.",
+                                        "Translation": "(Aby być dobrym nauczycielem, musisz być konsekwentny.)"
+                                    },
+                                    {
+                                        "Sentence": "Your dissertation was not consistent.",
+                                        "Translation": "(Twoja praca pisemna nie była spójna.)"
+                                    },
+                                    {
+                                        "Sentence": "We need to be determined and consistent.",
+                                        "Translation": "(Musimy być zdecydowani i zgodni.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "coherent"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "logiczny",
+                                    "spójny",
+                                    "koherentny (np. plan, argumentacja)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "cohesive"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "zwarty",
+                                    "spójny (np. grupa)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "connected"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    }
+]

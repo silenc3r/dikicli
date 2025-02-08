@@ -1,0 +1,72 @@
+[
+    {
+        "Entry": [
+            "ognisko"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "campfire",
+                            "bonfire",
+                            "bommie"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "fireplace",
+                            "fp",
+                            "fpl"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ognisko",
+                                    "palenisko (miejsce przeznaczone do rozpalania ognia)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "focal point"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "punkt centralny",
+                                    "ognisko"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Knowledge is the focal point and driver of any model of competition.",
+                                        "Translation": "(Wiedza jest ogniskową i siłą napędową każdego modelu konkurencyjności.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "balefire"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ognisko",
+                                    "stos pogrzebowy"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

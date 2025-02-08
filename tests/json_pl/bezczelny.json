@@ -1,0 +1,476 @@
+[
+    {
+        "Entry": [
+            "bezczelny"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "arrogant"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "arogancki",
+                                    "bezczelny"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "But you are the most arrogant person I've ever met.",
+                                        "Translation": "(Ale jesteś najbardziej arogancką osobą jaką znam.)"
+                                    },
+                                    {
+                                        "Sentence": "I cannot think of anything more arrogant than that.",
+                                        "Translation": "(Nie przychodzi mi do głowy nic bardziej aroganckiego, niż to.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bold"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "zuchwały",
+                                    "bezczelny (np. uwaga)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "She ignored his bold remark.",
+                                        "Translation": "(Ona zignorowała jego bezczelny komentarz.)"
+                                    },
+                                    {
+                                        "Sentence": "It was a bold question.",
+                                        "Translation": "(To było bezczelne pytanie.)"
+                                    },
+                                    {
+                                        "Sentence": "Your bold behaviour is inappropriate right now.",
+                                        "Translation": "(Twoje zuchwałe zachowanie jest teraz nieodpowiednie.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "forward"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "bezczelny",
+                                    "zbyt pewny siebie"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Nobody likes you because you're too forward.",
+                                        "Translation": "(Nikt cię nie lubi, bo jesteś zbyt pewny siebie.)"
+                                    },
+                                    {
+                                        "Sentence": "She is forward but I like her anyway.",
+                                        "Translation": "(Ona jest bezczelna, ale i tak ją lubię.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "blatant"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "bezczelny",
+                                    "jawny",
+                                    "rażący",
+                                    "dobitny",
+                                    "ewidentny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "brash"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "arogancki",
+                                    "bezczelny (np. osoba, sposób zachowania)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "brazen"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "bezczelny",
+                                    "bezwstydny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "egregious"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "bezczelny",
+                                    "wierutny (np. kłamstwo)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "shameless"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "bezczelny",
+                                    "bezwstydny (o osobie)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "audacious"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "bezczelny (np. uwaga, zachowanie)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "presumptuous"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "arogancki",
+                                    "zarozumiały",
+                                    "bezczelny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pushy"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "bezczelny",
+                                    "arogancki"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Pushy salesmen really get on my nerves.",
+                                        "Translation": "(Bezczelni sprzedawcy naprawdę działają mi na nerwy.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "brassy"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wyzywający",
+                                    "arogancki",
+                                    "bezczelny (np. o wyglądzie, zachowaniu, szczególnie w odniesieniu do kobiety)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "cheeky"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "bezczelny",
+                                    "impertynencki (o osobie)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "insolent"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "bezczelny",
+                                    "rozzuchwalony"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "impertinent"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "bezczelny",
+                                    "impertynencki",
+                                    "niegrzeczny (o osobie)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "immodest"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "bezczelny",
+                                    "nieprzyzwoity",
+                                    "nieskromny",
+                                    "bezwstydny (np. o ubraniu, zachowaniu)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "impudent"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "bezczelny",
+                                    "zuchwały (np. o dziecku, o języku, o zachowaniu)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "fresh"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "bezczelny",
+                                    "pozwalający sobie na zbyt dużo"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "He was being fresh, so I grounded him.",
+                                        "Translation": "(On był bezczelny, więc dałem mu szlaban.)"
+                                    },
+                                    {
+                                        "Sentence": "She's so fresh! I have to speak to her mother.",
+                                        "Translation": "(Ona jest taka bezczelna! Muszę pomówić z jej mamą.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "barefaced"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "brazen-faced"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "bezczelny",
+                                    "bezwstydny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "perkish"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "bezczelny",
+                                    "zuchwały"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "unblushing"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "bezwstydny",
+                                    "bezczelny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "brassbound"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "lippy"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "pyskaty",
+                                    "bezczelny"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I can't believe his daughter is so rude and lippy!",
+                                        "Translation": "(Nie mogę uwierzyć, że jego córka jest taka niegrzeczna i pyskata!)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "brass-necked"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "paughty"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "śmiały",
+                                    "bezczelny",
+                                    "zuchwały"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "malapert"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "śmiały",
+                                    "bezczelny",
+                                    "zuchwały"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pissy"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nadęty",
+                                    "bezczelny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "caddish"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "frontless"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "bezczelny",
+                                    "bezwstydny (o osobie)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "facey"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "bezczelny",
+                                    "impertynencki"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

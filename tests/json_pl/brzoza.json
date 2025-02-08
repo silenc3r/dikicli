@@ -1,0 +1,41 @@
+[
+    {
+        "Entry": [
+            "brzoza"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "birch"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "birch wood"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "drewno brzozowe",
+                                    "brzoza"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "birk"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    }
+]

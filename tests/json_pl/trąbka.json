@@ -1,0 +1,60 @@
+[
+    {
+        "Entry": [
+            "trąbka"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "trumpet",
+                            "trump"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "clarion"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "bugle"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "proboscis"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "trąbka (u owada)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "buglet"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "trąbka (przy rowerze)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

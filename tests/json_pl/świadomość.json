@@ -1,0 +1,109 @@
+[
+    {
+        "Entry": [
+            "świadomość"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "awareness"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "świadomość",
+                                    "wiedza",
+                                    "znajomość"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "He's a young driver and he lacks the awareness of potential danger on the road.",
+                                        "Translation": "(On jest młodym kierowcą i brakuje mu świadomości potencjalnego zagrożenia na drodze.)"
+                                    },
+                                    {
+                                        "Sentence": "This campaign's aim is to raise public awareness of the dangers of the Internet.",
+                                        "Translation": "(Celem tej kampanii jest podniesienie publicznej świadomości na temat zagrożeń Internetu.)"
+                                    },
+                                    {
+                                        "Sentence": "Even in these difficult times, we are calling for social awareness.",
+                                        "Translation": "(Nawet w tych trudnych czasach wzywamy do świadomości społecznej.)"
+                                    }
+                                ]
+                            },
+                            {
+                                "Variant": [
+                                    "świadomość",
+                                    "zdolność postrzegania"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "His awareness was impaired after the accident.",
+                                        "Translation": "(Jego świadomość została uszkodzona po wypadku.)"
+                                    },
+                                    {
+                                        "Sentence": "Studies show it doesn't make any difference in patient awareness.",
+                                        "Translation": "(Badania nie wykazały żadnych różnic w zdolności postrzegania pacjentów.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "consciousness"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "przytomność",
+                                    "świadomość"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "When I recovered consciousness I was lying on the floor.",
+                                        "Translation": "(Kiedy odzyskałem świadomość, leżałem na podłodze.)"
+                                    },
+                                    {
+                                        "Sentence": "She's lost consciousness.",
+                                        "Translation": "(Ona straciła przytomność.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "conscience"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "perceptorium"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "sensibleness"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "świadomość",
+                                    "dorzeczność",
+                                    "mądrość"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

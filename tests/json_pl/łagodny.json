@@ -1,0 +1,542 @@
+[
+    {
+        "Entry": [
+            "łagodny"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "gentle"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "delikatny",
+                                    "łagodny",
+                                    "subtelny"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "You have to be gentle.",
+                                        "Translation": "(Musisz być delikatny.)"
+                                    },
+                                    {
+                                        "Sentence": "Her voice became gentle.",
+                                        "Translation": "(Jej głos złagodniał.)"
+                                    }
+                                ]
+                            },
+                            {
+                                "Variant": [
+                                    "spokojny",
+                                    "łagodny"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Our dog is really gentle.",
+                                        "Translation": "(Nasz pies jest naprawdę łagodny.)"
+                                    },
+                                    {
+                                        "Sentence": "I love listening to her, her voice is so gentle.",
+                                        "Translation": "(Uwielbiam jej słuchać, jej głos jest taki delikatny.)"
+                                    }
+                                ]
+                            },
+                            {
+                                "Variant": [
+                                    "łagodny (nie stromy, np. stok)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "This hillside is very gentle, you will learn how to ski here.",
+                                        "Translation": "(Ten stok jest bardzo łagodny, nauczysz się tutaj jeździć na nartach.)"
+                                    },
+                                    {
+                                        "Sentence": "He skied down a gentle slope.",
+                                        "Translation": "(On zjechał na nartach po łagodnym stoku.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "mild"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "łagodny (np. pogoda)",
+                                    "umiarkowany (np. klimat)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "The winter was very mild this year.",
+                                        "Translation": "(W tym roku zima była bardzo łagodna.)"
+                                    }
+                                ]
+                            },
+                            {
+                                "Variant": [
+                                    "łagodny",
+                                    "delikatny (np. o smaku, zapachu, detergencie)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I like this mild taste of lemon in your cake.",
+                                        "Translation": "(Podoba mi się ten delikatny smak cytryny w twoim cieście.)"
+                                    },
+                                    {
+                                        "Sentence": "Italian coffee has a mild flavour.",
+                                        "Translation": "(Włoska kawa ma łagodny smak.)"
+                                    }
+                                ]
+                            },
+                            {
+                                "Variant": [
+                                    "miły",
+                                    "łagodny",
+                                    "spokojny"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "He's always so mild, that's why I like him.",
+                                        "Translation": "(Zawsze jest taki miły, to dlatego go lubię.)"
+                                    }
+                                ]
+                            },
+                            {
+                                "Variant": [
+                                    "łagodny (niepoważny, o chorobie)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "It was nothing serious, just a mild form of flu.",
+                                        "Translation": "(To nie było nic poważnego, tylko łagodna postać grypy.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "light",
+                            "licht"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "delikatny",
+                                    "łagodny"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "This meat has a very light taste.",
+                                        "Translation": "(To mięso ma bardzo delikatny smak.)"
+                                    },
+                                    {
+                                        "Sentence": "I like that light smell of your perfume.",
+                                        "Translation": "(Lubię delikatny zapach twoich perfum.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "benign"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "łagodny (np. klimat, wyrażenie, gest)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "benign"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "łagodny",
+                                    "niezłośliwy"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "gradual"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "stopniowy (np. postęp)",
+                                    "łagodny (np. stok)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "subdued"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "łagodny",
+                                    "słaby"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "placid"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "łagodny",
+                                    "spokojny",
+                                    "pogodny (np. o dziecku)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "mellow"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "łagodny (smak, ton, charakter)",
+                                    "aksamitny",
+                                    "miły w dotyku (materiał)",
+                                    "stonowany (kolor)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "serene"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "łagodny",
+                                    "spokojny (o osobie)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Your daughter is so serene!",
+                                        "Translation": "(Twoja córka jest taka spokojna!)"
+                                    },
+                                    {
+                                        "Sentence": "I think that such a serene person cannot be dangerous.",
+                                        "Translation": "(Myślę, że taka łagodna osoba nie może być niebezpieczna.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "meek"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "łagodny",
+                                    "potulny",
+                                    "skromny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "soft"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "łagodny",
+                                    "delikatny (np. zasady, podejście)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Your attitude is too soft, they won't respect you.",
+                                        "Translation": "(Twoje podejście jest zbyt łagodne, oni nie będą cię szanować.)"
+                                    },
+                                    {
+                                        "Sentence": "You are too soft to our children.",
+                                        "Translation": "(Jesteś zbyt łagodny dla naszych dzieci.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "good-natured"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "dobroduszny",
+                                    "pogodny",
+                                    "łagodny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "lenient"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "pobłażliwy",
+                                    "łagodny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "genial"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "sympatyczny",
+                                    "miły",
+                                    "łagodny (np. o osobie, o uśmiechu)"
+                                ],
+                                "ExampleSentences": []
+                            },
+                            {
+                                "Variant": [
+                                    "łagodny (np. o promieniach słonecznych, o klimacie)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "flowing"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "łagodny",
+                                    "rytmiczny (o muzyce, melodii)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "suave"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "łagodny (o muzyce)",
+                                    "umiarkowany (o klimacie)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "free-flowing"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "swobodny",
+                                    "łagodny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "clement"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "łagodny",
+                                    "przyjemny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "sweet-tempered",
+                            "sweet-natured"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "good-tempered"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "łagodny",
+                                    "przyjacielski",
+                                    "miły"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "non-malignant",
+                            "nonmalignant"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "amabile"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "łagodny",
+                                    "spokojny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "equable"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "umiarkowany",
+                                    "łagodny",
+                                    "leżący w strefie umiarkowanej",
+                                    "stały (np. klimat, warunki)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "grazioso"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "pełen wdzięku",
+                                    "łagodny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "alleviative"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "kojący",
+                                    "uśmierzajcy",
+                                    "łagodny (ból)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dove-eyed"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "łagodny",
+                                    "niewinny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "sooth"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "kojący",
+                                    "łagodny",
+                                    "uspokajający"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "Mr. Nice Guy"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "łagodny",
+                                    "miły człowiek"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "Entry": [
+            "wpis"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "registration"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "rejestracja",
+                                    "zgłoszenie",
+                                    "wpis"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "The registration process takes two weeks.",
+                                        "Translation": "(Proces rejestracji trwa dwa tygodnie.)"
+                                    },
+                                    {
+                                        "Sentence": "Pick up the registration form at the reception desk.",
+                                        "Translation": "(Odbierz formularz rejestracyjny w recepcji.)"
+                                    },
+                                    {
+                                        "Sentence": "Fill out an application to cancel your registration.",
+                                        "Translation": "(Wypełnij aplikację, żeby anulować swoje zgłoszenie.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "entry"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wpis (np. w pamiętniku, w rejestrze)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "There was no entry about him in the police records.",
+                                        "Translation": "(W notowaniach policji nie było żadnego wpisu o nim.)"
+                                    },
+                                    {
+                                        "Sentence": "This is the last entry in my diary.",
+                                        "Translation": "(To jest ostatni wpis w moim pamiętniku.)"
+                                    },
+                                    {
+                                        "Sentence": "Keeping track of accounting entries enables conducting financial analysis.",
+                                        "Translation": "(Bycie na bieżąco z zapisami księgowymi umożliwia przeprowadzenie analizy finansowej.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "teacher signature",
+                            "teacher's signature"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wpis (w indeksie)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

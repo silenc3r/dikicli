@@ -1,0 +1,80 @@
+[
+    {
+        "Entry": [
+            "szczątkowy"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "residual"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "szczątkowy",
+                                    "resztkowy"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rudimentary"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "elementarny",
+                                    "podstawowy",
+                                    "zasadniczy",
+                                    "szczątkowy",
+                                    "pierwotny",
+                                    "prymitywny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "vestigial"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "szczątkowy (organ)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "prefiks",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "olig-",
+                            "oligo-"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "mały",
+                                    "szczątkowy"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

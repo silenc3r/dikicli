@@ -1,0 +1,123 @@
+[
+    {
+        "Entry": [
+            "globus"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "globe"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "bean"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "pała",
+                                    "makówka",
+                                    "łepetyna",
+                                    "łeb",
+                                    "czerep",
+                                    "globus (głowa)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Your stupid bean won't understand that.",
+                                        "Translation": "(Twój głupi łeb tego nie pojmie.)"
+                                    },
+                                    {
+                                        "Sentence": "I'll hit your bean if you don't shut up.",
+                                        "Translation": "(Uderzę cię w makówkę, jeśli się nie zamkniesz.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "noggin"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "czacha",
+                                    "globus (o głowie)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "block"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "łepetyna",
+                                    "łeb",
+                                    "czaszka",
+                                    "globus (głowa)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "He has a big block.",
+                                        "Translation": "(On ma wielką łepetynę.)"
+                                    },
+                                    {
+                                        "Sentence": "Is your block empty?",
+                                        "Translation": "(Czy twoja łepetyna jest pusta?)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "artificial globe"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "globus pharyngis",
+                            "globus sensation"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "globus",
+                                    "gałka (uczucie ściskania w gardle lub obecności ciała obcego)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "noddle"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "łeb",
+                                    "globus",
+                                    "głowa"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

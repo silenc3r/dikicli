@@ -1,0 +1,38 @@
+[
+    {
+        "Entry": [
+            "raczkować"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "crawl"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "raczkować (o dziecku)",
+                                    "czworakować"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Her son started to crawl.",
+                                        "Translation": "(Jej syn zaczął raczkować.)"
+                                    },
+                                    {
+                                        "Sentence": "Look, our son is crawling!",
+                                        "Translation": "(Spójrz, nasz syn raczkuje!)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,159 @@
+[
+    {
+        "Entry": [
+            "otulić"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mantle"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "otulić",
+                                    "okryć"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "otulać"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "tuck"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "otulać (np. kocem)",
+                                    "układać do snu"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "She tucked the baby in.",
+                                        "Translation": "(Ona ułożyła dziecko do snu.)"
+                                    },
+                                    {
+                                        "Sentence": "My wife fell asleep so I tucked her with a blanket.",
+                                        "Translation": "(Moja żona zasnęła, więc otuliłem ją kocem.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "swathe"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "osnuć",
+                                    "spowijać",
+                                    "otulać"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "The moon was swathed in dark clouds.",
+                                        "Translation": "(Księżyc był osnuty ciemnymi chmurami.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "tuck in"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "okutać",
+                                    "otulać (kołdrą do snu)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "otulać czymś"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "envelope in something"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "owijać czymś",
+                                    "otulać czymś",
+                                    "pokrywać czymś"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "otulać coś"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "tuck something up"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "otulać coś",
+                                    "podkasywać coś"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

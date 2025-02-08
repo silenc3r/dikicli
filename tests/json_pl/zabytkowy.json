@@ -1,0 +1,65 @@
+[
+    {
+        "Entry": [
+            "zabytkowy"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "antique"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "antyczny",
+                                    "zabytkowy"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "He has an antique clock in his house.",
+                                        "Translation": "(On ma w swoim domu antyczny zegar.)"
+                                    },
+                                    {
+                                        "Sentence": "They stole an antique painting from my house.",
+                                        "Translation": "(Ukradli zabytkowy obraz z mojego domu.)"
+                                    },
+                                    {
+                                        "Sentence": "Where is that antique coffee table you wanted to show me?",
+                                        "Translation": "(Gdzie jest tamten zabytkowy stolik do kawy, który chciałeś mi pokazać?)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "historic"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "historyczny",
+                                    "zabytkowy"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "This piece of art on the wall is historic.",
+                                        "Translation": "(To dzieło sztuki na ścianie jest historyczne.)"
+                                    },
+                                    {
+                                        "Sentence": "I suggested a few historic sites that his parents should take him to.",
+                                        "Translation": "(Poleciłem kilka historycznych miejsc, w które powinni go zabrać rodzice.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

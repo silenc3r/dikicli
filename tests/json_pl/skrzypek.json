@@ -1,0 +1,36 @@
+[
+    {
+        "Entry": [
+            "skrzypek"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "violinist",
+                            "violin player"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "skrzypek",
+                                    "skrzypaczka"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "fiddler"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,120 @@
+[
+    {
+        "Entry": [
+            "uciecha"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "joy"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "uciecha",
+                                    "przyjemność"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "It was a joy just to look at him.",
+                                        "Translation": "(To była przyjemność po prostu na niego patrzeć.)"
+                                    },
+                                    {
+                                        "Sentence": "The match was a joy to watch.",
+                                        "Translation": "(Oglądanie tego meczu to była przyjemność.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "merriment"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "uciecha",
+                                    "wesołość",
+                                    "zabawa"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "panic"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "uciecha",
+                                    "zabawa"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Scaring her is a great panic, she always believes our stories about ghosts.",
+                                        "Translation": "(Straszenie jej to świetna zabawa, zawsze wierzy w nasze historie o duchach.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "merrymaking"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "uciecha",
+                                    "zabawa"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "daffing"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "uciecha",
+                                    "zabawa"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pleasance"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "jouissance"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "uciecha",
+                                    "radość"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

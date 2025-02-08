@@ -1,0 +1,191 @@
+[
+    {
+        "Entry": [
+            "nieład"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "disorder"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nieporządek",
+                                    "nieład"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "The room was in a great disorder.",
+                                        "Translation": "(Pokój był w ogromnym nieładzie.)"
+                                    },
+                                    {
+                                        "Sentence": "When I came into the office I found everything in the greatest disorder.",
+                                        "Translation": "(Kiedy wszedłem do biura, zastałem wszystko w największym nieładzie.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "confusion"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nieład",
+                                    "nieporządek"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Confusion in his room drives me crazy.",
+                                        "Translation": "(Nieporządek w jego pokoju doprowadza mnie do szaleństwa.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "disarray"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nieład",
+                                    "nieporządek"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "derangement"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nieład",
+                                    "nieporządek",
+                                    "chaos"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "deray"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nieład",
+                                    "nieporządek"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "misorder"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nieporządek",
+                                    "nieład"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "untidiness"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nieporządek",
+                                    "bałagan",
+                                    "nieład"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rumple"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nieład",
+                                    "bajzel"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dishevelment"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nieład",
+                                    "nieporządek"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "inordinacy"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "hot mess"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "bałagan",
+                                    "nieład"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "distemperature"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nieporządek",
+                                    "nieład"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

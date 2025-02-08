@@ -1,0 +1,75 @@
+[
+    {
+        "Entry": [
+            "kajdanki"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "handcuffs"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "cuffs"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "bracelets"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "manacle"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "kajdanki",
+                                    "kajdany"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "manacles"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "kajdanki",
+                                    "kajdany"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "darbies"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "bransoletki",
+                                    "kajdanki"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

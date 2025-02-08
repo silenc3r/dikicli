@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "bordo"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "claret"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "bordo",
+                                    "wino bordoskie"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

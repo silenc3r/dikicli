@@ -1,0 +1,102 @@
+[
+    {
+        "Entry": [
+            "kora"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bark"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "łub",
+                                    "kora (na drzewie)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Birches have white bark.",
+                                        "Translation": "(Brzozy mają białą korę.)"
+                                    },
+                                    {
+                                        "Sentence": "The bark of oaks is brown.",
+                                        "Translation": "(Kora dębów jest brązowa.)"
+                                    }
+                                ]
+                            },
+                            {
+                                "Variant": [
+                                    "łamanka",
+                                    "kora (cienkie kawałki czekolady o nierównych wysokościach o różnego rodzaju smakach)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Peppermint chocolate is a must-have at our company Christmas party.",
+                                        "Translation": "(Miętowa łamanka zawsze musi się pojawić na naszej świątecznej imprezie firmowej.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "cortex"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "kora (np. mózgowa)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rind"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "kora (rośliny)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "seersucker"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "kora (tkanina)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kore"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "kora (typ posągu w starożytnej Grecji)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

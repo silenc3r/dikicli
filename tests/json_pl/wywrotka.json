@@ -1,0 +1,44 @@
+[
+    {
+        "Entry": [
+            "wywrotka"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "tipper",
+                            "tipper lorry",
+                            "tipper truck",
+                            "tip truck"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "dumper truck",
+                            "dumper",
+                            "dump truck"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "capsizal"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "dumpcart"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    }
+]

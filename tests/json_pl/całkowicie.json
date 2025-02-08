@@ -1,0 +1,1113 @@
+[
+    {
+        "Entry": [
+            "całkowicie"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "all"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "całkiem",
+                                    "w pełni",
+                                    "całkowicie"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "She was all alone.",
+                                        "Translation": "(Ona była całkiem sama.)"
+                                    },
+                                    {
+                                        "Sentence": "You're all happy, what's happened?",
+                                        "Translation": "(Jesteś całkiem szczęśliwy, co się stało?)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "completely"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "kompletnie",
+                                    "całkowicie"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I agree with her completely.",
+                                        "Translation": "(Całkowicie się z nią zgadzam.)"
+                                    },
+                                    {
+                                        "Sentence": "Further effort is completely pointless.",
+                                        "Translation": "(Dalszy wysiłek jest kompletnie bezcelowy.)"
+                                    },
+                                    {
+                                        "Sentence": "I'm completely exhausted.",
+                                        "Translation": "(Jestem kompletnie wyczerpany.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "absolutely"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "całkowicie",
+                                    "kompletnie"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "You're absolutely right!",
+                                        "Translation": "(Masz całkowitą rację!)"
+                                    },
+                                    {
+                                        "Sentence": "He had absolutely no idea what I was talking about.",
+                                        "Translation": "(On kompletnie nie miał pojęcia, o czym mówiłem.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "entirely"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "całkowicie",
+                                    "zupełnie"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "It's an entirely different situation.",
+                                        "Translation": "(To jest zupełnie inna sytuacja.)"
+                                    },
+                                    {
+                                        "Sentence": "She wasn't entirely sure what she should do.",
+                                        "Translation": "(Ona nie była całkowicie pewna, co powinna zrobić.)"
+                                    },
+                                    {
+                                        "Sentence": "The blanket wasn't big enough to cover him entirely.",
+                                        "Translation": "(Koc nie był wystarczająco duży, aby go całkowicie zakryć.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "fully"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "w pełni",
+                                    "całkowicie"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "The restaurant is fully booked.",
+                                        "Translation": "(Restauracja jest całkowicie zarezerwowana.)"
+                                    },
+                                    {
+                                        "Sentence": "We're fully prepared.",
+                                        "Translation": "(Jesteśmy w pełni przygotowani.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "totally",
+                            "totes"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "całkowicie",
+                                    "zupełnie",
+                                    "totalnie"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I totally forgot about your birthday, I'm sorry!",
+                                        "Translation": "(Całkowicie zapomniałem o twoich urodzinach, przepraszam!)"
+                                    },
+                                    {
+                                        "Sentence": "I think we're talking about two totally different people.",
+                                        "Translation": "(Myślę, że mówimy o dwóch zupełnie różnych osobach.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "altogether"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "zupełnie",
+                                    "całkiem",
+                                    "całkowicie"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "We've lost contact with them altogether.",
+                                        "Translation": "(Straciliśmy z nimi całkowicie kontakt.)"
+                                    },
+                                    {
+                                        "Sentence": "This didn't altogether surprise me.",
+                                        "Translation": "(To zupełnie mnie nie zaskoczyło.)"
+                                    },
+                                    {
+                                        "Sentence": "It stopped raining altogether.",
+                                        "Translation": "(Całkowicie przestało padać.)"
+                                    },
+                                    {
+                                        "Sentence": "We have an altogether different idea.",
+                                        "Translation": "(Mamy zupełnie inny pomysł.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "all over"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "całkowicie",
+                                    "całkiem",
+                                    "zupełnie",
+                                    "kompletnie",
+                                    "pod każdym względem"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "quite"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "całkowicie",
+                                    "zupełnie",
+                                    "kompletnie"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "That's quite impossible!",
+                                        "Translation": "(To jest kompletnie niemożliwe!)"
+                                    },
+                                    {
+                                        "Sentence": "\"Would you like some more cake?\" \"Thank you, I'm quite full.\"",
+                                        "Translation": "(\"Chciałbyś jeszcze trochę ciasta?\" \"Dziękuję, jestem zupełnie pełny.\")"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "utterly"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "całkowicie",
+                                    "zupełnie",
+                                    "z kretesem",
+                                    "kompletnie"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "The buildings were dark and utterly silent.",
+                                        "Translation": "(Budynki były ciemne i całkowicie ciche.)"
+                                    },
+                                    {
+                                        "Sentence": "She looked utterly miserable.",
+                                        "Translation": "(Ona wyglądała na zupełnie przygnębioną.)"
+                                    },
+                                    {
+                                        "Sentence": "This user manual is utterly useless.",
+                                        "Translation": "(Ta instrukcja obsługi jest kompletnie bezużyteczna.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "properly"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "kompletnie",
+                                    "całkowicie"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "We just didn't have enough time to properly test it.",
+                                        "Translation": "(Po prostu nie mieliśmy czasu, by to całkowicie przetestować.)"
+                                    },
+                                    {
+                                        "Sentence": "Did you defrost the vegetables properly?",
+                                        "Translation": "(Czy całkowicie rozmroziłeś warzywa?)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "thoroughly"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "zupełnie",
+                                    "całkowicie"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I feel thoroughly exhausted.",
+                                        "Translation": "(Czuję się zupełnie wyczerpany.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dead"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "całkowicie",
+                                    "kompletnie"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "It was dead quiet in the room, everyone was sleeping.",
+                                        "Translation": "(W pokoju było całkowicie cicho, wszyscy spali.)"
+                                    },
+                                    {
+                                        "Sentence": "I'm dead serious.",
+                                        "Translation": "(Jestem całkowicie poważna.)"
+                                    },
+                                    {
+                                        "Sentence": "You're dead right.",
+                                        "Translation": "(Masz całkowitą rację.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "through",
+                            "thru",
+                            "thro",
+                            "thro'"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "całkowicie (np. mokry, zmęczony)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "After running, his clothes were wet through.",
+                                        "Translation": "(Po bieganiu jego ciuchy były całkowicie mokre.)"
+                                    },
+                                    {
+                                        "Sentence": "He was tired through after his work.",
+                                        "Translation": "(On był całkowicie zmęczony po swojej pracy.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "purely"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "całkowicie",
+                                    "zupełnie"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wholly"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "całkowicie",
+                                    "kompletnie",
+                                    "zupełnie",
+                                    "w pełni"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "implicitly"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "bezwzględnie",
+                                    "całkowicie",
+                                    "bezgranicznie"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "full"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "całkowicie",
+                                    "całkiem",
+                                    "zupełnie"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "squarely"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "całkowicie",
+                                    "niezaprzeczalnie"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "He is squarely to blame for this.",
+                                        "Translation": "(On jest niezaprzeczalnie temu winien.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "throughout"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "pod każdym względem",
+                                    "całkowicie"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "The trip was awful throughout.",
+                                        "Translation": "(Wycieczka była pod każdym względem okropna.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "strictly"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "całkowicie",
+                                    "do końca"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "It isn't strictly true that coffee is unhealthy.",
+                                        "Translation": "(To nie jest do końca prawda, że kawa jest niezdrowa.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "profoundly"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "zupełnie",
+                                    "całkowicie"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wholeheartedly"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "z całego serca",
+                                    "całkowicie (np. popierać coś)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "fairly"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "całkowicie",
+                                    "zupełnie",
+                                    "bardzo",
+                                    "w najwyższym stopniu"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "She's doing fairly well.",
+                                        "Translation": "(Ona sobie świetnie radzi.)"
+                                    },
+                                    {
+                                        "Sentence": "That's a fairly good answer.",
+                                        "Translation": "(To bardzo dobra odpowiedź.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "diametrically"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "diametralnie",
+                                    "całkowicie"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "stark"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "kompletnie",
+                                    "całkowicie",
+                                    "zupełnie"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "He's short and stark bald.",
+                                        "Translation": "(On jest niski i zupełnie łysy.)"
+                                    },
+                                    {
+                                        "Sentence": "Your child is stark naked. Dress him!",
+                                        "Translation": "(Twoje dziecko jest zupełnie nagie. Ubierz je!)"
+                                    },
+                                    {
+                                        "Sentence": "You are stark mad!",
+                                        "Translation": "(Jesteś kompletnie stuknięty!)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "sublimely"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "w najwyższym stopniu",
+                                    "całkowicie"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "plumb"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "całkowicie",
+                                    "kompletnie",
+                                    "zupełnie"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I plumb forgot about watering the plants.",
+                                        "Translation": "(Kompletnie zapomniałem o podlewaniu kwiatów.)"
+                                    },
+                                    {
+                                        "Sentence": "Don't listen to her. She's plumb crazy.",
+                                        "Translation": "(Nie słuchaj jej. Ona jest zupełnie szalona.)"
+                                    },
+                                    {
+                                        "Sentence": "You're plumb wrong. She didn't do that.",
+                                        "Translation": "(Jesteś całkowicie w błędzie. Ona tego nie zrobiła.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "unquestioningly"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ślepo",
+                                    "całkowicie"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "clean"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "całkowicie",
+                                    "kompletnie (np. zapomnieć)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I clean forgot to buy flowers for her.",
+                                        "Translation": "(Całkowicie zapomniałem kupić dla niej kwiaty.)"
+                                    },
+                                    {
+                                        "Sentence": "She clean forgot to call me last evening.",
+                                        "Translation": "(Ona kompletnie zapomniała do mnie zadzwonić wczorajszego wieczoru.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wholesale"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "całkowicie (np. zaakceptować, odrzucić)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "cold"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nagle",
+                                    "całkowicie"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "The door closed cold.",
+                                        "Translation": "(Drzwi nagle się zamknęły.)"
+                                    },
+                                    {
+                                        "Sentence": "You disappeared so cold.",
+                                        "Translation": "(Tak nagle zniknąłeś.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "for fair"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "całkowicie",
+                                    "zupełnie"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "whole"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "całkowicie",
+                                    "całkiem"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "This is a whole new subject.",
+                                        "Translation": "(To jest całkowicie nowy temat.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "cap-a-pie"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "od stóp do głów",
+                                    "całkowicie (np. uzbrojony, ubrany)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "He was armed cap-a-pie for the battle.",
+                                        "Translation": "(On był uzbrojony od stóp do głów na bitwę.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "to the hilt"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "całkowicie (np. poprzeć kogoś)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "a hundred percent",
+                            "one hundred percent"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "całkowicie",
+                                    "na sto procent"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "plenarily"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "całkowicie",
+                                    "w sposób nieograniczony"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "deucedly"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "całkowicie",
+                                    "zupełnie"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "crashingly"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "całkowicie",
+                                    "totalnie",
+                                    "zupełnie"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "sheerly"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "całkowicie",
+                                    "zupełnie"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "spandy"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "całkowicie",
+                                    "zupełnie"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "inclusively"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "łącznie",
+                                    "całkowicie"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "unmitigatedly"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "absolutnie",
+                                    "całkowicie",
+                                    "kompletnie"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "batshit"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "gruntownie",
+                                    "kompletnie",
+                                    "całkowicie",
+                                    "zupełnie"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "fairly and squarely"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "all-fired"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "całkowicie",
+                                    "kompletnie"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "silly"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "do nieprzytomności",
+                                    "całkowicie"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "She's never got herself drunk silly.",
+                                        "Translation": "(Ona nigdy nie upiła się do nieprzytomności.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "teetotally"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "całkowicie",
+                                    "kompletnie"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "balls to the wall"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "totalnie",
+                                    "całkowicie"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "every inch"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "dokładnie",
+                                    "całkowicie",
+                                    "w każdym calu"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "to the bone"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "całkowicie",
+                                    "zupełnie",
+                                    "do szpiku kości"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I don't like him, he's bad to the bone.",
+                                        "Translation": "(Nie lubię go, jest całkowicie zły.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "as something as they come",
+                            "as something as all get-out"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "do szpiku kości",
+                                    "całkowicie"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "over head and ears"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "kompletnie",
+                                    "totalnie",
+                                    "całkowicie",
+                                    "beznadziejnie"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I'm over head and ears in debt.",
+                                        "Translation": "(Kompletnie tonę w długach.)"
+                                    },
+                                    {
+                                        "Sentence": "She's over head and ears in love with him.",
+                                        "Translation": "(Jest z nim totalnie zakochana.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "hook, line, and sinker"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "całkowicie",
+                                    "bez zastrzeżeń (dosł. połknąwszy haczyk, żyłkę i ciężarek)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "head over heels"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "całkowicie",
+                                    "głęboko",
+                                    "bez pamięci (np. zakochany)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "every bit of it"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "całkowicie",
+                                    "najzupełniej"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "down to the ground"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "całkowicie",
+                                    "zupełnie"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "well and truly"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "down the line"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "całkowicie",
+                                    "kompletnie",
+                                    "w każdy sposób"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

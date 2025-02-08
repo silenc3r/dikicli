@@ -1,0 +1,461 @@
+[
+    {
+        "Entry": [
+            "powiązany"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "related"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "powiązany",
+                                    "mający związek",
+                                    "pokrewny",
+                                    "związany"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "The word is used in several related but different ways.",
+                                        "Translation": "(To słowo jest używane na kilka powiązanych, lecz różnych sposobów.)"
+                                    },
+                                    {
+                                        "Sentence": "The two problems are related.",
+                                        "Translation": "(Te dwa problemy są powiązane ze sobą.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "associated"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "połączony",
+                                    "powiązany",
+                                    "związany"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I don't want either of you to be associated with my company.",
+                                        "Translation": "(Nie chcę, by żaden z was był związany z moją firmą.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "interrelated"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "powiązany"
+                                ],
+                                "ExampleSentences": []
+                            },
+                            {
+                                "Variant": [
+                                    "powiązany",
+                                    "współzależny"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "correlative"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "interlinked"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "połączony",
+                                    "powiązany"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "coreferent"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "związany",
+                                    "powiązany",
+                                    "mający związek (dzielący cechę lub symboliczne znaczenie z określonym przedmiotem lub czymś abstrakcyjnym)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "wiązać"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bond"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wiązać",
+                                    "spoić (np. elementy konstrukcji)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "They bonded these elements by welding.",
+                                        "Translation": "(Oni spoili te elementy poprzez spawanie.)"
+                                    },
+                                    {
+                                        "Sentence": "Cement bonds the bricks.",
+                                        "Translation": "(Cement spaja cegły.)"
+                                    },
+                                    {
+                                        "Sentence": "The welder bonded the bicycle frame.",
+                                        "Translation": "(Spawacz zespoił ramę roweru.)"
+                                    },
+                                    {
+                                        "Sentence": "This glue won't bond plastic.",
+                                        "Translation": "(Ten klej nie zwiąże plastiku.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "associate"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "kojarzyć (coś z czymś)",
+                                    "wiązać (fakty)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I associate rainy weather with sadness.",
+                                        "Translation": "(Kojarzę deszczową pogodę ze smutkiem.)"
+                                    },
+                                    {
+                                        "Sentence": "If you can associate facts quickly, you are intelligent.",
+                                        "Translation": "(Jeżeli potrafisz szybko wiązać fakty, jesteś inteligentny.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "link"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "strap"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wiązać",
+                                    "mocować",
+                                    "zapiąć",
+                                    "przypiąć"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Strap him to the chair and don't let him escape.",
+                                        "Translation": "(Przywiążcie go do krzesła i nie pozwólcie mu uciec.)"
+                                    },
+                                    {
+                                        "Sentence": "You should strap your keys to your belt.",
+                                        "Translation": "(Powinieneś przymocować swoje klucze do paska.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "tether"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "przywiązywać (zwierzę)",
+                                    "pętać",
+                                    "wiązać"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "They tethered the dog to its kennel and went inside the house.",
+                                        "Translation": "(Oni przywiązali psa do jego budy i weszli do domu.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "truss"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "związać (kogoś)",
+                                    "wiązać (nogi i skrzydła drobiu przed pieczeniem)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "conjoin",
+                            "cojoin"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "łączyć",
+                                    "wiązać"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "interlock"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "łączyć",
+                                    "zazębiać",
+                                    "splatać",
+                                    "wiązać"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pinion"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wiązać",
+                                    "krępować",
+                                    "pętać (np. ręce)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "astringe"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wiązać",
+                                    "ściskać"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "begird"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "powiązać"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "relate"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "łączyć (dwie różne rzeczy)",
+                                    "powiązać (coś ze sobą)",
+                                    "wykazać związek"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "How are these two cases related?",
+                                        "Translation": "(Jak te dwa przypadki są ze sobą powiązane?)"
+                                    },
+                                    {
+                                        "Sentence": "I can't relate these two events to each other.",
+                                        "Translation": "(Nie potrafię połączyć ze sobą tych dwóch wydarzeń.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "tie-in"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wiązać",
+                                    "powiązać (z czymś istotnym)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "concatenate"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "łączyć",
+                                    "powiązać",
+                                    "spinać",
+                                    "sprzęgać"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "wiązać się"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "carry"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "nieść za sobą",
+                                    "nieść ze sobą",
+                                    "wiązać się",
+                                    "pociągać za sobą (np. ryzyko, zagrożenie)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "His behaviour carries a lot of risk, so I don't want to have anything to do with him.",
+                                        "Translation": "(Jego zachowanie wiąże się ze sporym ryzykiem, więc nie chcę mieć z nim nic wspólnego.)"
+                                    },
+                                    {
+                                        "Sentence": "Flu carries a lot of potential complications.",
+                                        "Translation": "(Grypa niesie ze sobą wiele potencjalnych powikłań.)"
+                                    },
+                                    {
+                                        "Sentence": "You know that this move carries a great danger of failure?",
+                                        "Translation": "(Wiesz, że ten ruch niesie za sobą duże zagrożenie niepowodzeniem?)"
+                                    },
+                                    {
+                                        "Sentence": "This crime carries a severe punshiment.",
+                                        "Translation": "(To przestępstwo pociąga za sobą ciężką karę.)"
+                                    },
+                                    {
+                                        "Sentence": "Your behaviour carries now a lot of unpleasant consequences.",
+                                        "Translation": "(Twoje zachowanie pociąga teraz za sobą wiele nieprzyjemnych konsekwencji.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "interlink"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wiązać się (ze sobą, np. aspekty, problemy)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "get involved"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wiązać się (z kimś)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

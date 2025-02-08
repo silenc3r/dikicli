@@ -1,0 +1,47 @@
+[
+    {
+        "Entry": [
+            "przedostatni"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "penultimate",
+                            "penult"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "next to last",
+                            "next-to-last"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "the last but one"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            },
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "second to last",
+                            "second last"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    }
+]

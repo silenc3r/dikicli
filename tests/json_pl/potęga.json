@@ -1,0 +1,198 @@
+[
+    {
+        "Entry": [
+            "potęga"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "power"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "moc",
+                                    "siła (np. mediów)",
+                                    "potęga"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "The power of the media is unimaginable.",
+                                        "Translation": "(Siła mediów jest niewyobrażalna.)"
+                                    },
+                                    {
+                                        "Sentence": "You can't even imagine how big the power of love is.",
+                                        "Translation": "(Nawet nie potrafisz sobie wyobrazić jak wielka jest siła miłości.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "strength"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "might",
+                            "micht"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "moc",
+                                    "potęga",
+                                    "siła"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "She struggled with all her might to free herself.",
+                                        "Translation": "(Walczyła całą swoją siłą, aby się uwolnić.)"
+                                    },
+                                    {
+                                        "Sentence": "He defeated the might of the army with only a few hundred people.",
+                                        "Translation": "(On pokonał potęgę armii zaledwie kilkaset ludźmi.)"
+                                    },
+                                    {
+                                        "Sentence": "We shouted with all our might but nobody heard us.",
+                                        "Translation": "(Krzyczeliśmy z całej siły, ale nikt nas nie usłyszał.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "force"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "potęga",
+                                    "siła",
+                                    "moc (rzecz lub osoba, która ma wpływy oraz władzę)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Apparently, God's force is infinite.",
+                                        "Translation": "(Podobno potęga Boga jest nieskończona.)"
+                                    },
+                                    {
+                                        "Sentence": "The force of nature is more powerful than a whole army of people.",
+                                        "Translation": "(Potęga natury jest potężniejsza niż cała armia ludzi.)"
+                                    },
+                                    {
+                                        "Sentence": "Once again we must fight the forces of evil.",
+                                        "Translation": "(Po raz kolejny musimy walczyć z siłami zła.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "potency",
+                            "potence"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "moc",
+                                    "potęga",
+                                    "siła"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "sinew"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "siła",
+                                    "moc",
+                                    "potęga"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "He's a man of great spiritual sinew.",
+                                        "Translation": "(On jest mężczyzną o ogromnej sile duchowej.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "powerhouse"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "potęga",
+                                    "mocarstwo (w sporcie lub w kulturze)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Looking at the line-ups for the Olympics, USA seems to be a major powerhouse.",
+                                        "Translation": "(Patrząc na zespoły olimpijskie, Stany Zjednoczone zdają się być znaczną potęgą.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "vis"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "potęga",
+                                    "siła"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "mightiness"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "powerfulness"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "puissance"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "potęga",
+                                    "siła",
+                                    "władza"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

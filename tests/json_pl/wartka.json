@@ -1,0 +1,21 @@
+[
+    {
+        "Entry": [
+            "wartki"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "fast-flowing"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    }
+]

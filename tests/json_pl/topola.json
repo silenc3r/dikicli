@@ -1,0 +1,34 @@
+[
+    {
+        "Entry": [
+            "topola"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "poplar"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "populus"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "topola (rodzaj drzew)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

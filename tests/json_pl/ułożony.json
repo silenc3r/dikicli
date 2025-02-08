@@ -1,0 +1,436 @@
+[
+    {
+        "Entry": [
+            "ułożony"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "well-behaved"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "dobrze wychowany",
+                                    "ułożony"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Your son is a well-behaved person.",
+                                        "Translation": "(Twój syn jest dobrze wychowaną osobą.)"
+                                    },
+                                    {
+                                        "Sentence": "I'm a very quiet, well-behaved citizen.",
+                                        "Translation": "(Jestem bardzo spokojnym, dobrze wychowanym obywatelem.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "układać"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "file"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "segregować",
+                                    "układać"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Can you file these documents?",
+                                        "Translation": "(Czy możesz posegregować te dokumenty?)"
+                                    },
+                                    {
+                                        "Sentence": "I filed my bills by date.",
+                                        "Translation": "(Posegregowałem moje rachunki zgodnie z datą.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "layer"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "układać",
+                                    "nakładać"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I layered the books on the shelf.",
+                                        "Translation": "(Ułożyłem książki na półce.)"
+                                    },
+                                    {
+                                        "Sentence": "Layer the sponges and sprinkle with caster sugar.",
+                                        "Translation": "(Ułóż biszkopty i posyp je cukrem pudrem.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "style"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "stylizować",
+                                    "układać (włosy)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "order"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "porządkować",
+                                    "układać",
+                                    "rozstawiać",
+                                    "rozmieszczać"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Can you order the books by alphabet?",
+                                        "Translation": "(Czy możesz uporządkować książki według alfabetu?)"
+                                    },
+                                    {
+                                        "Sentence": "He was ordering his room the whole day.",
+                                        "Translation": "(On przez cały dzień porządkował swój pokój.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "lay"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "układać (np. cegłę, kafelki)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "arrange"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "poukładać",
+                                    "układać",
+                                    "aranżować",
+                                    "porządkować"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "We should arrange this shopping window again.",
+                                        "Translation": "(Powinniśmy ponownie zaaranżować to okno wystawowe.)"
+                                    },
+                                    {
+                                        "Sentence": "It was an interior designer who arranged our flat.",
+                                        "Translation": "(To dekorator wnętrz urządził nasze mieszkanie.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "array"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ustawiać",
+                                    "układać"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Can you array these books on the shelf?",
+                                        "Translation": "(Czy możesz ustawić te książki na półce?)"
+                                    },
+                                    {
+                                        "Sentence": "She arrayed the flowers in the vase.",
+                                        "Translation": "(Ona ułożyła kwiaty w wazonie.)"
+                                    },
+                                    {
+                                        "Sentence": "It took me hours to array all my movies in alphabetical order.",
+                                        "Translation": "(Ustawienie wszystkich moich filmów w porządku alfabetycznym zajęło mi kilka godzin.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "compose"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "stanowić",
+                                    "układać"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rig"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "przymocować",
+                                    "ustawiać",
+                                    "układać",
+                                    "umieszczać coś w odpowiednim miejscu (np. sprzęt, element wyposażenia)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "set"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "układać (włosy)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Will you help me set my hair for the party?",
+                                        "Translation": "(Czy pomożesz mi ułożyć włosy na imprezę?)"
+                                    },
+                                    {
+                                        "Sentence": "I don't set my hair, I don't have time for that.",
+                                        "Translation": "(Nie układam włosów, nie mam na to czasu.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "neaten"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "poprawiać",
+                                    "porządkować",
+                                    "układać"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "preorder"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "porządkować",
+                                    "układać",
+                                    "rozstawiać",
+                                    "rozmieszczać z wyprzedzeniem"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "indite",
+                            "endite"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "układać",
+                                    "komponować (np. przemowę)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "ułożyć coś"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "get something right"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "uporządkować coś",
+                                    "ułożyć coś"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I need to get my life right.",
+                                        "Translation": "(Muszę ułożyć swoje życie.)"
+                                    },
+                                    {
+                                        "Sentence": "Your essay is good, but you need to get the paragraphs right.",
+                                        "Translation": "(Twoje wypracowanie jest dobre, ale musisz uporządkować akapity.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "ułożyć"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "coax"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "układać",
+                                    "ułożyć (np. włosy)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "układać się"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "align",
+                            "aline"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "układać się (np. gwiazdy, planety)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Planets allign differently every week.",
+                                        "Translation": "(Planety układają się w różny sposób każdego tygodnia.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "fall into place"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "zgadzać się",
+                                    "układać się"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "ułożyć się"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pan out"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "potoczyć się",
+                                    "ułożyć się",
+                                    "układać się"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "Entry": [
+            "szklarnia"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "greenhouse",
+                            "glasshouse"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "hothouse"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "cieplarnia",
+                                    "szklarnia",
+                                    "oranżeria"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "vinery"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "szklarnia (do uprawy winorośli)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "hoop house"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    }
+]

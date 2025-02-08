@@ -1,0 +1,290 @@
+[
+    {
+        "Entry": [
+            "frajer"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "loser"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ofiara losu",
+                                    "frajer",
+                                    "nieudacznik"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "The guy is such a stupid loser!",
+                                        "Translation": "(Ten gość jest głupim frajerem!)"
+                                    },
+                                    {
+                                        "Sentence": "What a loser!",
+                                        "Translation": "(Co za ofiara losu!)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "tom"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "przygłup",
+                                    "kretyn",
+                                    "frajer"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "That tom really thought I'd lend him money.",
+                                        "Translation": "(Ten kretyn naprawdę myślał, że pożyczę mu pieniądze.)"
+                                    },
+                                    {
+                                        "Sentence": "He believed this story, what a tom!",
+                                        "Translation": "(On uwierzył w tę historyjkę, co za frajer!)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "sucker"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "naiwniak",
+                                    "frajer",
+                                    "głupek",
+                                    "głąb"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Shut up, you sucker!",
+                                        "Translation": "(Zamknij się, ty głupku!)"
+                                    },
+                                    {
+                                        "Sentence": "You really sold it for 10 bucks? Sucker!",
+                                        "Translation": "(Naprawdę sprzedałeś to za 10 dolców? Frajer!)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "buster"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "frajer",
+                                    "frajerka"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "You better get out of here, buster!",
+                                        "Translation": "(Wynoś się stąd, frajerze!)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nerd",
+                            "nurd"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "frajer",
+                                    "nieudacznik",
+                                    "oferma (osoba nieprzystosowana do życia w społeczeństwie, o nieciekawym wyglądzie)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "All these nerds standing in the line are waiting for Mac DeMarco's gig.",
+                                        "Translation": "(Te wszystkie ofermy stojące w kolejce czekają na koncert Maca DeMarco.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bozo"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "palant",
+                                    "frajer",
+                                    "przygłup"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Our administration, I reckon, consists exclusively of bozos.",
+                                        "Translation": "(Nasz zarząd, tak sądzę, składa się wyłącznie z palantów.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "mug"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "frajer",
+                                    "frajerka"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pushover"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "popychadło",
+                                    "naiwniak",
+                                    "frajer"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "patsy"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "frajer",
+                                    "jeleń"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Our patsy, Brady, had to be in communication with whoever was making payments.",
+                                        "Translation": "(Nasz frajer Brady musiał być w kontakcie z tym, kto dokonywał płatności.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "catspaw"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "naiwniak",
+                                    "frajer"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "lame ass"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "wicked loser"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "dupa wołowa",
+                                    "nieudacznik",
+                                    "frajer"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "muggins"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "frajer",
+                                    "frajerka"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wastoid"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "ofiara",
+                                    "nieudacznik",
+                                    "frajer"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "lame"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "lamer",
+                                    "lamus",
+                                    "cienias",
+                                    "frajer"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "peckerhead"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "frajer",
+                                    "dupek"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

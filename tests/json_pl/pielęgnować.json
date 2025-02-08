@@ -1,0 +1,190 @@
+[
+    {
+        "Entry": [
+            "pielęgnować"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "foster"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "pielęgnować",
+                                    "rozwijać",
+                                    "wspierać (np. rozwój, współpracę)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "My parents never fostered my decisions.",
+                                        "Translation": "(Moi rodzice nigdy nie wspierali moich decyzji.)"
+                                    },
+                                    {
+                                        "Sentence": "We are trying to foster his talents.",
+                                        "Translation": "(Staramy się rozwijać jego talenty.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nurture"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "wychowywać",
+                                    "pielęgnować"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I'm not quite sure how to nurture this particular plant.",
+                                        "Translation": "(Nie jestem do końca pewna jak pielęgnować tę roślinkę.)"
+                                    }
+                                ]
+                            },
+                            {
+                                "Variant": [
+                                    "pielęgnować",
+                                    "żywić",
+                                    "czuwać nad czymś"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "Let us nurture the inherent power of our economy to keep it renewing itself.",
+                                        "Translation": "(Czuwajmy nad wewnętrzną siłą naszej gospodarki, aby ona sama mogła się odnawiać.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "attend"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "pielęgnować",
+                                    "opiekować się"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "I can't come to the party. I have to attend my baby.",
+                                        "Translation": "(Nie mogę iść na imprezę. Muszę opiekować się moim dzieckiem.)"
+                                    },
+                                    {
+                                        "Sentence": "The bitch attends her puppies.",
+                                        "Translation": "(Suka opiekuje się swoimi szczeniakami.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "cherish"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "pielęgnować",
+                                    "dbać",
+                                    "czcić"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "After my mother's death, I cherish all memories of her.",
+                                        "Translation": "(Po śmierci mamy pielęgnuję wszelkie wspomnienia o niej.)"
+                                    }
+                                ]
+                            },
+                            {
+                                "Variant": [
+                                    "pielęgnować",
+                                    "otaczać opieką",
+                                    "troszczyć się",
+                                    "dbać",
+                                    "hołubić"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "My son cherishes his baby sister.",
+                                        "Translation": "(Mój synek troszczy się o swoją młodszą siostrzyczkę.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pamper"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "rozpieszczać",
+                                    "pielęgnować"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nurse"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "pielęgnować (uczucia)",
+                                    "podsycać w sobie (uczucia, emocje)"
+                                ],
+                                "ExampleSentences": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "pielęgnować kogoś"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "attend to somebody"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "zajmować się kimś",
+                                    "opiekować się kimś",
+                                    "pielęgnować kogoś (np. chorego)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "She attends to her ill grandmother.",
+                                        "Translation": "(Ona opiekuje się swoją chorą babcią.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

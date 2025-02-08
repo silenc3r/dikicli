@@ -1,0 +1,51 @@
+[
+    {
+        "Entry": [
+            "bukmacher"
+        ],
+        "Language": "pl",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "stakeholder"
+                        ],
+                        "Variants": [
+                            {
+                                "Variant": [
+                                    "bukmacher (osoba przyjmująca zakłady)"
+                                ],
+                                "ExampleSentences": [
+                                    {
+                                        "Sentence": "The stakeholders are predicting their victory.",
+                                        "Translation": "(Bukmacherzy przewidują, że to oni wygrają.)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bookie"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "bookmaker"
+                        ],
+                        "Variants": []
+                    },
+                    {
+                        "Meaning": [
+                            "turf accountant"
+                        ],
+                        "Variants": []
+                    }
+                ]
+            }
+        ]
+    }
+]
