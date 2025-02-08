@@ -19,8 +19,7 @@ from dikicli.core import get_stats
 from dikicli.core import get_word_list
 from dikicli.core import lookup_online
 from dikicli.core import parse_en_pl
-from dikicli.core import translate
-from dikicli.core import wrap_text
+from dikicli.core import parse_pl_en
 from dikicli.core import wrap_text_new
 
 LOG_FILE = CACHE_DIR.joinpath("diki.log")
@@ -176,8 +175,6 @@ def _main():
 
     # handle word translation
     if args.word:
-        use_cache = not args.ignore_cache
-
         pl_to_en = args.pol_eng
         if not pl_to_en:
             # en -> pl
@@ -192,8 +189,8 @@ def _main():
         else:
             # pl -> en
             try:
-                translation = translate(args.word, data_dir, use_cache, pl_to_en)
-                wrapped_text = "\n".join(wrap_text(translation, linewrap))
+                translation = translate_pl_en(args.word, data_dir, args.ignore_cache)
+                wrapped_text = "\n".join(wrap_text_new(translation, linewrap))
                 print(wrapped_text)
                 sys.exit(0)
             except WordNotFound as e:

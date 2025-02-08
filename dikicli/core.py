@@ -18,9 +18,6 @@ from urllib.request import urlopen
 
 from bs4 import BeautifulSoup
 
-import dikicli.parsers
-from dikicli.helpers import flatten
-from dikicli.helpers import flatten_compat
 from dikicli.templates import CONFIG_TEMPLATE
 from dikicli.templates import HTML_TEMPLATE
 
@@ -448,35 +445,6 @@ def parse_pl_en(html_dump):
     return result
 
 
-def _cache_lookup(word, data_dir, pl_to_en=False):
-    """Checks if word is in cache.
-
-    Parameters
-    ----------
-    word : str
-        Word to check in cache.
-    data_dir : pathlib.Path
-        Cache directory location.
-
-    Returns
-    -------
-    translation : List[str] or None
-        Translation of given word.
-    """
-    trans_dir = "translations"
-    if pl_to_en:
-        trans_dir += "_native"
-    logger.debug("Cache lookup: %s", word)
-    filename = data_dir.joinpath(trans_dir, "{}.html".format(word))
-    if filename.is_file():
-        with open(filename, mode="r") as f:
-            logger.debug("Cache found: %s", word)
-            translation = dikicli.parsers.parse_cached(f.read())
-            return translation
-    logger.debug("Cache miss: %s", word)
-    return None
-
-
 def _get_words(data_dir):
     """Return list of translated words."""
     trans_dir = data_dir / "translations"
@@ -652,48 +620,6 @@ def generate_word_html(cache_dir, word):
     return html_string
 
 
-def translate(word, data_dir, use_cache=True, pl_to_en=False):
-    """Translate a word.
-
-    Parameters
-    ----------
-    word : str
-        Word to translate.
-    data_dir : Path
-        Data directory path.
-    use_cache : bool, optional
-        Wheter to use cache.
-    pl_to_en : bool, optional
-        Translate from Polish to English.
-
-    Returns
-    -------
-    translation
-        Translation of a word.
-    """
-    translation = None
-
-    if use_cache:
-        logger.debug("Checking cache: %s", word)
-        translation = _cache_lookup(word, data_dir, pl_to_en=pl_to_en)
-
-    if translation:
-        return translation
-
-    content = lookup_online(word)
-    if pl_to_en:
-        # FIXME: it is totally broken
-        translation = flatten(_parse_html(content, pl_to_en))
-        # TODO: write file
-    else:
-        # translation = dikicli.parsers.parse_en_pl(content)
-        translation = flatten_compat(parse_en_pl(content))
-        # _write_html_file(word, translation, data_dir, pl_to_en=pl_to_en)
-        # _write_index_file(data_dir)
-
-    return translation
-
-
 def get_stats(data_dir: Path):
     """Get usage statistics.
     Returns (num_of_en_words, num_of_pl_words) tuple.
@@ -707,69 +633,6 @@ def get_stats(data_dir: Path):
     num_of_en_words = count_words(en_dir)
     num_of_pl_words = count_words(pl_dir)
     return num_of_en_words, num_of_pl_words
-
-
-def wrap_text(translations, linewrap=0):
-    """Pretty print translations.
-
-    If lienwrap is set to 0 disable line wrapping.
-
-    Returns list of wrapped lines.
-    """
-    # TODO: move this to top after cleaning up old parser
-    from dikicli.parsers import Entity
-    from dikicli.parsers import Info
-    from dikicli.parsers import Meaning
-    from dikicli.parsers import PartOfSpeech
-    from dikicli.parsers import Sentence
-
-    def wrap(text, width=linewrap, findent=0, sindent=0, bold=False):
-        if width == 0:
-            text = " " * findent + text
-        else:
-            import textwrap
-
-            text = textwrap.fill(
-                text,
-                width=width,
-                initial_indent=" " * findent,
-                subsequent_indent=" " * sindent,
-            )
-        # don't use bold when stdout is pipe or redirect
-        if bold and sys.stdout.isatty():
-            text = "\033[0;1m" + text + "\033[0m"
-        return text
-
-    result = []
-    meaning_idx = 0
-    for i, x in enumerate(translations):
-        if isinstance(x, Entity):
-            meaning_idx = 1
-            if i > 0 and not isinstance(translations[i - 1], Entity):
-                result.append("")
-            result.append(wrap(x.val, bold=True))
-        elif isinstance(x, PartOfSpeech):
-            meaning_idx = 1
-            if i > 0 and not isinstance(translations[i - 1], Entity):
-                result.append("")
-            result.append(f"[{x.val}]")
-        elif isinstance(x, Meaning):
-            if i > 0 and isinstance(translations[i - 1], Sentence):
-                result.append("")
-            result.append(wrap(f"{meaning_idx:>3}. {x.val}", sindent=5, bold=True))
-            meaning_idx += 1
-        elif isinstance(x, Sentence):
-            result.append("")
-            s1 = wrap(x.val[0], findent=6, sindent=6)
-            s2 = wrap(x.val[1], findent=6, sindent=7)
-            result.append(s1)
-            result.append(s2)
-        elif isinstance(x, Info):
-            result.append(x.val)
-        else:
-            raise TypeError("wrap_text: unexpected translation type: %s" % type(x))
-
-    return result
 
 
 def wrap_text_new(trans_dict, width=0):
@@ -817,7 +680,16 @@ def wrap_text_new(trans_dict, width=0):
                 result.append(wrap(mean, 0, 5, True))
                 result.append("")
 
-                if meaning["ExampleSentences"]:
+                if "Variants" in meaning:
+                    for var in meaning["Variants"]:
+                        result.append(wrap(", ".join(var["Variant"]), 5, 5))
+                        result.append("")
+                    for ex in var["ExampleSentences"]:
+                        result.append(wrap(ex["Sentence"], 6, 6))
+                        result.append(wrap(ex["Translation"], 6, 6))
+                        result.append("")
+
+                if "ExampleSentences" in meaning:
                     for ex in meaning["ExampleSentences"]:
                         result.append(wrap(ex["Sentence"], 6, 6))
                         result.append(wrap(ex["Translation"], 6, 6))
