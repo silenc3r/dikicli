@@ -1,3 +1,56 @@
 add option to show similar words
 
 problematic words:
+greaves
+reconnoitered
+ayahyuasca
+
+
+
+KURWA
+-p
+    wiertło
+    jałowy
+
+
+# words that are valid in pl and en
+wiry
+gangster
+AC
+hotel - pl is first here
+pet - pl first
+problem
+
+# words without PartOfSpeech
+guest
+kind of
+sort of
+
+# interesting PartOfSpeech
+wit
+
+# words without examples
+potent
+pining
+encrypt
+
+# words with variations
+tameable
+gold
+gradient
+GOP
+glamorising
+AC
+nice
+mint
+would
+
+
+# words with many meaning variations
+potent
+shutdown
+encrypt
+
+# words with old transcription version
+injustice
+tint
