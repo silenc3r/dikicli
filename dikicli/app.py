@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
 import argparse
+import json
 import logging
 import logging.config
 import pathlib
@@ -84,6 +85,7 @@ def get_parser():
         "-r", "--refresh", action="store_true", dest="ignore_cache", help="ignore cache"
     )
     parser.add_argument("-s", "--stats", action="store_true", help="show statistics")
+    parser.add_argument("--json", action="store_true", help="output json")
     translation = parser.add_argument_group("translation")
     translation.add_argument("word", nargs="?", help="word to translate")
     translation.add_argument(
@@ -105,7 +107,7 @@ def get_parser():
     return parser
 
 
-def translate_f(word, parse_fn, cache_dir, ignore_cache):
+def translate(word, parse_fn, cache_dir, ignore_cache):
     """Translate a word.
 
     If cache_dir doesn't exist it will be created.
@@ -140,14 +142,6 @@ def translate_f(word, parse_fn, cache_dir, ignore_cache):
     return translation
 
 
-def translate_en_pl(word, cache_dir, ignore_cache):
-    return translate_f(word, parse_en_pl, cache_dir / "words_en", ignore_cache)
-
-
-def translate_pl_en(word, cache_dir, ignore_cache):
-    return translate_f(word, parse_pl_en, cache_dir / "words_pl", ignore_cache)
-
-
 def _main():
     parser = get_parser()
     args = parser.parse_args()
@@ -178,24 +172,24 @@ def _main():
         pl_to_en = args.pol_eng
         if not pl_to_en:
             # en -> pl
-            try:
-                translation = translate_en_pl(args.word, data_dir, args.ignore_cache)
-                wrapped_text = "\n".join(wrap_text(translation, linewrap))
-                print(wrapped_text)
-                sys.exit(0)
-            except WordNotFound as e:
-                print(e, file=sys.stderr)
-                sys.exit(1)
+            parse_fn = parse_en_pl
+            cache_dir = data_dir / "words_en"
         else:
             # pl -> en
-            try:
-                translation = translate_pl_en(args.word, data_dir, args.ignore_cache)
-                wrapped_text = "\n".join(wrap_text(translation, linewrap))
-                print(wrapped_text)
-                sys.exit(0)
-            except WordNotFound as e:
-                print(e, file=sys.stderr)
-                sys.exit(1)
+            parse_fn = parse_pl_en
+            cache_dir = data_dir / "words_pl"
+
+        try:
+            translation = translate(args.word, parse_fn, cache_dir, args.ignore_cache)
+            if args.json:
+                output = json.dumps(translation, indent=4, ensure_ascii=False)
+            else:
+                output = "\n".join(wrap_text(translation, linewrap))
+            print(output)
+            sys.exit(0)
+        except WordNotFound as e:
+            print(e, file=sys.stderr)
+            sys.exit(1)
 
     # open index file in browser
     if args.display_index:
