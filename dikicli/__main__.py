@@ -1,3 +1,3 @@
-from dikicli.cli import main
+from dikicli.app import main
 
 main()
