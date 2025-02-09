@@ -7,6 +7,7 @@ import pathlib
 import sys
 import urllib
 import urllib.parse
+import urllib.request
 from itertools import zip_longest
 
 from bs4 import BeautifulSoup
