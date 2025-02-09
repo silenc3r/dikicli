@@ -1,0 +1,101 @@
+[
+    {
+        "Entry": [
+            "overhead"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "napowietrzny",
+                            "górny (np. kabel, oświetlenie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "znad głowy (np. cios w boksie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "w górze",
+                            "nad głową"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "foliogram (do wyświetlania obrazu z rzutnika)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "sufit (na statku)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I left the compass on my bunk or in the overhead net.",
+                                "Translation": "(Zostawiłam kompas na koi albo na siatce na suficie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "narzut"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "overheads",
+            "overhead",
+            "oncosts",
+            "fixed costs"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "koszty ogólne",
+                            "koszty stałe",
+                            "koszty ogólnego zarządu"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Your overhead was high, and your net profits were low.",
+                                "Translation": "(Twoje koszty ogólne były wysokie, a twoje zyski niskie.)"
+                            },
+                            {
+                                "Sentence": "Last year our income was equal to the fixed costs.",
+                                "Translation": "(W zeszłym roku nasz dochód był równy kosztom stałym.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,141 @@
+[
+    {
+        "Entry": [
+            "compound"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pogarszać (np.sytuację)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "potęgować",
+                            "powiększać",
+                            "zwiększać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "compound"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mieszanina",
+                            "złożenie (różnych rzeczy, wartości)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "kompleks (budynków na ogrodzonym terenie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He had been at the compound for nearly four years.",
+                                "Translation": "(On przebywał na terenie kompleksu przez prawie cztery lata.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "składowy"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "złożony (np. rzeczownik)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Compound nouns consist of two words.",
+                                "Translation": "(Rzeczowniki złożone składają się z dwóch wyrazów.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "compound",
+            "cpd."
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "związek chemiczny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Water is a chemical compound.",
+                                "Translation": "(Woda jest związkiem chemicznym.)"
+                            },
+                            {
+                                "Sentence": "Watch out! This compound is dangerous!",
+                                "Translation": "(Uważaj! Ten związek chemiczny jest niebezpieczny!)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "compound",
+            "compound word"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wyraz złożony",
+                            "złożenie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Do you know any compound nouns?",
+                                "Translation": "(Czy znasz jakieś rzeczowniki złożone?)"
+                            },
+                            {
+                                "Sentence": "\"Swimming pool\" is a popular compound noun.",
+                                "Translation": "(\"Swimming pool\" to popularny rzeczownik złożony.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

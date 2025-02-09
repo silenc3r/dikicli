@@ -1,0 +1,57 @@
+[
+    {
+        "Entry": [
+            "fallout"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "opad radioaktywny lub promieniotwórczy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The chances of radioactive fallout are very small.",
+                                "Translation": "(Szanse na opad radioaktywny są bardzo niewielkie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "negatywny rezultat",
+                            "niekorzystny skutek"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We're still dealing with the fallout of his resignation from the office.",
+                                "Translation": "(Nadal radzimy sobie z niekorzystnymi skutkami jego rezygnacji z urzędu.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "fall-out"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "opad (promieniotwórczy)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

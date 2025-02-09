@@ -1,0 +1,37 @@
+[
+    {
+        "Entry": [
+            "pinnacle"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szczyt",
+                            "wierzchołek"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "szczyt (góry)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wieżyczka",
+                            "pinakiel",
+                            "fiala",
+                            "sterczyna"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

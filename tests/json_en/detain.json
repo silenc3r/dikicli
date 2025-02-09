@@ -1,0 +1,39 @@
+[
+    {
+        "Entry": [
+            "detain"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "trzymać (w areszcie)",
+                            "zatrzymywać (gdzieś tymczasowo)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He's been detained by security because of his suspicious behaviour at the airport.",
+                                "Translation": "(Został zatrzymany przez ochronę z powodu swojego podejrzanego zachowania na lotnisku.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "opóźniać (kogoś)",
+                            "zatrzymywać (kogoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He was detained by a snow storm.",
+                                "Translation": "(Opóźniła go burza śnieżna.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

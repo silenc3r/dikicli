@@ -1,0 +1,64 @@
+[
+    {
+        "Entry": [
+            "amenity"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "urok"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "udogodnienie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We've got modern amenities like the elevator.",
+                                "Translation": "(Mamy nowoczesne udogodnienia, na przykład windę.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "amenities"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "udogodnienia",
+                            "wyposażenie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Our facility needs the amenities for the disabled.",
+                                "Translation": "(Nasza placówka potrzebuje udogodnień dla niepełnosprawnych.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "uprzejmości",
+                            "grzeczności"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

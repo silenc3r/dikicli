@@ -1,0 +1,34 @@
+[
+    {
+        "Entry": [
+            "collate"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "porównywać",
+                            "zestawiać"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "skolacjonować (porównywać odpis albo przekład z oryginałem)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "segregować"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

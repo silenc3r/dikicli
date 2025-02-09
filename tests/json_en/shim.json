@@ -1,0 +1,21 @@
+[
+    {
+        "Entry": [
+            "shim"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "podkładka"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

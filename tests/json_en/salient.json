@@ -1,0 +1,41 @@
+[
+    {
+        "Entry": [
+            "salient"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "główny",
+                            "najistotniejszy",
+                            "wyrazisty"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "sterczący",
+                            "wystający"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "narożnik bastionu"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "Entry": [
+            "debris"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "gruzy",
+                            "rumowisko",
+                            "odłamki",
+                            "szczątki (np. szkła, metalu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It took a week to clean up the debris after the explosion.",
+                                "Translation": "(Sprzątnięcie gruzów po wybuchu zajęło tydzień.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "śmieci",
+                            "bałagan"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It's about time I cleaned the debris in my room.",
+                                "Translation": "(Najwyższa pora, żebym sprzątnął bałagan w moim pokoju.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rumosz (nagromadzenie odłamów skalnych)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

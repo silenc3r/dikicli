@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "Avery"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "nazwa własna",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "Avery (imię żeńskie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Avery, can I borrow your book?",
+                                "Translation": "(Avery, mogę pożyczyć twoją książkę?)"
+                            },
+                            {
+                                "Sentence": "Avery is a very pretty young girl.",
+                                "Translation": "(Avery jest bardzo piękną młodą dziewczyną.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

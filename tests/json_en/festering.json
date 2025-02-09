@@ -1,0 +1,106 @@
+[
+    {
+        "Entry": [
+            "festering"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "jątrzenie się (o problemie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "ropienie (o ranie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "gnicie (o odpadkach)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "gnicie",
+                            "obijanie się"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "fester"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "jątrzyć się",
+                            "zaostrzać się (o konflikcie, problemie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They are trying to resolve the festering conflict.",
+                                "Translation": "(Próbują rozwiązać jątrzący się konflikt.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ropieć (o ranie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The cut is festering.",
+                                "Translation": "(Ta rana ropieje.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "gnić (o odpadkach)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "gnić",
+                            "obijać się"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ropienie"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "ropień"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

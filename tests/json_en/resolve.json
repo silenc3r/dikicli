@@ -1,0 +1,91 @@
+[
+    {
+        "Entry": [
+            "resolve"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozwiązywać (np. problem)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We are able to resolve a great number of problems.",
+                                "Translation": "(Jesteśmy zdolni do rozwiązania wielu problemów.)"
+                            },
+                            {
+                                "Sentence": "The problem resolved itself.",
+                                "Translation": "(Problem rozwiązał się sam.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "postanawiać",
+                            "zdecydować się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I resolved to give you the money.",
+                                "Translation": "(Postanowiłem dać ci te pieniądze.)"
+                            },
+                            {
+                                "Sentence": "He resolved to set up his own business.",
+                                "Translation": "(On postanowił założyć swój własny biznes.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rozkładać",
+                            "rozpuszczać się",
+                            "ulegać rozkładowi"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The plastic bag resolves for a few hundred years.",
+                                "Translation": "(Plastikowa torba rozkłada się przez kilkaset lat.)"
+                            },
+                            {
+                                "Sentence": "Paper resolves really quickly.",
+                                "Translation": "(Papier ulega rozkładowi naprawdę szybko.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "cofać się",
+                            "ustępować (np. o chorobie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "determinacja",
+                            "stanowczość"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His resolve is admirable.",
+                                "Translation": "(Jego determinacja jest godna podziwu.)"
+                            },
+                            {
+                                "Sentence": "She showed resolve when she started practising.",
+                                "Translation": "(Ona pokazała determinację, kiedy zaczęła ćwiczyć.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

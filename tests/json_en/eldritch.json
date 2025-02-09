@@ -1,0 +1,25 @@
+[
+    {
+        "Entry": [
+            "eldritch",
+            "eldrich"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niesamowity",
+                            "nadprzyrodzony",
+                            "upiorny",
+                            "złowrogi"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

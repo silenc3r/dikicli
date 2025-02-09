@@ -1,0 +1,1130 @@
+[
+    {
+        "Entry": [
+            "would"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "(czasownik modalny używany do opisywania czyichś zamiarów w przeszłości)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He said he would come.",
+                                "Translation": "(On powiedział, że przyjdzie.)"
+                            },
+                            {
+                                "Sentence": "Mary told me she would help me.",
+                                "Translation": "(Mary mi powiedziała, że mi pomoże.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "(czasownik modalny używany do mówienia o hipotetycznych sytuacjach w przyszłości)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I would be happy if she agreed to go out with me.",
+                                "Translation": "(Byłbym szczęśliwy, gdyby zgodziła się ze mną umówić.)"
+                            },
+                            {
+                                "Sentence": "I would visit you if I had more free time.",
+                                "Translation": "(Odwiedziłbym cię, gdybym miał więcej wolnego czasu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "(czasownik modalny używany do mówienia o hipotetycznych sytuacjach z przeszłości)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I would have gone there, but I was too scared.",
+                                "Translation": "(Poszedłbym tam, ale byłem zbyt przerażony.)"
+                            },
+                            {
+                                "Sentence": "I would have bought that flat if I had more money.",
+                                "Translation": "(Kupiłbym tamto mieszkanie, gdybym miał więcej pieniędzy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "(czasownik modalny używany do mówienia o czymś, co działo się często w przeszłości)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "At the weekends they would meet up secretly.",
+                                "Translation": "(W czasie weekendów oni zwykli spotykać się potajemnie.)"
+                            },
+                            {
+                                "Sentence": "He would play computer games every day when he was a child.",
+                                "Translation": "(On grał (zwykł grać) w gry komputerowe codziennie, kiedy był dzieckiem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "(czasownik modalny używany w grzecznych prośbach)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Would you help me?",
+                                "Translation": "(Pomógłbyś mi?)"
+                            },
+                            {
+                                "Sentence": "Would you close the window? It is chilly in here.",
+                                "Translation": "(Czy zamknąłbyś okno? Chłodno tutaj.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "(czasownik modalny używany do zapropowania komuś czegoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Would you like a tea?",
+                                "Translation": "(Masz ochotę na herbatę?)"
+                            },
+                            {
+                                "Sentence": "Would you like to go to the cinema tomorrow?",
+                                "Translation": "(Chciałbyś pójść jutro do kina?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "(czasownik modalny używany do wyrażenia chęci na coś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I would like to meet you.",
+                                "Translation": "(Chciałbym się z tobą spotkać.)"
+                            },
+                            {
+                                "Sentence": "She would like to watch a film.",
+                                "Translation": "(Ona chciałaby obejrzeć film.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "(czasownik modalny używany do wyrażania lub pytania o radę)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "What would you do, if you were me?",
+                                "Translation": "(Co byś zrobił na moim miejscu?)"
+                            },
+                            {
+                                "Sentence": "Which shirt would you buy?",
+                                "Translation": "(Którą koszulę byś kupił?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "(czasownik modalny używany do mówienia o typowym dla kogoś zachowaniu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He would go and spoil the party!",
+                                "Translation": "(On by tylko poszedł i zepsuł imprezę!)"
+                            },
+                            {
+                                "Sentence": "I hate going out with her, she would always talk about herself.",
+                                "Translation": "(Nie cierpię z nią wychodzić, ona by tylko gadała o sobie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "will"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "będzie (używane do tworzenia form czasu przyszłego)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I hope it will not rain tomorrow!",
+                                "Translation": "(Mam nadzieję, że jutro nie będzie padać!)"
+                            },
+                            {
+                                "Sentence": "Our party will be great!",
+                                "Translation": "(Nasza impreza będzie świetna!)"
+                            },
+                            {
+                                "Sentence": "It will be sunny tomorrow.",
+                                "Translation": "(Jutro będzie słonecznie.)"
+                            },
+                            {
+                                "Sentence": "Who will be at the party?",
+                                "Translation": "(Kto będzie na przyjęciu?)"
+                            },
+                            {
+                                "Sentence": "We will visit our friends next week.",
+                                "Translation": "(Odwiedzimy naszych przyjaciół w przyszłym tygodniu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "może (używane do powiedzenia, że ktoś jest gotowy, aby coś zrobić)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He will meet you now.",
+                                "Translation": "(On może się teraz z tobą spotkać.)"
+                            },
+                            {
+                                "Sentence": "Mr Smith will see you now.",
+                                "Translation": "(Pan Smith może się teraz z tobą zobaczyć.)"
+                            },
+                            {
+                                "Sentence": "Tom will go there with you.",
+                                "Translation": "(Tom z tobą tam pójdzie.)"
+                            },
+                            {
+                                "Sentence": "I'll come here in a few minutes.",
+                                "Translation": "(Przyjdę tu za kilka minut.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "czy (ktoś coś zrobi, używane do tworzenia próśb)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Will you help me?",
+                                "Translation": "(Czy mi pomożesz?)"
+                            },
+                            {
+                                "Sentence": "Will you buy me this doll, mommy?",
+                                "Translation": "(Mamusiu, kupisz mi tę lalkę?)"
+                            },
+                            {
+                                "Sentence": "Who will go there with me?",
+                                "Translation": "(Kto tam ze mną pójdzie?)"
+                            },
+                            {
+                                "Sentence": "Will you go with me to the party this Saturday?",
+                                "Translation": "(Czy pójdziesz ze mną na imprezę w tę sobotę?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "będzie (do wyrażania tego, co jest zawsze prawdziwe w danej sytuacji)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "If you don't eat now, you will be hungry.",
+                                "Translation": "(Jeżeli teraz nie zjesz, będziesz głodny.)"
+                            },
+                            {
+                                "Sentence": "If you study, you will get good grades.",
+                                "Translation": "(Jeżeli będziesz się uczyć, dostaniesz dobre oceny.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "może",
+                            "będzie (do wyrażenia jakiejś możliwości)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I think it will rain.",
+                                "Translation": "(Myślę, że będzie padać.)"
+                            },
+                            {
+                                "Sentence": "He will come here tomorrow.",
+                                "Translation": "(On może tu jutro przyjdzie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "używane, by wyrazić przekonanie, że coś jest prawdziwe"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "That will be my son coming home now.",
+                                "Translation": "(To mój syn właśnie przyszedł do domu.)"
+                            },
+                            {
+                                "Sentence": "That will be the branch tapping the window.",
+                                "Translation": "(To gałąź stukająca w okno.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bądź",
+                            "bądźcie (używane w dawaniu rozkazów)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You will be silent and polite.",
+                                "Translation": "(Bądźcie cicho i grzeczni.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ciągle robić (używane do określenia czyichś denerwujących nawyków)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Jenny will keep knocking on the table.",
+                                "Translation": "(Jenny ciągle uderza palcami o stół.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pragnąć",
+                            "zmuszać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'm willing him to visit us.",
+                                "Translation": "(Pragnę, by on nas odwiedził.)"
+                            },
+                            {
+                                "Sentence": "He willed us to do it.",
+                                "Translation": "(On zmusił nas do zrobienia tego.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zapisywać w testamencie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He promised to will me his car.",
+                                "Translation": "(On obiecał zapisać mi w testamencie swój samochód.)"
+                            },
+                            {
+                                "Sentence": "My grandpa willed all his money to me.",
+                                "Translation": "(Mój dziadek zapisał mi w testamencie wszystkie swoje pieniądze.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "chcieć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I will help you because I love you.",
+                                "Translation": "(Chcę ci pomóc, ponieważ cię kocham.)"
+                            },
+                            {
+                                "Sentence": "He won't see me.",
+                                "Translation": "(On nie chce mnie widzieć.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wola",
+                            "determinacja"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "All you need to succeed is good will.",
+                                "Translation": "(Wszystko czego potrzebujesz, by odnieść sukces to dobra wola.)"
+                            },
+                            {
+                                "Sentence": "I will do nothing against my parents will.",
+                                "Translation": "(Nie zrobię nic wbrew woli rodziców.)"
+                            },
+                            {
+                                "Sentence": "My strong will led me to this success.",
+                                "Translation": "(Moja silna wola doprowadziła mnie do tego sukcesu.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "have to"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "musieć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I have to study.",
+                                "Translation": "(Muszę się uczyć.)"
+                            },
+                            {
+                                "Sentence": "My mother told me that I have to do the dishes.",
+                                "Translation": "(Moja mama powiedziała mi, że muszę umyć naczynia.)"
+                            },
+                            {
+                                "Sentence": "He doesn't have to go to the dentist.",
+                                "Translation": "(On nie musi iść do dentysty.)"
+                            },
+                            {
+                                "Sentence": "We don't have to fight.",
+                                "Translation": "(Nie musimy walczyć.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "would you"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "czy mógłbyś (w grzecznych prośbach i propozycjach)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Would you mind opening the window for me, please?",
+                                "Translation": "(Czy mógłbyś otworzyć dla mnie okno?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "have"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mieć",
+                            "posiadać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I have two brothers and a sister.",
+                                "Translation": "(Mam dwóch braci i siostrę.)"
+                            },
+                            {
+                                "Sentence": "Have you got a camera?",
+                                "Translation": "(Czy masz aparat fotograficzny?)"
+                            },
+                            {
+                                "Sentence": "That's all I've got to say.",
+                                "Translation": "(To wszystko, co mam do powiedzenia.)"
+                            },
+                            {
+                                "Sentence": "Do you have any money?",
+                                "Translation": "(Czy masz jakieś pieniądze?)"
+                            },
+                            {
+                                "Sentence": "I have two boats.",
+                                "Translation": "(Posiadam dwie łodzie.)"
+                            },
+                            {
+                                "Sentence": "My parents have a big house.",
+                                "Translation": "(Moi rodzice mają duży dom.)"
+                            },
+                            {
+                                "Sentence": "Do you have money?",
+                                "Translation": "(Masz przy sobie pieniądze?)"
+                            },
+                            {
+                                "Sentence": "I don't have any money.",
+                                "Translation": "(Nie mam przy sobie żadnych pieniędzy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "mieć (np. jakąś cechę, właściwość)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She has long, dark hair.",
+                                "Translation": "(Ona ma długie, ciemne włosy.)"
+                            },
+                            {
+                                "Sentence": "My wife doesn't have patience.",
+                                "Translation": "(Moja żona nie ma cierpliwości.)"
+                            },
+                            {
+                                "Sentence": "Do you have something to say?",
+                                "Translation": "(Masz coś do powiedzenia?)"
+                            },
+                            {
+                                "Sentence": "I just wanted you to have something to remember us by.",
+                                "Translation": "(Chciałem, byś miała coś, co będzie ci o nas przypominać.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "robić coś"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "jeść",
+                            "pić"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Let's have dinner.",
+                                "Translation": "(Zjedzmy obiad.)"
+                            },
+                            {
+                                "Sentence": "\"Why are you so weak?\" \"I didn't have breakfast.\"",
+                                "Translation": "(\"Czemu jesteś taki słaby?\" \"Nie jadłem śniadania.\")"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "doświadczać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I had too many bad things in my life.",
+                                "Translation": "(Doświadczyłem zbyt wielu złych rzeczy w moim życiu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "czuć",
+                            "odczuwać (np. różne uczucia)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "cierpieć (np. na choroby)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He has Lyme disease.",
+                                "Translation": "(On cierpi na boreliozę.)"
+                            },
+                            {
+                                "Sentence": "Jane has cancer.",
+                                "Translation": "(Jane cierpi na raka.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "otrzymywać",
+                            "mieć"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "mieć (czas)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Keep talking, I have time.",
+                                "Translation": "(Mów dalej, mam czas.)"
+                            },
+                            {
+                                "Sentence": "I don't have time for your jokes.",
+                                "Translation": "(Nie mam czasu na twoje żarty.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "mieć (coś w określonej pozycji, w określonym stanie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "mieć (pracę, obowiązki)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I have too many responsibilities.",
+                                "Translation": "(Mam za dużo obowiązków.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "mieć dostępne (np. pokoje w hotelu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We have two rooms available.",
+                                "Translation": "(Mamy dostępne dwa pokoje.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "trzymać (np. kogoś za ramię)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He had my hand this whole time.",
+                                "Translation": "(On trzymał mnie za rękę cały ten czas.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "mieć (gości)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I can't go out tonight, I have guests.",
+                                "Translation": "(Nie mogę dziś wyjść, mam gości.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "organizować (np. imprezę)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'm having a party this Saturday.",
+                                "Translation": "(Organizuję imprezę w tą sobotę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "skutkować",
+                            "odnosić skutek"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "mieć (szansę, okazję)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Do you think I have a chance with her?",
+                                "Translation": "(Czy myślisz, że mam u niej szansę?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rodzić (dziecko)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The thought of having a baby was scary, but a little exciting too.",
+                                "Translation": "(Myśl o urodzeniu dziecka była straszna, ale też nieco ekscytująca.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "sprawiać (żeby ktoś coś zrobił)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I had him clean his room.",
+                                "Translation": "(Sprawiłem, by on posprzątał swój pokój.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przekonywać (kogoś)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "mieć kogoś (gdy mamy na myśli, że ktoś uprawiał z kimś seks)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I think she's had a lot of men.",
+                                "Translation": "(Myślę że ona miała wielu mężczyzn.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "mieć",
+                            "miewać (np. ból głowy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I have a headache.",
+                                "Translation": "(Mam ból głowy.)"
+                            },
+                            {
+                                "Sentence": "I have stomachaches.",
+                                "Translation": "(Miewam bóle brzucha.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "palić",
+                            "zapalić (papierosa)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'm going to have a smoke.",
+                                "Translation": "(Idę zapalić.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "głosić",
+                            "nieść (np. plotka)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "have something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "częstować się czymś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Have a sandwich, I made them for everyone.",
+                                "Translation": "(Poczęstuj się kanapką, zrobiłem je dla wszystkich.)"
+                            },
+                            {
+                                "Sentence": "Have some of the pie, it is delicious.",
+                                "Translation": "(Poczęstuj się kawałkiem placka, jest przepyszny.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "I'd"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "skrócona forma \"I had\""
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "skrócona forma \"I would\""
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "they'd"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "skrócona forma \"they had\""
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They'd known each other only during their two high school years.",
+                                "Translation": "(Oni znali się tylko przez dwa lata w liceum.)"
+                            },
+                            {
+                                "Sentence": "At first they'd wanted just a place in the country.",
+                                "Translation": "(Na początku oni chceli tylko miejsca na wsi.)"
+                            },
+                            {
+                                "Sentence": "They'd been looking for a way to move out of the city.",
+                                "Translation": "(Oni szukali sposobu, żeby wyprowadzić się z miasta.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "skrócona forma \"they would\""
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They would be able to run again for the same office in 2005.",
+                                "Translation": "(Oni będą mogli ubiegać się o ten sam urząd w 2005 roku.)"
+                            },
+                            {
+                                "Sentence": "They would be on their feet again in a day or so.",
+                                "Translation": "(Oni będą na nogach za około dzień.)"
+                            },
+                            {
+                                "Sentence": "They would remember him for a long time to come.",
+                                "Translation": "(One zapamiętają go potem na długo.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "she'd"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "skrócona forma \"she had\""
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She didn't tell me where she'd been or with who.",
+                                "Translation": "(Ona nie powiedziała mi, gdzie była albo z kim.)"
+                            },
+                            {
+                                "Sentence": "If she wanted to choose me, she'd have done it a long time ago.",
+                                "Translation": "(Jeśli ona chciałaby wybrać mnie, zrobiłaby to dawno temu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "skrócona forma \"she would\""
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She'd want to hear the news from you.",
+                                "Translation": "(Ona chciałaby usłyszeć wieści od ciebie.)"
+                            },
+                            {
+                                "Sentence": "She'd be happy for you.",
+                                "Translation": "(Ona cieszyłaby się twoim szczęściem.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "he'd"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "skrócona forma \"he had\""
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "skrócona forma \"he would\""
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "we'd"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "skrócona forma \"we had\" (tylko, gdy \"had\" jest czasownikiem modalnym)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We'd better told him what happened.",
+                                "Translation": "(Lepiej żebyśmy mu powiedzieli, co się stało.)"
+                            },
+                            {
+                                "Sentence": "We'd been thinking about this proposal and this is our opinion.",
+                                "Translation": "(Myśleliśmy o tej propozycji i to jest nasza opinia.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "skrócona forma \"we would\""
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We'd like to see him do a better job.",
+                                "Translation": "(Chcielibyśmy, żeby on lepiej wykonywał swoją robotę.)"
+                            },
+                            {
+                                "Sentence": "We'd like some starters and broth.",
+                                "Translation": "(Poprosimy jakieś przystawki i rosół.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "you'd"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "skrócona forma \"you had\""
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You'd better not take his words seriously.",
+                                "Translation": "(Lepiej nie bierz jego słów na poważnie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "skrócona forma \"you would\""
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You'd have to get up very early in the morning.",
+                                "Translation": "(Musiałbyś wstać bardzo wcześnie rano.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "it'd"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "skrócona forma \"it had\""
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "skrócona forma \"it would\""
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "-'d"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "suffiks",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "skrót od 'would'"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She'd be a good teacher.",
+                                "Translation": "(Ona byłaby dobrą nauczycielką.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "skrót od 'had' (tylko gdy jest czasownikiem modalnym)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'd finished before you came.",
+                                "Translation": "(Skończyłem zanim przyszłaś.)"
+                            },
+                            {
+                                "Sentence": "I had a lot of work last week.",
+                                "Translation": "(W ostatnim tygodniu miałem dużo pracy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "skrót od 'did'"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "have had it"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mieć czegoś po dziurki w nosie",
+                            "mieć czegoś dosyć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I've had it with these people.",
+                                "Translation": "(Mam dosyć tych ludzi.)"
+                            },
+                            {
+                                "Sentence": "That's it, I've had it with you!",
+                                "Translation": "(Wystarczy, mam cię dosyć!)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "być w złym stanie",
+                            "nie działać dobrze"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "być wykończonym"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "być straconym (na przegranej pozycji)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "be had"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zostać oszukanym",
+                            "zostać wykiwanym"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "Entry": [
+            "static"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "statyczny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zakłócenia (np. radiowe)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "static electricity",
+            "static"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "elektryczność statyczna"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,164 @@
+[
+    {
+        "Entry": [
+            "care"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "opieka (np. nad chorym)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This hospital offers high standards of medical care.",
+                                "Translation": "(Ten szpital oferuje wysokie standardy opieki medycznej.)"
+                            },
+                            {
+                                "Sentence": "A baby is sick. It needs a lot of care.",
+                                "Translation": "(Dziecko jest chore. Potrzebuje dużo opieki.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ostrożność",
+                            "uwaga",
+                            "dbałość"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Plan your week with care.",
+                                "Translation": "(Zaplanuj swój tydzień z ostrożnością.)"
+                            },
+                            {
+                                "Sentence": "Change it with a good care.",
+                                "Translation": "(Zmień to z należytą dbałością.)"
+                            },
+                            {
+                                "Sentence": "It's fragile. Please move it with care.",
+                                "Translation": "(To jest kruche. Proszę przesuń to z ostrożnością.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dbałość",
+                            "troska (np. o urządzenia mechaniczne)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His care of the car was amazing.",
+                                "Translation": "(Jego dbałość o samochód była niesamowita.)"
+                            },
+                            {
+                                "Sentence": "Their care of the farm makes it a perfect home for different animals.",
+                                "Translation": "(Ich troska o farmę powoduje, że jest to doskonały dom dla wielu zwierząt.)"
+                            },
+                            {
+                                "Sentence": "Change it with a good care.",
+                                "Translation": "(Zmień to z należytą dbałością.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "troska",
+                            "zmartwienie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She had a lot of cares lately.",
+                                "Translation": "(Ona miała ostatnio wiele zmartwień.)"
+                            },
+                            {
+                                "Sentence": "My cares don't bother him at all.",
+                                "Translation": "(Moje zmartwienia w ogóle go nie obchodzą.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zależeć",
+                            "darzyć uczuciem",
+                            "przejmować się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He cares deeply about his sister.",
+                                "Translation": "(On darzy swoją siostrę wielkim uczuciem.)"
+                            },
+                            {
+                                "Sentence": "I care about you, what's wrong with that?",
+                                "Translation": "(Zależy mi na tobie, co w tym złego?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "opiekować się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Are our prisoners cared for?",
+                                "Translation": "(Czy opiekujecie się naszymi więźniami?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "obchodzić",
+                            "interesować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I don't care what people think.",
+                                "Translation": "(Nie obchodzi mnie co pomyślą sobie ludzie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dbać",
+                            "utrzymywać w dobrej kondycji"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'm going to teach you how to care for your shoes.",
+                                "Translation": "(Nauczę cię jak dbać o swoje buty.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "have a care!"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ostrożnie!",
+                            "uwaga!"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

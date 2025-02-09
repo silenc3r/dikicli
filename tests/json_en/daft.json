@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "daft"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "durny",
+                            "głupi",
+                            "niemądry (np. pomysł)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Daft songs get stuck in your head the most.",
+                                "Translation": "(Głupie piosenki wkręcają się najbardziej.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

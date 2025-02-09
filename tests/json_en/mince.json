@@ -1,0 +1,123 @@
+[
+    {
+        "Entry": [
+            "mince",
+            "grind"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "siekać",
+                            "posiekać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Mince the meat finely.",
+                                "Translation": "(Drobno posiekaj mięso.)"
+                            },
+                            {
+                                "Sentence": "Mince two onions and add them to the sauce.",
+                                "Translation": "(Posiekaj dwie cebule i dodaj je do sosu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "mielić",
+                            "mleć"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "mince"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "siekać",
+                            "krajać na drobne kawałki",
+                            "mielić"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "dreptać",
+                            "robić drobne kroczki",
+                            "tuptać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She minced across the room in a pair of yellow slippers.",
+                                "Translation": "(Ona przedreptała przez pokój w żółtych kapciach.)"
+                            },
+                            {
+                                "Sentence": "The boy minced towards his mom saying that he loved her.",
+                                "Translation": "(Chłopiec przydreptał do mamy mówiąc, że ją kocha.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "mince",
+            "hamburger"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mielona wołowina"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She adds onions to the mince before she fries it.",
+                                "Translation": "(Ona dodaje cebuli do mielonej wołowiny, zanim ją usmaży.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "mince",
+            "mincemeat",
+            "ground meat"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mięso mielone"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

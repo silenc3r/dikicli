@@ -1,0 +1,40 @@
+[
+    {
+        "Entry": [
+            "voluptuous"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zmysłowa",
+                            "ponętna (kobieta)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She was very pretty and voluptuous.",
+                                "Translation": "(Ona była bardzo ładna i ponętna.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "lubieżny",
+                            "pożądliwy (np. gest, dotyk)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zmysłowy (np. wygląd, zapach)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

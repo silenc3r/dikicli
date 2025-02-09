@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "accost"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zaczepiać",
+                            "zagadywać"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "nagabywać",
+                            "napastować (w celach seksualnych)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

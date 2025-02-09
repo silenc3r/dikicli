@@ -1,0 +1,173 @@
+[
+    {
+        "Entry": [
+            "clerk"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sekretarz"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He was a clerk at my office.",
+                                "Translation": "(On był sekretarzem w moim biurze.)"
+                            },
+                            {
+                                "Sentence": "I have too many duties, I need a clerk.",
+                                "Translation": "(Mam za dużo obowiązków, potrzebuję sekretarza.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "urzędnik",
+                            "urzędniczka",
+                            "pracownik biurowy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He worked as a clerk to support his family.",
+                                "Translation": "(Pracował jako urzędnik, żeby utrzymać rodzinę.)"
+                            },
+                            {
+                                "Sentence": "Don't complain, you're a clerk - it's a good job.",
+                                "Translation": "(Nie narzekaj, jesteś pracownikiem biurowym - to dobra praca.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zakrystian (w kościele anglikańskim)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The clerk is cleaning up the church.",
+                                "Translation": "(Zakrystian sprząta kościół.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "klerk"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pracować jako sprzedawca"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He clerks in a supermarket.",
+                                "Translation": "(On pracuje jako sprzedawca w supermarkecie.)"
+                            },
+                            {
+                                "Sentence": "My brother clerked last summer to make some money.",
+                                "Translation": "(Zeszłego lata mój brat pracował jako sprzedawca, żeby trochę zarobić.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "shop assistant",
+            "sales assistant",
+            "sales clerk",
+            "clerk"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sprzedawca",
+                            "ekspedient",
+                            "ekspedientka (w sklepie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The shop assistant was busy putting away some clothes.",
+                                "Translation": "(Sprzedawca był zajęty odkładaniem na miejsce ubrań.)"
+                            },
+                            {
+                                "Sentence": "I have made a complaint about the unhelpful shop assistant.",
+                                "Translation": "(Złożyłem skargę na mało pomocną ekspedientkę.)"
+                            },
+                            {
+                                "Sentence": "I'm just a clerk in a video store.",
+                                "Translation": "(Jestem tylko sprzedawcą w sklepie filmowym.)"
+                            },
+                            {
+                                "Sentence": "She works as a clerk in a local grocery.",
+                                "Translation": "(Ona pracuje jako ekspedientka w miejscowym sklepie spożywczym.)"
+                            },
+                            {
+                                "Sentence": "Being a clerk is not so easy, you have to be good at maths.",
+                                "Translation": "(Bycie ekspedientem nie jest takie łatwe, trzeba być dobrym z matematyki.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "receptionist",
+            "desk clerk",
+            "clerk",
+            "check-in clerk"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "recepcjonista",
+                            "recepcjonistka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The receptionist was helpful and friendly.",
+                                "Translation": "(Recepcjonistka była pomocna i przyjazna.)"
+                            },
+                            {
+                                "Sentence": "The manager hired a new desk clerk.",
+                                "Translation": "(Kierownik zatrudnił nową recepcjonistkę.)"
+                            },
+                            {
+                                "Sentence": "I want to speak with the receptionist.",
+                                "Translation": "(Chcę rozmawiać z recepcjonistą.)"
+                            },
+                            {
+                                "Sentence": "The clerk got our room keys mixed up, that's all.",
+                                "Translation": "(Recepcjonista pomylił klucze od naszych pokojów, to wszystko.)"
+                            },
+                            {
+                                "Sentence": "I found the clerk behind the counter in the reception.",
+                                "Translation": "(Znalazłem recepcjonistę za ladą w recepcji.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

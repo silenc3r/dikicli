@@ -1,0 +1,134 @@
+[
+    {
+        "Entry": [
+            "submit"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przedstawiać (sprawę)",
+                            "składać (np. rezygnację)",
+                            "przedkładać",
+                            "dostarczać (dokumenty)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You must submit your application by January 1st.",
+                                "Translation": "(Musisz dostarczyć swoje podanie do pierwszego stycznia.)"
+                            },
+                            {
+                                "Sentence": "The developers submitted building plans for approval.",
+                                "Translation": "(Deweloperzy dostarczyli plany budowy do zatwierdzenia.)"
+                            },
+                            {
+                                "Sentence": "I submitted a formal request on her behalf.",
+                                "Translation": "(Złożyłam oficjalną prośbę w jej imieniu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "poddawać się",
+                            "podporządkowywać się"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "poddawać (analizie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The sample will be submitted for analysis.",
+                                "Translation": "(Próbka będzie poddana analizie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "poddawać pod rozwagę (propozycję, projekt)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We've submitted the project for the final tests.",
+                                "Translation": "(Poddaliśmy projekt ostatecznym testom.)"
+                            },
+                            {
+                                "Sentence": "They will submit their plan next week.",
+                                "Translation": "(Oni poddadzą swój plan pod rozwagę w przyszłym tygodniu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "argumentować",
+                            "wysuwać argument (w sądzie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You have the right to submit your arguments.",
+                                "Translation": "(Masz prawo do wysunięcia swoich argumentów.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przycisk \"wyślij\" na stronach internetowych przy wypełnianiu formularzy, ankiet, itp."
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "submit to something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ulegać czemuś",
+                            "poddawać się czemuś",
+                            "podporządkowywać się czemuś"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "submit something to somebody"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przedkładać coś komuś",
+                            "składać coś komuś"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

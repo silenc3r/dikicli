@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "pulverise",
+            "pulverize"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zmiażdżyć (np. przeciwników)",
+                            "pokonać",
+                            "zniszczyć"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "proszkować"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

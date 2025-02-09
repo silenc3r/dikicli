@@ -1,0 +1,36 @@
+[
+    {
+        "Entry": [
+            "miscarry"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "poronić"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "nie udać się",
+                            "chybić",
+                            "doznać niepowodzenia"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "nie dojść (o statku)",
+                            "nie zostać doręczonym (o liście)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

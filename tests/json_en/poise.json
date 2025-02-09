@@ -1,0 +1,76 @@
+[
+    {
+        "Entry": [
+            "poise"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "opanowanie",
+                            "równowaga",
+                            "zrównoważona postawa"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Ballet is about precision, discipline, and poise.",
+                                "Translation": "(Balet to precyzja, dyscyplina i równowaga.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wytworność",
+                            "gracja"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We will present ourselves with grace and poise.",
+                                "Translation": "(Zaprezentujemy się z wdziękiem i wytwornością.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "postawa ciała",
+                            "figura"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She would be a perfect model with that poise.",
+                                "Translation": "(Z taką figurą byłaby idealną modelką.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pewność siebie"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "puaz (jednostka lepkości dynamicznej)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "unosić coś",
+                            "trzymać coś (ostrożnie w powietrzu, w równowadze)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

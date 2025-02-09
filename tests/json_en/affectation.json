@@ -1,0 +1,24 @@
+[
+    {
+        "Entry": [
+            "affectation",
+            "affectedness"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "udawanie",
+                            "poza",
+                            "sztuczność (nienaturalny sposób zachowania)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,480 @@
+[
+    {
+        "Entry": [
+            "work"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pracować (wykonywać płatną pracę)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Where do you work?",
+                                "Translation": "(Gdzie pracujesz?)"
+                            },
+                            {
+                                "Sentence": "I sometimes have to work on Sundays.",
+                                "Translation": "(Czasami muszę pracować w niedziele.)"
+                            },
+                            {
+                                "Sentence": "I work in a grocery.",
+                                "Translation": "(Pracuję w sklepie spożywczym.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pracować (z kimś, niosąc pomoc, np. z niepełnosprawnymi)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She works with blind children.",
+                                "Translation": "(Ona pracuje z niewidomymi dziećmi.)"
+                            },
+                            {
+                                "Sentence": "She learns the sign language to work with the deaf.",
+                                "Translation": "(Ona uczy się języka migowego, aby pracować z głuchoniemymi.)"
+                            },
+                            {
+                                "Sentence": "I work with children from an orphanage.",
+                                "Translation": "(Pracuję z dziećmi z domu dziecka.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pracować (robić coś, co wymaga wysiłku)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I've been working all day, I'm exhausted.",
+                                "Translation": "(Pracowałem cały dzień, jestem wykończony.)"
+                            },
+                            {
+                                "Sentence": "Mary is working in the garden.",
+                                "Translation": "(Mary pracuje w ogrodzie.)"
+                            },
+                            {
+                                "Sentence": "If you want to get good grades, you have to work hard.",
+                                "Translation": "(Jeżeli chcesz dostawać dobre oceny, musisz ciężko pracować.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pracować (starać się coś osiągnąć)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'm working to get a promotion.",
+                                "Translation": "(Pracuję, by dostać awans.)"
+                            },
+                            {
+                                "Sentence": "I work for my figure.",
+                                "Translation": "(Ja pracuję na moją figurę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "działać",
+                            "pracować (o urządzeniu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Our telephone isn't working.",
+                                "Translation": "(Nasz telefon nie działa.)"
+                            },
+                            {
+                                "Sentence": "I can't get these speakers to work.",
+                                "Translation": "(Nie mogę sprawić, aby te głośniki działały.)"
+                            },
+                            {
+                                "Sentence": "My phone doesn't work, so I have to buy a new one.",
+                                "Translation": "(Mój telefon nie działa, więc muszę kupić nowy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "sprawić, żeby zadziałało",
+                            "uruchomić (urządzenie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He worked my old phone.",
+                                "Translation": "(On uruchomił mój stary telefon.)"
+                            },
+                            {
+                                "Sentence": "We managed to work the old record player.",
+                                "Translation": "(Udało się nam uruchomić stary gramofon.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "być efektywnym",
+                            "odnieść sukces"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I hope this will work - if not, I give up.",
+                                "Translation": "(Mam nadzieję, że to będzie efektywne - jeśli nie, ja się poddaję.)"
+                            },
+                            {
+                                "Sentence": "Our song worked and we signed a contract.",
+                                "Translation": "(Nasza piosenka odniosła sukces i podpisaliśmy umowę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "odnosić skutek"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I tried to apologize to her but it didn't work.",
+                                "Translation": "(Próbowałem ją przeprosić, ale nie odniosło to skutku.)"
+                            },
+                            {
+                                "Sentence": "Your brilliant idea didn't work.",
+                                "Translation": "(Twój błyskotliwy pomysł nie odniósł skutku.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "oddziaływać",
+                            "mieć oddziaływanie zamierzone przez autora (np. sztuka, muzyka)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Their music works for me.",
+                                "Translation": "(Ich muzyka oddziałuje na mnie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kształtować (np. drewno, glinę)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Ron Swanson works the wood.",
+                                "Translation": "(Ron Swanson kształtuje drewno.)"
+                            },
+                            {
+                                "Sentence": "I worked a pot out of clay.",
+                                "Translation": "(Ukształtowałem naczynie z gliny.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "posuwać stopniowo do przodu",
+                            "posuwać się stopniowo do przodu"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We are working towards better future.",
+                                "Translation": "(Posuwamy się stopniowo do przodu w stronę lepszej przyszłości.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wykonywać ćwiczenia fizyczne"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You should start working, you're getting fat.",
+                                "Translation": "(Powinieneś zacząć wykonywać ćwiczenia fizyczne, robisz się gruby.)"
+                            },
+                            {
+                                "Sentence": "I work every day and I feel great.",
+                                "Translation": "(Codziennie wykonuję ćwiczenia fizyczne i czuję się świetnie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "poruszać",
+                            "poruszać się"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "uprawiać (np. ziemię)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My ancestors were working the field.",
+                                "Translation": "(Moi przodkowie uprawiali ziemię.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wydobywać (np. węgiel)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Why are you so dirty? Did you work coal?",
+                                "Translation": "(Czemu jesteś taki brudny? Wydobywałeś węgiel?)"
+                            },
+                            {
+                                "Sentence": "He works coal every day.",
+                                "Translation": "(On codziennie wydobywa węgiel.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "działać",
+                            "myśleć (o umyśle, mózgu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He is so stupid, does his brain work?",
+                                "Translation": "(On jest taki głupi, czy jego mózg działa?)"
+                            },
+                            {
+                                "Sentence": "My brain doesn't work without a coffee.",
+                                "Translation": "(Mój mózg nie pracuje bez kawy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rozwiązywać",
+                            "odpowiadać na (np. zagadkę matematyczną)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I was the first person to work that riddle.",
+                                "Translation": "(Ja byłem pierwszą osobą, która rozwiązała tę zagadkę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "urzędować",
+                            "pracować",
+                            "być otwartym"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The mayor's office works until 3 p.m.",
+                                "Translation": "(Biuro burmistrza jest otwarte do 15.)"
+                            },
+                            {
+                                "Sentence": "The president is not here, he doesn't work on Fridays.",
+                                "Translation": "(Prezesa tu nie ma, nie urzęduje w piątki.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "praca",
+                            "zawód (płatne zajęcie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His work is to clean the office.",
+                                "Translation": "(Jego pracą jest sprzątanie biura.)"
+                            },
+                            {
+                                "Sentence": "Janet, you should find work.",
+                                "Translation": "(Janet, powinnaś znaleźć pracę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "praca (miejsce pracy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "\"Is Kate home?\" \"No, she's still at work.\"",
+                                "Translation": "(\"Czy Kate jest w domu?\" \"Nie, ona ciągle jest w pracy.\")"
+                            },
+                            {
+                                "Sentence": "\"Where is Tom?\" \"He went to work.\"",
+                                "Translation": "(\"Gdzie jest Tom?\" \"Poszedł do pracy.\")"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "praca (obowiązki zawodowe)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Teaching people is my work.",
+                                "Translation": "(Nauczanie ludzi to moja praca.)"
+                            },
+                            {
+                                "Sentence": "My work is to serve food and take orders.",
+                                "Translation": "(Moją pracą jest serwowanie jedzenia i przyjmowanie zamówień.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rezultaty pracy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I appreciate your work - you're my best worker.",
+                                "Translation": "(Doceniam rezultaty twojej pracy - jesteś moim najlepszym pracownikiem.)"
+                            },
+                            {
+                                "Sentence": "His work is amazing - we should promote him.",
+                                "Translation": "(Rezultaty jego pracy są niesamowite - powinniśmy go awansować.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dokumenty",
+                            "papiery (potrzebne do pracy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I had to bring work home to finish the project.",
+                                "Translation": "(Musiałem przynieść papiery do domu, żeby dokończyć projekt.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dzieło (sztuki)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This painting is the best work I've ever seen.",
+                                "Translation": "(Ten obraz to najlepsze dzieło, jakie kiedykolwiek widziałem.)"
+                            },
+                            {
+                                "Sentence": "Mona Lisa is probably the most famous work of Leonardo da Vinci.",
+                                "Translation": "(Mona Lisa jest prawdopodobnie najsłynniejszym dziełem Leonarda da Vinci.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "praca (aktywność lub czynność do wykonania)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There is still a lot of work to be done.",
+                                "Translation": "(Jest ciągle dużo pracy do zrobienia.)"
+                            },
+                            {
+                                "Sentence": "You can go home when you finish your work.",
+                                "Translation": "(Możesz iść do domu, kiedy skończysz swoją pracę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "studia",
+                            "badania"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The work shows that this disease is completely curable.",
+                                "Translation": "(Badania pokazują, że ta choroba jest całkowicie uleczalna.)"
+                            },
+                            {
+                                "Sentence": "Their work will focus on human brain.",
+                                "Translation": "(Ich badania skupią się na ludzkim mózgu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "praca (w fizyce)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Do you know the formula for work?",
+                                "Translation": "(Czy znasz wzór na pracę?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "work it",
+            "work things"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "załatwić",
+                            "zorganizować"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "get to work"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zabrać się do roboty"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "get somebody to work"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zagonić kogoś do roboty"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

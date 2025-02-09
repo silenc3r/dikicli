@@ -1,0 +1,21 @@
+[
+    {
+        "Entry": [
+            "boomlet"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "krótkotrwały boom ekonomiczny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

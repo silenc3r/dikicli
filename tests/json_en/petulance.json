@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "petulance",
+            "petulancy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "drażliwość",
+                            "rozdrażnienie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

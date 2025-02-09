@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "grandee"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ważna figura",
+                            "ważna osobistość"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "grand (szlachcic hiszpański lub portugalski)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

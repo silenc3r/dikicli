@@ -1,0 +1,65 @@
+[
+    {
+        "Entry": [
+            "grit"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "odwaga",
+                            "twardy charakter"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He is a man of grit.",
+                                "Translation": "(On jest mężczyzną o twardym charakterze.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "piasek",
+                            "żwir"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Maybe you got some grit in your eye.",
+                                "Translation": "(Może żwir ci wpadł do oka.)"
+                            },
+                            {
+                                "Sentence": "A lorry full of grit arrived at the construction site.",
+                                "Translation": "(Ciężarówka pełna żwiru przyjechała na budowę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "grys (rodzaj kruszywa wykorzystywanego do budowy dróg)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "posypywać oblodzoną drogę (np. żwirem, solą)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He wanted to grit the road to his house.",
+                                "Translation": "(On chciał wysypać żwirem drogę do swojego domu.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,89 @@
+[
+    {
+        "Entry": [
+            "coop"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kojec",
+                            "klatka"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "paka",
+                            "pudło"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zamknąć",
+                            "zamykać w kojcu"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "co-op"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "spółdzielnia"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They wanna make this funky little place into a co-op.",
+                                "Translation": "(Chcą przerobić to małe, zakręcone miejsce w spółdzielnię.)"
+                            },
+                            {
+                                "Sentence": "Now only co-op members can elect their leaders.",
+                                "Translation": "(Teraz tylko członkowie spółdzielni mogą wybierać swoje władze.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "housing cooperative",
+            "co-op"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "spółdzielnia mieszkaniowa"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

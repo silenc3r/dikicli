@@ -1,0 +1,21 @@
+[
+    {
+        "Entry": [
+            "nematode"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nicień (robak o wydłużonym, obłym ciele)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

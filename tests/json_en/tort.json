@@ -1,0 +1,47 @@
+[
+    {
+        "Entry": [
+            "tort"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "delikt (wykroczenie przeciw prawu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He was punished for some torts, but nothing spectacular.",
+                                "Translation": "(On był karany za jakieś delikty, ale nie było to nic wielkiego.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "tortoiseshell",
+            "tort"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "imitujący skorupę żółwia",
+                            "cętkowany brązowo-czarno-żółty (kolor)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

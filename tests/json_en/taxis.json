@@ -1,0 +1,52 @@
+[
+    {
+        "Entry": [
+            "taxis"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "taksja",
+                            "reakcja plazmy na bodziec",
+                            "klasyfikacja taksonomiczna"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "taxi",
+            "cab"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "taksówka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Let's call a cab.",
+                                "Translation": "(Zadzwońmy po taksówkę.)"
+                            },
+                            {
+                                "Sentence": "We took a cab to the cinema.",
+                                "Translation": "(Pojechaliśmy do kina taksówką.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

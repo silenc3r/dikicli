@@ -1,0 +1,67 @@
+[
+    {
+        "Entry": [
+            "crow"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wrona"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I saw a crow in the park today.",
+                                "Translation": "(Widziałem dzisiaj wronę w parku.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pianie (np. koguta)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "stara jędza",
+                            "stara wrona"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "dziwka"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "piać (np. kogut)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "How many times did the cock crow before Peter's third denial?",
+                                "Translation": "(Ile razy zapiał kogut, zanim Piotr wyparł się po raz trzeci?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "gaworzyć (np. niemowlę)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

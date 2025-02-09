@@ -1,0 +1,172 @@
+[
+    {
+        "Entry": [
+            "balk",
+            "die square"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "belka",
+                            "krawędziak (w budownictwie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This house is supported by wooden balks.",
+                                "Translation": "(Ten dom jest wsparty na drewnianych belkach.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "wooden balk",
+            "balk",
+            "baulk"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bal",
+                            "drewniany bal"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "balk"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "miedza (w polu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My parents went to trial for a pear-tree on the balk.",
+                                "Translation": "(Moi rodzice mają proces o jedną gruszę na miedzy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "spalony (w grze w baseball)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "kłoda"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The balks are cut into smaller pieces in the mill.",
+                                "Translation": "(Kłody zostają pocięte na mniejsze kawałki w tartaku.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przeszkoda"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This is our last balk towards the goal.",
+                                "Translation": "(To nasza ostatnia przeszkoda w drodze do celu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przegrana"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They couldn't keep it together after the last balk.",
+                                "Translation": "(Oni nie mogli się pozbierać po ostatniej przegranej.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zmyłka (w sporcie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przepuścić",
+                            "przegapić"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "balk",
+            "baulk"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wzdragać się (przed czymś)",
+                            "być niechętnym (czemuś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He balks at coming back home.",
+                                "Translation": "(On wzdraga się przed powrotem do domu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "stanąć jak wryty",
+                            "zapierać się (np. jak koń przed przeszkodą)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "udaremnić",
+                            "zniweczyć",
+                            "zostać pozbawionym czegoś"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

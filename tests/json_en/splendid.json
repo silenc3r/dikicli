@@ -1,0 +1,53 @@
+[
+    {
+        "Entry": [
+            "splendid"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "znakomity (np. pomysł)",
+                            "genialny (np. plan)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "piękny (np. widok)",
+                            "przepyszny (wystrój czegoś)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "okazały (o budynku)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wyborny (o smaku)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "wykrzyknik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wspaniale",
+                            "świetnie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

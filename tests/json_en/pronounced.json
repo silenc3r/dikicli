@@ -1,0 +1,84 @@
+[
+    {
+        "Entry": [
+            "pronounced"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wyraźny",
+                            "wyrazisty"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "stanowczy (opinia)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "pronounce"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wymawiać (wypowiadać coś na głos)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "How do you pronounce it?",
+                                "Translation": "(Jak się to wymawia?)"
+                            },
+                            {
+                                "Sentence": "Can you pronounce your name more slowly?",
+                                "Translation": "(Czy możesz wymówić swoje imię wolniej?)"
+                            },
+                            {
+                                "Sentence": "Today we learnt how to pronounce words with \"-ough\" ending.",
+                                "Translation": "(Dzisiaj nauczyliśmy się jak wymawiać słowa z końcówką \"-ough\".)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "oświadczać"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "ogłaszać",
+                            "wygłaszać (np. opinię)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "orzec (np. o czyjejś winie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The court pronounced him guilty.",
+                                "Translation": "(Sąd orzekł, że on był winny.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

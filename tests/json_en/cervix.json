@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "cervix",
+            "cervix uteri"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szyjka macicy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

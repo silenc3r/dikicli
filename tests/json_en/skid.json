@@ -1,0 +1,60 @@
+[
+    {
+        "Entry": [
+            "skid"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "poślizg (pojazdu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The car went into a skid after a sudden brake.",
+                                "Translation": "(Samochód wpadł w poślizg po nagłym hamowaniu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "płoza (listwa pod kadłubem szybowca, samolotu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The skid needs replacements if this plane is to fly.",
+                                "Translation": "(Jeżeli ten samolot ma latać, trzeba wymienić płozę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wyślizg"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "poślizgnąć (się)",
+                            "wpaść w poślizg (o pojeździe)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The Mercedes skidded to a stop four metres from her.",
+                                "Translation": "(Mercedes wpadł w poślizg i zatrzymał się cztery metry przed nią.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

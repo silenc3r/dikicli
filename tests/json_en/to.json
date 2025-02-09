@@ -1,0 +1,304 @@
+[
+    {
+        "Entry": [
+            "to",
+            "of"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przyimek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przed",
+                            "do (używane przy podawaniu godziny)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The shop is open from 8 am to 9 pm.",
+                                "Translation": "(Sklep jest otwarty od 8:00 do 21:00.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "to"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przyimek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "aby",
+                            "żeby (np. coś zrobić)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Do you want me to show you the door?",
+                                "Translation": "(Czy chcesz, abym pokazał ci drzwi?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "używane samodzielnie, aby uniknąć powtórzenia czasownika"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I could have helped, but nobody asked me to.",
+                                "Translation": "(Mogłem pomóc, ale nikt mnie nie poprosił.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "w celu",
+                            "po to żeby"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "używane w odniesieniu do działania czy stanu, który się opisuje"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It's nice to be wanted.",
+                                "Translation": "(Miło jest być chcianym.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "używane do określenia tego, co może albo nie może być zrobione"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'm too tired to go out tonight.",
+                                "Translation": "(Jestem zbyt zmęczony, by dziś wychodzić.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "używane po czasowniku \"be\", aby coś rozkazać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You are here to wait until I return.",
+                                "Translation": "(Masz tu czekać póki nie wrócę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "używane do opisania czyjegoś odkrycia lub doświadczenia"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She woke to see Ben standing by the window.",
+                                "Translation": "(Obudziła się i pierwsze co zobaczyła, to Ben stojący przy oknie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "używane, by opisać swoją postawę lub cel mówienia czegoś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "To begin with, let's look at chapter 3.",
+                                "Translation": "(Na początek, spójrzmy na rozdział 3.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "do",
+                            "na"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We're flying to Berlin tomorrow.",
+                                "Translation": "(Jutro lecimy do Berlina.)"
+                            },
+                            {
+                                "Sentence": "Could you tell me how to get to the bus station?",
+                                "Translation": "(Czy mógłbyś mi powiedzieć, jak dotrzeć na dworzec autobusowy?)"
+                            },
+                            {
+                                "Sentence": "She decided to go back to London.",
+                                "Translation": "(Ona zdecydowała wrócić do Londynu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "na (np. na lewo od czegoś, na północ od czegoś)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "na (np. na gimnastykę, na ślub)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "do (używane do opisu stanu, który jest rezultatem działań, np. śpiewać do snu, wrócić do dawnego życia)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "przy (np. policzek przy policzku, nóż przy gardle)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "do (używane, by określić, gdzie coś jest przymocowane lub połączone)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "do (np. stać przodem do czegoś, stać tyłem do czegoś)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "z (używane, by pokazać związek czegoś z czymś)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "do (do określonego punktu, limitu)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "do (do określonej daty, terminu)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "dla (używane, by określić kto lub co jest powiązane z działaniami, np. palenie dla zdrowia, uprzejmy dla zwierząt)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "dla (pracować dla kogoś)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "używane, by określić do czego coś jest potrzebne"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "do (używane w porównaniach, np. jeden do dwóch)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "jak dla (np. jak dla mnie, jak na moje oko)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "ku (np. ku zdziwieniu wszystkich, ku mojemu przerażeniu)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "do (używane, by określić ile czasu zostało do jakiegoś wydarzenia)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "do (używane, by określić ile brakuje do równej jednostki)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "do (używane, by określić związek między dwiema różnymi miarami)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "przy (używane, by określić, że jakiś dźwięk towarzyszy robieniu czegoś)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "do (używane pomiędzy dwiema liczbami, gdy nie wiemy o jaką dokładnie liczbę chodzi)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "do (używane, by określić jakie są szanse na coś, np. jeden do dziesięciu)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "do pozycji przymkniętej (np. drzwi)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "theatre of operations",
+            "theater of operations",
+            "TO"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "teren operacji wojennych"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,135 @@
+[
+    {
+        "Entry": [
+            "reckoning"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rachunek",
+                            "kalkulacja (w przybliżeniu)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wyrównanie (kont)",
+                            "rozliczenie"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "rachunek rozliczeniowy"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "sąd",
+                            "osąd"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "myślenie",
+                            "sądzenie",
+                            "przypuszczanie"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "szacowanie z grubsza (np. kosztu czegoś)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "uważanie za coś (kogoś lub czegoś)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "liczenie (np. dni)",
+                            "kalkulowanie (np. odległości)",
+                            "rachowanie"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wyrównywanie rachunków",
+                            "rozliczenie się (z kimś)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wliczanie",
+                            "wliczenie (kogoś, czegoś)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "reckon"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "myśleć",
+                            "sądzić",
+                            "przypuszczać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I reckon she'll come.",
+                                "Translation": "(Sądzę, że ona przyjdzie.)"
+                            },
+                            {
+                                "Sentence": "Do you reckon we'll leave tomorrow?",
+                                "Translation": "(Myślisz, że wyjedziemy jutro?)"
+                            },
+                            {
+                                "Sentence": "This house is huge. I reckon it must have cost a fortune.",
+                                "Translation": "(Ten dom jest ogromny. Przypuszczam, że musiał kosztować majątek.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "liczyć (np. dni)",
+                            "kalkulować (np. odległość)",
+                            "rachować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The analyst reckoned that the sales value has increased by 7%.",
+                                "Translation": "(Analityk obliczył, że wartość sprzedaży wzrosła o 7%.)"
+                            },
+                            {
+                                "Sentence": "Our profits are reckoned to be around $5000.",
+                                "Translation": "(Nasze zyski są obliczone w kwocie około 5000 $.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

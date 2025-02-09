@@ -1,0 +1,50 @@
+[
+    {
+        "Entry": [
+            "acorn"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "żołądź (dębowy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "If you plant this acorn, it will grow into an oak.",
+                                "Translation": "(Jeżeli posadzisz ten żołądź, wyrośnie z niego dąb.)"
+                            },
+                            {
+                                "Sentence": "I saw a squirrel collecting acorns.",
+                                "Translation": "(Widziałem wiewiórkę, która zbierała żołędzie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "ACORN",
+            "a classification of residential neighbourhoods"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "klasyfikacja dzielnic mieszkaniowych w oparciu o zamieszkujących je ludzi dla potrzeb badań marketingowych"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

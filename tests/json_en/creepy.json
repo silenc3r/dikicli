@@ -1,0 +1,38 @@
+[
+    {
+        "Entry": [
+            "creepy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przyprawiający o gęsią skórkę",
+                            "upiorny",
+                            "straszny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Some creepy old man scared her.",
+                                "Translation": "(Wystraszył ją jakiś upiorny stary mężczyzna.)"
+                            },
+                            {
+                                "Sentence": "We were telling each other creepy stories.",
+                                "Translation": "(Opowiadaliśmy sobie przyprawiające o gęsią skórkę historie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "odrażający"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "inertia"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bezwładność",
+                            "inercja"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "bezwład",
+                            "inercja (np. osoby, systemu)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

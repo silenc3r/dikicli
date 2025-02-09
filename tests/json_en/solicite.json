@@ -1,0 +1,46 @@
+[
+    {
+        "Entry": [
+            "solicit"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dopraszać (się czegoś)",
+                            "zabiegać (o coś)",
+                            "nagabywać (kogoś o coś)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "sprzedawać (coś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Door-to-door soliciting is prohibited here.",
+                                "Translation": "(Sprzedawanie \"od drzwi do drzwi\" jest tu zabronione.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "proponować seks",
+                            "uprawiać nierząd"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She was arrested for soliciting.",
+                                "Translation": "(Ona była aresztowana za uprawianie nierządu.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

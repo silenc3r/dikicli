@@ -1,0 +1,21 @@
+[
+    {
+        "Entry": [
+            "farrier"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "podkuwacz koni (osoba wyrabiająca podkowy)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

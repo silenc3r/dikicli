@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "vestige"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pozostałość",
+                            "ślad",
+                            "znak"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "These buildings are the last vestiges of this culture.",
+                                "Translation": "(Te budynki to ostatnie pozostałości po tej kulturze.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

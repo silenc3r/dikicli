@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "tentatively"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wstępnie",
+                            "niezobowiązująco"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "niepewnie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

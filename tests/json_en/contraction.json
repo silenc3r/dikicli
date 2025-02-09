@@ -1,0 +1,67 @@
+[
+    {
+        "Entry": [
+            "contraction"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kurczenie się",
+                            "regres"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "At this moment, the universe might enter its phase of contraction.",
+                                "Translation": "(W tej chwili wszechświat może wejść w fazę kurczenia się.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zarażenie się"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "skurcz",
+                            "skurcz porodowy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She is having contractions.",
+                                "Translation": "(Ona ma skurcze porodowe.)"
+                            },
+                            {
+                                "Sentence": "The pain is caused by stomach contractions.",
+                                "Translation": "(Ból spowodowany jest skurczami mięśni brzucha.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "forma ściągnięta",
+                            "kontrakcja"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "\"It's\" is a contraction of \"it is.\"",
+                                "Translation": "(\"It's\" to forma ściągnięta \"it is\".)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "recesja"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "quaint"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niezwykły",
+                            "osobliwy"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "uroczy",
+                            "urokliwy",
+                            "klimatyczny (o miejscu)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

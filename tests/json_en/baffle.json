@@ -1,0 +1,101 @@
+[
+    {
+        "Entry": [
+            "baffle"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zbić z tropu",
+                            "wprawić w zakłopotanie",
+                            "zaskoczyć",
+                            "zaskakiwać",
+                            "zmylić"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His smile often baffles me.",
+                                "Translation": "(Jego uśmiech często wprawia mnie w zakłopotanie.)"
+                            },
+                            {
+                                "Sentence": "The compliment from her baffled me.",
+                                "Translation": "(Komplement od niej zaskoczył mnie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "udaremniać",
+                            "udaremnić",
+                            "pokrzyżować (np. plany)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The police baffled their attempts to rob the bank.",
+                                "Translation": "(Policja udaremniła ich próby obrabowania banku.)"
+                            },
+                            {
+                                "Sentence": "The injury baffled my plans.",
+                                "Translation": "(Kontuzja pokrzyżowała moje plany.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "oszukać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This man baffled me! I'm so stupid.",
+                                "Translation": "(Ten mężczyzna mnie oszukał! Jestem taki głupi.)"
+                            },
+                            {
+                                "Sentence": "You will not baffle me!",
+                                "Translation": "(Mnie nie oszukasz!)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "hamować ruch płynu (np. wody)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "hamować lub odbijać ruch (np. dźwięku, światła)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przegroda",
+                            "płyta rezonansowa (w akustyce)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Baffles are used in music studios.",
+                                "Translation": "(Płyty rezonansowe są używane w studiach muzycznych.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "urządzenie regulujące przepływ wody lub światła"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

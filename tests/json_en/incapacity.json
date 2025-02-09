@@ -1,0 +1,36 @@
+[
+    {
+        "Entry": [
+            "incapacity"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niezdolność",
+                            "nieudolność",
+                            "niezdatność",
+                            "nieumiejętność"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "niesprawność (inwalidztwo)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "brak zdolności prawnej"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

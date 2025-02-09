@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "wharve",
+            "wherve"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "koło lub okrągły kawałek drewna na wrzecionie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

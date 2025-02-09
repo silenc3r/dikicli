@@ -1,0 +1,37 @@
+[
+    {
+        "Entry": [
+            "lotion"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mleczko",
+                            "balsam"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I only use lotion on my hands.",
+                                "Translation": "(Używam balsamu tylko do moich rąk.)"
+                            },
+                            {
+                                "Sentence": "I need some hand lotion.",
+                                "Translation": "(Potrzebuję trochę balsamu do rąk.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wcierka (np. do włosów)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

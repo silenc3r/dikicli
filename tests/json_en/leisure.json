@@ -1,0 +1,34 @@
+[
+    {
+        "Entry": [
+            "leisure",
+            "leisure time"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "czas wolny",
+                            "rekreacja",
+                            "wypoczynek",
+                            "czas wolny od pracy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Everything I need for work or leisure is within my reach.",
+                                "Translation": "(Wszystko, czego potrzebuję do pracy czy wypoczynku jest w moim zasięgu.)"
+                            },
+                            {
+                                "Sentence": "Flexible working life: time for leisure and family.",
+                                "Translation": "(Elastyczne życie zawodowe: czas na wypoczynek i dla rodziny.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

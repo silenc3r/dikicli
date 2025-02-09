@@ -1,0 +1,73 @@
+[
+    {
+        "Entry": [
+            "consort"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dołączyć",
+                            "zjednoczyć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You should not consort with our enemy.",
+                                "Translation": "(Nie powinieneś się jednoczyć z naszym wrogiem.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "consort"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "małżonek panującego"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Introducing Queen Victoria and her consort, Prince William.",
+                                "Translation": "(Przedstawiam królową Wiktorię i jej małżonka, księcia Williama.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zespół kameralny, grupa muzyków lub instrumentów"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The Berlin orchestra shares the stage with a consort of other musicians.",
+                                "Translation": "(Berlińska orkiestra dzieli scenę z grupą innych muzyków.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "okręt konwojowy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This is the biggest consort I have ever seen.",
+                                "Translation": "(To największy okręt konwojowy jaki widziałem.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

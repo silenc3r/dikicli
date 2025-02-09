@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "edification"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "oświecenie",
+                            "umoralnienie",
+                            "podbudowa moralna"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "grouper",
+            "groper",
+            "Epinephelus"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "granik (gatunek ryby)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

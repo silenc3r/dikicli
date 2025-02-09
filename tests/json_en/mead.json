@@ -1,0 +1,59 @@
+[
+    {
+        "Entry": [
+            "meadow",
+            "mead"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "łąka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The meadow was covered with flowers.",
+                                "Translation": "(Łąka pokryta była kwiatami.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "mead"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "miód pitny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I come to taste that famous mead of yours.",
+                                "Translation": "(Przybyłem zasmakować waszego słynnego miodu.)"
+                            },
+                            {
+                                "Sentence": "I always bought him a bottle of mead as a birthday gift.",
+                                "Translation": "(Zawsze kupowałem mu butelkę miodu pitnego jako prezent na urodziny.)"
+                            },
+                            {
+                                "Sentence": "He got drunk on mead.",
+                                "Translation": "(On upił się miodem pitnym.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

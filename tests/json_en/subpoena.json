@@ -1,0 +1,48 @@
+[
+    {
+        "Entry": [
+            "subpoena",
+            "subpena"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wezwanie do stawiennictwa pod groźbą kary (np. na rozprawę sądową)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I got a subpoena in the mail today.",
+                                "Translation": "(Dostałem dzisiaj pocztą wezwanie do sądu.)"
+                            },
+                            {
+                                "Sentence": "If I don't answer this subpoena, I'm going to get punished.",
+                                "Translation": "(Jeżeli nie odpowiem na to wezwanie do sądu, zostanę ukarany.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wezwać do sądu",
+                            "wzywać do sądu"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He might not have a choice when we subpoena him.",
+                                "Translation": "(Nie będzie miał wyboru, jeśli wezwiemy go na świadka.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

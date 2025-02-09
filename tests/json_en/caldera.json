@@ -1,0 +1,21 @@
+[
+    {
+        "Entry": [
+            "caldera"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kaldera (wielkie, przeważnie koliste zagłębienie w szczytowej części wulkanu)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

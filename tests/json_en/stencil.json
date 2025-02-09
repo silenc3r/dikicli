@@ -1,0 +1,41 @@
+[
+    {
+        "Entry": [
+            "stencil"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szablon (do odrysowywania)",
+                            "matryca",
+                            "wzornik"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wzór (zrobiony przy użyciu szablonu)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pisać według wzoru (listy)",
+                            "malować używając szablonu (wzór)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

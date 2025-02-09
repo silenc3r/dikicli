@@ -1,0 +1,79 @@
+[
+    {
+        "Entry": [
+            "haemorrhage",
+            "hemorrhage"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "krwotok",
+                            "wylew (krwi)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He had an internal haemorrhage, we're very sorry.",
+                                "Translation": "(On miał krwotok wewnętrzny, bardzo nam przykro.)"
+                            },
+                            {
+                                "Sentence": "The cause of her death was a brain haemorrhage.",
+                                "Translation": "(Przyczyną jej śmierci był wylew krwi do mózgu.)"
+                            },
+                            {
+                                "Sentence": "Do you know how to stop a haemorrhage?",
+                                "Translation": "(Wiesz jak zatamować krwotok?)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "tracić dużo krwi w szybkim czasie"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "tracić coś w ogromnych ilościach (np. pieniądze)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "hemorrhage"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mieć krwotok"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "tracić majątek",
+                            "tracić aktywa"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

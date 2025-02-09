@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "moniker",
+            "monicker"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przezwisko",
+                            "pseudonim"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

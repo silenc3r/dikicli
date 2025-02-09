@@ -1,0 +1,48 @@
+[
+    {
+        "Entry": [
+            "disdain"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pogarda",
+                            "lekceważenie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They do not accept education systems which send them to the market of unemployment and social disdain.",
+                                "Translation": "(Nie akceptują systemów szkolnictwa, które wysyłają ich na rynek bezrobocia i wystawiają na pogardę społeczną.)"
+                            },
+                            {
+                                "Sentence": "Such is the disdain for human rights when a political order does not allow parents to have as many children as they want.",
+                                "Translation": "(To pogarda dla praw człowieka, kiedy nakaz polityczny nie pozwala rodzicom mieć takiej liczby dzieci, jakiej oni chcą.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "gardzić",
+                            "lekceważyć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I do not like people who disdain the others.",
+                                "Translation": "(Nie lubię ludzi, którzy gardzą innymi.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

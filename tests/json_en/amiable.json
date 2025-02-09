@@ -1,0 +1,47 @@
+[
+    {
+        "Entry": [
+            "amiable"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "życzliwy",
+                            "uprzejmy (np. osoba, charakter)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "John was amiable towards me.",
+                                "Translation": "(John był życzliwy wobec mnie.)"
+                            },
+                            {
+                                "Sentence": "She's an amiable person, she's cheerful and helpful.",
+                                "Translation": "(Ona jest uprzejmą osobą, jest pogodna i pomocna.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "miły",
+                            "przyjemny (np. pogawędka, rozmowa)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Our chat on the street was amiable.",
+                                "Translation": "(Nasza pogawędka na ulicy była przyjemna.)"
+                            },
+                            {
+                                "Sentence": "This comedy is very amiable, you should watch it.",
+                                "Translation": "(Ta komedia jest bardzo przyjemna, powinieneś ją oglądnąć.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

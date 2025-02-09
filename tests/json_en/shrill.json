@@ -1,0 +1,72 @@
+[
+    {
+        "Entry": [
+            "shrill"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "piskliwy (głos)",
+                            "przeszywający (dźwięk)",
+                            "przenikliwy (odgłos)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Despite their small size, crickets make very shrill noises.",
+                                "Translation": "(Pomimo swoich małych rozmiarów, świerszcze wydają bardzo przenikliwe odgłosy.)"
+                            },
+                            {
+                                "Sentence": "Her shrill voice annoys me.",
+                                "Translation": "(Jej piskliwy głos mnie irytuje.)"
+                            },
+                            {
+                                "Sentence": "His laugh is so shrill that I can't listen to him.",
+                                "Translation": "(Jego śmiech jest tak piskliwy, że nie mogę go słuchać.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wydawać przeszywający dźwięk (np. o instrumencie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Your violin shrills, you should retune it.",
+                                "Translation": "(Twoje skrzypce wydają przeszywający dźwięk, powinieneś je nastroić.)"
+                            },
+                            {
+                                "Sentence": "My phone alarm shrilled.",
+                                "Translation": "(Mój alarm w telefonie wydał przeszywający dźwięk.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wrzeszczeć",
+                            "mówić jazgotliwym głosem"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My neighbour shrills, it is unpleasant.",
+                                "Translation": "(Moja sąsiadka mówi jazgotliwym głosem, to jest nieprzyjemne.)"
+                            },
+                            {
+                                "Sentence": "A group of boys were riding on their bikes and shrilling.",
+                                "Translation": "(Grupa chłopców jeździła na swoich rowerach i wrzeszczała.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

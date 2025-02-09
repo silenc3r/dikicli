@@ -1,0 +1,100 @@
+[
+    {
+        "Entry": [
+            "psychiatrist",
+            "shrink"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "psychiatra"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The psychiatrist evaluated the mental state of the inmate.",
+                                "Translation": "(Psychiatra ocenił stan psychiczny więźnia.)"
+                            },
+                            {
+                                "Sentence": "My psychiatrist is a very good specialist.",
+                                "Translation": "(Mój psychiatra jest bardzo dobrym specjalistą.)"
+                            },
+                            {
+                                "Sentence": "Is there a shrink in the room? My friend seems to have a problem.",
+                                "Translation": "(Czy jest na sali psychiatra? Mój przyjaciel wydaje się mieć problem.)"
+                            },
+                            {
+                                "Sentence": "My shrink has psychological problems. I can't talk with him.",
+                                "Translation": "(Mój psychiatra ma problemy psychologiczne. Nie mogę z nim rozmawiać.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "shrink"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kurczyć się (np. w praniu, od ciepła)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His pants shrank when he washed them.",
+                                "Translation": "(Jego spodnie skurczyły się, kiedy je wyprał.)"
+                            },
+                            {
+                                "Sentence": "Don't wash woollens in a washing machine, because they will shrink.",
+                                "Translation": "(Nie pierz wełnianych rzeczy w pralce, bo się skurczą.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zmniejszać się",
+                            "kurczyć się",
+                            "maleć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Our band has shrunk almost to nothing.",
+                                "Translation": "(Nasz zespół zmniejszył się prawie do zera.)"
+                            },
+                            {
+                                "Sentence": "The tumor on her liver has shrunk.",
+                                "Translation": "(Guz na jej wątrobie skurczył się.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wzdrygać się (przed czymś)",
+                            "wycofywać się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I shrink from the sight of blood.",
+                                "Translation": "(Wzdrygam się przed widokiem krwi.)"
+                            },
+                            {
+                                "Sentence": "She shrank from her task.",
+                                "Translation": "(Ona wycofała się ze swojego zadania.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

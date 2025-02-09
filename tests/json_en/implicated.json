@@ -1,0 +1,38 @@
+[
+    {
+        "Entry": [
+            "implicate"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wplątać",
+                            "wciągnąć",
+                            "zamieszać",
+                            "uwikłać (kogoś w coś)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "pociągać za sobą",
+                            "wskazywać",
+                            "implikować"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wskazywać na czyjś udział w przestępstwie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

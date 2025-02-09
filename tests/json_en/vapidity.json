@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "vapidness",
+            "vapidity"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "banalność",
+                            "pozbawienie wyrazu"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

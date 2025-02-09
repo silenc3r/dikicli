@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "congregant"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "członek zgromadzenia",
+                            "członek kongregacji"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "Entry": [
+            "brittle"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kruchy (twardy, ale łatwo łamliwy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Iron is harder than bronze, but it's brittle.",
+                                "Translation": "(Żelazo jest twardsze od brązu, ale jest kruche.)"
+                            },
+                            {
+                                "Sentence": "He has brittle bones.",
+                                "Translation": "(On ma kruche kości.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "orzechy w karmelu (rodzaj słodyczy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My children like brittle very much.",
+                                "Translation": "(Moje dzieci bardzo lubią orzechy w karmelu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "grylaż",
+                            "grelaż (masa z palonego cukru i orzechów)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "brittle"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozpadać się",
+                            "kruszyć się"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

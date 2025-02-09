@@ -1,0 +1,36 @@
+[
+    {
+        "Entry": [
+            "mutiny"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bunt",
+                            "rebelia",
+                            "rewolta"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "buntować się",
+                            "wywoływać bunt",
+                            "wywoływać rebelię"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "Entry": [
+            "aloof"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "powściągliwy (w słowach i w czynach)",
+                            "z dystansem"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The girl seemed nice and polite, but a little bit aloof.",
+                                "Translation": "(Dziewczyna wydawała się miła i uprzejma, ale trochę powściągliwa.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "z dala",
+                            "na uboczu"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

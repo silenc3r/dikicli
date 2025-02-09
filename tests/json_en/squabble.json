@@ -1,0 +1,35 @@
+[
+    {
+        "Entry": [
+            "squabble"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kłótnia",
+                            "utarczka",
+                            "sprzeczka"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sprzeczać się (o coś)",
+                            "kłócić się (z kimś)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

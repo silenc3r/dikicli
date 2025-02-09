@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "extracurricular"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ponadprogramowy",
+                            "pozaszkolny (np. zajęcia)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "dodatkowy (np. czynności, aktywności)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

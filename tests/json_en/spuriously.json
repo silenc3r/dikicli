@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "spuriously"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "błędnie",
+                            "fałszywie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

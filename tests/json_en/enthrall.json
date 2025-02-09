@@ -1,0 +1,37 @@
+[
+    {
+        "Entry": [
+            "enthral",
+            "enthrall",
+            "inthral",
+            "inthrall"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "fascynować",
+                            "zafascynować",
+                            "oczarować",
+                            "urzec",
+                            "urzekać",
+                            "zauroczyć"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "uczynić niewolnikiem",
+                            "uwięzić",
+                            "więzić"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

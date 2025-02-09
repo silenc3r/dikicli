@@ -1,0 +1,93 @@
+[
+    {
+        "Entry": [
+            "admission"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przyznanie się (do zrobienia czegoś złego)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It had been a difficult admission for him to make.",
+                                "Translation": "(Ciężko mu było się do tego przyznać.)"
+                            },
+                            {
+                                "Sentence": "Admission is better than a lie.",
+                                "Translation": "(Przyznanie się jest lepsze od kłamstwa.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dostęp",
+                            "wstęp (możliwość wejścia gdzieś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She recently took the law school admission test.",
+                                "Translation": "(Ona niedawno pisała egzamin wstępny do szkoły prawniczej.)"
+                            },
+                            {
+                                "Sentence": "Our zoo offers free admission for families on Sundays.",
+                                "Translation": "(Nasze zoo oferuje rodzinom wstęp wolny w niedziele.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dopuszczenie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The admission of the new law wasn't well-thought-out.",
+                                "Translation": "(Dopuszczenie nowego prawa nie było dobrze przemyślane.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przyjęcie (do szpitala, na uniwersytet, do szkoły)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "With the queues in hospital these days, you'll have to wait a long time for admission.",
+                                "Translation": "(Z takimi kolejkami do szpitali jakie są w tej chwili będziesz musiał sporo poczekać na przyjęcie.)"
+                            },
+                            {
+                                "Sentence": "She applied for admission to the best school in her city.",
+                                "Translation": "(Ona złożyła podanie o przyjęcie do najlepszej szkoły w swoim mieście.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "admission to something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wstęp do czegoś",
+                            "wjazd do czegoś",
+                            "dopuszczenie do czegoś"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

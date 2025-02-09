@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "gravitas"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "powaga",
+                            "poważanie",
+                            "poważne podejście"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

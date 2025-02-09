@@ -1,0 +1,58 @@
+[
+    {
+        "Entry": [
+            "taper"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "cienka świeca (woskowa)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "stożek (jako kształt)",
+                            "stożkowatość (np. figury)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zmniejszenie (siły)",
+                            "redukcja (intensywności)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zwężać się",
+                            "kończyć się spiczasto"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The blade tapers towards the end.",
+                                "Translation": "(Ostrze zwęża się ku końcowi.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zakończyć spiczasto (np. belkę)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

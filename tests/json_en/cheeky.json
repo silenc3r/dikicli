@@ -1,0 +1,54 @@
+[
+    {
+        "Entry": [
+            "cheeky"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bezczelny",
+                            "impertynencki (o osobie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zawadiacki",
+                            "zuchwały (o uśmiechu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He had the most wonderful, cheeky smile.",
+                                "Translation": "(Miał najpiękniejszy, zawadiacki uśmiech.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "cheeky",
+            "sassy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pyskaty"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "Entry": [
+            "sanction"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "aprobata",
+                            "oficjalne pozwolenie",
+                            "potwierdzenie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'm still waiting for the manager's sanction.",
+                                "Translation": "(Nadal czekam na aprobatę kierownika.)"
+                            },
+                            {
+                                "Sentence": "I didn't expect his sanction - he surprised me.",
+                                "Translation": "(Nie spodziewałem się jego pozwolenia - zaskoczył mnie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "sankcja (pozytywna lub negatywna reakcja na czyjeś działania w danej zbiorowości)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zatwierdzać (oficjalnie)",
+                            "sankcjonować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Not all of it had been sanctioned by the state.",
+                                "Translation": "(Nie wszystko zostało zatwierdzone przez państwo.)"
+                            },
+                            {
+                                "Sentence": "Did your boss sanction this document?",
+                                "Translation": "(Czy twój szef oficjalnie zatwierdził ten dokument?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "sanction something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nadać czemuś sankcję prawną"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,206 @@
+[
+    {
+        "Entry": [
+            "convict",
+            "con"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "więzień"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "skazaniec"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zesłaniec"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "con"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "argument przeciw czemuś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The con for this computer is, most definitely, its price.",
+                                "Translation": "(Argumentem przeciwko temu komputerowi jest, bez wątpienia, jego cena.)"
+                            },
+                            {
+                                "Sentence": "Have you considered all the pros and cons of your decision?",
+                                "Translation": "(Czy rozważyłeś wszystkie argumenty za i przeciw twojej decyzji?)"
+                            },
+                            {
+                                "Sentence": "This plan is great, I can't find any cons.",
+                                "Translation": "(Ten plan jest świetny, nie mogę znaleźć żadnych argumentów przeciwko.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kant",
+                            "szwindel"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This heist is the biggest con we've ever pulled off.",
+                                "Translation": "(Ta kradzież to największy szwindel, jaki kiedykolwiek udało nam się zrobić.)"
+                            },
+                            {
+                                "Sentence": "You'll pay for this con when they catch you.",
+                                "Translation": "(Zapłacisz za ten szwindel, kiedy cię złapią.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "więzień",
+                            "zesłaniec"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There must be a con like me in every prison in America.",
+                                "Translation": "(Pewnie w każdym pudle w Ameryce jest taki więzień, jak ja.)"
+                            },
+                            {
+                                "Sentence": "There are too many cons in this prison.",
+                                "Translation": "(W tym więzieniu jest zbyt wielu więźniów.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "okantować",
+                            "kantować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He conned me on those fake diamonds.",
+                                "Translation": "(On okantował mnie na tych fałszywych diamentach.)"
+                            },
+                            {
+                                "Sentence": "They conned my grandma for 1000 dollars.",
+                                "Translation": "(Oni okantowali moją babcię na 1000 dolarów.)"
+                            },
+                            {
+                                "Sentence": "He's rich because he's been conning for many years.",
+                                "Translation": "(On jest bogaty, bo kantował przez wiele lat.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pilnie studiować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She was conning her algebra textbook.",
+                                "Translation": "(Ona pilnie studiowała swój podręcznik do algebry.)"
+                            },
+                            {
+                                "Sentence": "You have to con if you want to get a scholarship.",
+                                "Translation": "(Musisz pilnie studiować, jeśli chcesz dostać stypendium.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przyimek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przeciwko (np. propozycji)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I vote con that idea.",
+                                "Translation": "(Głosuję przeciwko temu pomysłowi.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "con",
+            "conn"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kierowanie okrętem",
+                            "sterowaniem okrętem"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She has taken the conn of the ship.",
+                                "Translation": "(Ona przejęła ster okrętu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "mostek nawigacyjny (miejsce, z którego kieruje się sterowaniem okrętu)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "con-"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "prefiks",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "oznacza współ-",
+                            "razem z"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "grogginess"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "osłabienie",
+                            "oszołomienie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

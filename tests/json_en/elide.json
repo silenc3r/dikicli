@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "elide"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "opuszczać",
+                            "opuścić (np. głoskę w wymowie, literę w pisowni)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

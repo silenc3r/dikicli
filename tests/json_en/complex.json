@@ -1,0 +1,91 @@
+[
+    {
+        "Entry": [
+            "complex"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "złożony",
+                            "skomplikowany"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This problem is quite complex, you have to help me.",
+                                "Translation": "(Ten problem jest dość złożony, musisz mi pomóc.)"
+                            },
+                            {
+                                "Sentence": "She solved a very complex mathematical equation.",
+                                "Translation": "(Ona rozwiązała bardzo skomplikowane matematyczne równanie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "złożony (np. zdanie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The sentence he wrote was very complex.",
+                                "Translation": "(Zdanie, które napisał, było bardzo złożone.)"
+                            },
+                            {
+                                "Sentence": "He is only 4, and he is already using complex sentences.",
+                                "Translation": "(On ma dopiero 4 latka, a już używa zdań złożonych.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kompleks",
+                            "budynek"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This building complex is huge!",
+                                "Translation": "(Ten kompleks budynków jest olbrzymi!)"
+                            },
+                            {
+                                "Sentence": "There are plans to build a new sports complex in my town.",
+                                "Translation": "(Są plany, aby zbudować nowy kompleks sportowy w moim mieście.)"
+                            },
+                            {
+                                "Sentence": "I work in that complex.",
+                                "Translation": "(Pracuję w tym budynku.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kompleks",
+                            "poczucie niższości"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I have an inferiority complex.",
+                                "Translation": "(Mam kompleks niższości.)"
+                            },
+                            {
+                                "Sentence": "Everyone has at least one complex.",
+                                "Translation": "(Każdy ma przynajmniej jeden kompleks.)"
+                            },
+                            {
+                                "Sentence": "He has a complex about his crooked teeth.",
+                                "Translation": "(On ma kompleks na punkcie swoich krzywych zębów.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "Entry": [
+            "reverie",
+            "revery"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "marzenia",
+                            "sny na jawie",
+                            "mrzonki"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zaduma",
+                            "zamyślenie",
+                            "rozmarzenie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

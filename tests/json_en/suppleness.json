@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "suppleness"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "giętkość (kończyn)",
+                            "prężność (umysłu)",
+                            "zwinność (ruchów)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "uległość",
+                            "uniżoność"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

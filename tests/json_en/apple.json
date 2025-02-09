@@ -1,0 +1,86 @@
+[
+    {
+        "Entry": [
+            "apple"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "jabłko"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'll just have an apple.",
+                                "Translation": "(Po prostu zjem jabłko.)"
+                            },
+                            {
+                                "Sentence": "Eating an apple every day will help keep you healthy.",
+                                "Translation": "(Jedzenie jednego jabłka dziennie pomoże ci pozostać zdrowym.)"
+                            },
+                            {
+                                "Sentence": "I like green apples the most.",
+                                "Translation": "(Najbardziej lubię zielone jabłka.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "jabłkowy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Mary likes apple juice.",
+                                "Translation": "(Mary lubi sok jabłkowy.)"
+                            },
+                            {
+                                "Sentence": "He ate the whole jar of apple mousse.",
+                                "Translation": "(On zjadł cały słoik musu jabłkowego.)"
+                            },
+                            {
+                                "Sentence": "She drinks apple juice in the morning.",
+                                "Translation": "(Ona pije sok jabłkowy rano.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "Apple"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "Apple (firma komputerowa)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Steve Jobs was one of the co-founders of Apple.",
+                                "Translation": "(Steve Jobs był jednym ze współzałożycieli Apple'a.)"
+                            },
+                            {
+                                "Sentence": "I bought an Apple computer.",
+                                "Translation": "(Kupiłem komputer firmy Apple.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

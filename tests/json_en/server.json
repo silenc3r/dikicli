@@ -1,0 +1,63 @@
+[
+    {
+        "Entry": [
+            "server"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "serwer"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A server provides services to other computers over a network.",
+                                "Translation": "(Serwer świadczy usługi innym komputerom w sieci.)"
+                            },
+                            {
+                                "Sentence": "Our server is down again.",
+                                "Translation": "(Nasz serwer znowu padł.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "serwujący (w siatkówce)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "łyżka do nakładania jedzenia"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "waitperson",
+            "server"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kelner",
+                            "kelnerka"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

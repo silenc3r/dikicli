@@ -1,0 +1,35 @@
+[
+    {
+        "Entry": [
+            "ketchup",
+            "tomato sauce",
+            "tomato ketchup",
+            "red sauce",
+            "catsup",
+            "catchup"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "keczup"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She prefers ketchup to mustard.",
+                                "Translation": "(Ona woli keczup od musztardy.)"
+                            },
+                            {
+                                "Sentence": "He put some ketchup on his toast.",
+                                "Translation": "(On polał swojego tosta keczupem.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "Entry": [
+            "living picture",
+            "tableau vivant",
+            "tableau"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "żywy obraz (rekonstrukcja dzieła przy udziale ludzi)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "school tableau",
+            "tableau"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "tablo szkolne",
+                            "tablica z wizerunkami absolwentów",
+                            "grupowa fotografia uczniów lub studentów kończących daną szkołę"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

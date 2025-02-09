@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "posterity"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "potomność",
+                            "przyszłe pokolenia"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

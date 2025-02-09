@@ -1,0 +1,111 @@
+[
+    {
+        "Entry": [
+            "brisk"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ożywiać",
+                            "ożywić (np. atmosferę)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She is a person who brisks the atmosphere.",
+                                "Translation": "(Ona jest osobą, która ożywia atmosferę.)"
+                            },
+                            {
+                                "Sentence": "I will brisk this company!",
+                                "Translation": "(Ożywię to towarzystwo!)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "brisk"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rzutki",
+                            "energiczny",
+                            "pełen werwy (o osobie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You are so brisk today that you are almost jumping.",
+                                "Translation": "(Jesteś dzisiaj taki pełen werwy, że prawie skaczesz.)"
+                            },
+                            {
+                                "Sentence": "Brisk people are great workers.",
+                                "Translation": "(Rzutkie osoby są świetnymi pracownikami.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "szybki",
+                            "dziarski",
+                            "żwawy",
+                            "ożywiony (o chodzie, sposobie poruszania się)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The pace of the group was brisk.",
+                                "Translation": "(Tempo grupy było żwawe.)"
+                            },
+                            {
+                                "Sentence": "She was admiring his brisk movements while he was playing football.",
+                                "Translation": "(Ona podziwiała jego szybkie ruchy, kiedy on grał w piłkę nożną.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ożywiony",
+                            "szybki (o handlu, o biznesie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Our business is quite brisk, we have many customers.",
+                                "Translation": "(Nasz biznes jest dość ożywiony, mamy wielu klientów.)"
+                            },
+                            {
+                                "Sentence": "Their sales are very brisk.",
+                                "Translation": "(Ich sprzedaż jest bardzo szybka.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rześki",
+                            "rzeźwy (o chłodnej pogodzie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The wind is brisk, isn't it?",
+                                "Translation": "(Wiatr jest rześki, prawda?)"
+                            },
+                            {
+                                "Sentence": "I love brisk mornings. They wake me up.",
+                                "Translation": "(Uwielbiam rześkie poranki. One mnie budzą.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "inculcate"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wpajać",
+                            "wdrażać",
+                            "wszczepiać (np. wiedzę, zasady)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

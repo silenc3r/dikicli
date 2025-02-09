@@ -1,0 +1,101 @@
+[
+    {
+        "Entry": [
+            "ballot"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "głosowanie",
+                            "tajne głosowanie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Further ballots will be held in the next two weeks.",
+                                "Translation": "(Kolejne głosowania będą miały miejsce w ciągu następnych dwóch tygodni.)"
+                            },
+                            {
+                                "Sentence": "Who won the ballot?",
+                                "Translation": "(Kto wygrał tajne głosowanie?)"
+                            },
+                            {
+                                "Sentence": "They organized a ballot to find out who did it.",
+                                "Translation": "(Oni urządzili tajne głosowanie, aby dowiedzieć się, kto to zrobił.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "karta wyborcza",
+                            "karta do głosowania"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You have to fill the ballot in order for it to be valid.",
+                                "Translation": "(Musisz wypełnić kartę do głosowania żeby była ważna.)"
+                            },
+                            {
+                                "Sentence": "Don't sign your ballot, it won't count.",
+                                "Translation": "(Nie podpisuj swojej karty do głosowania, nie będzie się liczyła.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pula głosów"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "lista kandydatów"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They have put the party on the ballot in 45 states.",
+                                "Translation": "(Członkowie partii zostali umieszczeni na liście kandydatów w 45 stanach.)"
+                            },
+                            {
+                                "Sentence": "What is your number on the ballot?",
+                                "Translation": "(Jaki jest twój numer na liście kandydatów?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ciągnięcie losów"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zasięgać opinii przez głosowanie"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "głosować",
+                            "tajnie głosować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We have to ballot before they find out the truth.",
+                                "Translation": "(Musimy głosować, zanim oni dowiedzą się prawdy.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

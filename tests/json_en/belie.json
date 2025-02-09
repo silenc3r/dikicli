@@ -1,0 +1,52 @@
+[
+    {
+        "Entry": [
+            "belie"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "skryć",
+                            "skrywać",
+                            "dać mylne wyobrażenie",
+                            "dawać mylne wyobrażenie"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zadawać kłam",
+                            "przeczyć",
+                            "zaprzeczać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "belie"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zawodzić",
+                            "rozczarowywać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "Entry": [
+            "rendition"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wykonanie",
+                            "interpretacja (w muzyce, sztuce)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Your rendition of Don't Rain on My Parade was flawed.",
+                                "Translation": "(Twoje wykonanie Don't Rain on My Parade miało wady.)"
+                            },
+                            {
+                                "Sentence": "They released a whole album with their renditions of classical music.",
+                                "Translation": "(Oni wydali cały album z ich interpretacjami muzyki klasycznej.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "interpretacja",
+                            "przełożenie (np. sztuki na inny język)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "udzielenie",
+                            "przedłożenie",
+                            "świadczenie (np. usług)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

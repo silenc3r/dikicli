@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "bollard"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pachołek",
+                            "słupek",
+                            "poler (używany do cumowania statków w porcie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "słupek (blokujący wjazd gdzieś lub znajdujący się na środku skrzyżowania)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

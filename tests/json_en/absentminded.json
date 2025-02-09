@@ -1,0 +1,34 @@
+[
+    {
+        "Entry": [
+            "absent-minded"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nieuważny",
+                            "roztargniony",
+                            "nieogarnięty",
+                            "zapominalski",
+                            "gapowaty"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You've been absent-minded lately, always in a hurry.",
+                                "Translation": "(Ostatnio jesteś bardzo roztargniony, zawsze w pośpiechu.)"
+                            },
+                            {
+                                "Sentence": "He is charmingly absent-minded.",
+                                "Translation": "(On jest czarująco roztargniony.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

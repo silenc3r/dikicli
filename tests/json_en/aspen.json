@@ -1,0 +1,38 @@
+[
+    {
+        "Entry": [
+            "aspen"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "osika (drzewo)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He left his bag next to the aspen in the forest.",
+                                "Translation": "(On zostawił swoją torbę pod osiką w lesie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "drewno osikowe",
+                            "osina"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The cupboard was made out of aspen.",
+                                "Translation": "(Komoda została wykonana z drewna osikowego.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

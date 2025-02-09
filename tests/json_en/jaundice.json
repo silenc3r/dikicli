@@ -1,0 +1,37 @@
+[
+    {
+        "Entry": [
+            "jaundice"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "żółtaczka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You can't give blood if you suffered from jaundice.",
+                                "Translation": "(Nie możesz oddawać krwi, jeżeli cierpiałeś na żółtaczkę.)"
+                            },
+                            {
+                                "Sentence": "When she was five days old, she got jaundice.",
+                                "Translation": "(Kiedy ona miała pięć dni, złapała żółtaczkę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zawiść",
+                            "zazdrość"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

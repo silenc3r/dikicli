@@ -1,0 +1,32 @@
+[
+    {
+        "Entry": [
+            "quell"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "tłumić",
+                            "zdławić",
+                            "zdusić",
+                            "rozproszyć (np. rebelię)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "poskromić",
+                            "uśmierzać",
+                            "zdławić (np. uczucia)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

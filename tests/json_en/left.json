@@ -1,0 +1,370 @@
+[
+    {
+        "Entry": [
+            "left"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "lewy",
+                            "lewa (np. ręka, strona)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I can't write with my left hand.",
+                                "Translation": "(Nie potrafię pisać lewą ręką.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pozostawiony",
+                            "zostawiony"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There's some food left in the fridge.",
+                                "Translation": "(W lodówce jest zostawione trochę jedzenia.)"
+                            },
+                            {
+                                "Sentence": "I found some clothes left on the floor.",
+                                "Translation": "(Znalazłem trochę ciuchów pozostawionych na podłodze.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "w lewo",
+                            "po lewej"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You should turn left.",
+                                "Translation": "(Powinieneś skręcić w lewo.)"
+                            },
+                            {
+                                "Sentence": "Why did you go left if I told you to go right?",
+                                "Translation": "(Dlaczego poszłaś w lewo, jeżeli kazałem ci iść w prawo?)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "lewa",
+                            "uderzenie lewą ręką"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The boxer's left is very strong.",
+                                "Translation": "(Lewa boksera jest bardzo mocna.)"
+                            },
+                            {
+                                "Sentence": "He hit me with his left.",
+                                "Translation": "(On uderzył mnie swoją lewą.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "leave"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wychodzić",
+                            "wyjeżdżać",
+                            "opuszczać (jakieś miejsce)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I must leave in ten minutes.",
+                                "Translation": "(Muszę wyjść w ciągu dziesięciu minut.)"
+                            },
+                            {
+                                "Sentence": "She hasn't left her house for 10 years.",
+                                "Translation": "(Ona nie wyszła z domu od 10 lat.)"
+                            },
+                            {
+                                "Sentence": "The best thing for you to do is to leave.",
+                                "Translation": "(Najlepsza rzecz, jaką możesz zrobić, to wyjść.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "odchodzić (od kogoś)",
+                            "opuszczać",
+                            "zostawiać (kogoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Don't leave me now, please.",
+                                "Translation": "(Proszę, nie opuszczaj mnie teraz.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "odjeżdżać (o autobusie, pociągu)",
+                            "odlatywać (o samolocie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The train has already left.",
+                                "Translation": "(Pociąg już odjechał.)"
+                            },
+                            {
+                                "Sentence": "My plane leaves at 2:30 pm.",
+                                "Translation": "(Mój samolot odlatuje o 2:30 po południu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "odchodzić",
+                            "rezygnować (z pracy)",
+                            "porzucać (szkołę)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She left the company after 20 years.",
+                                "Translation": "(Ona odeszła z firmy po 20 latach.)"
+                            },
+                            {
+                                "Sentence": "He got a job and decided to leave school.",
+                                "Translation": "(On dostał pracę i zdecydował się porzucić szkołę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zostawiać (coś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Leave your coat in the cloakroom and come with me.",
+                                "Translation": "(Zostaw płaszcz w szatni i chodź ze mną.)"
+                            },
+                            {
+                                "Sentence": "Where can I leave it?",
+                                "Translation": "(Gdzie mogę to zostawić?)"
+                            },
+                            {
+                                "Sentence": "They always leave the baby with me when they're on holiday.",
+                                "Translation": "(Oni zawsze zostawiają ze mną dziecko, kiedy są na wakacjach.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zostawiać",
+                            "pozostawiać (nie wykorzystać wszystkiego)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Leave some cookies for later.",
+                                "Translation": "(Zostaw trochę ciasteczek na później.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zostawiać",
+                            "pozostawiać (np. ślad)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Careful, you'll leave a mark!",
+                                "Translation": "(Ostrożnie, zostawisz ślad!)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zostawiać (do zrobienia na później)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Don't leave your spring cleaning till the last moment.",
+                                "Translation": "(Nie zostawiaj swoich porządków wiosennych na ostatnią chwilę.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pozwolenie",
+                            "zgoda"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The applicant would have to seek leave from the court.",
+                                "Translation": "(Aplikant musiałby ubiegać się o pozwolenie od sądu.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "leave",
+            "leave of absence"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "urlop"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He took two weeks of unpaid leave.",
+                                "Translation": "(On wziął dwa tygodnie bezpłatnego urlopu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przepustka (w wojsku)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "the left",
+            "one's left"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "lewa strona ciała",
+                            "lewa strona",
+                            "lewa",
+                            "lewo"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "One's left is steered by the right brain hemisphere.",
+                                "Translation": "(Lewa strona ciała jest sterowana przed prawą półkulę mózgową.)"
+                            },
+                            {
+                                "Sentence": "Everybody has their heart on the left.",
+                                "Translation": "(Każdy ma serce po lewej stronie ciała.)"
+                            },
+                            {
+                                "Sentence": "She was standing on my left.",
+                                "Translation": "(Ona stała po mojej lewej.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "the Left"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "lewica (partia polityczna)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The left usually support socialist solutions and environmental protection.",
+                                "Translation": "(Lewica zwykle wspiera rozwiązania socjalistycznę i ochronę środowiska.)"
+                            },
+                            {
+                                "Sentence": "The left voted against the bill to lower the taxes.",
+                                "Translation": "(Lewica głosowała przeciwko ustawie żeby zmniejszyć podatki.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "To the left."
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "Na lewo."
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "get left"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zostać w tyle",
+                            "zostać na lodzie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "Entry": [
+            "hamlet"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "osada",
+                            "wioska"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Two hundred years ago, this city was only a small hamlet.",
+                                "Translation": "(Dwieście lat temu, to miasto było zaledwie małą osadą.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

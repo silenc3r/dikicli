@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "furry"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "futerkowy",
+                            "futrzany",
+                            "kudłaty",
+                            "puszysty"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "osadowy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

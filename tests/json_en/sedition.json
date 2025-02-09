@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "sedition"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "podżeganie (do buntu)",
+                            "podburzanie (do rozruchów)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "rokosz (wystąpienie zbrojne)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

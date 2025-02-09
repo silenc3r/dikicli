@@ -1,0 +1,31 @@
+[
+    {
+        "Entry": [
+            "pliability"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "elastyczność",
+                            "giętkość",
+                            "sprężystość"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "podatność na wpływy",
+                            "elastyczność",
+                            "uległość"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

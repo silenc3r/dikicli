@@ -1,0 +1,53 @@
+[
+    {
+        "Entry": [
+            "eerie",
+            "eery"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "upiorny",
+                            "pełen grozy",
+                            "niesamowity"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The echo in the cavern was eerie.",
+                                "Translation": "(Echo w jaskini było upiorne.)"
+                            },
+                            {
+                                "Sentence": "The hound let out an eerie howl.",
+                                "Translation": "(Ogar wydał upiorny skowyt.)"
+                            },
+                            {
+                                "Sentence": "He told me an eerie tale of vampires.",
+                                "Translation": "(On opowiedział mi pełną grozy opowieść o wampirach.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przedziwny",
+                            "tajemniczy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The empty house filled with an eerie melody.",
+                                "Translation": "(Pusty dom wypełnił się tajemniczą melodią.)"
+                            },
+                            {
+                                "Sentence": "The mystery of the family was eerie.",
+                                "Translation": "(Tajemnica rodziny była przedziwna.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

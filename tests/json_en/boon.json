@@ -1,0 +1,50 @@
+[
+    {
+        "Entry": [
+            "boon"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "skarb",
+                            "dobrodziejstwo"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Your compassion is a boon in this troubled time.",
+                                "Translation": "(Twoje współczucie jest dobrodziejstwem w tych ciężkich czasach.)"
+                            },
+                            {
+                                "Sentence": "Whilst a sleeping tablet is a boon, many sleeping tablets can be fatal.",
+                                "Translation": "(Choć tabletka nasenna jest dobrodziejstwem, to wiele tabletek nasennych może mieć śmiertelne skutki.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "boon"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "prośba"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

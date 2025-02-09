@@ -1,0 +1,40 @@
+[
+    {
+        "Entry": [
+            "denounce"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "potępiać",
+                            "piętnować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He was denounced as a traitor.",
+                                "Translation": "(On został napiętnowany jako zdrajca.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "donosić (na kogoś)",
+                            "demaskować (kogoś)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wypowiadać (np. umowę, układ)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

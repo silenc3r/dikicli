@@ -1,0 +1,27 @@
+[
+    {
+        "Entry": [
+            "famine"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "głód",
+                            "klęska głodu"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "In that year five million Chinese people died in the famine.",
+                                "Translation": "(W tamtym roku pięć milionów Chińczyków zginęło podczas klęski głodu.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

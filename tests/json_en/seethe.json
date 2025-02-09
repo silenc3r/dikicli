@@ -1,0 +1,39 @@
+[
+    {
+        "Entry": [
+            "seethe"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kipieć (ze złości)",
+                            "gotować się (z wściekłości)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "roić się (od kogoś lub czegoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The place seethed with dogs.",
+                                "Translation": "(To miejsce roiło się od psów.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kotłować się (o tłumie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

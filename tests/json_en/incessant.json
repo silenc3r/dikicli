@@ -1,0 +1,34 @@
+[
+    {
+        "Entry": [
+            "incessant"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bezustanny",
+                            "nieustanny",
+                            "nieustający (np. deszcz)",
+                            "ustawiczny",
+                            "nieprzerwany (np. hałas)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This incessant rain is depressing.",
+                                "Translation": "(Ten nieustający deszcz jest depresyjny.)"
+                            },
+                            {
+                                "Sentence": "I'm tired of this incessant noise.",
+                                "Translation": "(Jestem zmęczony tym nieprzerwanym hałasem.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "Entry": [
+            "yonder",
+            "yon",
+            "yond"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "tam",
+                            "po tamtej stronie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "określnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "tamten",
+                            "ten",
+                            "ów"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

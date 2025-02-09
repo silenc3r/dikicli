@@ -1,0 +1,45 @@
+[
+    {
+        "Entry": [
+            "tenure"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "stały etat wykładowcy lub nauczyciela"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I am working hard to get tenure at this university.",
+                                "Translation": "(Pracuję ciężko, żeby dostać stały etat wykładowcy na tym uniwersytecie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kadencja",
+                            "okres piastowania jakiegoś stanowiska"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We were a prosperous country during his tenure.",
+                                "Translation": "(Naszemu państwu wiodło się dobrze za jego kadencji.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "posiadanie",
+                            "prawo posiadania"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

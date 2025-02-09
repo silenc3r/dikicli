@@ -1,0 +1,26 @@
+[
+    {
+        "Entry": [
+            "prevarication"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wykręt",
+                            "wykręcanie się",
+                            "krętactwo",
+                            "matactwo",
+                            "dwuznaczność",
+                            "kłamstwo"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "Entry": [
+            "edgy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "podenerwowany",
+                            "zirytowany"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wyszczerbiony",
+                            "szczerbaty"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "awangardowy",
+                            "na czasie",
+                            "modny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "Entry": [
+            "flak",
+            "flack"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ogień krytyki",
+                            "ostra krytyka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He got flak from his family.",
+                                "Translation": "(On dostał ostrą krytykę od swojej rodziny.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ogień przeciwlotniczy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The flak destroyed 2 airplanes.",
+                                "Translation": "(Ogień przeciwlotniczy zniszczył 2 samoloty.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dezaprobata"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Her flak was apparent.",
+                                "Translation": "(Jej dezaprobata była widoczna.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "flack",
+            "flak"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "reklamować produkt lub usługę"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "get flak",
+            "get the flak"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zostać ostro skrytykowanym"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

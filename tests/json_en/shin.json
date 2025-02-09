@@ -1,0 +1,63 @@
+[
+    {
+        "Entry": [
+            "shin"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "goleń (część nogi)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She kicked me in the shin and ran away.",
+                                "Translation": "(Ona kopnęła mnie w goleń i uciekła.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "skombinować",
+                            "skołować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'm sure he'll shin something.",
+                                "Translation": "(Jestem pewien, że on coś skombinuje.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "shin",
+            "shinny"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wspinać się"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

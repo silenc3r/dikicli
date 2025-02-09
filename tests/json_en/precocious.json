@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "precocious"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przedwczesny"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "przedwcześnie dojrzały (o dziecku)",
+                            "wcześnie rozwinięty (np. umiejętność)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

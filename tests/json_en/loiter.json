@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "loiter"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "marudzić",
+                            "wałęsać się"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wałęsać się",
+                            "sterczeć (np. na ulicy)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

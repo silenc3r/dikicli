@@ -1,0 +1,43 @@
+[
+    {
+        "Entry": [
+            "readily"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bez wahania",
+                            "ochoczo"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She readily agreed to help us.",
+                                "Translation": "(Ona ochoczo zgodziła się, żeby nam pomóc.)"
+                            },
+                            {
+                                "Sentence": "He'll readily tell you this story once again.",
+                                "Translation": "(On bez wahania opowie ci tę historię jeszcze raz.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bez trudu",
+                            "z łatwością"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This product is readily available in most supermarkets.",
+                                "Translation": "(Ten produkt jest łatwo dostępny w większości supermarketów.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

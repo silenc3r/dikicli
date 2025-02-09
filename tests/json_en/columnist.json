@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "columnist"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "felietonista",
+                            "sprawozdawca",
+                            "komentator (np. polityczny)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He was interviewed by a Hollywood gossip columnist.",
+                                "Translation": "(Felietonistka magazynu plotkarskiego z Hollywood przeprowadziła z nim wywiad.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

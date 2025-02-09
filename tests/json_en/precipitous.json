@@ -1,0 +1,43 @@
+[
+    {
+        "Entry": [
+            "precipitous"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pośpieszny",
+                            "gwałtowny (np. o ślubie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "nagły",
+                            "niespodziewany (np. spadek)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "stromy",
+                            "spadzisty",
+                            "urwisty (np. o ścieżce)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "przepastny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

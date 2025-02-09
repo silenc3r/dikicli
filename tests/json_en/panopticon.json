@@ -1,0 +1,21 @@
+[
+    {
+        "Entry": [
+            "panopticon"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "panoptikon (typ więzienia, w którym pojedynczy strażnik może widzieć każdego więźnia pozostając w tym samym miejscu)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

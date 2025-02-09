@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "exegesis"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "interpretacja",
+                            "objaśnianie filologiczne tekstów",
+                            "egzegeza"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

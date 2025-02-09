@@ -1,0 +1,21 @@
+[
+    {
+        "Entry": [
+            "Marmite"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "Marmite (ekstrakt z drożdży i warzyw)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

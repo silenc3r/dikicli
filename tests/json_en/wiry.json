@@ -1,0 +1,45 @@
+[
+    {
+        "Entry": [
+            "wiry"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szczupły, ale umięśniony",
+                            "silny (o osobie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A tall and wiry man would be my type.",
+                                "Translation": "(Wysoki i silny mężczyzna byłby w moim typie.)"
+                            },
+                            {
+                                "Sentence": "Gym made me look all wiry.",
+                                "Translation": "(Siłownia sprawiła, że jestem szczupły, acz umięśniony.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "szorstki",
+                            "druciany (np. o włosach)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "żylasty",
+                            "zwarty"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

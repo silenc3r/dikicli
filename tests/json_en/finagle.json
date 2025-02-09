@@ -1,0 +1,32 @@
+[
+    {
+        "Entry": [
+            "finagle",
+            "fenagle"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "załatwić sobie",
+                            "skombinować"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wyrolować",
+                            "podejść",
+                            "obejść",
+                            "oszukać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

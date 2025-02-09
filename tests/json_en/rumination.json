@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "rumination"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ruminacje",
+                            "obsesyjne rozmyślanie nad jakością wykonanych czynności"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "przeżuwanie (u zwierząt)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

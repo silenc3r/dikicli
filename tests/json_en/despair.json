@@ -1,0 +1,68 @@
+[
+    {
+        "Entry": [
+            "despair"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozpacz"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I learned here there can be no true despair without hope.",
+                                "Translation": "(Nauczyłem się tutaj, że nie może być prawdziwej rozpaczy bez nadziei.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "utrata nadziei",
+                            "zwątpienie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozpaczać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I will ask for guidance in this matter, but do not despair.",
+                                "Translation": "(Poradzę się w tej sprawie. Ale nie rozpaczaj.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "to one's despair"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ku czyjejś rozpaczy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

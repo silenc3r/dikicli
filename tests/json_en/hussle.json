@@ -1,0 +1,155 @@
+[
+    {
+        "Entry": [
+            "hustle"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bieganina",
+                            "krzątanina"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There is always a lot of hustle before Christmas.",
+                                "Translation": "(Przed Świętami Bożego Narodzenia zawsze jest pełno bieganiny.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ścisk",
+                            "tłok"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There was a real hustle in the tram today.",
+                                "Translation": "(Dzisiaj w tramwaju był prawdziwy ścisk.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przekręt",
+                            "szwindel"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I heard they are working on a hustle.",
+                                "Translation": "(Słyszałem, że oni pracują nad jakimś przekrętem.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pchać",
+                            "popychać",
+                            "pospieszać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He hustled me towards the exit.",
+                                "Translation": "(On popchnął mnie w stronę wyjścia.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "tłoczyć się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "People hustled in the corridor.",
+                                "Translation": "(Ludzie tłoczyli się w korytarzu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wysilać się",
+                            "dokładać starań"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We hustled to make everything work.",
+                                "Translation": "(Dołożyliśmy starań, żeby wszystko działało.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "sprzedawać coś na lewo",
+                            "skombinować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I bet he can hustle something that may help us.",
+                                "Translation": "(Założę się, że on może skombinować coś, co nam pomoże.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "utrzymywać się z prostytucji",
+                            "stać pod latarnią"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She hustles for a living.",
+                                "Translation": "(Ona ustrzymuje się z prostytucji.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "robić przekręty",
+                            "oszukiwać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He hustled me on a thousand bucks.",
+                                "Translation": "(On oszukał mnie na tysiąc dolców.)"
+                            },
+                            {
+                                "Sentence": "He hustles, that is why he's got so much money.",
+                                "Translation": "(On robi przekręty, dlatego ma tyle pieniędzy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rozprowadzać narkotyki",
+                            "dilować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He was caught hustling by the police.",
+                                "Translation": "(Policja złapała go, kiedy rozprowadzał narkotyki.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "być alfonsem"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He made a lot of money through hustling.",
+                                "Translation": "(On zarobił dużo pieniędzy przez bycie alfonsem.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

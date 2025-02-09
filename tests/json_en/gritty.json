@@ -1,0 +1,38 @@
+[
+    {
+        "Entry": [
+            "gritty"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "krupiasty",
+                            "piaszczysty",
+                            "żwirowaty"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "realistyczny",
+                            "brutalnie szczery (o osobie, o powieści)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wytrwały",
+                            "zdeterminowany",
+                            "odważny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

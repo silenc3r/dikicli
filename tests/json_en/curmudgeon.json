@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "curmudgeon"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zrzęda",
+                            "mruk",
+                            "gbur"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

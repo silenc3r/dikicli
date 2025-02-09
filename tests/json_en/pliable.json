@@ -1,0 +1,32 @@
+[
+    {
+        "Entry": [
+            "pliant",
+            "pliable"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "giętki",
+                            "sprężysty",
+                            "elastyczny"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "podatny na wpływy",
+                            "ustępliwy",
+                            "uległy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

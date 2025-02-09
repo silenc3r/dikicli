@@ -1,0 +1,25 @@
+[
+    {
+        "Entry": [
+            "spectre",
+            "specter"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "duch",
+                            "widmo",
+                            "zjawa",
+                            "mara"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

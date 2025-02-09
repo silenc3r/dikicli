@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "beignet",
+            "beignet"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rodzaj ciastka smażonego w głębokim tłuszczu"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

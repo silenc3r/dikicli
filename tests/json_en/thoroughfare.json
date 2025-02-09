@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "thoroughfare"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "arteria (komunikacyjna)",
+                            "główna ulica"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "przejazd (przez coś)",
+                            "przejście (do pomieszczenia)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

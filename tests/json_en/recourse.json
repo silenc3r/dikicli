@@ -1,0 +1,60 @@
+[
+    {
+        "Entry": [
+            "recourse"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "uciekanie się (do czegoś)",
+                            "zwracanie się (o pomoc)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Recourse to violence is not what I expected of him.",
+                                "Translation": "(Nie spodziewałam się po nim uciekania się do przemocy.)"
+                            },
+                            {
+                                "Sentence": "In such desperate situation, our only choice might be recourse to our neighbours.",
+                                "Translation": "(W takiej ciężkiej sytuacji naszym jedynym wyborem może być zwrócenie się do naszych sąsiadów.)"
+                            },
+                            {
+                                "Sentence": "We should consider recourse for help to the police.",
+                                "Translation": "(Powinniśmy rozważyć zwrócenie się o pomoc do policji.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "prawo regresu"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "have recourse to something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "uciekać się do czegoś (np. w celu uzyskania pomocy)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

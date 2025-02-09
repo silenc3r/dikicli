@@ -1,0 +1,216 @@
+[
+    {
+        "Entry": [
+            "spat"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "młoda ostryga"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I can imagine that spat is an expensive treat.",
+                                "Translation": "(Wyobrażam sobie, że młoda ostryga to droga przekąska.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "jaja ostrygi"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There is a lot of spat on the seabed.",
+                                "Translation": "(Na dnie morza jest dużo jaj ostrygi.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kłótnia",
+                            "konflikt"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I've heard them having a spat in the morning.",
+                                "Translation": "(Rano słyszałem jak się kłócili.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "składać jaja (dotyczy małży)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "spit"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pluć",
+                            "napluć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Then he turned around and spat at me.",
+                                "Translation": "(Wtedy on się odwrócił i splunął w moim kierunku.)"
+                            },
+                            {
+                                "Sentence": "Mom, she spat at me!",
+                                "Translation": "(Mamo, ona na mnie napluła!)"
+                            },
+                            {
+                                "Sentence": "Jack spat on the floor.",
+                                "Translation": "(Jack splunął na podłogę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wypluć (np. jedzenie z ust)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He tasted the soup and spat it out.",
+                                "Translation": "(On spróbował zupy i wypluł ją.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wyrzucać z siebie (np. wulkan lawę)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "siąpić",
+                            "mżyć"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "pryskać (o tłuszczu)",
+                            "skwierczeć"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "rapować"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "nabijać na rożen"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ślina"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "szpikulec rożna",
+                            "rożen"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "lekki deszcz",
+                            "mżawka",
+                            "deszczyk"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "głębokość dołu równa długości metalowej części szpadla"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "spit",
+            "sandspit",
+            "sand spit"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mierzeja",
+                            "kosa"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "spit",
+            "spit out"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "fuknąć",
+                            "prychnąć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He spat with contempt.",
+                                "Translation": "(On prychnął z pogardą.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

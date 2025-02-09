@@ -1,0 +1,44 @@
+[
+    {
+        "Entry": [
+            "rapt"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zachwycony",
+                            "urzeczony (czymś)",
+                            "wniebowzięty"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "pogrążony (w zadumie)",
+                            "zatopiony (w myślach)",
+                            "pochłonięty (czymś)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "głęboki (o zainteresowaniach)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "gwałtowny (np. o reakcji)",
+                            "energiczny (np. o dyskusji)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,170 @@
+[
+    {
+        "Entry": [
+            "these",
+            "thir"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "określnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "te",
+                            "ci (forma liczby mnogiej \"this\", zwykle o przedmiotach lub osobach w zasięgu naszych rąk)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She hadn't told anyone about these calls.",
+                                "Translation": "(Ona nie powiedziała nikomu o tych telefonach.)"
+                            },
+                            {
+                                "Sentence": "What have you been doing all these years?",
+                                "Translation": "(Co robiłeś przez te wszystkie lata?)"
+                            },
+                            {
+                                "Sentence": "By mistake I opened one of these letters.",
+                                "Translation": "(Przez pomyłkę otworzyłem jeden z tych listów.)"
+                            },
+                            {
+                                "Sentence": "Will you help me with these bags?",
+                                "Translation": "(Czy pomożesz mi z tymi torbami?)"
+                            },
+                            {
+                                "Sentence": "These are her children.",
+                                "Translation": "(To są jej dzieci.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "this"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "zaimek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ten (zwykle o przedmiocie w zasięgu naszych rąk)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Can I borrow this CD?",
+                                "Translation": "(Czy mogę pożyczyć tę płytę CD?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "to (używane w odniesieniu do osoby, przedmiotu, wydarzenia, które już zostało wspomniane)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This is the magazine I was talking about.",
+                                "Translation": "(To jest to czasopismo, o którym mówiłem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "w tym (używane w odniesieniu do czasu teraźniejszego lub bliskiej przyszłości)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "to",
+                            "teraz (używane w odniesieniu do teraźniejszej sytuacji)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "to",
+                            "tego (w odniesieniu do czegoś, co będzie powiedziane, np. \"słuchaj tego\")"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Listen to this: I've got a new job.",
+                                "Translation": "(Słuchaj tego: dostałem nową pracę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ten (używane w historyjkach i żartach, aby wspomnieć o jakiejś osobie po raz pierwszy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This girlfriend of yours - how old is she?",
+                                "Translation": "(Ta twoja dziewczyna, ile ona ma lat?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "tu (używane przy przedstawianiu się przez telefon)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Hello, this is doctor Black.",
+                                "Translation": "(Dzień dobry, tu doktor Black.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "to (używane przy przedstawianiu osób)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Is this your husband?",
+                                "Translation": "(Czy to twój mąż?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "tak",
+                            "taki (np. duży, długi)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "That snake was this long!",
+                                "Translation": "(Tamten wąż był taki długi!)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "aż tak (np. źle, zwykle używane w pytaniach i przeczeniach)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Is it this bad?",
+                                "Translation": "(Czy jest aż tak źle?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

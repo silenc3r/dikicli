@@ -1,0 +1,61 @@
+[
+    {
+        "Entry": [
+            "hallmark"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "cecha charakterystyczna"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Punctuality isn't his hallmark.",
+                                "Translation": "(Punktualność nie jest jego cechą charakterystyczną.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "znamię",
+                            "cecha"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A free press is one of the hallmarks of democracy.",
+                                "Translation": "(Wolna prasa to jedna z cech demokracji.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "cecha",
+                            "stempel probierczy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I can't say how old is this silver plate as it doesn't have a hallmark.",
+                                "Translation": "(Nie mogę powiedzieć jak stary jest ten srebrny talerz ponieważ nie ma stempla.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "oznaczać stemplem probierczym"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

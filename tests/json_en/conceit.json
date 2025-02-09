@@ -1,0 +1,70 @@
+[
+    {
+        "Entry": [
+            "conceit"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zarozumialstwo",
+                            "zarozumiałość"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The conceit of that man is incredible!",
+                                "Translation": "(Zarozumiałość tego człowieka jest niewiarygodna!)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "fanaberia"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "górnolotna metafora",
+                            "panegiryk"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "schlebiać (zwłaszcza sobie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "polubić kogoś"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wyobrazić"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "pojąć",
+                            "zrozumieć"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

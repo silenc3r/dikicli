@@ -1,0 +1,87 @@
+[
+    {
+        "Entry": [
+            "appalling"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przerażający (np. o warunkach gdzieś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The conditions in the prison were appalling.",
+                                "Translation": "(Warunki w więzieniu były przerażające.)"
+                            },
+                            {
+                                "Sentence": "He sounded very cheerful despite the appalling injuries he had suffered.",
+                                "Translation": "(On brzmiał bardzo radośnie pomimo okropnych obrażeń, które odniósł.)"
+                            },
+                            {
+                                "Sentence": "The weather yesterday was appalling.",
+                                "Translation": "(Wczoraj była potworna pogoda.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przerażający",
+                            "przeraźliwy"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "okropny",
+                            "potworny"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "niesmaczny",
+                            "wstrząsający"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "That was an appalling waste of money.",
+                                "Translation": "(To była wstrząsająca strata pieniędzy.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "appal",
+            "appall"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przerażać",
+                            "przerazić",
+                            "zatrwożyć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We were appalled by the starvation we saw everywhere.",
+                                "Translation": "(Byliśmy przerażeni głodem, który widzieliśmy wszędzie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

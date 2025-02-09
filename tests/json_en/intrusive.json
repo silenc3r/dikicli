@@ -1,0 +1,66 @@
+[
+    {
+        "Entry": [
+            "intrusive"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wścibski",
+                            "natrętny",
+                            "nachalny",
+                            "natarczywy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It's none of your business. Don't be intrusive.",
+                                "Translation": "(To nie twój interes. Nie bądź wścibski.)"
+                            },
+                            {
+                                "Sentence": "She asks too many questions, she's so intrusive.",
+                                "Translation": "(Ona zadaje zbyt dużo pytań, ona jest taka nachalna.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "niepożądany"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This call from her was intrusive.",
+                                "Translation": "(Ten telefon od niej był niepożądany.)"
+                            },
+                            {
+                                "Sentence": "He felt that his presence is intrusive.",
+                                "Translation": "(On czuł, że jego obecność jest niepożądana.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "intruzyjny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "These rocks are intrusive.",
+                                "Translation": "(Te skały są intruzyjne.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "epentetyczny",
+                            "wtrącony (np. o głosce)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

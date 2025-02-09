@@ -1,0 +1,55 @@
+[
+    {
+        "Entry": [
+            "pellet"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kulka",
+                            "grudka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He hit me with a snow pellet.",
+                                "Translation": "(On trafił mnie kulką śniegu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kulka śrutu",
+                            "śrucina"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A couple of pellets were found at the crime scene.",
+                                "Translation": "(Na miejscu zbrodni znaleziono kilka kulek śrutu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "tabletka",
+                            "pigułka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This medicine is distributed in pellets.",
+                                "Translation": "(Ten lek jest rozprowadzany w pigułkach.)"
+                            },
+                            {
+                                "Sentence": "Take one pellet every morning.",
+                                "Translation": "(Bierz jedną tabletkę każdego ranka.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

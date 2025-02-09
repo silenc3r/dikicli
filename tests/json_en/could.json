@@ -1,0 +1,295 @@
+[
+    {
+        "Entry": [
+            "can",
+            "can"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "móc",
+                            "umieć",
+                            "potrafić (np. pomagać, grać na pianinie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I can help you if you want to.",
+                                "Translation": "(Mogę ci pomóc, jeśli chcesz.)"
+                            },
+                            {
+                                "Sentence": "I can't play the piano.",
+                                "Translation": "(Nie umiem grać na pianinie.)"
+                            },
+                            {
+                                "Sentence": "I'm sorry, but I can't give it to you right now.",
+                                "Translation": "(Przepraszam, ale nie mogę ci teraz tego dać.)"
+                            },
+                            {
+                                "Sentence": "I could read when I was three years old!",
+                                "Translation": "(Potrafiłam czytać jak miałam trzy lata!)"
+                            },
+                            {
+                                "Sentence": "Frank could eat a jar of Nutella in one go.",
+                                "Translation": "(Frank potrafił zjeść słoik Nutelli za jednym razem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "móc (używane w prośbach)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Can you tell me where the museum is?",
+                                "Translation": "(Czy możesz mi powiedzieć, gdzie jest muzeum?)"
+                            },
+                            {
+                                "Sentence": "Can you help me?",
+                                "Translation": "(Czy możesz mi pomóc?)"
+                            },
+                            {
+                                "Sentence": "Can you stop singing?",
+                                "Translation": "(Czy możesz przestać śpiewać?)"
+                            },
+                            {
+                                "Sentence": "Can you give me the keys?",
+                                "Translation": "(Czy możesz dać mi kluczyki?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "móc (mieć pozwolenie na coś, np. na parkowanie w określonym miejscu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You cannot enter this room.",
+                                "Translation": "(Nie możesz wejść do tego pokoju.)"
+                            },
+                            {
+                                "Sentence": "You can park here.",
+                                "Translation": "(Możesz tu zaparkować.)"
+                            },
+                            {
+                                "Sentence": "You can smoke here.",
+                                "Translation": "(Tutaj możesz palić.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "móc (na określenie możliwości)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He can run very fast if he wants.",
+                                "Translation": "(On może biec bardzo szybko, jeśli chce.)"
+                            },
+                            {
+                                "Sentence": "She can't breastfeed.",
+                                "Translation": "(Ona nie może karmić piersią.)"
+                            },
+                            {
+                                "Sentence": "You can go on foot or take a bus.",
+                                "Translation": "(Możesz iść pieszo albo złapać autobus.)"
+                            },
+                            {
+                                "Sentence": "He is the only person who could help us.",
+                                "Translation": "(On jest jedyną osobą, która mogłaby nam pomóc.)"
+                            },
+                            {
+                                "Sentence": "Maybe your brother could drive us there?",
+                                "Translation": "(Może twój brat mógłby nas tam zawieźć?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "być w stanie (używane z czasownikami związanymi ze zmysłami)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Can you see anything?",
+                                "Translation": "(Jesteś w stanie cokolwiek widzieć?)"
+                            },
+                            {
+                                "Sentence": "Can you hear that weird noise?",
+                                "Translation": "(Słyszysz ten dziwny dźwięk?)"
+                            },
+                            {
+                                "Sentence": "I can't see without glasses. Can you tell me what's written there?",
+                                "Translation": "(Nie widzę bez okularów. Możesz mi powiedzieć co tam jest napisane?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "móc (używane do określenia, że coś czasami ma miejsce, czasami się dzieje)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "If you look really closely, you can see it is not a real unicorn.",
+                                "Translation": "(Jeżeli przyjrzysz się bardzo uważnie, to możesz zauważyć, że to nie jest prawdziwy jednorożec.)"
+                            },
+                            {
+                                "Sentence": "When the moon is full, you can hear the wolves howling in the distance.",
+                                "Translation": "(Kiedy jest pełnia księżyca, można usłyszeć wilki wyjące w oddali.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "móc (używane do dawania surowych rozkazów)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "If you will not keep quiet, you can get out.",
+                                "Translation": "(Jeśli nie będziecie cicho, możecie wyjść.)"
+                            },
+                            {
+                                "Sentence": "You can get stuffed.",
+                                "Translation": "(Możecie się wypchać.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "can"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pojemnik metalowy (np. z lakierem do włosów, puszka farby)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This can is inflammable.",
+                                "Translation": "(Ten pojemnik pod ciśnieniem jest łatwopalny.)"
+                            },
+                            {
+                                "Sentence": "Could you buy me a can of dry shampoo on your way home?",
+                                "Translation": "(Czy w drodze do domu mógłbyś kupić mi puszkę suchego szamponu?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kanister",
+                            "bańka"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "tyłeczek",
+                            "zadek"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She has a beautiful, round can.",
+                                "Translation": "(Ona ma piękny, okrągły tyłeczek.)"
+                            },
+                            {
+                                "Sentence": "Your sister has a nice can.",
+                                "Translation": "(Twoja siostra ma niezły zadek.)"
+                            },
+                            {
+                                "Sentence": "He slapped her on her can.",
+                                "Translation": "(On klepnął ją w tyłeczek.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "tin",
+            "can"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "puszkować (np. warzywa, przetwory)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "can"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wyrzucić z pracy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My boss canned me yesterday.",
+                                "Translation": "(Mój szef wyrzucił mnie wczoraj z pracy.)"
+                            },
+                            {
+                                "Sentence": "I'm afraid they will can me.",
+                                "Translation": "(Boję się, że mnie wyrzucą.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wsadzić do więzienia",
+                            "zapuszkować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They canned him three years ago.",
+                                "Translation": "(Zapuszkowali go trzy lata temu.)"
+                            },
+                            {
+                                "Sentence": "Can him, he's a murderer.",
+                                "Translation": "(Wsadźcie go do więzienia, on jest mordercą.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nie akceptować",
+                            "odrzucać",
+                            "krytykować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My mother cans any form of contraception.",
+                                "Translation": "(Moja matka odrzuca jakąkolwiek formę antykoncepcji.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

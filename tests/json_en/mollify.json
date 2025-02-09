@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "mollify"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "koić",
+                            "łagodzić",
+                            "uśmierzać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

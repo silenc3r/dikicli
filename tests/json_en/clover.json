@@ -1,0 +1,26 @@
+[
+    {
+        "Entry": [
+            "clover"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "koniczyna"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Have you ever found a four-leaf clover?",
+                                "Translation": "(Czy znalazłeś kiedyś czterolistną koniczynę?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "macaw parrot",
+            "macaw"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ara",
+                            "papuga ara"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,130 @@
+[
+    {
+        "Entry": [
+            "plough",
+            "plow"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pług (do orania ziemi)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The farmer bought a new plough.",
+                                "Translation": "(Rolnik kupił nowy pług.)"
+                            },
+                            {
+                                "Sentence": "My grandfather bought a new plough.",
+                                "Translation": "(Mój dziadek kupił nowy pług.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pług (do odśnieżania dróg)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The plough started ploughing the road.",
+                                "Translation": "(Pług zaczął odśnieżać drogę.)"
+                            },
+                            {
+                                "Sentence": "The city bought more ploughs last winter.",
+                                "Translation": "(Miasto zakupiło więcej pługów zeszłej zimy.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "orać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The farmer ploughed the field.",
+                                "Translation": "(Rolnik zorał pole.)"
+                            },
+                            {
+                                "Sentence": "Fields are ploughed at the end of summer.",
+                                "Translation": "(Pola są orane na koniec lata.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "odśnieżać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We need to plough the drive.",
+                                "Translation": "(Musimy odśnieżyć podjazd.)"
+                            },
+                            {
+                                "Sentence": "Why didn't they plough the road?",
+                                "Translation": "(Dlaczego oni nie odśnieżyli drogi?)"
+                            },
+                            {
+                                "Sentence": "Can you plough the path?",
+                                "Translation": "(Czy możesz odśnieżyć ścieżkę?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przedzierać się"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "oblać",
+                            "polać",
+                            "ulać (np. egzamin)",
+                            "oblać kogoś na egzaminie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I ploughed her because she cheated.",
+                                "Translation": "(Oblałem ją, bo ściągała.)"
+                            },
+                            {
+                                "Sentence": "Mum, I fear that I'm gonna plough the exam.",
+                                "Translation": "(Mamo, obawiam się, że obleję egzamin.)"
+                            },
+                            {
+                                "Sentence": "He didn't attend my lecture so I ploughed him.",
+                                "Translation": "(Nie chodził na mój wykład, więc oblałem go na egzaminie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rżnąć",
+                            "ruchać",
+                            "chędożyć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He ploughed that girl.",
+                                "Translation": "(On ruchał tamtą dziewczynę.)"
+                            },
+                            {
+                                "Sentence": "Don't even think about ploughing her, she's mine!",
+                                "Translation": "(Nawet nie myśl o rżnięciu jej, jest moja!)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

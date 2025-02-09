@@ -1,0 +1,49 @@
+[
+    {
+        "Entry": [
+            "barrage"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ogień zaporowy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You will advance at a walking pace behind the barrage.",
+                                "Translation": "(Będziecie szli krokiem marszowym za ogniem zaporowym.)"
+                            },
+                            {
+                                "Sentence": "We will fire a barrage to cover your assault.",
+                                "Translation": "(Wystrzelimy ogień zaporowy, aby osłonić wasze natarcie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "krzyżowy ogień pytań",
+                            "lawina (np. krytyki, pytań)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He found himself under barrage after his last answer.",
+                                "Translation": "(On znalazł się w krzyżowym ogniu pytań po swojej ostatniej odpowiedzi.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "grobla",
+                            "zapora"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

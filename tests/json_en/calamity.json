@@ -1,0 +1,32 @@
+[
+    {
+        "Entry": [
+            "calamity"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "klęska",
+                            "katastrofa",
+                            "nieszczęście"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Failure in one test shouldn't be regarded as a calamity.",
+                                "Translation": "(Niepowodzenie na jednym teście nie powinno być uznawane za katastrofę.)"
+                            },
+                            {
+                                "Sentence": "The death of his wife was a calamity.",
+                                "Translation": "(Śmierć jego żony była katastrofą.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

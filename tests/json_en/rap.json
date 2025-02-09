@@ -1,0 +1,134 @@
+[
+    {
+        "Entry": [
+            "rap"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rap (gatunek muzyki)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Since when do your friends listen to rap music?",
+                                "Translation": "(Od kiedy twoje przyjaciółki słuchają rapu?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "stukanie",
+                            "stuknięcie",
+                            "pukanie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I heard a rap at the door.",
+                                "Translation": "(Usłyszałem stuknięcie w drzwi.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "oskarżenie",
+                            "zarzut"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zjebka",
+                            "zjeba",
+                            "ochrzan"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My husband is not going to take the rap this time.",
+                                "Translation": "(Mój mąż nie zamierza tym razem zgarnąć ochrzanu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "gadka",
+                            "nawijka"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "pochwała"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pukać",
+                            "stukać",
+                            "postukiwać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She was rapping at my door.",
+                                "Translation": "(Ona pukała do moich drzwi.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rapować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He started rapping when he was 18 and now he's a popular rapper.",
+                                "Translation": "(On zaczął rapować w wieku 18 lat i teraz jest popularnym raperem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ostro krytykować"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "gadać",
+                            "nawijać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "rap",
+            "rap out"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pomstować"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

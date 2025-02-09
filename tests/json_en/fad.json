@@ -1,0 +1,53 @@
+[
+    {
+        "Entry": [
+            "fad"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dziwactwo",
+                            "fantazja",
+                            "kaprys",
+                            "moda"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "How long do you think this Internet fad is going to last?",
+                                "Translation": "(Jak myślisz, jak długo przetrwa ta internetowa moda?)"
+                            },
+                            {
+                                "Sentence": "This device is not just a fad, it is reality.",
+                                "Translation": "(To urządzenie to nie jest tylko fantazja, to rzeczywistość.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "flavin adenine dinucleotide",
+            "FAD"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dinukleotyd flawinoadeninowy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

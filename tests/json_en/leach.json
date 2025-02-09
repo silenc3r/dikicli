@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "leach",
+            "leach out"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wypłukać",
+                            "wyługować"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "Entry": [
+            "wither",
+            "wither away"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "usychać",
+                            "więdnąć",
+                            "suszyć (się)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My roses withered this year.",
+                                "Translation": "(Moje róże zwiędły w tym roku.)"
+                            },
+                            {
+                                "Sentence": "All her plants are withering now.",
+                                "Translation": "(Wszystkie jej rośliny teraz usychają.)"
+                            },
+                            {
+                                "Sentence": "Because of the sun, grass withers.",
+                                "Translation": "(Z powodu słońca, trawa usycha.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zamierać",
+                            "zanikać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The hope inside her withered.",
+                                "Translation": "(Nadzieja w niej zamarła.)"
+                            },
+                            {
+                                "Sentence": "Our business was withering and we couldn't do anything.",
+                                "Translation": "(Nasz biznes zamierał i nie mogliśmy nic zrobić.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "niszczyć",
+                            "powodować zanik"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He withered her feelings.",
+                                "Translation": "(On zniszczył jej uczucia.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

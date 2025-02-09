@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "dour"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "srogi",
+                            "posępny",
+                            "ponury (np. sposób bycia, krajobraz, nastrój)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "odpychający"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

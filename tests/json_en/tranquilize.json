@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "tranquillise",
+            "tranquilize",
+            "tranquillize",
+            "tranquillise"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "uciszać",
+                            "uspokajać (kogoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The thought of her tranquilizes and comforts me.",
+                                "Translation": "(Myśl o niej uspokaja mnie i pociesza.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "Entry": [
+            "whiff"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dmuchnięcie",
+                            "powiew",
+                            "podmuch"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There was a whiff of revolution abroad.",
+                                "Translation": "(Czuć było powiew rewolucji za granicą.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zapach",
+                            "woń"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "sygnał",
+                            "symptom"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "kokaina",
+                            "koka"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "niuch",
+                            "wciągnięcie działki kokainy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "śmierdzieć",
+                            "cuchnąć",
+                            "zalatywać",
+                            "wanieć"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "niuchać",
+                            "wciągać kokainę"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "take a whiff",
+            "catch a whiff",
+            "get a whiff"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wyczuwać coś nosem (jakiś zapach)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I caught a whiff of something rather unpleasant in the attic.",
+                                "Translation": "(Wyczuwałem jakiś nieprzyjemny zapach ze strychu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zapoznawać się z czymś",
+                            "zaznajamiać się z czymś",
+                            "zgłębiać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The boss took a whiff of the problems in the accounting department.",
+                                "Translation": "(Szef zaznajomił się z problemami w dziale księgowości.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wciągać kokainę"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

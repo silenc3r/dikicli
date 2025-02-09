@@ -1,0 +1,46 @@
+[
+    {
+        "Entry": [
+            "midwife"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "akuszerka",
+                            "położna (pielęgniarka pomagająca kobietom podczas porodu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Thomas, you must go and fetch a midwife.",
+                                "Translation": "(Thomas, musisz iść i poszukać położnej.)"
+                            },
+                            {
+                                "Sentence": "I will not have the midwife deliver my son.",
+                                "Translation": "(Nie będę miała położnej przy porodzie mojego syna.)"
+                            },
+                            {
+                                "Sentence": "I was the midwife when she was born.",
+                                "Translation": "(Byłam położną przy jej porodzie.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "asystować przy porodzie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

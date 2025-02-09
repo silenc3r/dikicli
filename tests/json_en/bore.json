@@ -1,0 +1,398 @@
+[
+    {
+        "Entry": [
+            "bore"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nudzić (kogoś, np. zbyt długą opowieścią)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You bored me with your long story.",
+                                "Translation": "(Znudziłeś mnie swoją długą opowieścią.)"
+                            },
+                            {
+                                "Sentence": "The teacher bored the whole class with that topic.",
+                                "Translation": "(Nauczyciel znudził całą klasę tym tematem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "borować",
+                            "wiercić"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The dentist is boring my daughter's tooth.",
+                                "Translation": "(Dentysta boruje zęba mojej córce.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "świdrować (np. spojrzeniem)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Stop boring me with your gaze.",
+                                "Translation": "(Przestań świdrować mnie swoim spojrzeniem.)"
+                            },
+                            {
+                                "Sentence": "He was boring me with his look but I didn't tell him the truth.",
+                                "Translation": "(Świdrował mnie spojrzeniem, ale nie powiedziałem mu prawdy.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nudziarstwo",
+                            "nuda (coś co nie jest interesujące)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This lecture is a bore.",
+                                "Translation": "(Ten wykład to nudziarstwo.)"
+                            },
+                            {
+                                "Sentence": "My work is a bore, I should quit it.",
+                                "Translation": "(Moja praca to nuda, powinienem ją rzucić.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "udręka",
+                            "uprzykrzenie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His company is a bore.",
+                                "Translation": "(Jego towarzystwo to udręka.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nudziarz"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I went on a date with him, he's a bore.",
+                                "Translation": "(Byłem z nim na randce, on jest nudziarzem.)"
+                            },
+                            {
+                                "Sentence": "My brother is a bore, I hate his stories.",
+                                "Translation": "(Mój brat to nudziarz, nienawidzę jego historii.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "średnica wewnętrzna",
+                            "kaliber (np. lufy broni)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "otwór wiertniczy",
+                            "odwiert"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "tidal bore",
+            "bore",
+            "aegir",
+            "eagre",
+            "eygre"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "fala skacząca",
+                            "gwałtowna fala przypływu od morza"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "bear"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ścierpieć (coś)",
+                            "znieść (coś)",
+                            "wytrzymać (coś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I can't bear this headache.",
+                                "Translation": "(Nie mogę znieść tego bólu głowy.)"
+                            },
+                            {
+                                "Sentence": "I can't bear her annoying behaviour.",
+                                "Translation": "(Nie mogę znieść jej irytującego zachowania.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ponieść",
+                            "ponosić (np. koszty, odpowiedzialność)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My phone is no longer under warranty. I have to bear the costs of the repair myself.",
+                                "Translation": "(Mój telefon nie jest już na gwarancji. Sam muszę ponieść koszty naprawy.)"
+                            },
+                            {
+                                "Sentence": "I moved out of my parents and now I have to bear the cost of living.",
+                                "Translation": "(Wyprowadziłem się od rodziców i teraz muszę ponosić koszty utrzymania.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "podtrzymywać (coś)",
+                            "wytrzymać ciężar (czegoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He bore the wardrobe for five minutes!",
+                                "Translation": "(On podtrzymywał szafę przez pięć minut!)"
+                            },
+                            {
+                                "Sentence": "I can't bear this box, help me.",
+                                "Translation": "(Nie wytrzymam ciężaru tego pudełka, pomóż mi.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nosić (np. znamię, imię, tytuł)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He bears the royal title with pride.",
+                                "Translation": "(On nosi królewski tytuł z dumą.)"
+                            },
+                            {
+                                "Sentence": "My daughter bears my grandmother's name.",
+                                "Translation": "(Moja córka nosi imię mojej babci.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dźwigać",
+                            "nieść",
+                            "udźwignąć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He bore my bags.",
+                                "Translation": "(On dźwigał moje torby.)"
+                            },
+                            {
+                                "Sentence": "Can you bear this table? It's too heavy for me.",
+                                "Translation": "(Czy możesz udźwignąć ten stół? Dla mnie jest za ciężki.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "urodzić",
+                            "rodzić",
+                            "powić (dziecko)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She bore two healthy babies.",
+                                "Translation": "(Ona urodziła dwoje zdrowych dzieci.)"
+                            },
+                            {
+                                "Sentence": "My biggest dream is to bear twins.",
+                                "Translation": "(Moim największym marzeniem jest urodzić bliźnięta.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kierować się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Bear left on the next junction.",
+                                "Translation": "(Skieruj się w lewo na następnym skrzyżowaniu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nosić (np. podpis, znamiona, podobieństwo)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The letter bore the signature of Mr Putin.",
+                                "Translation": "(List nosił podpis Pana Putina.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niedźwiedź",
+                            "niedźwiedzica"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "If you see a bear, run.",
+                                "Translation": "(Jeśli zobaczysz niedźwiedzia, uciekaj.)"
+                            },
+                            {
+                                "Sentence": "Polar bears live in the Arctic.",
+                                "Translation": "(Niedźwiedzie polarne zamieszkują Arktykę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "miś (np. pluszowy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I bought a teddy bear for my daughter.",
+                                "Translation": "(Kupiłem pluszowego misia dla mojej córki.)"
+                            },
+                            {
+                                "Sentence": "The child is playing with a teddy bear.",
+                                "Translation": "(Dziecko bawi się pluszowym misiem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "gbur",
+                            "mruk",
+                            "ponurak"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He is such a bear, I don't like him.",
+                                "Translation": "(On jest takim gburem, nie lubię go.)"
+                            },
+                            {
+                                "Sentence": "He's a bear, you won't cheer him up.",
+                                "Translation": "(To ponurak, nie rozweselisz go.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "glina",
+                            "policjant"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "That bear gave me a speeding ticket.",
+                                "Translation": "(Tamten glina dał mi mandat za przekroczenie prędkości.)"
+                            },
+                            {
+                                "Sentence": "He's a bear, he'll search you!",
+                                "Translation": "(On jest gliną, przeszuka cię!)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "duży, owłosiony i umięśniony homoseksualista"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I saw Tom kiss a bear.",
+                                "Translation": "(Widziałam, jak Tom całował się z dużym, owłosionym i umięśnionym homoseksualistą.)"
+                            },
+                            {
+                                "Sentence": "The club was filled with bears.",
+                                "Translation": "(Klub był wypełniony dużymi, owłosionymi i umięśnionymi homoseksualistami.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "spekulant grający na zniżkę"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Stock market is full of bears.",
+                                "Translation": "(Giełda papierów wartościowych jest pełna spekulantów grających na zniżkę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "duży problem"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Our new foreign policy is a bear.",
+                                "Translation": "(Nasza polityka zagraniczna to duży problem.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niedźwiedzi"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I have a bear rug in my house.",
+                                "Translation": "(Mam niedźwiedzi dywan w domu.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

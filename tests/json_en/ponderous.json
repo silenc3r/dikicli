@@ -1,0 +1,32 @@
+[
+    {
+        "Entry": [
+            "ponderous"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ciężki",
+                            "niezgrabny",
+                            "przyciężkawy",
+                            "niezdarny (np. chód)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "ciężki",
+                            "wyniosły",
+                            "nudny (np. styl pisania)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

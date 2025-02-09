@@ -1,0 +1,59 @@
+[
+    {
+        "Entry": [
+            "rein"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "cugiel",
+                            "wodza"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He grabbed the reins and rode off on a horse.",
+                                "Translation": "(On złapał cugle i odjechał na koniu.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "trzymać za wodze",
+                            "kierować (konia)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He reined the horse during the trip.",
+                                "Translation": "(On trzymał konia za wodze w czasie wycieczki.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rządzić",
+                            "mieć kontrolę (nad czymś)",
+                            "mieć władzę"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "hamować (złość)",
+                            "kontrolować (emocje)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

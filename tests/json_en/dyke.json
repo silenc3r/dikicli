@@ -1,0 +1,87 @@
+[
+    {
+        "Entry": [
+            "dyke",
+            "dike"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "grobla",
+                            "zapora",
+                            "wał ochrony"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "lesba (wulgarne określenie na lesbijkę)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I have a sister who's a dyke and she's very happy.",
+                                "Translation": "(Mam siostrę, która jest lesbą i jest bardzo szczęśliwa.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przekop",
+                            "kanał",
+                            "rów (odprowadzający wodę)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wał ochronny"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "sracz",
+                            "kibel"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "levee",
+            "dike",
+            "dyke",
+            "embankment",
+            "floodbank",
+            "stopbank"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "grobla",
+                            "wał przeciwpowodziowy",
+                            "nabrzeże"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "When the levee breaks, we will all be in danger.",
+                                "Translation": "(Kiedy wał pęknie, wszyscy będziemy w niebezpieczeństwie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

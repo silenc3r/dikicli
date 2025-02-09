@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "interlocutor"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "interlokutor",
+                            "rozmówca",
+                            "współrozmówca"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "Entry": [
+            "implicit"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ukryty",
+                            "implicytny",
+                            "dający się wywnioskować",
+                            "niejawny"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "rozumiejący się sam przez się"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "bezgraniczny",
+                            "bezwarunkowy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Our friendship was implicit. We were loyal to each other.",
+                                "Translation": "(Nasza przyjaźń była bezgraniczna. Byliśmy lojalni wobec siebie,)"
+                            },
+                            {
+                                "Sentence": "They have implicit confidence in their employees.",
+                                "Translation": "(Oni mają bezgraniczne zaufanie do swoich pracowników.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "domniemany",
+                            "dorozumiany"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "niezaprzeczalny",
+                            "niewątpliwy",
+                            "całkowity (o zaufaniu, wierze)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Her faith is implicit. You can't doubt it.",
+                                "Translation": "(Jej wiara jest niezaprzeczalna. Nie możesz w nią wątpić.)"
+                            },
+                            {
+                                "Sentence": "My trust in her was implicit. She's never failed me.",
+                                "Translation": "(Moje zaufanie do niej było całkowite. Ona nigdy mnie nie zawiodła.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ukryty",
+                            "ukrywany (o niechęci, krytyce)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She thought her dislike was implicit, but we all knew about it.",
+                                "Translation": "(Ona myślała, że jej niechęć jest ukryta, ale my wszyscy o niej wiedzieliśmy.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

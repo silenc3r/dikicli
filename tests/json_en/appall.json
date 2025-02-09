@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "appal",
+            "appall"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przerażać",
+                            "przerazić",
+                            "zatrwożyć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We were appalled by the starvation we saw everywhere.",
+                                "Translation": "(Byliśmy przerażeni głodem, który widzieliśmy wszędzie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

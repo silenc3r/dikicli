@@ -1,0 +1,103 @@
+[
+    {
+        "Entry": [
+            "sway"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "huśtanie",
+                            "kołysanie (np. statku)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I can't handle the sway of the ship.",
+                                "Translation": "(Nie daję sobie rady z huśtaniem na statku.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kontrola",
+                            "władza"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He held the whole country in his sway.",
+                                "Translation": "(On miał cały kraj pod kontrolą.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wpływ"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Many people are under the church's sway.",
+                                "Translation": "(Wielu ludzi jest pod wpływem kościoła.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "chwiać (się)",
+                            "kołysać (czymś)",
+                            "kołysać (się)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Just hold my body like this and sway to the music.",
+                                "Translation": "(Po prostu trzymaj mnie tak i kołysz się w rytm muzyki.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wpływać",
+                            "wywierać wpływ (na kogoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I was surprised, too, that money would not sway Yoshimura.",
+                                "Translation": "(Zaskoczyło mnie to również, że pieniądze nie wywarły żadnego wpływu na Yoshimurze.)"
+                            },
+                            {
+                                "Sentence": "There are plenty of elaborate techniques to sway the customer.",
+                                "Translation": "(Istnieje wiele wyszukanych technik, aby wywrzeć wpływ na klienta.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "odciągnąć (kogoś od czegoś)",
+                            "odwieść (od planu, pomysłu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Don't let anyone sway you from your goal.",
+                                "Translation": "(Nie pozwól nikomu odwieść cię od twojego celu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "skłaniać się (ku czemuś)",
+                            "dać się przekonać (komuś)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

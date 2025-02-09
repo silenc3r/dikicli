@@ -1,0 +1,111 @@
+[
+    {
+        "Entry": [
+            "rave"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zachwycać się (czymś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The tourists raved over London.",
+                                "Translation": "(Turyści zachwycili się Londynem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wrzeszczeć",
+                            "krzyczeć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My mother is always raving at me for staying out late at night.",
+                                "Translation": "(Moja mama zawsze na mnie wrzeszczy za późne powroty.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bredzić",
+                            "majaczyć",
+                            "mówić nielogicznie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "After taking the drug, the addict began to rave.",
+                                "Translation": "(Po wzięciu narkotyku, uzależniony zaczął majaczyć.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "miotać (o burzy) szaleć (o żywiole)",
+                            "hulać (o wietrze)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "hucznie imprezować"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "impreza",
+                            "głośne przyjęcie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Every weekend we go out to rave parties in the city centre.",
+                                "Translation": "(Każdego weekendu chodzimy na głośne imprezy do centrum.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "entuzjastyczna recenzja (np. książki, filmu)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "przebój",
+                            "hit",
+                            "rewelacja sezonu"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "entuzjastyczny (o recenzji, opinii)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The film got rave reviews from the critics.",
+                                "Translation": "(Film dostał entuzjastyczne recenzje od krytyków.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

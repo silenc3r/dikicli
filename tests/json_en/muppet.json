@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "muppet"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "głupek",
+                            "pacan",
+                            "palant"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

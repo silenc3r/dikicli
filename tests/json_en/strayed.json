@@ -1,0 +1,124 @@
+[
+    {
+        "Entry": [
+            "stray"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "błądzić",
+                            "błąkać się",
+                            "zabłąkać się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The sheep strayed onto the road.",
+                                "Translation": "(Owce zabłąkały się na drodze.)"
+                            },
+                            {
+                                "Sentence": "I strayed too far from the footpath and got lost.",
+                                "Translation": "(Błąkałem się zbyt daleko od ścieżki i zgubiłem się.)"
+                            },
+                            {
+                                "Sentence": "My thoughts strayed for a moment.",
+                                "Translation": "(Moje myśli zboczyły z tematu na chwilę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "powędrować wzrokiem"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My eyes strayed to her hair.",
+                                "Translation": "(Powędrowałem wzrokiem na jej włosy.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zabłąkany",
+                            "zagubiony"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The police are looking for a stray girl.",
+                                "Translation": "(Policja szuka zagubionej dziewczynki.)"
+                            },
+                            {
+                                "Sentence": "A stray bullet killed him.",
+                                "Translation": "(Zabiła go zabłąkana kula.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bezpański",
+                            "bezdomny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "These people catch stray dogs and sell them.",
+                                "Translation": "(Ci ludzie łapią bezpańskie psy i je sprzedają.)"
+                            },
+                            {
+                                "Sentence": "I adopted two stray cats.",
+                                "Translation": "(Przygarnąłem dwa bezdomne koty.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przypadkowy",
+                            "oderwany"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Several journalists were killed by stray bullets.",
+                                "Translation": "(Kilku dziennikarzy zostało zabitych przez przypadkowe kule.)"
+                            },
+                            {
+                                "Sentence": "I just heard some stray sentences.",
+                                "Translation": "(Usłyszałem tylko jakieś oderwane od kontekstu zdania.)"
+                            },
+                            {
+                                "Sentence": "A journalist was killed by stray bullets.",
+                                "Translation": "(Dziennikarz został zabity przez przypadkowe kule.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przybłęda (bezpańskie zwierzę)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I noticed a stray and took it home.",
+                                "Translation": "(Zobaczyłem przybłędę i wziąłem go do domu.)"
+                            },
+                            {
+                                "Sentence": "This stray needs a new home.",
+                                "Translation": "(Ta przybłęda potrzebuje nowego domu.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

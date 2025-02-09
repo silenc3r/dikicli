@@ -1,0 +1,199 @@
+[
+    {
+        "Entry": [
+            "switch"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "łącznik (napięcia)",
+                            "wyłącznik (sieciowy)",
+                            "kontakt (elektryczny)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We could use some light. Flip the switch on.",
+                                "Translation": "(Przydałoby nam się trochę światła. Naciśnij przełącznik.)"
+                            },
+                            {
+                                "Sentence": "It's so dark that I can't even see the switch.",
+                                "Translation": "(Jest tak ciemno, że nawet nie widzę kontaktu.)"
+                            },
+                            {
+                                "Sentence": "Don't touch the switch with wet hands.",
+                                "Translation": "(Nie dotykaj kontaktu mokrymi rękami.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zmiana (z czegoś na coś)",
+                            "przejście (np. z komunizmu na kapitalizm)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "For those looking to make the switch, some research is in order.",
+                                "Translation": "(Wszyscy, którzy chcą dokonać zmiany, powinni najpierw przeprowadzić badania.)"
+                            },
+                            {
+                                "Sentence": "That switch will be good for our country.",
+                                "Translation": "(Ta zmiana będzie dobra dla naszego kraju.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zwrotnica (kolejowa)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Somebody has to pull the switch or we won't make it.",
+                                "Translation": "(Ktoś musi pociągnąć za zwrotnicę albo nie damy rady.)"
+                            },
+                            {
+                                "Sentence": "The two trains crashed into each other at the switch.",
+                                "Translation": "(Dwa pociągi zderzyły się ze sobą na zwrotnicy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rózga",
+                            "witka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My grandfather hit me with the switch because I was naughty.",
+                                "Translation": "(Mój dziadek uderzył mnie rózgą, bo byłem niegrzeczny.)"
+                            },
+                            {
+                                "Sentence": "His parents used to hit him with a switch as a punishment.",
+                                "Translation": "(Jego rodzice bili go rózgą w ramach kary.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przełączać (programy, stacje radiowe)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He switched channels, hoping to find something more interesting.",
+                                "Translation": "(Przełączył kanał, próbując znaleźć coś bardziej interesującego.)"
+                            },
+                            {
+                                "Sentence": "Stop switching radio stations, it's annoying!",
+                                "Translation": "(Przestań przełączać stacje radiowe, to denerwujące!)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zmieniać (np. taktykę)",
+                            "przechodzić (z jednej strony na drugą)",
+                            "przerzucać (się na coś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He had to switch sides, as the building he looked for was on the other side of the street.",
+                                "Translation": "(On musiał zmienić stronę, ponieważ budynek, którego szukał był po drugiej stronie ulicy.)"
+                            },
+                            {
+                                "Sentence": "He switched to veganism when he started dating this girl.",
+                                "Translation": "(Przerzucił się na weganizm, kiedy zaczął spotykać się z tą dziewczyną.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zastępować (coś czymś)",
+                            "wymieniać (coś na coś)",
+                            "zmieniać (rzecz na inną)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He switched his BMW for a Jeep.",
+                                "Translation": "(On zamienił swoje BMW na Jeepa.)"
+                            },
+                            {
+                                "Sentence": "You should switch your old phone for a new one.",
+                                "Translation": "(Powinieneś wymienić swój stary telefon na jakiś nowy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przepinać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "swap",
+            "switch"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zamieniać (się)",
+                            "wymieniać (się)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I want to switch places with you.",
+                                "Translation": "(Chcę się z tobą zamienić miejscami.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "turnout",
+            "switch",
+            "set of points"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozjazd kolejowy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The train stopped at a switch.",
+                                "Translation": "(Pociąg zatrzymał się na rozjeździe kolejowym.)"
+                            },
+                            {
+                                "Sentence": "The train turned right at the turnout.",
+                                "Translation": "(Pociąg skręcił w prawo na rozjeździe.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

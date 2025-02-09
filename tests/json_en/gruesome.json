@@ -1,0 +1,24 @@
+[
+    {
+        "Entry": [
+            "gruesome"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "makabryczny",
+                            "okropny",
+                            "straszny",
+                            "przerażający"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

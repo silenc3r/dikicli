@@ -1,0 +1,44 @@
+[
+    {
+        "Entry": [
+            "bout"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "choroba (okres czasu kiedy jest się chorym)",
+                            "atak",
+                            "napad (choroby)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "When Alexandra had that bout of anorexia, we had this terrific psychologist.",
+                                "Translation": "(Kiedy Alexandra walczyła z anoreksją, mieliśmy świetnego psychologa.)"
+                            },
+                            {
+                                "Sentence": "He's got a bout of cough.",
+                                "Translation": "(On dostał napadu kaszlu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "walka bokserska",
+                            "pojedynek bokserski"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He had 15 bouts in his first year as a professional.",
+                                "Translation": "(On brał udział w piętnastu walkach bokserskich jako zawodowiec w pierwszym roku swojej kariery.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

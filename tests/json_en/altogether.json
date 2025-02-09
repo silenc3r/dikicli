@@ -1,0 +1,83 @@
+[
+    {
+        "Entry": [
+            "altogether"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zupełnie",
+                            "całkiem",
+                            "całkowicie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We've lost contact with them altogether.",
+                                "Translation": "(Straciliśmy z nimi całkowicie kontakt.)"
+                            },
+                            {
+                                "Sentence": "This didn't altogether surprise me.",
+                                "Translation": "(To zupełnie mnie nie zaskoczyło.)"
+                            },
+                            {
+                                "Sentence": "It stopped raining altogether.",
+                                "Translation": "(Całkowicie przestało padać.)"
+                            },
+                            {
+                                "Sentence": "We have an altogether different idea.",
+                                "Translation": "(Mamy zupełnie inny pomysł.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "razem",
+                            "w sumie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There are only six people altogether.",
+                                "Translation": "(Łącznie jest tylko sześć osób.)"
+                            },
+                            {
+                                "Sentence": "Altogether, coffee and dessert cost six dollars.",
+                                "Translation": "(Razem, kawa i deser kosztowały sześć dolarów.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ogólnie rzecz biorąc",
+                            "ogółem"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "not altogether"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nie całkiem",
+                            "nie do końca"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

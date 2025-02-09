@@ -1,0 +1,318 @@
+[
+    {
+        "Entry": [
+            "frame"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rama (od obrazu)",
+                            "ramka (do zdjęcia)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He tried to destroy the picture, but only broke the frame.",
+                                "Translation": "(On próbował zniszczyć obraz, ale tylko złamał ramę.)"
+                            },
+                            {
+                                "Sentence": "Do you think that a black or a white frame goes better with this picture?",
+                                "Translation": "(Sądzisz, że czarna czy biała ramka bardziej pasuje do tego zdjęcia?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "struktura",
+                            "rama (np. rowerowa)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This bicycle has got an ultralight frame.",
+                                "Translation": "(Ten rower ma ultralekką ramę.)"
+                            },
+                            {
+                                "Sentence": "What is the frame of this organization?",
+                                "Translation": "(Jaka jest struktura tej organizacji?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "szkielet",
+                            "postura"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He usually had a hunched frame.",
+                                "Translation": "(On zwykle miał przygarbioną posturę.)"
+                            },
+                            {
+                                "Sentence": "My father has a muscular frame.",
+                                "Translation": "(Mój ojciec ma muskularną posturę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "oprawka (od okularów)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This type of frame is a new fad on the market.",
+                                "Translation": "(Ten typ oprawki jest nową modą na rynku.)"
+                            },
+                            {
+                                "Sentence": "I have to buy new glasses, can you help me choose the frame?",
+                                "Translation": "(Muszę kupić nowe okulary, możesz mi pomóc wybrać oprawkę?)"
+                            },
+                            {
+                                "Sentence": "I changed my frames and I look much better.",
+                                "Translation": "(Zmieniłam oprawki i wyglądam dużo lepiej.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "system",
+                            "ogólne ramy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This instruction presents a general frame of the organization.",
+                                "Translation": "(Ta instrukcja prezentuje ogólne ramy organizacji.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kadr (w fotografii)",
+                            "klatka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My personal photographer is very good at choosing the proper frame.",
+                                "Translation": "(Mój osobisty fotograf jest bardzo dobry w dobieraniu odpowiedniego kadru.)"
+                            },
+                            {
+                                "Sentence": "I wasn't able to fit your hair into the frame.",
+                                "Translation": "(Nie byłem w stanie zmieścić twoich włosów w kadrze.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "partia (w snookerze)",
+                            "runda (w kręglach)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We played bowling, and I won the frame.",
+                                "Translation": "(Graliśmy w kręgle, i wygrałem rundę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ramka (część strony internetowej)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Websites are no longer based on frames these days.",
+                                "Translation": "(Obecnie strony internetowe nie są już oparte o ramki.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pułapka",
+                            "wrobienie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Drug dillers got him into a frame.",
+                                "Translation": "(Handlarze narkotykowi wpakowali go w pułapkę.)"
+                            },
+                            {
+                                "Sentence": "It's a frame, I didn't do that!",
+                                "Translation": "(To pułapka, ja tego nie zrobiłem!)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wręg",
+                            "wręga (jeden z najważniejszych elementów szkieletu statku)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "obramowywać",
+                            "okalać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Her eyebrows beautifully frame her blue eyes.",
+                                "Translation": "(Jej brwi pięknie okalają jej niebieskie oczy.)"
+                            },
+                            {
+                                "Sentence": "The leaves framed the gates.",
+                                "Translation": "(Liście okalały bramy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "oprawiać (w ramę)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My mom always frames family pictures.",
+                                "Translation": "(Moja mama zawsze oprawia w ramy zdjęcia rodzinne.)"
+                            },
+                            {
+                                "Sentence": "The father framed the first photo of his son.",
+                                "Translation": "(Ojciec oprawił pierwsze zdjęcie swojego syna.)"
+                            },
+                            {
+                                "Sentence": "My brother framed his college degree.",
+                                "Translation": "(Mój brat oprawił swój dyplom uczelni wyższej.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przypisywać winę",
+                            "wrabiać (kogoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The gang members framed their leader in the bank robbery.",
+                                "Translation": "(Członkowie gangu wrobili swojego lidera w napad na bank.)"
+                            },
+                            {
+                                "Sentence": "I can't go to jail, I have to frame Jason.",
+                                "Translation": "(Nie mogę iść do więzienia, muszę przypisać winę Jasonowi.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "formułować",
+                            "tworzyć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The politicians framed the declaration based on neoliberalism.",
+                                "Translation": "(Polityk sformułował deklarację w oparciu o neoliberalizm.)"
+                            },
+                            {
+                                "Sentence": "Can you frame a conclusion?",
+                                "Translation": "(Czy umiesz sformułować wniosek?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ustawić wynik",
+                            "sfałszować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The voters knew that the elections were framed.",
+                                "Translation": "(Głosujący wiedzieli, że wybory były sfałszowane.)"
+                            },
+                            {
+                                "Sentence": "They framed the vote because they wanted Peter to win.",
+                                "Translation": "(Ustawili wynik głosowania, bo chcieli, żeby Peter wygrał.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ramowy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Here we have a frame plan of events.",
+                                "Translation": "(Mamy tu ramowy plan zdarzeń.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "frame somebody"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wrabiać kogoś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I didn't do it, someone framed me!",
+                                "Translation": "(Nie zrobiłem tego, ktoś mnie wrobił!)"
+                            },
+                            {
+                                "Sentence": "I want to frame Peter in murder - do you want to help me?",
+                                "Translation": "(Chcę wrobić Petera w morderstwo - chcesz mi pomóc?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "a-frame"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "budowla w kształcie litery A"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "w kształcie litery A"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

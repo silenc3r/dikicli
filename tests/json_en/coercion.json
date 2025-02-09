@@ -1,0 +1,26 @@
+[
+    {
+        "Entry": [
+            "coercion"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przymus"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The documents have been signed under conditions free from stress and coercion.",
+                                "Translation": "(Dokumenty zostały podpisane w warunkach wolnych od stresu i przymusu.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

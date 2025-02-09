@@ -1,0 +1,24 @@
+[
+    {
+        "Entry": [
+            "inveterate"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zadawniony",
+                            "zakorzeniony",
+                            "notoryczny",
+                            "zatwardziały"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

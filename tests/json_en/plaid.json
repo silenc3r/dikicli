@@ -1,0 +1,72 @@
+[
+    {
+        "Entry": [
+            "plaid",
+            "tartan"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "tartan",
+                            "wzór w szkocką kratę"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I need fabric with a plaid pattern.",
+                                "Translation": "(Potrzebuję tkaniny ze wzorem w szkocką kratę.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "tartan",
+            "plaid"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "tartan (szkocka tkanina w kratę)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "plaid"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pled w szkocką kratę (część stroju narodowego Szkotów)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He wore a traditional Scottish plaid.",
+                                "Translation": "(On miał na sobie tradycyjny szkocki pled.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

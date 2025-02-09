@@ -1,0 +1,72 @@
+[
+    {
+        "Entry": [
+            "bra",
+            "brassiere"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "stanik",
+                            "biustonosz"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She pulled her dress off over her head and removed her bra.",
+                                "Translation": "(Ona ściągnęła sukienkę przez głowę i zdjęła biustonosz.)"
+                            },
+                            {
+                                "Sentence": "Have you got a bra on?",
+                                "Translation": "(Czy masz na sobie stanik?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "brah",
+            "bra",
+            "braddah",
+            "bruddah",
+            "bradda"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "wykrzyknik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "brachu"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You showed him up, brah!",
+                                "Translation": "(Ale mu narobiłeś wstydu, brachu!)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "koleś",
+                            "gostek"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

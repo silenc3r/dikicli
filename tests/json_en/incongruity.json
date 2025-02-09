@@ -1,0 +1,52 @@
+[
+    {
+        "Entry": [
+            "incongruity"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niestosowność",
+                            "niewłaściwość"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The incongruity of her behaviour struck me.",
+                                "Translation": "(Uderzyła mnie niestosowność jej zachowania.)"
+                            },
+                            {
+                                "Sentence": "He was baffled by the incongruity of the questions she asked.",
+                                "Translation": "(On był zaskoczony niestosownością pytań, które ona zadała.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "niezgoda",
+                            "brak związku",
+                            "brak zgody",
+                            "sprzeczność"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There is incongruity between what she promises and what she does.",
+                                "Translation": "(Między tym, co ona obiecuje i co robi jest sprzeczność.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "niedopasowanie",
+                            "niedostosowanie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

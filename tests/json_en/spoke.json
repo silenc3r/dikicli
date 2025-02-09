@@ -1,0 +1,193 @@
+[
+    {
+        "Entry": [
+            "spoke"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szprycha (w kole rowerowym)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "szczebel (drabiny)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "ramię kierownicy, steru"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "speak"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mówić (rozmawiać z kimś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I spoke to him last Friday.",
+                                "Translation": "(Rozmawiałem z nim w ostatni piątek.)"
+                            },
+                            {
+                                "Sentence": "She hasn't spoken to Paul yet, but she will ask him about it.",
+                                "Translation": "(Ona nie rozmawiała jeszcze z Paulem, ale ona go o to zapyta.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "mówić (wypowiadać słowa)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Could you speak more slowly, please?",
+                                "Translation": "(Czy mógłbyś proszę mówić trochę wolniej?)"
+                            },
+                            {
+                                "Sentence": "I was so angry I couldn't speak.",
+                                "Translation": "(Byłem tak zły że odebrało mi mowę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "mówić (znać jakiś język, np. mówić po niemiecku)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Do you speak Russian?",
+                                "Translation": "(Czy mówisz po rosyjsku?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przemawiać",
+                            "wygłaszać przemówienie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He was supposed to speak at the conference.",
+                                "Translation": "(Miał przemawiać na konferencji.)"
+                            },
+                            {
+                                "Sentence": "I can't speak to all these people. I'm not that confident.",
+                                "Translation": "(Nie mogę przemawiać do tych wszystkich ludzi. Nie jestem tak pewny siebie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "mówić (wyrażać zdanie, opinię)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I think I speak for all of us, when I say this movie was awful.",
+                                "Translation": "(Wydaje mi się, że wyrażam opinię wszystkich, mówiąc, że ten film był okropny.)"
+                            },
+                            {
+                                "Sentence": "Everyone should be able to speak their mind.",
+                                "Translation": "(Każdy powinien móc wyrazić swoją opinię.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "żargon",
+                            "specyficzny język (np. leetspeak)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "speak to somebody"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozmawiać z kimś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I spoke to him yesterday.",
+                                "Translation": "(Rozmawiałem z nim wczoraj.)"
+                            },
+                            {
+                                "Sentence": "He wants to speak to someone who saw the accident.",
+                                "Translation": "(On chce porozmawiać z kimś, kto widział wypadek.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pomówić z kimś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I will speak to you about your behaviour later.",
+                                "Translation": "(Pomówię z tobą o twoim zachowaniu później.)"
+                            },
+                            {
+                                "Sentence": "I need to speak to my boss about my vacation.",
+                                "Translation": "(Muszę pomówić z moim szefem o urlopie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przemawiać do kogoś (poruszać, wzruszać)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Her arguments spoke to me.",
+                                "Translation": "(Jej argumenty przemówiły do mnie.)"
+                            },
+                            {
+                                "Sentence": "Your song spoke to me.",
+                                "Translation": "(Wasza piosenka mnie wzruszyła.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

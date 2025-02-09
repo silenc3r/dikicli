@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "eek"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "wykrzyknik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "okrzyk zaskoczenia",
+                            "okrzyk strachu"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

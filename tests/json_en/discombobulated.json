@@ -1,0 +1,27 @@
+[
+    {
+        "Entry": [
+            "discombobulated"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wprawiony w osłupienie",
+                            "osłupiały"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He was totally discombobulated when he saw her.",
+                                "Translation": "(On był całkowicie osłupiały, gdy ją zobaczył.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

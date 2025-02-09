@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "treacherous"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "podstępny",
+                            "zdradziecki",
+                            "oszukańczy (o osobie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zdradliwy (np. teren)",
+                            "niebezpieczny (np. o drodze)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

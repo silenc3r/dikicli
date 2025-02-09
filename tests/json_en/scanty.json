@@ -1,0 +1,34 @@
+[
+    {
+        "Entry": [
+            "scanty"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niedostateczny (zasób czegoś)",
+                            "niewystarczający (np. dowód na coś)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "skąpy",
+                            "kusy (o odzieży)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She was wearing a scanty dress.",
+                                "Translation": "(Ona miała na sobie kusą sukienkę.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

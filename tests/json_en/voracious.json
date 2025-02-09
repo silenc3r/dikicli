@@ -1,0 +1,31 @@
+[
+    {
+        "Entry": [
+            "voracious"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "żarłoczny",
+                            "zachłanny"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zapalony",
+                            "entuzjastyczny",
+                            "chętny",
+                            "ochoczy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

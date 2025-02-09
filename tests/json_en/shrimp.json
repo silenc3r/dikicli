@@ -1,0 +1,77 @@
+[
+    {
+        "Entry": [
+            "shrimp"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kurdupel",
+                            "kordupel",
+                            "karzeł (o niskiej osobie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Tom is such a shrimp that I couldn't see him in the crowd.",
+                                "Translation": "(Tom jest takim kurduplem, że nie widziałem go w tłumie.)"
+                            },
+                            {
+                                "Sentence": "When I stand beside this tall guy, I feel like a shrimp.",
+                                "Translation": "(Kiedy stoję obok tego wysokiego gościa, czuję się jak karzeł.)"
+                            },
+                            {
+                                "Sentence": "He's a shrimp, his girlfriend can't wear high heels.",
+                                "Translation": "(On jest karłem, jego dziewczyna nie może nosić wysokich obcasów.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "łowić krewetki"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They shrimp in the Baltic Sea.",
+                                "Translation": "(Oni łowią krewetki w Bałtyku.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "shrimp",
+            "prawn"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "krewetka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The speciality of this restaurant is fresh shrimp.",
+                                "Translation": "(Specjalnością tej restauracji są świeże krewetki.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

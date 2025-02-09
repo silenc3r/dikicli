@@ -1,0 +1,21 @@
+[
+    {
+        "Entry": [
+            "Levi"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "Lewi (postać biblijna z Księgi Rodzaju)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

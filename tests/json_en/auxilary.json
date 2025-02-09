@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "auxiliary"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pomocniczy",
+                            "posiłkowy (np. pracownik, załoga)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zapasowy",
+                            "rezerwowy (np. silnik, sprzęt)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

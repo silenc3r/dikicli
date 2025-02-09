@@ -1,0 +1,57 @@
+[
+    {
+        "Entry": [
+            "emaciated"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wychudzony",
+                            "wyniszczony"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He looked emaciated, as if he had lost at least fifty pounds.",
+                                "Translation": "(On wyglądał na wychudzonego, jak gdyby schudł co najmniej 50 funtów.)"
+                            },
+                            {
+                                "Sentence": "Their faces were paper white, thin, emaciated.",
+                                "Translation": "(Ich twarze były białe jak papier, chude, wyniszczone.)"
+                            },
+                            {
+                                "Sentence": "His body was bent and emaciated to the bone, almost fleshless.",
+                                "Translation": "(Jego ciało było wygięte i wychudzone do kości, niemal bez ciała.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "emaciate"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wycieńczać",
+                            "wycieńczyć",
+                            "wyjałowić",
+                            "wyniszczyć"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

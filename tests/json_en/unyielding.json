@@ -1,0 +1,31 @@
+[
+    {
+        "Entry": [
+            "unyielding"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nieustępliwy",
+                            "nieugięty (np. sprzeciw)",
+                            "sztywny (np. zasady)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "twardy",
+                            "sztywny",
+                            "mocny (np. bariera)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

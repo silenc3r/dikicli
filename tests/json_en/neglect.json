@@ -1,0 +1,86 @@
+[
+    {
+        "Entry": [
+            "neglect"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zaniedbać",
+                            "zapuścić (np. ogród, wygląd)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She takes care of the house but she neglects the garden.",
+                                "Translation": "(Ona dba o dom, ale zaniedbuje ogród.)"
+                            },
+                            {
+                                "Sentence": "He neglected his look after the divorce.",
+                                "Translation": "(Po rozwodzie zaniedbał swój wygląd.)"
+                            },
+                            {
+                                "Sentence": "I'm going to the hairdresser's because I neglected my hair.",
+                                "Translation": "(Idę do fryzjera, ponieważ zaniedbałem swoje włosy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zaniedbywać",
+                            "lekceważyć (np. ważny problem)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You shouldn't neglect your homework.",
+                                "Translation": "(Nie powinieneś zaniedbywać prac domowych.)"
+                            },
+                            {
+                                "Sentence": "Don't neglect your health.",
+                                "Translation": "(Nie zaniedbuj swojego zdrowia.)"
+                            },
+                            {
+                                "Sentence": "This problem is serious, don't neglect it.",
+                                "Translation": "(Ten problem jest poważny, nie lekceważ go.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zaniedbanie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It was gross neglect on a part of his parents.",
+                                "Translation": "(To było duże zaniedbanie ze strony jego rodziców.)"
+                            },
+                            {
+                                "Sentence": "He'll be punished for the neglect of his duties.",
+                                "Translation": "(Zostanie ukarany za zaniedbanie swoich obowiązków.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "brak zainteresowania"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His neglect will lead to a divorce.",
+                                "Translation": "(Jego brak zainteresowania doprowadzi do rozwodu.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

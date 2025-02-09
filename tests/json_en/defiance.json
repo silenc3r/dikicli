@@ -1,0 +1,51 @@
+[
+    {
+        "Entry": [
+            "defiance"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wyzwanie",
+                            "prowokacja"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He resorted to defiance in order to find out the truth.",
+                                "Translation": "(On posunął się do prowokacji, żeby odkryć prawdę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "opór",
+                            "bunt",
+                            "przekora"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He quit school as an act of defiance.",
+                                "Translation": "(On rzucił szkołę jako wyraz buntu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "naruszenie (prawa, przepisu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Defiance of this rule may result in a fine.",
+                                "Translation": "(Naruszenie tej zasady może skutkować grzywną.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

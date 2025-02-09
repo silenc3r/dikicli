@@ -1,0 +1,65 @@
+[
+    {
+        "Entry": [
+            "crust"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "skórka",
+                            "piętka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He didn't eat the crust of his sandwiches.",
+                                "Translation": "(On nie zjadł skórek ze swoich kanapek.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "skorupa",
+                            "pokrywa",
+                            "strup",
+                            "strupek"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The snow crust after a good frost is very tough.",
+                                "Translation": "(Pokrywa śniegu po mocnym przymrozku jest bardzo twarda.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "osad"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "tupet",
+                            "czelność"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pokryć skorupką"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

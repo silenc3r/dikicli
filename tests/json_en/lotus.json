@@ -1,0 +1,65 @@
+[
+    {
+        "Entry": [
+            "lotus"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "lotos (każdy z rodzajów tropikalnej lilii wodnej z dużymi liśćmi)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "Indian lotus",
+            "sacred lotus",
+            "bean of India",
+            "lotus",
+            "nelumbo nucifera"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "lotos orzechodajny",
+                            "lotos indyjski",
+                            "nurzykłąb orzechodajny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "Lotus"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "nazwa własna",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "Lotus"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

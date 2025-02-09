@@ -1,0 +1,24 @@
+[
+    {
+        "Entry": [
+            "paucity"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niedostatek",
+                            "brak",
+                            "szczupłość",
+                            "ubóstwo"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

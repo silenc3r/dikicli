@@ -1,0 +1,50 @@
+[
+    {
+        "Entry": [
+            "entail"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ordynacja",
+                            "majorat"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wiązać się z czymś",
+                            "pociągać za sobą (np. wydatki, skutki)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It would be good if this positive step did not entail new administrative burdens.",
+                                "Translation": "(Byłoby dobrze, gdyby ten pozytywny krok nie pociągał za sobą nowych obciążeń administracyjnych.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przekazywać jako ordynację lub majorat"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His estate was entailed on her.",
+                                "Translation": "(Majorat nad jego majątkiem został przekazany jej.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

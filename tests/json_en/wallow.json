@@ -1,0 +1,46 @@
+[
+    {
+        "Entry": [
+            "wallow"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "tarzać się",
+                            "pławić się",
+                            "taplać się (w błocie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "pławić się (np. w luksusie)",
+                            "rozkoszować się (np. sławą)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "pogrążać się",
+                            "dogłębnie odczuwać (dotyczy negatywnych emocji)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He wallowed in grief.",
+                                "Translation": "(On dogłębnie odczuwał żal.)"
+                            },
+                            {
+                                "Sentence": "I wanted only to wallow in grief.",
+                                "Translation": "(Chciałem jedynie pogrążać się w rozpaczy.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

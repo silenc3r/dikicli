@@ -1,0 +1,67 @@
+[
+    {
+        "Entry": [
+            "fir"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "jodła",
+                            "jedlina"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The tree they cut down was a fir.",
+                                "Translation": "(Drzewo, które oni ścięli, było jodłą.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "Flight Information Region",
+            "FIR"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "Rejon Informacji Lotniczej"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "far infrared",
+            "FIR"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "daleka podczerwień"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "Entry": [
+            "brat"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bachor",
+                            "smarkacz"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pewny siebie",
+                            "niezależny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Charli XCX gave 'brat' a new meaning . She's a dictionary definition of brat herself, isn't she?",
+                                "Translation": "(Charli XCX nadała słowu 'brat' nowe znaczenie. Sama jest słownikową definicją osoby pewnej siebie i niezależnej, prawda?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

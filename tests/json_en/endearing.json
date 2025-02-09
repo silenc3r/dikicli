@@ -1,0 +1,46 @@
+[
+    {
+        "Entry": [
+            "endearing"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ujmujący",
+                            "uroczy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "endear"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zjednać",
+                            "zjednywać",
+                            "przypodobać się",
+                            "pozyskać",
+                            "pozyskiwać",
+                            "zaskarbić (np. uznanie, sympatię)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

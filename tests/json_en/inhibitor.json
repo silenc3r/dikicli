@@ -1,0 +1,65 @@
+[
+    {
+        "Entry": [
+            "inhibitor"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "inhibitor (związek chemiczny powodujący zahamowanie, bądź spowolnienie reakcji chemicznej)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "osoba hamująca (coś)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "przedmiot hamujący (coś)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "antykatalizator",
+                            "katalizator ujemny"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "substancja hamująca działanie enzymu"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "substancja hamująca proces metaboliczny lub fizjologiczny"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zanieczyszczenie zapobiegające luminescencji"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "substancja dodawana do niektórych paliw rakietowych",
+                            "hamująca zapłon na niektórych powierzchniach"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

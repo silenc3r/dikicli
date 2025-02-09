@@ -1,0 +1,33 @@
+[
+    {
+        "Entry": [
+            "pang"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ściśnięcie serca",
+                            "ukłucie (np. zazdrości)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He complained about heart pangs before he arrived at the hospital.",
+                                "Translation": "(Zanim on przyjechał do szpitala narzekał na ściśnięcia serca.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przypływ nieprzyjemnych emocji"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

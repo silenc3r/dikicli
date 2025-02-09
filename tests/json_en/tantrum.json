@@ -1,0 +1,58 @@
+[
+    {
+        "Entry": [
+            "tantrum",
+            "temper tantrum"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "furia",
+                            "napad (złości, szału)",
+                            "histeria"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wpaść w złość"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "throw a tantrum",
+            "throw a temper tantrum",
+            "have a tantrum",
+            "have a temper tantrum"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dostać napadu złości",
+                            "wpaść we wściekłość"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

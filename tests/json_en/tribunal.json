@@ -1,0 +1,27 @@
+[
+    {
+        "Entry": [
+            "tribunal"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sąd",
+                            "trybunał"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You will be sentenced by this tribunal.",
+                                "Translation": "(Będziesz osądzony przez ten trybunał.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "duende"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "czar",
+                            "urok",
+                            "wdzięk (z języka hiszpańskiego)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

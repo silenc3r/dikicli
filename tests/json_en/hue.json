@@ -1,0 +1,34 @@
+[
+    {
+        "Entry": [
+            "hue"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "odcień"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Her face quickly lost its warm hue.",
+                                "Translation": "(Jej twarz szybko straciła swój ciepły odcień.)"
+                            },
+                            {
+                                "Sentence": "In the Caribbean waters there are fish of every hue.",
+                                "Translation": "(W wodach Karaibskich występują ryby o wszystkich odcieniach.)"
+                            },
+                            {
+                                "Sentence": "All hues of political opinion were represented at the meeting.",
+                                "Translation": "(Wszystkie rodzaje opinii politycznych były reprezentowane na spotkaniu.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

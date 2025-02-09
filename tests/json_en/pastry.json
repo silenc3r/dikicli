@@ -1,0 +1,38 @@
+[
+    {
+        "Entry": [
+            "pastry"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ciasto (jako masa)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Listen to me: no butter, no pastry.",
+                                "Translation": "(Posłuchaj mnie: nie ma masła, nie ma ciasta.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ciastko",
+                            "słodkie pieczywo"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It's a piece of pastry with stuffing.",
+                                "Translation": "(To ciastko z nadzieniem.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

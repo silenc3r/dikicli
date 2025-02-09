@@ -1,0 +1,40 @@
+[
+    {
+        "Entry": [
+            "predator"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "drapieżnik"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Somewhere on this island is the greatest predator that ever lived.",
+                                "Translation": "(Gdzieś na tej wyspie żyje największy drapieżnik świata.)"
+                            },
+                            {
+                                "Sentence": "They're the only large predator in these icy waters.",
+                                "Translation": "(Są jedynym dużym drapieżnikiem w tych lodowatych wodach.)"
+                            },
+                            {
+                                "Sentence": "Look, I work for the predator control team.",
+                                "Translation": "(Posłuchaj, pracuję dla zespołu kontrolującego drapieżniki.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "sęp (osoba szukająca okazji, aby dostać coś od kogoś)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

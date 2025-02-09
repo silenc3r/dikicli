@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "conifer"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "drzewo iglaste",
+                            "drzewo szpilkowe"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "Entry": [
+            "vice"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "występek",
+                            "niemoralne zachowanie (zwłaszcza związany z narkotykami, prostytucją, hazardem)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His vices saddened his mother.",
+                                "Translation": "(Jego występki smuciły jego matkę.)"
+                            },
+                            {
+                                "Sentence": "He went to jail for his vices.",
+                                "Translation": "(On poszedł do więzienia za swoje występki.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zły nawyk"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My father always said that every vice has its excuse ready.",
+                                "Translation": "(Jak mawiał mój ojciec, każdy zły nawyk ma gotowe wytłumaczenie.)"
+                            },
+                            {
+                                "Sentence": "He had only one vice: smoking.",
+                                "Translation": "(On miał tylko jeden zły nawyk: palenie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wada",
+                            "defekt"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The blouse I bought has a vice, I have to take it back to the store.",
+                                "Translation": "(Bluzka, którą wczoraj kupiłem, ma wadę, muszę oddać ją do sklepu.)"
+                            },
+                            {
+                                "Sentence": "The new software has a lot of vices.",
+                                "Translation": "(Nowe oprogramowanie ma wiele defektów.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "prefiks",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wice"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There's no such thing as a vice presidential campaign.",
+                                "Translation": "(Nie ma czegoś takiego jak kampania wiceprezydencka.)"
+                            },
+                            {
+                                "Sentence": "He was a vice-chair in our company.",
+                                "Translation": "(On był wiceprzewodniczącym w naszej firmie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "vice",
+            "vise"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "imadło"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You need to grab a piece of metal with a vice.",
+                                "Translation": "(Musisz złapać kawałek metalu w imadło.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

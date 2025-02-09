@@ -1,0 +1,334 @@
+[
+    {
+        "Entry": [
+            "sweeping"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wymiatanie",
+                            "zamiatanie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The floor could use some sweeping here.",
+                                "Translation": "(Podłodze tutaj przydałoby się zamiatanie.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ogromny (np. postęp)",
+                            "daleko idący (o zmianach)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This is a sweeping change in the city's infrastructure.",
+                                "Translation": "(To daleko idąca zmiana w infrastrukturze miasta.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ogólny",
+                            "ogólnikowy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I conducted a sweeping analysis of the Polish economy.",
+                                "Translation": "(Przeprowadziłem ogólną analizę polskiej gospodarki.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zamaszysty",
+                            "szeroki (gest)",
+                            "głęboki (ukłon)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He greeted us with a sweeping bow.",
+                                "Translation": "(On przywitał nas głębokim ukłonem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rozległy (o przestrzeni)",
+                            "ogarniający (o spojrzeniu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She had this sweeping stare, looking at every person in the class at the same time.",
+                                "Translation": "(Ona miała to ogarniające spojrzenie, dzięki któremu zdawało się, jakby cały czas patrzyła na każdą osobę w klasie z osobna.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "doszczętny (o zwycięstwie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "That was a sweeping victory by the home team.",
+                                "Translation": "(To było doszczętne zwycięstwo drużyny gospodarzy.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "sweep"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zamiatać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Take the broom and sweep the floor.",
+                                "Translation": "(Weź miotłę i pozamiataj podłogę.)"
+                            },
+                            {
+                                "Sentence": "I swept the path in front of the house.",
+                                "Translation": "(Pozamiatałem ścieżkę przed domem.)"
+                            },
+                            {
+                                "Sentence": "Sweep under the table.",
+                                "Translation": "(Pozamiataj pod stołem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zmieść",
+                            "porywać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She was swept into the sea.",
+                                "Translation": "(Ona została porwana do morza.)"
+                            },
+                            {
+                                "Sentence": "We'll sweep them down the hill as they come up.",
+                                "Translation": "(Zmieciemy ich ze wzgórza, kiedy będą się wspinać.)"
+                            },
+                            {
+                                "Sentence": "My hat was swept by the wind.",
+                                "Translation": "(Mój kapelusz został porwany przez wiatr.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pędzić",
+                            "mknąć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The boat swept through the cold night.",
+                                "Translation": "(Łódź pędziła przez zimną noc.)"
+                            },
+                            {
+                                "Sentence": "Why are you sweeping like that? Is there fire?",
+                                "Translation": "(Czemu tak pędzisz? Pali się?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zdobyć szeroką popularność"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I promise you that I will help your sister sweep as a singer.",
+                                "Translation": "(Obiecuję, że pomogę twojej siostrze zdobyć szeroką popularność jako piosenkarka.)"
+                            },
+                            {
+                                "Sentence": "I'm sure that your book will sweep very quickly.",
+                                "Translation": "(Jestem przekonany, że twoja książka bardzo szybko zdobędzie szeroką popularność.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "omiatać",
+                            "szerzyć się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Hysteria swept through the town after the shooting.",
+                                "Translation": "(Histeria szerzyła się w mieście po strzelaninie.)"
+                            },
+                            {
+                                "Sentence": "The epidemic has already swept half of the city.",
+                                "Translation": "(Epidemia omiotła już połowę miasta.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kroczyć z godnością"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She was sweeping through the room like a queen.",
+                                "Translation": "(Ona kroczyła przez pokój jak królowa.)"
+                            },
+                            {
+                                "Sentence": "Despite the failure, he swept through the crowd.",
+                                "Translation": "(Pomimo porażki, kroczył z godnością przez tłum.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wygrać dużą liczbą głosów"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We hope he will sweep the election.",
+                                "Translation": "(Mamy nadzieję, że on wygra wybory dużą liczbą głosów.)"
+                            },
+                            {
+                                "Sentence": "I swept the election for the class president.",
+                                "Translation": "(Wygrałem wybory na przewodniczącego klasy dużą liczbą głosów.)"
+                            },
+                            {
+                                "Sentence": "Don't worry, our candidate will sweep.",
+                                "Translation": "(Nie martw się, nasz kandydat wygra dużą liczbą głosów.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ogarnąć wzrokiem"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Her eyes swept her new bedroom.",
+                                "Translation": "(Jej oczy ogarnęły jej nową sypialnię.)"
+                            },
+                            {
+                                "Sentence": "The living room is so big I can't sweep it.",
+                                "Translation": "(Salon jest tak duży, że nie mogę go ogarnąć wzrokiem.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zamiatanie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Can you help me with the sweep?",
+                                "Translation": "(Czy możesz pomóc mi z zamiataniem?)"
+                            },
+                            {
+                                "Sentence": "She says that sweep is the most boring thing in the world.",
+                                "Translation": "(Ona mówi, że zamiatanie to najnudniejsza rzecz na świecie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zakres"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "przeszukanie",
+                            "obława",
+                            "łapanka",
+                            "nalot (policyjny)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The sweep was unexpected.",
+                                "Translation": "(Obława była niespodziewana.)"
+                            },
+                            {
+                                "Sentence": "He was arrested during the sweep.",
+                                "Translation": "(Został aresztowany podczas łapanki.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "szeroki ruch",
+                            "ruch omiatający"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He threw everything on the floor with a sweep of his hand.",
+                                "Translation": "(On zrzucił wszystko na ziemię szerokim ruchem ręki.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kominiarz"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The sweep's face was black.",
+                                "Translation": "(Twarz kominiarza była czarna.)"
+                            },
+                            {
+                                "Sentence": "The sweep cleaned our chimney.",
+                                "Translation": "(Kominiarz wyczyścił nasz komin.)"
+                            },
+                            {
+                                "Sentence": "Look, a sweep. Grab your button!",
+                                "Translation": "(Patrz, kominiarz. Złap się guzika!)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "seria wygranych meczów"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It was only their second series sweep of the season.",
+                                "Translation": "(To była dopiero ich druga seria wygranych meczów w tym sezonie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "duża część przestrzeni",
+                            "połać",
+                            "rozległa przestrzeń"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

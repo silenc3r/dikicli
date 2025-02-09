@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "theory"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "teoria"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It's only a scientific theory.",
+                                "Translation": "(To jest tylko teoria naukowa.)"
+                            },
+                            {
+                                "Sentence": "Einstein's Theory of Relativity is difficult for the average person to understand.",
+                                "Translation": "(Teoria względności Einsteina jest trudna do zrozumienia dla przeciętnej osoby.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

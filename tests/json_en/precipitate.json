@@ -1,0 +1,98 @@
+[
+    {
+        "Entry": [
+            "precipitate"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przyspieszać",
+                            "przyśpieszać"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "strącać",
+                            "osadzać",
+                            "kondensować (oddzielać ciało stałe od cieczy w procesie chemicznym)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "nagle spaść",
+                            "padać (np. o deszczu, gradzie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "robić coś w pospiechu",
+                            "robić coś pochopnie",
+                            "robić coś bez zastanowienia"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zrzucać (z wysokości)",
+                            "wrzucać"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wywoływać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "opad",
+                            "osad (substancja chemicznie oddzielona, osadzona z cieczy)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "osad",
+                            "strąt"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pośpieszny",
+                            "przyspieszony",
+                            "gwałtowny"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "szybki",
+                            "pochopny",
+                            "nieprzemyślany (np. o decyzji)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

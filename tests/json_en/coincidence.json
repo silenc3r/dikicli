@@ -1,0 +1,50 @@
+[
+    {
+        "Entry": [
+            "coincidence",
+            "coinkydink"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zbieg okoliczności",
+                            "przypadek"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I do not believe in coincidences.",
+                                "Translation": "(Nie wierzę w zbiegi okoliczności.)"
+                            },
+                            {
+                                "Sentence": "Do you think it was just a coincidence?",
+                                "Translation": "(Myślisz, że to był po prostu przypadek?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zbieżność"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zgodność"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "koincydencja"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

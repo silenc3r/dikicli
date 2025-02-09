@@ -1,0 +1,44 @@
+[
+    {
+        "Entry": [
+            "procession"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pochód",
+                            "procesja",
+                            "parada"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "For example, on 31 August participants in a procession were subjected to brutal beatings.",
+                                "Translation": "(Przykładowo 31 sierpnia miało miejsce brutalne pobicie uczestników pochodu.)"
+                            },
+                            {
+                                "Sentence": "I've agreed to go to the procession with him tomorrow",
+                                "Translation": "(Zgodziłam się pójść z nim na jutrzejszą procesję.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "korowód",
+                            "orszak"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "How am I to reach the marriage hall in a procession?",
+                                "Translation": "(Jak ja dojadę z orszakiem do sali weselnej?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

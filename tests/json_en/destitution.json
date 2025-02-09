@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "destitution"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bieda",
+                            "nędza",
+                            "ubóstwo"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

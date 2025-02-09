@@ -1,0 +1,67 @@
+[
+    {
+        "Entry": [
+            "creed"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wyznawane poglądy",
+                            "kredo (np. polityczne)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I have met people of every race, color and creed during this long campaign.",
+                                "Translation": "(Spotkałem się z ludźmi różnych ras, kolorów skóry i wyznań podczas tej długiej kampanii.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "confession of faith",
+            "creed"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wyznanie wiary",
+                            "kredo"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "the Creed"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "Kredo (wyznanie wiary)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

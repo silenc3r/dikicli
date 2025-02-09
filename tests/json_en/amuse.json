@@ -1,0 +1,78 @@
+[
+    {
+        "Entry": [
+            "amuse"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zabawić",
+                            "bawić"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He amused us by his anecdotes.",
+                                "Translation": "(On zabawiał nas swoimi anegdotkami.)"
+                            },
+                            {
+                                "Sentence": "She amuses herself by creating jewellery.",
+                                "Translation": "(Ona bawi się tworzeniem biżuterii.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rozśmieszyć",
+                            "rozbawić"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He always tries to amuse me when I am sad.",
+                                "Translation": "(On zawsze próbuje mnie rozśmieszyć, kiedy jestem smutna.)"
+                            },
+                            {
+                                "Sentence": "She amused us with her brilliant jokes.",
+                                "Translation": "(Ona rozbawiła nas swoimi znakomitymi dowcipami.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dostarczać rozrywki",
+                            "zabawiać (np. gości)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Our hosts amused us during the dinner.",
+                                "Translation": "(Nasi gospodarze zabawiali nas podczas obiadu.)"
+                            },
+                            {
+                                "Sentence": "Their performance will amuse our hotel guests.",
+                                "Translation": "(Ich występ dostarczy rozrywki naszym gościom hotelowym.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zajmować sobie czas"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'm waiting for you, so I have to amuse myself.",
+                                "Translation": "(Czekam na ciebie, więc muszę sobie zająć czas.)"
+                            },
+                            {
+                                "Sentence": "\"How do you amuse yourself?\" \"By playing computer games.\"",
+                                "Translation": "(\"Jak sobie zajmujesz czas?\" \"Graniem w gry komputerowe.\")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

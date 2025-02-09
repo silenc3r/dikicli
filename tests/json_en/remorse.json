@@ -1,0 +1,35 @@
+[
+    {
+        "Entry": [
+            "remorse"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wyrzuty sumienia",
+                            "skrucha"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The convicted man had shown no remorse.",
+                                "Translation": "(Skazany mężczyzna nie okazał żadnej skruchy.)"
+                            },
+                            {
+                                "Sentence": "I was filled with remorse.",
+                                "Translation": "(Byłem pełen wyrzutów sumienia.)"
+                            },
+                            {
+                                "Sentence": "Their apparent remorse is not genuine.",
+                                "Translation": "(Ich widoczna skrucha nie jest szczera.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

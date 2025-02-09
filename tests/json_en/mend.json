@@ -1,0 +1,86 @@
+[
+    {
+        "Entry": [
+            "repair",
+            "mend"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "naprawiać",
+                            "reperować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Can you repair it for me?",
+                                "Translation": "(Czy możesz naprawić to dla mnie?)"
+                            },
+                            {
+                                "Sentence": "A mechanic will repair our washing machine.",
+                                "Translation": "(Mechanik naprawi naszą pralkę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "naprawiać",
+                            "rekompensować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He repaired his faults.",
+                                "Translation": "(On naprawił swoje błędy.)"
+                            },
+                            {
+                                "Sentence": "You should repair all your mistakes to clear your conscience.",
+                                "Translation": "(Powinieneś naprawić wszystkie swoje błędy, żeby oczyścić sumienie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "mend"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zdrowieć"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "łatać",
+                            "zszywać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "łata",
+                            "poprawka"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

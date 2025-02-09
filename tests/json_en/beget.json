@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "beget"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "począć",
+                            "płodzić",
+                            "spłodzić (stać się ojcem dziecka)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "spowodować",
+                            "zrodzić (przyczynić się do jakiegoś wydarzenia)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

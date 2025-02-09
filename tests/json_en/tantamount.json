@@ -1,0 +1,45 @@
+[
+    {
+        "Entry": [
+            "tantamount"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "równoznaczny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His request was tantamount to a demand.",
+                                "Translation": "(Jego prośba była równoznaczna z żądaniem.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "tantamount to something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "równoznaczny z czymś"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

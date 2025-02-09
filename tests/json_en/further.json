@@ -1,0 +1,269 @@
+[
+    {
+        "Entry": [
+            "further"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dalszy",
+                            "dodatkowy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They didn't give us any further information.",
+                                "Translation": "(Oni nie udzielili nam żadnych dalszych informacji.)"
+                            },
+                            {
+                                "Sentence": "Please contact me if you have any further questions.",
+                                "Translation": "(Proszę skontaktuj się ze mną, jeśli masz jakiekolwiek dalsze pytania.)"
+                            },
+                            {
+                                "Sentence": "Further discussion is pointless.",
+                                "Translation": "(Dalsza dyskusja jest bezcelowa.)"
+                            },
+                            {
+                                "Sentence": "We need to avoid further damage to the forests.",
+                                "Translation": "(Musimy uniknąć dalszego niszczenia lasów.)"
+                            },
+                            {
+                                "Sentence": "I will send you further instructions.",
+                                "Translation": "(Prześlę ci dodatkowe instrukcje.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dalszy (bardziej odległy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She lives at the further end of the street.",
+                                "Translation": "(Ona mieszka na dalszym końcu ulicy.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dalej (więcej)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We are not getting much further in understanding this problem.",
+                                "Translation": "(Nie dochodzimy nigdzie dalej w zrozumieniu tego problemu.)"
+                            },
+                            {
+                                "Sentence": "The scientists are not sure. They are waiting for further details.",
+                                "Translation": "(Naukowcy nie są pewni. Czekają na więcej szczegółów.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "na dalszą odległość (w sensie fizycznym)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You need to go further.",
+                                "Translation": "(Musisz iść dalej.)"
+                            },
+                            {
+                                "Sentence": "Nowadays a human can look further into space.",
+                                "Translation": "(Obecnie człowiek może spojrzeć dalej w przestrzeń.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dalej (o czasie, wstecz lub w przyszłość)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She would like to move our meeting further back in time.",
+                                "Translation": "(Ona chciała by przesunąć nasze spotkanie na wcześniej.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dalej (w dodatku)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Further, she received a gold medal.",
+                                "Translation": "(W dodatku, ona dostała złoty medal.)"
+                            },
+                            {
+                                "Sentence": "Further, I don't have any more money left.",
+                                "Translation": "(W dodatku, nie mam już żadnych pieniędzy.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "promować",
+                            "posuwać do przodu (np. karierę)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I want to further my career.",
+                                "Translation": "(Chcę posunąć moją karierę do przodu.)"
+                            },
+                            {
+                                "Sentence": "They have done a lot to further the cause of world peace.",
+                                "Translation": "(Oni zrobili wiele dla promowania sprawy pokoju na świecie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "far"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "daleko"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "\"How far is it?\" \"About 800 metres.\"",
+                                "Translation": "(\"Jak daleko to jest?\" \"Około 800 metrów.\")"
+                            },
+                            {
+                                "Sentence": "The hospital is quite far away from my house.",
+                                "Translation": "(Szpital jest raczej daleko od mojego domu.)"
+                            },
+                            {
+                                "Sentence": "We've come so far that we can't give up now.",
+                                "Translation": "(Zaszliśmy tak daleko, że nie możemy się teraz poddać.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dalece",
+                            "daleko",
+                            "o wiele"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The police are far from truth.",
+                                "Translation": "(Policja jest daleko od prawdy.)"
+                            },
+                            {
+                                "Sentence": "My car is far better than his.",
+                                "Translation": "(Mój samochód jest o wiele lepszy od jego.)"
+                            },
+                            {
+                                "Sentence": "How far are sisters similar?",
+                                "Translation": "(Jak dalece podobne do siebie są siostry?)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "daleki",
+                            "odległy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The road is farther away than I thought.",
+                                "Translation": "(Droga jest bardziej odległa, niż mi się zdawało.)"
+                            },
+                            {
+                                "Sentence": "The deadline is far from today.",
+                                "Translation": "(Nieprzekraczalny termin jest daleko od dzisiaj.)"
+                            },
+                            {
+                                "Sentence": "That couldn't be further from the truth.",
+                                "Translation": "(To nie może być bardziej odległe od prawdy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "skrajny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I don't like extremists. Far-right or far-left, it doesn't matter.",
+                                "Translation": "(Nie lubię ekstremistów. Skrajna prawica czy skrajna lewica, to nie ma znaczenia.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "further something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sprzyjać czemuś"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "further to something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przyimek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "w odniesieniu do czegoś",
+                            "w odpowiedzi na coś (np. list)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Further to your letter, I have talked about your situation with Mr. Jones.",
+                                "Translation": "(W odniesieniu do twojego listu, rozmawiałem o twojej sytuacji z panem Jonesem.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

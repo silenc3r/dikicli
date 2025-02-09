@@ -1,0 +1,88 @@
+[
+    {
+        "Entry": [
+            "sizzle",
+            "zizzle"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "skwierczeć (np. na patelni)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The bacon in the frying pan was beginning to sizzle.",
+                                "Translation": "(Bekon na patelni zaczynał skwierczeć.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "skwierczeć (na słońcu)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "interesować",
+                            "ekscytować"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "być bardzo atrakcyjnym"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wrzeć z wściekłości",
+                            "gotować się z gniewu",
+                            "kipieć ze złości"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "być atrakcyjnym",
+                            "być interesującym",
+                            "interesować",
+                            "ekscytować"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "być pociągającym",
+                            "być atrakcyjnym seksualnie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "skwierczenie (np. mięsa)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "podniecenie",
+                            "wielkie podekscytowanie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

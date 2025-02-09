@@ -1,0 +1,35 @@
+[
+    {
+        "Entry": [
+            "pushy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "natrętny",
+                            "natarczywy",
+                            "nachalny"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "bezczelny",
+                            "arogancki"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Pushy salesmen really get on my nerves.",
+                                "Translation": "(Bezczelni sprzedawcy naprawdę działają mi na nerwy.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

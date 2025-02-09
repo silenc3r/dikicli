@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "abjure"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wypierać się",
+                            "wyrzekać się"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

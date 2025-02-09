@@ -1,0 +1,44 @@
+[
+    {
+        "Entry": [
+            "jasmine",
+            "jasmin",
+            "jessamine"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "jaśmin"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The jasmine grows mostly in Asia.",
+                                "Translation": "(Jaśmin rośnie głównie w Azji.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "jaśminowy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She brewed a jasmine tea.",
+                                "Translation": "(Ona zaparzyła jaśminową herbatę.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

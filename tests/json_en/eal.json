@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "English as an additional language",
+            "EAL"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "angielski jako dodatkowy język"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

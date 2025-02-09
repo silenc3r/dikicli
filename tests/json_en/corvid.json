@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "corvid"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "krukowaty",
+                            "ptak z rodziny krukowatych"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

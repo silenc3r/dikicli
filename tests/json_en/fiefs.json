@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "fief",
+            "feoff"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "lenno",
+                            "feudum"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "Entry": [
+            "epistemology",
+            "theory of knowledge"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "epistemologia",
+                            "teoria poznania",
+                            "gnoseologia (dział filozofii)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

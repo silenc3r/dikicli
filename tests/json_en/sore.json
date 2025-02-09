@@ -1,0 +1,81 @@
+[
+    {
+        "Entry": [
+            "sore"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bolący",
+                            "bolesny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I have a sore throat.",
+                                "Translation": "(Mam bolące gardło.)"
+                            },
+                            {
+                                "Sentence": "My legs are sore.",
+                                "Translation": "(Moje nogi są bolące.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "obolały"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I am sore after the ride.",
+                                "Translation": "(Jestem obolała po jeździe.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "urażony"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'm sore over your nasty comment.",
+                                "Translation": "(Jestem urażony z powodu twojego paskudnego komentarza.)"
+                            },
+                            {
+                                "Sentence": "He was sore about the lack of invitation to your party.",
+                                "Translation": "(On był urażony brakiem zaproszenia na twoją imprezę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pilny (np. potrzeba)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rana",
+                            "bolące miejsce",
+                            "owrzodzenie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Don't touch his sore, you'll infect it.",
+                                "Translation": "(Nie dotykaj jego rany, zainfekujesz ją.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

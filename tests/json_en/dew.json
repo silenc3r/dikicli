@@ -1,0 +1,51 @@
+[
+    {
+        "Entry": [
+            "dew"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rosa"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He took a photo of dew on the field.",
+                                "Translation": "(On zrobił zdjęcie rosy na polu.)"
+                            },
+                            {
+                                "Sentence": "My lawn is shining with dew.",
+                                "Translation": "(Mój trawnik błyszczy się rosą.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "Distant Early Warning",
+            "D.E.W.",
+            "DEW"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "system wczesnego ostrzegania"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

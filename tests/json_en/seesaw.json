@@ -1,0 +1,58 @@
+[
+    {
+        "Entry": [
+            "seesaw",
+            "teeter-totter"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "huśtawka (podparta deska)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She's on the seesaw.",
+                                "Translation": "(Ona jest na huśtawce.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "seesaw"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "huśtawka (np. nastroju, koniunktury gospodarczej)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "huśtać się",
+                            "skakać (np. wyniki sondaży)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

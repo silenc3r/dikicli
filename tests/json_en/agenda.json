@@ -1,0 +1,88 @@
+[
+    {
+        "Entry": [
+            "agenda"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "agenda (lista problemów do rozwiązania)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This problem was unfortunately not on our agenda.",
+                                "Translation": "(Ten problem nie był niestety na naszej agendzie.)"
+                            },
+                            {
+                                "Sentence": "On top of the organisation's agenda was to supply the Africans with water.",
+                                "Translation": "(Na czele listy problemów do rozwiązania tej organizacji było zapewnienie Afrykańczykom dostępu do wody.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "porządek obrad",
+                            "agenda"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "What's next on the agenda?",
+                                "Translation": "(Co jest następne w porządku obrad?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "agenda",
+                            "program (partii politycznej)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This party's agenda was based on liberal conservatism.",
+                                "Translation": "(Program tej partii był oparty na liberalnym konserwatyzmie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "porządek dnia",
+                            "terminarz (lista tematów do omówienia)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The politician had a very packed agenda.",
+                                "Translation": "(Polityk miał przepełniony terminarz.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "agenda",
+                            "organizer"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "ukryty cel"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There has to be a hidden agenda behind his kind behaviour.",
+                                "Translation": "(Musi być jakiś ukryty cel za jego zachowaniem.)"
+                            },
+                            {
+                                "Sentence": "I don't know what his agenda is but I'll find out.",
+                                "Translation": "(Nie wiem jaki jest jego ukryty cel, ale się dowiem.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

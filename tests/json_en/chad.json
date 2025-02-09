@@ -1,0 +1,51 @@
+[
+    {
+        "Entry": [
+            "chad"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "odpad powstały po dziurkowaniu (np. kartki papieru)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "Chad"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "Czad"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The tense situation in eastern Chad has not helped much either.",
+                                "Translation": "(Napięta sytuacja we wschodnim Czadzie nie przyczyniła się do poprawy tego stanu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "atrakcyjny mężczyzna, który ma powodzenie u kobiet (tzw. samiec alfa)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

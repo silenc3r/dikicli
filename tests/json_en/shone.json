@@ -1,0 +1,130 @@
+[
+    {
+        "Entry": [
+            "shine"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "świecić (np. słońce)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Switch off that lamp - it's shining in my eyes.",
+                                "Translation": "(Wyłącz tę lampkę - świeci mi w oczy.)"
+                            },
+                            {
+                                "Sentence": "The stars were shining bright.",
+                                "Translation": "(Gwiazdy jasno świeciły.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zaświecić (skierować światło w określony punkt)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He shone the flashlight at my face.",
+                                "Translation": "(On zaświecił latarką po mojej twarzy.)"
+                            },
+                            {
+                                "Sentence": "The guards wanted to catch the fugitive and they managed to shine the floodlight on him.",
+                                "Translation": "(Strażnicy chcieli złapać zbiega i udało im się skierować na niego reflektor.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "błyszczeć (np. włosy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Her hair shined beautifully.",
+                                "Translation": "(Jej włosy pięknie błyszczały.)"
+                            },
+                            {
+                                "Sentence": "I want my hair to shine so I bought a new shampoo.",
+                                "Translation": "(Chcę, aby moje włosy błyszczały, więc kupiłem nowy szampon.)"
+                            },
+                            {
+                                "Sentence": "Thanks to this shampoo her hair shines.",
+                                "Translation": "(Jej włosy błyszczą za sprawą tego szamponu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "polerować",
+                            "wypolerować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I shined the hood of my car yesterday.",
+                                "Translation": "(Wypolerowałem wczoraj maskę mojego samochodu.)"
+                            },
+                            {
+                                "Sentence": "Can you shine my cups?",
+                                "Translation": "(Czy możesz wypolerować moje puchary?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "promienieć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Pregnant women shine the brightest.",
+                                "Translation": "(Ciężarne kobiety promienieją najjaśniej.)"
+                            },
+                            {
+                                "Sentence": "You're shining. You must be in love.",
+                                "Translation": "(Promieniejesz. Musisz być zakochana.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "błyszczeć (górować nad kimś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My brother never shone in the company.",
+                                "Translation": "(Mój brat nigdy nie błyszczał w towarzystwie.)"
+                            },
+                            {
+                                "Sentence": "She always shines at school.",
+                                "Translation": "(Ona zawsze błyszczy w szkole.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "połysk"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I really like the shine of your hair!",
+                                "Translation": "(Bardzo podoba mi się połysk twoich włosów!)"
+                            },
+                            {
+                                "Sentence": "This nail polish will give your nails shine.",
+                                "Translation": "(Ten lakier da twoim paznokciom połysk.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "Entry": [
+            "dubious"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "podejrzany",
+                            "wątpliwy"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "niepewny",
+                            "powątpiewający",
+                            "wątpiący (okazujący wątpliwość)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "dyskusyjny",
+                            "wątpliwy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It doesn't involve dubious philosophical assumptions.",
+                                "Translation": "(To nie obejmuje wątpliwych filozoficznych założeń.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wątpliwy",
+                            "niepewny (niskiej jakości)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

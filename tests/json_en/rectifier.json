@@ -1,0 +1,21 @@
+[
+    {
+        "Entry": [
+            "rectifier"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "prostownik (urządzenie zmieniające prąd przemienny na stały)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

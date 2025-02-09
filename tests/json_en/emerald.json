@@ -1,0 +1,38 @@
+[
+    {
+        "Entry": [
+            "emerald",
+            "smaragd"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szmaragd"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He bought her an emerald necklace.",
+                                "Translation": "(On kupił jej naszyjnik ze szmaragdów.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szmaragdowy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

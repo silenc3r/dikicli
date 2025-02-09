@@ -1,0 +1,63 @@
+[
+    {
+        "Entry": [
+            "shank"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "goleń (jagnięca)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "podudzie",
+                            "piszczel (u ludzi i zwierząt)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "szypułka (łodyżka kwiatu, owocu)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "nóż"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He got a shank hidden in a cake.",
+                                "Translation": "(On otrzymał nóż ukryty w cieście.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "trzpień"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dźgać",
+                            "dziabnąć (najczęściej nożem lub czymś ostrym jak potłuczone szkło)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

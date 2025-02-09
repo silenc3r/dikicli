@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "fulguration"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "fulguracja",
+                            "wypalanie (iskrą elektryczną)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "curt"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "lakoniczny (o wypowiedzi)",
+                            "krótki (np. list)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "szorstki (np. sposób bycia)",
+                            "oschły (o zachowaniu)",
+                            "zbywający (o odpowiedzi)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

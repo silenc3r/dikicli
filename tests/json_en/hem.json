@@ -1,0 +1,90 @@
+[
+    {
+        "Entry": [
+            "hem"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rąbek",
+                            "brzeg (ubrania, tkaniny)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A hem is a folded and sewn piece of fabric on the edge.",
+                                "Translation": "(Rąbek to złożony i zaszyty kawałek materiału na brzegu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "margines",
+                            "obrzeże",
+                            "krawędź",
+                            "granica"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We met by the river's hem of high trees.",
+                                "Translation": "(My spotkaliśmy się przy krawędzi rzeki usłanej wysokimi drzewami.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "obrębić",
+                            "obrębiać"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "unikać jasnej odpowiedzi",
+                            "zwlekać z odpowiedzią (np. poprzez chrząkanie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "ahem",
+            "hem"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "wykrzyknik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ekhem",
+                            "hm (onomatopeja chrząknięcia, np. aby zwrócić czyjąś uwagę lub zastąpić nieprzyzwoite słowo)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Ahem! In case you didn't notice, I just finished.",
+                                "Translation": "(Ekhem! Gdybyś nie zauważył, właśnie skończyłem.)"
+                            },
+                            {
+                                "Sentence": "He called it a spectacular, hem, failure.",
+                                "Translation": "(On nazwał to spektakularną, hm, porażką.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

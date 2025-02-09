@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "simplistic"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nazbyt uproszczony",
+                            "bardzo prosty"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

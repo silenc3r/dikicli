@@ -1,0 +1,54 @@
+[
+    {
+        "Entry": [
+            "shutter"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "okiennica"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Lydia, go to the kitchen and close all shutters.",
+                                "Translation": "(Lydio, idź do kuchni i zamknij wszystkie okiennice.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "migawka (w aparacie fotograficznym)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Press the shutter button fully to shoot.",
+                                "Translation": "(Naciśnij do końca przycisk spustu migawki, żeby zrobić zdjęcie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "żaluzje"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zwijać interes"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "Entry": [
+            "lieutenant",
+            "Lieut",
+            "Lt",
+            "looey",
+            "looie"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "porucznik (stopień wojskowy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He was promoted to the rank of lieutenant.",
+                                "Translation": "(On awansował do stopnia porucznika.)"
+                            },
+                            {
+                                "Sentence": "Lt. Dessalines will be over in ten minutes to get you.",
+                                "Translation": "(Por. Dessalines przyjedzie po ciebie za dziesięć minut.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "porucznik (Wojska Lądowe i Siły Powietrzne)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "kapitan marynarki"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His biggest dream is to become a navy lieutentant.",
+                                "Translation": "(Jego największym marzeniem jest zostać kapitanem marynarki.)"
+                            },
+                            {
+                                "Sentence": "Every navy lieutenant could identify this ship.",
+                                "Translation": "(Każdy kapitan marynarki jest w stanie rozpoznać ten statek.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "porucznik",
+                            "komisarz (Policja)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zastępca",
+                            "asystent"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My trusted lieutenant will answer any of your questions.",
+                                "Translation": "(Mój zaufany asystent odpowie na każde wasze pytanie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

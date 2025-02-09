@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "unilateral"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "unilateralny",
+                            "jednostronny (np. deklaracja)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

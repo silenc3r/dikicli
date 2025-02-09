@@ -1,0 +1,94 @@
+[
+    {
+        "Entry": [
+            "legitimate"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "legalny",
+                            "prawowity",
+                            "zgodny z prawem",
+                            "prawny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He is a legitimate ruler.",
+                                "Translation": "(On jest prawowitym władcą.)"
+                            },
+                            {
+                                "Sentence": "I'm trying to run a legitimate business here.",
+                                "Translation": "(Próbuję tutaj prowadzić legalny biznes.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "słuszny",
+                            "zasadny",
+                            "prawidłowy",
+                            "prawy",
+                            "uzasadniony"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I told him to stand up for himself, which you know is legitimate advice.",
+                                "Translation": "(Powiedziałem mu, żeby się postawił, co jak wiesz, jest słuszną radą.)"
+                            },
+                            {
+                                "Sentence": "Well, I think your remarks are legitimate.",
+                                "Translation": "(Cóż, myślę, iż twoje uwagi są słuszne.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ślubny (np. dziecko, partner)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Is she your legitimate daughter?",
+                                "Translation": "(Czy ona jest twoją ślubną córką?)"
+                            },
+                            {
+                                "Sentence": "They have no legitimate children.",
+                                "Translation": "(Oni nie mają ślubnych dzieci.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "legalizować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They want to legitimate marijuana.",
+                                "Translation": "(Oni chcą zalegalizować marihuanę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "usprawiedliwiać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Don't legitimate me. I know it is my fault.",
+                                "Translation": "(Nie usprawiedliwiaj mnie. Wiem, że to moja wina.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

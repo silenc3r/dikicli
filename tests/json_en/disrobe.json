@@ -1,0 +1,33 @@
+[
+    {
+        "Entry": [
+            "disrobe"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zdjąć",
+                            "zdejmować togę",
+                            "zdjąć",
+                            "zdejmować szaty"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "rozebrać",
+                            "rozbierać",
+                            "rozdziać",
+                            "rozdziewać się"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

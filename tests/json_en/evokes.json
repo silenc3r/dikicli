@@ -1,0 +1,34 @@
+[
+    {
+        "Entry": [
+            "evoke"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przywoływać",
+                            "ewokować (np. emocje, wspomnienia)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wzbudzać",
+                            "wywoływać (np. uśmiech, reakcję, zainteresowanie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "New virtual reality solutions at work evoke my interest.",
+                                "Translation": "(Nowe rozwiązania wirtualnej rzeczywistości w pracy wywołują moje zainteresowanie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

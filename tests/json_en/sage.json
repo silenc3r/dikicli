@@ -1,0 +1,54 @@
+[
+    {
+        "Entry": [
+            "sage"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szałwia"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I asked you if you wanted some sage put on your fish.",
+                                "Translation": "(Spytałem cię, czy chcesz żebym przyprawił twoją rybę szałwią.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "mędrzec"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You should turn to the sage in the temple with your question.",
+                                "Translation": "(Ze swoim pytaniem powinieneś się zwrócić do mędrca w świątyni.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kolor szałwiowy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mądry (jako mędrzec)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

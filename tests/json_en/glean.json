@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "glean"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "gromadzić",
+                            "zbierać",
+                            "zdobywać (np. informacje)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I am not able to glean any useful information from the producer's site.",
+                                "Translation": "(Nie jestem w stanie zdobyć żadnej użytecznej informacji ze strony producenta.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

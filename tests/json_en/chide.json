@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "chide"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "besztać",
+                            "zbesztać",
+                            "złajać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "scrawny"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "chudy",
+                            "kościsty",
+                            "mizerny",
+                            "wychudły"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His Adam's apple protruded in his scrawny unshaven neck.",
+                                "Translation": "(Jego jabłko Adama wystawało z jego wychudłej, nieogolonej szyi.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

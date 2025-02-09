@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "stranglehold"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kontrola nad sytuacją",
+                            "trzymanie za gardło"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "ucisk",
+                            "zaciśnięcie",
+                            "mocny chwyt"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

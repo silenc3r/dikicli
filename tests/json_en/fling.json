@@ -1,0 +1,108 @@
+[
+    {
+        "Entry": [
+            "fling"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ciskać (np. w kąt)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "rzucać",
+                            "ciskać ze złością"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "rzucać niedbale"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "powalać na ziemię",
+                            "ciskać na ziemię"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "rzucać się (na łóżko, na ziemię)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zarzucać (o rękach, szalu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Tom flung his arms around her neck.",
+                                "Translation": "(Tom zarzucił jej ręce na szyję.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przelotny romans",
+                            "przelotny związek",
+                            "przygoda miłosna"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It was just a fling!",
+                                "Translation": "(To był tylko przelotny romans!)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "krótki okres beztroski lub szaleństwa"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "rzut",
+                            "miotanie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "have a fling"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mieć z kimś przelotny romans"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

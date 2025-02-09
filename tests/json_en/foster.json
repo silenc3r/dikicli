@@ -1,0 +1,75 @@
+[
+    {
+        "Entry": [
+            "foster"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pielęgnować",
+                            "rozwijać",
+                            "wspierać (np. rozwój, współpracę)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My parents never fostered my decisions.",
+                                "Translation": "(Moi rodzice nigdy nie wspierali moich decyzji.)"
+                            },
+                            {
+                                "Sentence": "We are trying to foster his talents.",
+                                "Translation": "(Staramy się rozwijać jego talenty.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "brać na wychowanie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He fostered his niece after her parents' death.",
+                                "Translation": "(On wziął na wychowanie swoją bratanicę, po śmierci jej rodziców.)"
+                            },
+                            {
+                                "Sentence": "The couple wanted to foster a child but then changed their minds.",
+                                "Translation": "(Para chciała wziąć na wychowanie dziecko, ale później się rozmyślili.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "foster something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sprzyjać (czemuś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The weather fosters the growth of flowers.",
+                                "Translation": "(Pogoda sprzyja rośnięciu kwiatów.)"
+                            },
+                            {
+                                "Sentence": "The children are involved in group work which fosters learning and collaboration.",
+                                "Translation": "(Dzieci są zaangażowane w pracę grupową, która sprzyja nauce i współpracy.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

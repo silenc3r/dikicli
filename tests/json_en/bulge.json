@@ -1,0 +1,82 @@
+[
+    {
+        "Entry": [
+            "bulge"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wybrzuszenie",
+                            "wypukłość"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His wallet was so stuffed it made a bulge in his pants.",
+                                "Translation": "(Jego portfel był tak wypchany, że tworzył wybrzuszenie w jego spodniach.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wzrost (często nagły i nieoczekiwany, np. wyż demograficzny)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We are recording a bulge in sales.",
+                                "Translation": "(Odnotowujemy wzrost sprzedaży.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przewaga"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They seem to have a bulge, but we won't give up.",
+                                "Translation": "(Wygląda na to, że oni mają przewagę, ale my się nie poddamy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "podwyższenie"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "pozycja wysunięta przed linię frontu"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "centralne zgrubienie galaktyczne"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wybrzuszyć się",
+                            "wypuczyć się",
+                            "sterczeć",
+                            "napiąć się",
+                            "napinać się"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

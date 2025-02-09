@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "unsightly"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "brzydki",
+                            "szkaradny",
+                            "szpetny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

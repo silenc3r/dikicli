@@ -1,0 +1,32 @@
+[
+    {
+        "Entry": [
+            "anathema"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "anatema (przeciwieństwo wszystkiego, w co się wierzy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Their political views were anathema to me.",
+                                "Translation": "(Ich poglądy polityczne to dla mnie anatema.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "klątwa"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

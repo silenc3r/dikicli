@@ -1,0 +1,27 @@
+[
+    {
+        "Entry": [
+            "tithing"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "płacenie lub odbieranie dziesięciny"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "spółka dziesięciu gospodarstw w systemie umowy wzajemnej poręki pomiędzy dziesiątką dzierżawców"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

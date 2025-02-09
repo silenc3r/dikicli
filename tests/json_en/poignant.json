@@ -1,0 +1,55 @@
+[
+    {
+        "Entry": [
+            "poignant"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wzruszający",
+                            "przejmujący",
+                            "żałosny (krzyk, płacz)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The movie presents a poignant story of the writer's childhood.",
+                                "Translation": "(Film pokazuje przejmującą historię dzieciństwa pisarza.)"
+                            },
+                            {
+                                "Sentence": "She told me a poignant story of her lost love.",
+                                "Translation": "(Ona opowiedziała mi wzruszającą historię swojej utraconej miłości.)"
+                            },
+                            {
+                                "Sentence": "The old lady shared with us a poignant memory of her late husband.",
+                                "Translation": "(Starsza pani podzieliła się z nami wzruszającym wspomnieniem swojego zmarłego męża.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ostry",
+                            "pikantny (smak)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "dojmujący",
+                            "dotkliwy (np. ból)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Scars on his wrist are a poignant reminder of his difficult adolescence.",
+                                "Translation": "(Blizny na nadgarstku są dotkliwym przypomnieniem jego trudnego dorastania.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

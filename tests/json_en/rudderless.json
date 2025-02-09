@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "rudderless"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bez lidera",
+                            "pozostawiony sam sobie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

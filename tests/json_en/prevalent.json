@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "prevalent"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przeważający",
+                            "powszechnie występujący",
+                            "rozpowszechniony"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

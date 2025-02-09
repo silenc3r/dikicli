@@ -1,0 +1,46 @@
+[
+    {
+        "Entry": [
+            "trout"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pstrąg"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Shall we have trout or tuna for lunch?",
+                                "Translation": "(Zjemy pstrąga czy tuńczyka na lunch?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "old trout",
+            "trout"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "stara wiedźma"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

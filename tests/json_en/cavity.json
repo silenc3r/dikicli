@@ -1,0 +1,38 @@
+[
+    {
+        "Entry": [
+            "cavity"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ubytek",
+                            "dziura (np. w zębie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You just have a small cavity near the gum line.",
+                                "Translation": "(Masz po prostu mały ubytek w pobliżu linii dziąsła.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "jama"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Both rounds entered the thoracic cavity between the fourth and fifth ribs.",
+                                "Translation": "(Oba pociski weszły w jamę klatki piersiowej między 4. i 5. żebrem.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

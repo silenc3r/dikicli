@@ -1,0 +1,36 @@
+[
+    {
+        "Entry": [
+            "intrinsically"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sam w sobie",
+                            "z natury rzeczy",
+                            "we wrodzony sposób (dobry, zły)",
+                            "nieodłącznie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Medical development is perceived as intrinsically good.",
+                                "Translation": "(Rozwój medycyny postrzegany jest jako dobry z natury.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wewnętrznie",
+                            "nierozłącznie (np. odnoszące się do natury czegoś)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

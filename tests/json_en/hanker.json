@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "hanker"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wzdychać",
+                            "tęsknić",
+                            "marzyć o czymś"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "Entry": [
+            "intricate"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zawiły",
+                            "złożony",
+                            "skomplikowany",
+                            "misterny",
+                            "powikłany"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

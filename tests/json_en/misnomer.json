@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "misnomer"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niewłaściwy termin",
+                            "niewłaściwe określenie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "wimpish",
+            "wimpy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "słaby",
+                            "miękki"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

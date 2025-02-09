@@ -1,0 +1,24 @@
+[
+    {
+        "Entry": [
+            "trenchant"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ostry",
+                            "stanowczy",
+                            "cięty",
+                            "kąśliwy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "Entry": [
+            "gregarious"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "stadny (o zwierzęciu)",
+                            "towarzyski (o osobie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Some people see me as being quite gregarious.",
+                                "Translation": "(Niektórzy ludzie postrzegają mnie jako dość towarzyską.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

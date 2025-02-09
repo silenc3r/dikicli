@@ -1,0 +1,26 @@
+[
+    {
+        "Entry": [
+            "congenital"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wrodzony"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He has a congenital heart defect.",
+                                "Translation": "(On ma wrodzoną wadę serca.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

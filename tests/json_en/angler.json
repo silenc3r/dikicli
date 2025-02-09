@@ -1,0 +1,60 @@
+[
+    {
+        "Entry": [
+            "angler"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wędkarz"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I am a lifelong keen sea angler, as are most of my family.",
+                                "Translation": "(Tak jak większość mojej rodziny, przez całe życie jestem zagorzałym wędkarzem morskim.)"
+                            },
+                            {
+                                "Sentence": "A fisherman always sees another angler from afar.",
+                                "Translation": "(Rybak zawsze dojrzy innego rybaka z daleka.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "cwaniak"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "monkfish",
+            "frogfish",
+            "angler",
+            "Lophius piscatorius"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "żabnica",
+                            "nawęd",
+                            "żabnica nawęd (ryba morska)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

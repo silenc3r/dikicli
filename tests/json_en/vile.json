@@ -1,0 +1,24 @@
+[
+    {
+        "Entry": [
+            "vile"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niecny",
+                            "nikczemny",
+                            "podły",
+                            "wstrętny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

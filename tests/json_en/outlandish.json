@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "outlandish"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dziwaczny",
+                            "cudaczny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

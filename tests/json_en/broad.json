@@ -1,0 +1,169 @@
+[
+    {
+        "Entry": [
+            "broad"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szeroki"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He has broad shoulders.",
+                                "Translation": "(On ma szerokie ramiona.)"
+                            },
+                            {
+                                "Sentence": "The river was broad but shallow.",
+                                "Translation": "(Rzeka była szeroka, ale płytka.)"
+                            },
+                            {
+                                "Sentence": "She gave him a broad smile.",
+                                "Translation": "(Ona uśmiechnęła się do niego szeroko.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "szeroki",
+                            "obszerny",
+                            "szeroko zakrojony (np. wybór, plan)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Global warming is a very broad topic.",
+                                "Translation": "(Globalne ocieplenie to bardzo obszerny temat.)"
+                            },
+                            {
+                                "Sentence": "This is a broad topic and we don't have a lot of time.",
+                                "Translation": "(To jest obszerny temat, a my nie mamy dużo czasu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ogólny",
+                            "szeroki (np. znaczenie, skojarzenie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The verb 'get' has a broad meaning.",
+                                "Translation": "(Czasownik 'get' ma szerokie znaczenie.)"
+                            },
+                            {
+                                "Sentence": "I don't know if I can come, his invitation was broad.",
+                                "Translation": "(Nie wiem, czy mogę przyjść, jego zaproszenie było ogólne.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rozległy (np. posiadłość, działka)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Our property is very broad.",
+                                "Translation": "(Nasza posiadłość jest bardzo rozległa.)"
+                            },
+                            {
+                                "Sentence": "We bought a house with a broad garden.",
+                                "Translation": "(Kupiliśmy dom z rozległym ogrodem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "silny",
+                            "wyraźny (np. akcent w sposobie mówienia)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He speaks with a broad Scottish accent.",
+                                "Translation": "(On mówi z silnym szkockim akcentem.)"
+                            },
+                            {
+                                "Sentence": "Your teacher has a broad Polish accent.",
+                                "Translation": "(Twoja nauczycielka ma silny polski akcent.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rubaszny",
+                            "sprośny (np. humor, żarty)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Your joke was very broad, you shouldn't tell it to your wife.",
+                                "Translation": "(Twój żart był bardzo sprośny, nie powinieneś go opowiadać swojej żonie.)"
+                            },
+                            {
+                                "Sentence": "He is a fat man who likes broad jokes.",
+                                "Translation": "(On jest tłustym mężczyzną lubiącym sprośne żarty.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dziwka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She was a local broad.",
+                                "Translation": "(Ona była lokalną dziwką.)"
+                            },
+                            {
+                                "Sentence": "She's dressed like a broad.",
+                                "Translation": "(Jest ubrana jak dziwka.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "damulka",
+                            "kobitka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Your mum is a nice broad.",
+                                "Translation": "(Twoja mama to miła kobitka.)"
+                            },
+                            {
+                                "Sentence": "My grandmother is an elegant broad.",
+                                "Translation": "(Moja babcia to elegancka damulka.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "B-road"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "droga drugorzędna"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

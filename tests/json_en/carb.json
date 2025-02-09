@@ -1,0 +1,77 @@
+[
+    {
+        "Entry": [
+            "carbohydrate",
+            "carb"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "węglowodan (substancja chemiczna)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The more of these carbohydrates in the body, the better.",
+                                "Translation": "(Im więcej węglowodanów w ciele tym lepiej.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "węglowodany (pożywienie zawierające węglowodany)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "\"I have to eat carbohydrates in the morning,\" he said.",
+                                "Translation": "(On powiedział: \"Muszę jeść węglowodany z rana\".)"
+                            },
+                            {
+                                "Sentence": "She's trying to get in shape and she's not eating carbohydrates at all.",
+                                "Translation": "(Ona stara się osiągnąć dobrą formę i wcale nie je węglowodanów.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "carb"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "gaźnik"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The carb needs some serious fixing.",
+                                "Translation": "(Gaźnik potrzebuje poważnych napraw.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pokarm zawierający dużo węglowodanów"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "On my diet I eat a lot of carbs.",
+                                "Translation": "(Moja dieta zakłada jedzenie dużej ilości pokarmów zawierających węglowodany.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

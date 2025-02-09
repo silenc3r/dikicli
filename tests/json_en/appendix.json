@@ -1,0 +1,63 @@
+[
+    {
+        "Entry": [
+            "appendix",
+            "appx.",
+            "annexure"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "aneks",
+                            "dodatek",
+                            "załącznik (na końcu książki, tekstu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This document has an appendix with statistics.",
+                                "Translation": "(Ten dokument ma załącznik ze statystykami.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "appendix",
+            "vermiform appendix"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wyrostek robaczkowy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We are worried your appendix might burst so we're going into surgery now.",
+                                "Translation": "(Martwimy się, że twój wyrostek robaczkowy może pęknąć, więc zaraz zaczynamy operację.)"
+                            },
+                            {
+                                "Sentence": "They took my appendix out three years ago.",
+                                "Translation": "(Wycięli mi wyrostek robaczkowy trzy lata temu.)"
+                            },
+                            {
+                                "Sentence": "My appendix didn't require any surgery.",
+                                "Translation": "(Mój wyrostek robaczkowy nie potrzebował żadnej operacji.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

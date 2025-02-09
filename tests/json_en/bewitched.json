@@ -1,0 +1,60 @@
+[
+    {
+        "Entry": [
+            "bewitched"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "oczarowany",
+                            "urzeczony"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "bewitch"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "oczarować",
+                            "oczarowywać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Men were bewitched by her beauty.",
+                                "Translation": "(Mężczyźni byli oczarowani jej pięknem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rzucić czar",
+                            "rzucić urok",
+                            "uroczyć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She stood still as if someone bewitched her.",
+                                "Translation": "(Stała nieruchomo jakby ktoś rzucił na nią urok.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "Entry": [
+            "vigilant"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "czujny",
+                            "baczny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It pays off to stay vigilant - you can avoid being a victim of a fraud.",
+                                "Translation": "(Opłaca się pozostać czujnym - możesz uniknąć padnięcia ofiarą oszustwa.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "be vigilant",
+            "be watchful"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "być czujnym"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

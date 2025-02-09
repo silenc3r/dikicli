@@ -1,0 +1,35 @@
+[
+    {
+        "Entry": [
+            "discord",
+            "discordance",
+            "discordancy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niezgoda",
+                            "waśń"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Discord among European nations came to an end.",
+                                "Translation": "(Skończyła się niezgoda pomiędzy krajami Europy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dysonans"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

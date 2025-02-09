@@ -1,0 +1,26 @@
+[
+    {
+        "Entry": [
+            "pelvis"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "miednica (część ciała)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She has a fractured pelvis.",
+                                "Translation": "(Ona ma pękniętą miednicę.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

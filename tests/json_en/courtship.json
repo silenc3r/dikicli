@@ -1,0 +1,33 @@
+[
+    {
+        "Entry": [
+            "courtship"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "starania o rękę",
+                            "konkury",
+                            "zaloty",
+                            "umizgi"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The story of my parents' courtship is well known in the village.",
+                                "Translation": "(Historia zalotów moich rodziców jest znana w całej wiosce.)"
+                            },
+                            {
+                                "Sentence": "His courtship was all in vain.",
+                                "Translation": "(Jego starania o rękę poszły na marne.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

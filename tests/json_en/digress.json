@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "digress"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "czynić dygresję",
+                            "odbiegać (od tematu)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

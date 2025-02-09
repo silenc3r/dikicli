@@ -1,0 +1,94 @@
+[
+    {
+        "Entry": [
+            "outline"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zarys",
+                            "szkic (najważniejsze informacje, bez szczegółów)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I only presented an outline. I can go into details, if you want.",
+                                "Translation": "(Przedstawiłem tylko zarys. Jeżeli chcesz, mogę przejść do szczegółów.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kontur",
+                            "zarys (obrys kształtu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The police drew the outline of the corpse on the pavement.",
+                                "Translation": "(Policjanci odrysowali kontur zwłok na chodniku.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zarys",
+                            "szkic",
+                            "brudnopis (pracy pisemnej)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You need to submit outlines of your essays by the end of the week.",
+                                "Translation": "(Musiscie dostarczyć szkice swoich esejów do końca tygodnia.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "naszkicować",
+                            "przedstawiać w skrócie",
+                            "przedstawiać w zarysie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He outlined his project.",
+                                "Translation": "(On przedstawił swój projekt w zarysie.)"
+                            },
+                            {
+                                "Sentence": "They have no idea about the history of England, we have to outline it.",
+                                "Translation": "(Oni nie mają pojęcia o historii Anglii, musimy przedstawić ją w skrócie.)"
+                            },
+                            {
+                                "Sentence": "He outlined the project in front of the board.",
+                                "Translation": "(On w skrócie przedstawił projekt przed zarządem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "naszkicować",
+                            "narysować kontur"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He outlined the model and the background with a pencil.",
+                                "Translation": "(Naszkicował modelkę i tło ołówkiem.)"
+                            },
+                            {
+                                "Sentence": "She outlined the new building.",
+                                "Translation": "(Ona narysowała kontur nowego budynku.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "Entry": [
+            "excavation"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kopanie",
+                            "rozkopanie",
+                            "drążenie",
+                            "przekopywanie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The excessive excavation has made the mines unstable.",
+                                "Translation": "(Nadmierne drążenie sprawiło, że kopalnia stała się niestabilna.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wykop",
+                            "rozkop",
+                            "prace wykopaliskowe"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The excavation site was at Wandal Mountain near Harbin.",
+                                "Translation": "(Miejsce wykopalisk znajdowało się w Górach Wandal niedaleko Harbinu.)"
+                            },
+                            {
+                                "Sentence": "They found this vase during the excavation in Greece.",
+                                "Translation": "(Oni znaleźli tę wazę w czasie prac wykopaliskowych w Grecji.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

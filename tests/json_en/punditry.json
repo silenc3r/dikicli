@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "punditry"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wypowiedź (eksperta)",
+                            "komentarz (specjalisty, krytyka)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

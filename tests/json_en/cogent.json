@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "cogent"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przekonujący",
+                            "logiczny",
+                            "niepodważalny (np. argument)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

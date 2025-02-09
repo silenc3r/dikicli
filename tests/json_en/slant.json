@@ -1,0 +1,65 @@
+[
+    {
+        "Entry": [
+            "slant"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "punkt widzenia"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He presented a curious slant.",
+                                "Translation": "(On zaprezentował osobliwy punkt widzenia.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pochyłość (np. terenu)",
+                            "nachylenie (np. dachu)",
+                            "skos"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "pogląd lub opinia, którą osoba reklamująca dany produkt próbuje sprzedać potencjalnym klientom"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przechylać się (np. o wieży)",
+                            "nachylać się (np. o podłodze)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "przekrzywiać (czapkę, opaskę)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "przechylać (coś na którąś stronę)",
+                            "zniekształcać (fakty)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

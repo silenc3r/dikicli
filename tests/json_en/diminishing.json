@@ -1,0 +1,60 @@
+[
+    {
+        "Entry": [
+            "diminishing"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "malejący"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "diminish"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zmniejszać",
+                            "zmniejszać się",
+                            "maleć",
+                            "ubywać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My enthusiasm has diminished greatly.",
+                                "Translation": "(Mój entuzjazm bardzo zmalał.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "umniejszać (np. znaczenie czegoś)",
+                            "pomniejszać (np. czyjeś osiągnięcia)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Stop diminishing my feelings, I have a right to feel upset.",
+                                "Translation": "(Przestań umniejszać moje uczucia, mam prawo czuć się zdenerwowany.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

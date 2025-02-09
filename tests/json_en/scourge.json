@@ -1,0 +1,58 @@
+[
+    {
+        "Entry": [
+            "scourge"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "plaga (np. szczurów)",
+                            "zmora (rzecz powodująca cierpienia, nieszczęścia)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "utrapienie (o osobie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He's a scourge to his teachers.",
+                                "Translation": "(On jest utrapieniem swoich nauczycieli.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bicz (używany do wykonywania kary chłosty w przeszłości)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ciężko doświadczać",
+                            "nękać (kogoś)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "biczować",
+                            "chłostać (kogoś)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

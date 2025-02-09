@@ -1,0 +1,61 @@
+[
+    {
+        "Entry": [
+            "tits",
+            "tiddies"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "cycki (kobiece piersi)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She's got really nice tits.",
+                                "Translation": "(Ona ma naprawdę ładne cycki.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "tit"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sikora",
+                            "sikorka (ptak)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "cycek",
+                            "cyc (kobieca pierś)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "debil",
+                            "kretyn"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

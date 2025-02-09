@@ -1,0 +1,94 @@
+[
+    {
+        "Entry": [
+            "reed"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "trzcina",
+                            "szuwar"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The girl was still in the water, fighting her way through the reeds.",
+                                "Translation": "(Dziewczyna była nadal w wodzie, przedzierając się przez szuwary.)"
+                            },
+                            {
+                                "Sentence": "These birds build their nests in reeds.",
+                                "Translation": "(Te ptaki budują swoje gniazda w szuwarach.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "piszczałka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The shepherd played his reed.",
+                                "Translation": "(Pasterz zagrał na swojej piszczałce.)"
+                            },
+                            {
+                                "Sentence": "Can you play the reed?",
+                                "Translation": "(Umiesz grać na piszczałce?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "stroik instrumentu (przyrząd służący do wprowadzania w drganie powietrza zawartego wewnątrz piszczałki)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "poszycie trzcinowe",
+                            "trzcinowisko"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We won't go through this reed.",
+                                "Translation": "(Nie przejdziemy przez to trzcinowisko.)"
+                            },
+                            {
+                                "Sentence": "This reed is quite deep and wet.",
+                                "Translation": "(To poszycie trzcinowe jest dość głębokie i mokre.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "płocha (grzebień tkacki)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "trzcinowy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I bought reed sugar.",
+                                "Translation": "(Kupiłem cukier trzcinowy.)"
+                            },
+                            {
+                                "Sentence": "She made a reed bunch.",
+                                "Translation": "(Ona zrobiła trzcinową wiązankę.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "rickets",
+            "rachitis"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "krzywica (choroba kończyn)",
+                            "rachityzm"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

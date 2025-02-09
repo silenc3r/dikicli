@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "placid"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "łagodny",
+                            "spokojny",
+                            "pogodny (np. o dziecku)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

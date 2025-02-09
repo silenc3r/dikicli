@@ -1,0 +1,62 @@
+[
+    {
+        "Entry": [
+            "quarry"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kamieniołom"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They found his body this morning in a quarry.",
+                                "Translation": "(Dziś rano znaleźli jego ciało w kamieniołomie.)"
+                            },
+                            {
+                                "Sentence": "The quarry and all its mining rights shall belong to Shiring.",
+                                "Translation": "(Kamieniołom i prawo wydobycia kamienia będą należeć do Shiring.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zdobycz",
+                            "zwierzyna łowna"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "And how do we catch our current quarry?",
+                                "Translation": "(A jak złapiemy naszą aktualną zwierzynę?)"
+                            },
+                            {
+                                "Sentence": "Our quarry should be somewhere in this forest.",
+                                "Translation": "(Nasza zdobycz powinna być gdzieś w tym lesie.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wydobywać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They quarry marble here.",
+                                "Translation": "(Tutaj wydobywa się marmur.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "Entry": [
+            "truce"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozejm",
+                            "zawieszenie broni"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "If the truce cannot be maintained, we'll declare war again.",
+                                "Translation": "(Jeśli rozejm nie może być utrzymany, mamy ponownie wojnę.)"
+                            },
+                            {
+                                "Sentence": "I was negotiating a truce between the two armies.",
+                                "Translation": "(Negocjowałem rozejm między dwiema armiami.)"
+                            },
+                            {
+                                "Sentence": "Anthony has brokered a truce.",
+                                "Translation": "(Anthony wynegocjował rozejm.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

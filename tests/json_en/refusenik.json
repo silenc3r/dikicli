@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "refusenik",
+            "refusnik"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "refusenik",
+                            "Żyd, któremu odmówiono prawa do emigracji ze Związku Radzieckieg"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "osoba, która odmawia zrobienia czegoś (np. wykonania rozkazu)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

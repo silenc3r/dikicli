@@ -1,0 +1,40 @@
+[
+    {
+        "Entry": [
+            "excerpt"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wyjątek",
+                            "ustęp",
+                            "fragment (np. filmu, książki)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I want you to watch another excerpt from the film.",
+                                "Translation": "(Chcę żebyście zobaczyli kolejny fragment filmu.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wybierać fragment",
+                            "wybierać ustęp (np. z książki)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

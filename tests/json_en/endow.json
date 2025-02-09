@@ -1,0 +1,32 @@
+[
+    {
+        "Entry": [
+            "endow",
+            "indow"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wspomóc",
+                            "wspomagać finansowo",
+                            "ufundować (np. szkołę, szpital)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "obdarzać",
+                            "obdarzyć",
+                            "być wyposażonym w coś (np. w umiejętności, talent)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

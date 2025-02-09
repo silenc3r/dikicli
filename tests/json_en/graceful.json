@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "graceful"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pełen gracji",
+                            "pełen wdzięku (np. ruch)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "powabny",
+                            "elegancki (o osobie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,85 @@
+[
+    {
+        "Entry": [
+            "modest"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "skromny (nieprzechwalający się)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You're too modest!",
+                                "Translation": "(Jesteś zbyt skromny!)"
+                            },
+                            {
+                                "Sentence": "Money hasn't changed her; she's still modest and honest.",
+                                "Translation": "(Pieniądze jej nie zmieniły; wciąż jest skromna i uczciwa.)"
+                            },
+                            {
+                                "Sentence": "He is a modest boy, his parents raised him well.",
+                                "Translation": "(On jest skromnym chłopcem, jego rodzice dobrze go wychowali.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "skromny",
+                            "niewielki (w ilości lub wielkości)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The restaurant was pretty modest.",
+                                "Translation": "(Restauracja była całkiem skromna.)"
+                            },
+                            {
+                                "Sentence": "The salary is modest but it is enough for us.",
+                                "Translation": "(Pensja jest skromna, ale jest dla nas wystarczająca.)"
+                            },
+                            {
+                                "Sentence": "They bought a modest house.",
+                                "Translation": "(Oni kupili niewielki domek.)"
+                            },
+                            {
+                                "Sentence": "The gift was modest but really sweet.",
+                                "Translation": "(Prezent był niewielki, ale bardzo słodki.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "skromny (o stroju)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She wore a modest dress.",
+                                "Translation": "(Ona miała na sobie skromną sukienkę.)"
+                            },
+                            {
+                                "Sentence": "She wears only modest clothes.",
+                                "Translation": "(Ona nosi tylko skromne ubrania.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "skromna (o kobiecie ubranej powściągliwie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wstydliwy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

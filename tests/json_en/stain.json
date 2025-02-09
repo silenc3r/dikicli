@@ -1,0 +1,99 @@
+[
+    {
+        "Entry": [
+            "stain"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "plama"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It's an ink stain on a sheet of paper.",
+                                "Translation": "(To plama atramentu na kartce papieru.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "barwnik",
+                            "farba"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Anything with a strong color could work as a stain.",
+                                "Translation": "(Cokolwiek o mocnym kolorze może zadziałać jak barwnik.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "skaza"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His car has a stain on the chassis.",
+                                "Translation": "(Jego samochód ma skazę na podwoziu.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "poplamić",
+                            "wyplamić"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The wine stained the carpet red.",
+                                "Translation": "(Wino poplamiło dywan na czerwono.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "barwić",
+                            "kolorować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He stained his t-shirt red.",
+                                "Translation": "(On zabarwił swoją koszulkę na czerwono.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "splamić (np. honor)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You stained the honor of your family.",
+                                "Translation": "(Splamiłeś honor swojej rodziny.)"
+                            },
+                            {
+                                "Sentence": "His reputation has been stained by his deeds.",
+                                "Translation": "(Jego reputacja została splamiona jego uczynkami.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bejcować"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

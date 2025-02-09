@@ -1,0 +1,148 @@
+[
+    {
+        "Entry": [
+            "shed"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szopa"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We keep all the tools in the shed at the back of the house.",
+                                "Translation": "(Trzymamy wszystkie narzędzia w szopie za domem.)"
+                            },
+                            {
+                                "Sentence": "He raced over and looked in the empty shed.",
+                                "Translation": "(On podbiegł i zajrzał do pustej szopy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "hangar"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The plane is being repaired in the shed.",
+                                "Translation": "(Samolot jest naprawiany w hangarze.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wiata (hangar bez ścian)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A shed is a hangar without walls.",
+                                "Translation": "(Wiata to hangar bez ścian.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zrzucać (np. liście)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "All trees in my garden have already shed leaves for winter.",
+                                "Translation": "(Wszystkie drzewa w moim ogrodzie zrzuciły już liście na zimę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "linieć",
+                            "zrzucać sierść"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My dog started to shed his coat.",
+                                "Translation": "(Mój pies zaczął zrzucać sierść.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pozbywać się (np. ubrania)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Let's shed these costumes.",
+                                "Translation": "(Pozbądźmy się tych kostiumów.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rzucać",
+                            "rozrzucać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He shed rose petals in my bedroom.",
+                                "Translation": "(On rozrzucił płatki róż w mojej sypialni.)"
+                            },
+                            {
+                                "Sentence": "Let's shed light on this case.",
+                                "Translation": "(Rzućmy światło na tę sprawę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rozlewać się (np. woda)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Be careful, water shed in the kitchen.",
+                                "Translation": "(Uważaj, w kuchni rozlała się woda.)"
+                            },
+                            {
+                                "Sentence": "Orange juice shed all over the floor.",
+                                "Translation": "(Sok pomarańczowy rozlał się po całej podłodze.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ronić",
+                            "przelać (łzę)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "she shed"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "prywatna przestrzeń do relaksu dla kobiety"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

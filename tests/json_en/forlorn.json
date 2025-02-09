@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "forlorn"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "opuszczony",
+                            "samotny (o osobie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "opuszczony",
+                            "wymarły (o miejscu)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

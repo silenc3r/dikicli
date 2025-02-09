@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "peruse"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przeglądać",
+                            "czytać uważnie",
+                            "studiować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He was perusing the map to find our camping site.",
+                                "Translation": "(On studiował mapę, by znaleźć nasz camping.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

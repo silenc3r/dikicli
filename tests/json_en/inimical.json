@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "inimical"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nieprzyjazny",
+                            "nieprzychylny",
+                            "niesprzyjający (np. działanie, obszar, klimat)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Such a severe climate is inimical to plant growth.",
+                                "Translation": "(Tak surowy klimat jest niesprzyjający dla wzrostu roślin.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

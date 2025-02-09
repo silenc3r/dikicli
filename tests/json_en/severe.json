@@ -1,0 +1,108 @@
+[
+    {
+        "Entry": [
+            "severe"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "poważny",
+                            "ciężki",
+                            "intensywny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He hardly recovered from a severe illness.",
+                                "Translation": "(On ledwo wyzdrowiał z poważnej choroby.)"
+                            },
+                            {
+                                "Sentence": "She has a severe problem with alcohol.",
+                                "Translation": "(Ona ma poważny problem z alkoholem.)"
+                            },
+                            {
+                                "Sentence": "She was diagnosed with severe depression.",
+                                "Translation": "(Zdiagnozowano u niej ciężką depresję.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ekstremalny (o pogodzie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The weather on Mount Everest was severe.",
+                                "Translation": "(Pogoda na Mount Everest była ekstremalna.)"
+                            },
+                            {
+                                "Sentence": "Weather conditions were severe but we managed to continue our trip.",
+                                "Translation": "(Warunki pogodowe były ekstremalne, ale udało nam się kontynuować naszą wycieczkę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "srogi",
+                            "surowy (kara, krytycyzm)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The punishment was too severe, you should apologize to your children.",
+                                "Translation": "(Kara była zbyt sroga, powinieneś przeprosić swoje dzieci.)"
+                            },
+                            {
+                                "Sentence": "It was a severe criticism, I don't agree with your opinion.",
+                                "Translation": "(To był surowy krytycyzm, nie zgadzam się z twoją opinią.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "surowy (osoba)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She is a severe teacher, children don't like her.",
+                                "Translation": "(Ona jest surową nauczycielką, dzieci jej nie lubią.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bardzo trudny",
+                            "niezwykle trudny (np. test)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It was a severe test, I need to relax now.",
+                                "Translation": "(To był bardzo trudny test, muszę się teraz zrelaksować.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "surowy",
+                            "prosty (np. dekoracja)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Does this severe decoration appeal to you?",
+                                "Translation": "(Czy ta surowa dekoracja ci się podoba?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "silny (np. ból)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

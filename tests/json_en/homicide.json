@@ -1,0 +1,61 @@
+[
+    {
+        "Entry": [
+            "murder",
+            "homicide",
+            "murther"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "morderstwo",
+                            "zabójstwo"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This is not a town where we can see a murder every day.",
+                                "Translation": "(To nie jest miasto, w którym na co dzień widzimy morderstwo.)"
+                            },
+                            {
+                                "Sentence": "They were both involved in the murder of her parents.",
+                                "Translation": "(Oni byli oboje zaangażowani w morderstwo jej rodziców.)"
+                            },
+                            {
+                                "Sentence": "It is not clear whether any murder has actually taken place.",
+                                "Translation": "(Nie jest jasne, czy jakiekolwiek morderstwo miało miejsce.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "homicide"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wydział zabójstw (w policji)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He's been working in the homicide for the last twenty years.",
+                                "Translation": "(On pracował w wydziale zabójstw przez ostatnie dwadzieścia lat.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

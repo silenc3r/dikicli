@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "serendipitous"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nieoczekiwany",
+                            "przypadkowy",
+                            "sprawiający miłą niespodziankę"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

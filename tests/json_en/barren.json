@@ -1,0 +1,49 @@
+[
+    {
+        "Entry": [
+            "barren"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "jałowy",
+                            "bezpłodny (np. ziemia, gleba)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "niepłodna (tylko o kobiecie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "nieurodzajny",
+                            "płony (np. roślina, drzewo)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "jałowy",
+                            "surowy",
+                            "suchy (np. budynek)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "nie przynoszący rezultatu (np. mecz, rozmowa)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

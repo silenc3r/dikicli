@@ -1,0 +1,21 @@
+[
+    {
+        "Entry": [
+            "phthalates"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ftalany (sole i estry kwasu ftalowego)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

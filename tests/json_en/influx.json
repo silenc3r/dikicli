@@ -1,0 +1,37 @@
+[
+    {
+        "Entry": [
+            "influx"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przypływ",
+                            "napływ (np. gotówki)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This sudden influx of funds will be very helpful for me.",
+                                "Translation": "(Ten nagły przypływ funduszy będzie dla mnie bardzo pomocny.)"
+                            },
+                            {
+                                "Sentence": "We are experiencing an influx of foreign capital into our country.",
+                                "Translation": "(Doświadczamy teraz napływu zagranicznego kapitału do naszego państwa.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ujście (np. strumienia, rzeki)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

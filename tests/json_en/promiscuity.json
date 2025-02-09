@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "promiscuity"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "lubieżność",
+                            "swoboda seksualna",
+                            "rozwiązłość"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "promiskuityzm",
+                            "promiskuizm"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

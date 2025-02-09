@@ -1,0 +1,36 @@
+[
+    {
+        "Entry": [
+            "stewardship"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zarządzanie (czymś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Some Member States are primarily concerned with building their economies, but for others the issue of responsible environmental stewardship ranks with trade.",
+                                "Translation": "(Niektóre państwa członkowskie zajmują się przede wszystkim budowaniem swojej gospodarki, ale dla niektórych kwestia odpowiedzialnego zarządzania środowiskiem wiąże się z handlem.)"
+                            },
+                            {
+                                "Sentence": "The people are happy with our stewardship of the country.",
+                                "Translation": "(Ludzie są zadowoleni z naszego zarządzania krajem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "szafarstwo"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

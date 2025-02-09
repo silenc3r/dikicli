@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "adulterate"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ochrzcić",
+                            "rozcieńczyć (np. wino, piwo)",
+                            "obniżyć jakość (jedzenia, napoju)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

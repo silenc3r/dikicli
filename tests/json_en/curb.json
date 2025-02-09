@@ -1,0 +1,97 @@
+[
+    {
+        "Entry": [
+            "kerb",
+            "curb"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "krawężnik"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A small black car was parked by the kerb.",
+                                "Translation": "(Mały, czarny samochód był zaparkowany przy krawężniku.)"
+                            },
+                            {
+                                "Sentence": "She pulled up to the curb and parked.",
+                                "Translation": "(Ona podjechała do krawężnika i zaparkowała.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "curb"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "powściągać",
+                            "pohamowywać (np. złość, pożądanie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Curb your anger, Michael.",
+                                "Translation": "(Pohamuj swoją złość, Michael.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ograniczać (np. wydatki, podatki)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We have to curb our expenses or else we will go bankrupt.",
+                                "Translation": "(Musimy ograniczyć nasze wydatki, bo inaczej zbankrutujemy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "hamować",
+                            "hamować się"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "okiełznać (konia)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ograniczenie"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wędzidło (część uprzęży końskiej)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

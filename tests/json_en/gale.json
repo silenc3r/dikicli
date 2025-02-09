@@ -1,0 +1,36 @@
+[
+    {
+        "Entry": [
+            "gale"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wichura",
+                            "zawierucha",
+                            "wicher"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The gale was coming back.",
+                                "Translation": "(Wichura wracała.)"
+                            },
+                            {
+                                "Sentence": "The darkness and the gale deafened her.",
+                                "Translation": "(Ciemność i wichura ogłuszyły ją.)"
+                            },
+                            {
+                                "Sentence": "I think we can expect a gale before noon.",
+                                "Translation": "(Myślę że możemy się spodziewać wichury przed południem.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "unhinge"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wysadzić z zawiasów",
+                            "wyważyć"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "rozstrajać",
+                            "wyprowadzić z równowagi"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

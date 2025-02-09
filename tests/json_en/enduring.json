@@ -1,0 +1,98 @@
+[
+    {
+        "Entry": [
+            "enduring"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "trwały",
+                            "stabilny",
+                            "długotrwały",
+                            "nieprzemijający"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "endure"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "znosić",
+                            "cierpieć",
+                            "wytrzymać",
+                            "przetrzymać (np. ból, biedę)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I endured a lot of pain during those last few years.",
+                                "Translation": "(Zniosłam wiele bólu podczas tych ostatnich kilku lat.)"
+                            },
+                            {
+                                "Sentence": "There was no way Jill could endure a life of that.",
+                                "Translation": "(Nie było możliwości by Jill wytrzymała takie życie.)"
+                            },
+                            {
+                                "Sentence": "Who would've thought someone so small could endure so much pain?",
+                                "Translation": "(Kto by pomyślał, że ktoś tak mały mógł wytrzymać tyle bólu?)"
+                            },
+                            {
+                                "Sentence": "She endured 17 years in prison.",
+                                "Translation": "(Ona wytrzymała 17 lat w więzieniu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "znosić",
+                            "tolerować (np. czyjeś zachowanie, wzrok)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'm enduring his behaviour just because he is your boyfriend.",
+                                "Translation": "(Toleruję jego zachowanie tylko dlatego, że jest twoim chłopakiem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przetrwać (np. miłość, pamięć)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We fought a lot, but our love endured.",
+                                "Translation": "(Dużo się kłóciliśmy, lecz nasza miłość przetrwała.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przetrwać",
+                            "wytrzymać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "No matter what happens, we will endure.",
+                                "Translation": "(Nieważne, co się stanie, przetrwamy.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

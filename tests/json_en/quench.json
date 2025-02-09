@@ -1,0 +1,36 @@
+[
+    {
+        "Entry": [
+            "quench"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zahartować (np. metal)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wygaszać (powodować zaprzestanie emisji)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "ugasić",
+                            "zgasić",
+                            "stłumić",
+                            "ostudzić"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

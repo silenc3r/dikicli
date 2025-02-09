@@ -1,0 +1,199 @@
+[
+    {
+        "Entry": [
+            "dot",
+            "."
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kropka (okrągła plamka)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The plane was just a dot in the sky.",
+                                "Translation": "(Samolot był tylko kropką na niebie.)"
+                            },
+                            {
+                                "Sentence": "There are dots on the mirror, you should clean them.",
+                                "Translation": "(Na lustrze są kropki, powinieneś je wyczyścić.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "punkt"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Connect the dots with a line.",
+                                "Translation": "(Połącz punkty za pomocą linii.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kropka (w alfabecie Morsa)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A dot and a hyphen stand for \"A\" in Morse Code.",
+                                "Translation": "(Kropka i kreska oznaczają \"A\" w kodzie Morse'a.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kropka (w adresie internetowym)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Use your first name dot your surname as a login.",
+                                "Translation": "(Użyj swojego imienia kropka nazwisko jako loginu.)"
+                            },
+                            {
+                                "Sentence": "Visit us at www dot etutor dot pl.",
+                                "Translation": "(Odwiedź nas na www kropka etutor kropka pl.)"
+                            },
+                            {
+                                "Sentence": "Is there a dot between onet and pl?",
+                                "Translation": "(Czy jest kropka pomiędzy onet i pl?)"
+                            },
+                            {
+                                "Sentence": "My website address is www dot etutor dot pl.",
+                                "Translation": "(Adres mojej strony internetowej to www (kropka) etutor (kropka) pl.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "muszelka",
+                            "guziczek (łechtaczka)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "dupa",
+                            "zad"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "That girl has a nice dot!",
+                                "Translation": "(Ta dziewczyna ma niezłą dupę!)"
+                            },
+                            {
+                                "Sentence": "He kicked me in the dot.",
+                                "Translation": "(On kopnął mnie w zad.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "postawić kropkę (np. nad i)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You forgot to dot the j.",
+                                "Translation": "(Zapomniałeś postawić kropki nad j.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rozrzucić",
+                            "rozsypać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He dotted pins next to my bed.",
+                                "Translation": "(On rozsypał szpilki obok mojego łóżka.)"
+                            },
+                            {
+                                "Sentence": "Dot these seeds in the garden.",
+                                "Translation": "(Rozrzuć te nasiona w ogrodzie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "grzmotnąć",
+                            "gruchnąć",
+                            "walnąć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Shut up or I'll dot you!",
+                                "Translation": "(Zamknij się albo cię walnę!)"
+                            },
+                            {
+                                "Sentence": "He dotted me, took my wallet and ran.",
+                                "Translation": "(Grzmotnął mnie, zabrał mój portfel i uciekł.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "Dorothy",
+            "Dot",
+            "Dottie"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "nazwa własna",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "Dorota (imię żeńskie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You know, darling, whatever happens, we must try to keep Dorothy out of it.",
+                                "Translation": "(Wiesz, skarbie, co by się nie działo, musimy trzymać Dorotę z dala od tego.)"
+                            },
+                            {
+                                "Sentence": "Dorothy was in another room with the other women.",
+                                "Translation": "(Dorota była w innym pokoju z pozostałymi żonami.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "United States Department of Transportation",
+            "USDOT",
+            "DOT"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "Departament Transportu Stanów Zjednoczonych"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

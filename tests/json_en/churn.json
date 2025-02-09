@@ -1,0 +1,100 @@
+[
+    {
+        "Entry": [
+            "churn"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "maselnica",
+                            "maślnica",
+                            "masielnica"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He made some butter with a churn.",
+                                "Translation": "(On zrobił trochę masła przy pomocy maselnicy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bańka",
+                            "kanka (np. na mleko)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He picked up the churn and went to get some milk.",
+                                "Translation": "(On podniósł bańkę i poszedł po mleko.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wskaźnik utraty klientów"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Our churn has never been so low.",
+                                "Translation": "(Nasz wskaźnik utraty klientów jeszcze nigdy nie był tak niski.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wzburzyć",
+                            "wzburzać",
+                            "wzruszyć",
+                            "zryć (np. wodę, powietrze, ziemię)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The workers had to churn the sidewalk to get to the pipes.",
+                                "Translation": "(Robotnicy musieli zryć chodnik, żeby dostać się do rur.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kłębić się",
+                            "roić się (np. pomysły)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I've got lots of ideas churning in my head.",
+                                "Translation": "(Mam mnóstwo pomysłów kłębiących się w mojej głowie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kręcić się w miejscu",
+                            "kręcić się na jałowym biegu"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The wheels would churn, but the car couldn't move.",
+                                "Translation": "(Koła się kręciły, ale samochód nie mógł ruszyć.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zmieniać firmę dostarczającą usługi"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

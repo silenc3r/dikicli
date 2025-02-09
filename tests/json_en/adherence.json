@@ -1,0 +1,71 @@
+[
+    {
+        "Entry": [
+            "adherence"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przestrzeganie (zasad, reguł)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Adherence to the rules is the foundation of our society.",
+                                "Translation": "(Przestrzeganie przepisów to fundament naszego społeczeństwa.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przyleganie",
+                            "przywieranie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This is a duct tape of high adherence.",
+                                "Translation": "(To jest taśma klejąca o wysokim przywieraniu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przywiązanie",
+                            "wierność"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I admire his adherence to her.",
+                                "Translation": "(Podziwiam jego wierność względem niej.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "patient compliance",
+            "adherence",
+            "capacitance"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przestrzeganie zaleceń przez pacjentów"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

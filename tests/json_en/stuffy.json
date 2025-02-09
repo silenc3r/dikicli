@@ -1,0 +1,81 @@
+[
+    {
+        "Entry": [
+            "stuffy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niewietrzony",
+                            "duszny (pomieszczenie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The auditorium was very stuffy after a two-hour lecture.",
+                                "Translation": "(Sala wykładowa była bardzo duszna po dwugodzinnym wykładzie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "formalny",
+                            "wyniosły",
+                            "staromodny",
+                            "staroświecki",
+                            "nudny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Their wedding reception was quite stuffy.",
+                                "Translation": "(Ich wesele było dość formalne.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zapchany",
+                            "zatkany (nos)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I can't cure my cold. My nose is constantly stuffy.",
+                                "Translation": "(Nie mogę wyleczyć mojego przeziębienia. Mój nos jest ciągle zatkany.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nieelastyczny",
+                            "sztywny",
+                            "purytański",
+                            "zasadniczy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My father is rather stuffy when it comes to regulations.",
+                                "Translation": "(Mój tata jest raczej zasadniczy jeśli chodzi o przepisy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nadąsany",
+                            "niezadowolony",
+                            "naburmuszony"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Never have I seen such a stuffy child.",
+                                "Translation": "(Nigdy nie widziałem tak nadąsanego dziecka.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

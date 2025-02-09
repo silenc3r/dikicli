@@ -1,0 +1,97 @@
+[
+    {
+        "Entry": [
+            "clot"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zakrzep",
+                            "skrzeplina"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A clot can be very dangerous to your health.",
+                                "Translation": "(Zakrzep może być bardzo groźny dla twojego zdrowia.)"
+                            },
+                            {
+                                "Sentence": "The blood clot was the cause of his death.",
+                                "Translation": "(Zakrzep krwi był przyczyną jego śmierci.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "baran",
+                            "pacan"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This clot ate my sandwich!",
+                                "Translation": "(Ten pacan zjadł moją kanapkę!)"
+                            },
+                            {
+                                "Sentence": "Shove up, clot.",
+                                "Translation": "(Przesuń się, baranie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "mała grupa",
+                            "grono"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She has a clot of friends.",
+                                "Translation": "(Ona ma małą grupę przyjaciół.)"
+                            },
+                            {
+                                "Sentence": "Only a clot of my classmates went to the cinema.",
+                                "Translation": "(Tylko grono moich kolegów z klasy poszło do kina.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "spowodować krzepnięcie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This drug will clot your blood.",
+                                "Translation": "(Ten lek spowoduje krzepnięcie twojej krwi.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "krzepnąć",
+                            "skrzepnąć",
+                            "zsiąść się",
+                            "zsiadać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You didn't put the milk into the fridge. It clotted.",
+                                "Translation": "(Nie wsadziłeś mleka do lodówki. Ono się zsiadło.)"
+                            },
+                            {
+                                "Sentence": "Because of the storm, the cream clotted.",
+                                "Translation": "(Śmietana zsiadła się z powodu burzy.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

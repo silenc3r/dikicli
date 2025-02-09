@@ -1,0 +1,67 @@
+[
+    {
+        "Entry": [
+            "kindling"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "podpałka"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zapalenie",
+                            "zapalanie",
+                            "rozpalenie",
+                            "rozpalanie (np. ognia, drewna)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wzniecenie",
+                            "wzniecanie",
+                            "rozpalanie",
+                            "rozpalenie (np. nadziei, pożądania)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "kindle"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zapalić",
+                            "rozpalić (np. ogień, drewno)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wzniecić",
+                            "rozpalić",
+                            "(np. nadzieję, pożądanie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

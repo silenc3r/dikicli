@@ -1,0 +1,70 @@
+[
+    {
+        "Entry": [
+            "stifle"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dławić (np. płomienie)",
+                            "gasić (ogień)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "udaremniać (czyjeś starania)",
+                            "spowalniać (np. postęp)",
+                            "tłamsić"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "tłumić (uczucia)",
+                            "pohamowywać (śmiech)",
+                            "tamować (łzy)",
+                            "tłamsić"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "dusić (się)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He was stifled by the smoke.",
+                                "Translation": "(On dusił się od dymu.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "stifle joint",
+            "stifle"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "staw kolanowy (u zwierząt)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "Entry": [
+            "prudent"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przezorny",
+                            "roztropny",
+                            "ostrożny",
+                            "rozważny",
+                            "rozsądny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A prudent woman always has with her pepper spray.",
+                                "Translation": "(Ostrożna kobieta zawsze ma przy sobie gaz pieprzowy.)"
+                            },
+                            {
+                                "Sentence": "You're a prudent girl.",
+                                "Translation": "(Jesteś roztropną dziewczyną.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

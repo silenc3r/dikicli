@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "rapscallion"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szubrawiec",
+                            "łajdak",
+                            "łotr"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

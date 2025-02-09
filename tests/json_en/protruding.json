@@ -1,0 +1,64 @@
+[
+    {
+        "Entry": [
+            "protruding"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wystający",
+                            "sterczący"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He has protruding ears.",
+                                "Translation": "(On ma odstające uszy.)"
+                            },
+                            {
+                                "Sentence": "She was looking at me with her protruding eyes.",
+                                "Translation": "(Ona patrzyła na mnie wybałuszonymi oczyma.)"
+                            },
+                            {
+                                "Sentence": "Do you think my protruding ears make me look unattractive?",
+                                "Translation": "(Czy myślisz, że odstające uszy sprawiają, że wyglądam nieatrakcyjnie?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "protrude"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wystawać",
+                            "sterczeć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A huge umbrella was protruding from her bag.",
+                                "Translation": "(Ogromny parasol wystawał z jej torby.)"
+                            },
+                            {
+                                "Sentence": "A rusty nail was protruding from the wall, so I took it out.",
+                                "Translation": "(Zardzewiały gwóźdź wystawał ze ściany, więc go wyjąłem.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "Entry": [
+            "soldier"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "żołnierz",
+                            "żoł. (skrót)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He was a great soldier.",
+                                "Translation": "(On był znakomitym żołnierzem.)"
+                            },
+                            {
+                                "Sentence": "She prays for soldiers every day.",
+                                "Translation": "(Ona codziennie modli się za żołnierzy.)"
+                            },
+                            {
+                                "Sentence": "I'm proud to be a soldier.",
+                                "Translation": "(Jestem dumny z bycia żołnierzem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "podłużne tosty do moczenia w jajku"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'm making soldiers for breakfast.",
+                                "Translation": "(Robię na śniadanie podłużne tosty do moczenia w jajku.)"
+                            },
+                            {
+                                "Sentence": "He dipped his buttered soldier in an egg.",
+                                "Translation": "(On umoczył swojego posmarowanego masłem tosta w jajku.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "leser",
+                            "obibok"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He is a terrible soldier.",
+                                "Translation": "(On jest okropnym obibokiem.)"
+                            },
+                            {
+                                "Sentence": "Why didn't you do what I asked? You're a soldier.",
+                                "Translation": "(Dlaczego nie zrobiłeś tego, o co cię prosiłem? Jesteś obibokiem.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bumelować",
+                            "zbijać bąki"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I soldier all day long.",
+                                "Translation": "(Ja zbijam bąki cały dzień.)"
+                            },
+                            {
+                                "Sentence": "It's high time we stopped soldiering.",
+                                "Translation": "(Najwyższy czas, abyśmy przestali bumelować.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

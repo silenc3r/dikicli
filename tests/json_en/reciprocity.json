@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "reciprocity"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wzajemność (świadczenia usług)",
+                            "obopólność (zależności)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

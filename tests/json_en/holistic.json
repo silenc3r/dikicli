@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "holistic",
+            "wholistic"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "całościowy",
+                            "holistyczny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "To cure this disease we need to take a holistic approach.",
+                                "Translation": "(Aby wyleczyć tę chorobę, musimy podejść do niej całościowo.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

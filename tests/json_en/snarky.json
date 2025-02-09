@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "snarky"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "złośliwy",
+                            "wredny (np. komentarz, uwaga)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

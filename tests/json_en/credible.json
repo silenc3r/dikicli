@@ -1,0 +1,34 @@
+[
+    {
+        "Entry": [
+            "credible"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wiarygodny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His statement is credible.",
+                                "Translation": "(Jego oświadczenie jest wiarygodne.)"
+                            },
+                            {
+                                "Sentence": "Her story seems to be barely credible.",
+                                "Translation": "(Jej historia wydaje się być ledwie wiarygodna.)"
+                            },
+                            {
+                                "Sentence": "The threat was highly credible and we employed preventive measures.",
+                                "Translation": "(Zagrożenie było wysoce wiarygodne i zastosowaliśmy środki zapobiegawcze.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

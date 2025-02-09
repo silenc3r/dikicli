@@ -1,0 +1,70 @@
+[
+    {
+        "Entry": [
+            "foray"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "krok",
+                            "próba sił"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Our squadron's first foray was a major success.",
+                                "Translation": "(Pierwsza próba sił naszego szwadronu była znaczącym sukcesem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wypad"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This is not our first foray into the enemy territory.",
+                                "Translation": "(To nie jest nasz pierwszy wypad na terytorium wroga.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wycieczka"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "foray into",
+            "foray to"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wyprawa do",
+                            "wyprawa na"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I usually make forays to the shops on Saturday.",
+                                "Translation": "(Zazwyczaj w soboty robię wyprawy na zakupy.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

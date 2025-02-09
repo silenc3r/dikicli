@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "palliate"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "uśmierzyć",
+                            "uśmierzać",
+                            "ukoić"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "stanowić okoliczność łagodzącą (np. dla sądu)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

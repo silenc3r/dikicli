@@ -1,0 +1,24 @@
+[
+    {
+        "Entry": [
+            "discernible",
+            "discernable"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zauważalny",
+                            "dostrzegalny",
+                            "wyczuwalny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

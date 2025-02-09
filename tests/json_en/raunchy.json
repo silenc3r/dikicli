@@ -1,0 +1,31 @@
+[
+    {
+        "Entry": [
+            "raunchy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sprośny",
+                            "lubieżny",
+                            "pożądliwy"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "obskurny",
+                            "niechlujny",
+                            "obleśny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

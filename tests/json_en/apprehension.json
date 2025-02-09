@@ -1,0 +1,45 @@
+[
+    {
+        "Entry": [
+            "apprehension"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "lęk",
+                            "obawa"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I know that there is some apprehension with regard to these figures.",
+                                "Translation": "(Wiem, że te liczby budzą pewne obawy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "aresztowanie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His actions directly resulted in the apprehension of known drug trafficker.",
+                                "Translation": "(Jego działania bezpośrednio przyczyniły się do aresztowania znanego handlarza narkotyków.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rozumienie",
+                            "zrozumienie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

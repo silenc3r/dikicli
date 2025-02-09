@@ -1,0 +1,57 @@
+[
+    {
+        "Entry": [
+            "clobber"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "walnąć",
+                            "uderzyć",
+                            "sprać (kogoś z dużą siłą)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "uderzyć (w kogoś)",
+                            "dać popalić (na przykład gdy ktoś traci pieniądze)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "załatwić",
+                            "pokonać (np. oponenta)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "majdan",
+                            "graty",
+                            "manatki"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "ciuchy",
+                            "ubrania"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

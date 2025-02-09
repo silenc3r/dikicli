@@ -1,0 +1,167 @@
+[
+    {
+        "Entry": [
+            "gutted"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ciężko rozczarowany",
+                            "zniesmaczony",
+                            "załamany"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "gut"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "jelito",
+                            "kiszka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He took out the guts of the animal.",
+                                "Translation": "(On wyjął kiszki ze zwierza.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "naciąg (np. rakiety, skrzypiec)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He bought a racket with gut.",
+                                "Translation": "(On kupił rakietę z naciągem jelitowym.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bęben",
+                            "będzol",
+                            "brzuch"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She punched him in the gut!",
+                                "Translation": "(Ona uderzyła go w brzuch!)"
+                            },
+                            {
+                                "Sentence": "He's a fat man with a large gut.",
+                                "Translation": "(On jest grubym mężczyzną z ogromnym bębnem.)"
+                            },
+                            {
+                                "Sentence": "Put on a shirt, nobody wants to look at your gut!",
+                                "Translation": "(Załóż koszulę, nikt nie chce patrzeć na twój bęben!)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "patroszyć",
+                            "bebeszyć",
+                            "wybebeszać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Those guys with knives will gut you if you say a word.",
+                                "Translation": "(Ci goście z nożami wypatroszą cię, jeżeli powiesz choć słowo.)"
+                            },
+                            {
+                                "Sentence": "He gutted the fish before cooking it.",
+                                "Translation": "(On wypatroszył rybę przed jej gotowaniem.)"
+                            },
+                            {
+                                "Sentence": "Can you gut this duck?",
+                                "Translation": "(Czy możesz wypatroszyć tę kaczkę?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przeszukać",
+                            "wywrócić do góry nogami"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Gut this place!",
+                                "Translation": "(Przeszukać to miejsce!)"
+                            },
+                            {
+                                "Sentence": "They gutted my room but they didn't find anything.",
+                                "Translation": "(Wywrócili mój pokój do góry nogami, ale niczego nie znaleźli.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "doszczętnie zniszczyć",
+                            "trawić (o ogniu, pożarze)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My flat was gutted by fire last night.",
+                                "Translation": "(Zeszłej nocy pożar strawił moje mieszkanie.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pierwotny",
+                            "instynktowny (o uczuciu, wrażeniu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I have a gut feeling that something isn't right.",
+                                "Translation": "(Mam instynktowne odczucie, że coś jest nie tak.)"
+                            },
+                            {
+                                "Sentence": "You should trust your gut impression.",
+                                "Translation": "(Powinieneś zaufać swojemu pierwotnemu wrażeniu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "podstawowy",
+                            "zasadniczy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There is a gut difference between me and you - I'm honest and you're not.",
+                                "Translation": "(Między nami jest zasadnicza różnica - ja jestem szczery, a ty nie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

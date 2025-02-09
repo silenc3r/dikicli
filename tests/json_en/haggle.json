@@ -1,0 +1,48 @@
+[
+    {
+        "Entry": [
+            "haggle",
+            "higgle"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "targować się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "People like to haggle in flea markets.",
+                                "Translation": "(Ludzie lubią się targować na pchlich targach.)"
+                            },
+                            {
+                                "Sentence": "She knows how to haggle.",
+                                "Translation": "(Ona wie, jak się targować.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "spierać się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'm not going to haggle about it.",
+                                "Translation": "(Nie zamierzam się o to spierać.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wystrzępić"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

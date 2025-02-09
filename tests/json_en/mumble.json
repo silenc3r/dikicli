@@ -1,0 +1,47 @@
+[
+    {
+        "Entry": [
+            "mumble"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mamrotać",
+                            "bełkotać",
+                            "mamlać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He mumbled something under his breath.",
+                                "Translation": "(On wymamrotał coś pod nosem.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "mumble to yourself"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mamrotać do siebie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

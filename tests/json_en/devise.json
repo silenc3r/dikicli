@@ -1,0 +1,35 @@
+[
+    {
+        "Entry": [
+            "devise"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "opracować",
+                            "wymyślić"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They have devised a cure for this illness.",
+                                "Translation": "(Oni opracowali lekarstwo na tę chorobę.)"
+                            },
+                            {
+                                "Sentence": "It may be the most important piece of machinery ever devised.",
+                                "Translation": "(To może być najważniejsza maszyna wymyślona kiedykolwiek.)"
+                            },
+                            {
+                                "Sentence": "The burglars devised a scheme for entering the bank at night.",
+                                "Translation": "(Włamywacze obmyślili plan wejścia w nocy do banku.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "reimburse"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zwracać pieniądze (wydane przez kogoś)",
+                            "pokrywać koszty (czyjeś)",
+                            "refundować (leki)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "dawać odszkodowanie (za coś)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

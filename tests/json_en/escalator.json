@@ -1,0 +1,31 @@
+[
+    {
+        "Entry": [
+            "escalator"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "schody ruchome",
+                            "eskalator"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Many children are afraid of escalators.",
+                                "Translation": "(Wiele dzieci boi się ruchomych schodów.)"
+                            },
+                            {
+                                "Sentence": "The escalator has just broken down.",
+                                "Translation": "(Schody ruchome właśnie się popsuły.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

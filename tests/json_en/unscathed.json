@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "unscathed"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bez szwanku",
+                            "bez uszczerbku",
+                            "nietknięty"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "Entry": [
+            "quark"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kwark"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The proton and neutron, are made from the up and down quarks.",
+                                "Translation": "(Proton i neutron są zbudowane z górnych i dolnych kwarków.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ser biały"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "Entry": [
+            "foliage"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "listowie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I couldn't see anything through the foliage.",
+                                "Translation": "(Nie mogłem nic zobaczyć przez listowie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

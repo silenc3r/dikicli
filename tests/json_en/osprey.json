@@ -1,0 +1,50 @@
+[
+    {
+        "Entry": [
+            "osprey",
+            "ossifrage",
+            "sea hawk",
+            "fish eagle",
+            "fish hawk",
+            "Pandion haliaetus"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rybołów"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "osprey",
+            "fish eagle",
+            "sea hawk",
+            "river hawk",
+            "fish hawk",
+            "pandionidae"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rybołów"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

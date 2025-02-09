@@ -1,0 +1,36 @@
+[
+    {
+        "Entry": [
+            "trope"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przenośnia",
+                            "metafora"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nadużyty",
+                            "wyświechtany",
+                            "ograny",
+                            "oklepany wątek lub motyw (w filmie, książce itp.)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

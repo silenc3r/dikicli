@@ -1,0 +1,35 @@
+[
+    {
+        "Entry": [
+            "proprietor"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "posiadacz",
+                            "właściciel (firmy, przedsiębiorstwa)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I assume you are the proprietor of this company?",
+                                "Translation": "(Rozumiem, że jest pan właścicielem tej firmy?)"
+                            },
+                            {
+                                "Sentence": "I would like to speak with the proprietor of this place.",
+                                "Translation": "(Chicałbym porozmawiać z właścicielem tego lokalu.)"
+                            },
+                            {
+                                "Sentence": "I am the proprietor of a Chinese restaurant.",
+                                "Translation": "(Jestem posiadaczem chińskiej restauracji.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

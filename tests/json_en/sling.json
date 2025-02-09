@@ -1,0 +1,114 @@
+[
+    {
+        "Entry": [
+            "sling"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ciskać",
+                            "miotać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He slung the letter in the bin.",
+                                "Translation": "(On cisnął list do kosza.)"
+                            },
+                            {
+                                "Sentence": "She slung him the keys.",
+                                "Translation": "(Ona rzuciła mu klucze.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wrzucić",
+                            "wyrzucić (np. z pomieszczenia)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "powiesić",
+                            "zawiesić"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "serwować (o jedzeniu)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "temblak"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "uprząż (do przenoszenia ciężkich przedmiotów)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "proca"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "sling",
+            "baby sling",
+            "baby wrap"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "chusta do noszenia dziecka"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "sling somebody something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rzucić komuś coś (np. klucze)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

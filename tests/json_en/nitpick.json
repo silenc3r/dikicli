@@ -1,0 +1,32 @@
+[
+    {
+        "Entry": [
+            "nit-pick",
+            "nitpick"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szukać dziury w całym",
+                            "czepiać się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You're always nitpicking - it's so annoying!",
+                                "Translation": "(Zawsze szukasz dziury w całym - to strasznie denerwujące!)"
+                            },
+                            {
+                                "Sentence": "Her husband nitpicks about everything: from how she puts the plates away to how she sweeps the floor.",
+                                "Translation": "(Jej mąż czepia się o wszystko: od odkładania talerzy do sposobu zamiatania podłogi.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

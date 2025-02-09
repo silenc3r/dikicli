@@ -1,0 +1,110 @@
+[
+    {
+        "Entry": [
+            "pottering",
+            "puttering"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "krzątanie się",
+                            "obijanie się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Your pottering is making me nervous.",
+                                "Translation": "(Twoje krzątanie się mnie denerwuje.)"
+                            },
+                            {
+                                "Sentence": "Her puttering is out of my control.",
+                                "Translation": "(Jej obijanie się jest poza moją kontrolą.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "puttering"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "posuwanie się spokojnym krokiem"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "potter",
+            "putter"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "krzątać się",
+                            "obijać się",
+                            "pałętać się"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "posuwać się spokojnym krokiem",
+                            "nie śpieszyć się"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "putter"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "putter (kij golfowy)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "klekotać (o odgłosie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

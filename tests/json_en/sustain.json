@@ -1,0 +1,113 @@
+[
+    {
+        "Entry": [
+            "sustain"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "podtrzymywać (rozmowę, zainteresowanie)",
+                            "utrzymywać (np. dobrą jakość)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I tried to sustain the conversation, but he was just too boring.",
+                                "Translation": "(Próbowałem podtrzymać rozmowę, ale on był po prostu zbyt nudny.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wspierać",
+                            "podtrzymywać (konstrukcję)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Two columns are needed to sustain this large dome.",
+                                "Translation": "(Potrzebne są dwie kolumny żeby wesprzeć tą dużą kopułę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "odnosić (obrażenia)",
+                            "ponosić (straty)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He sustained a severe head injury during the car crash.",
+                                "Translation": "(On odniósł poważne obrażenia głowy podczas wypadku samochodowego.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "znosić",
+                            "wytrzymywać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I can't sustain this heat.",
+                                "Translation": "(Nie mogę wytrzymać tego gorąca.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "utrzymywać (przy życiu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There wasn't enough water to sustain them.",
+                                "Translation": "(Nie było wystarczająco wody, aby utrzymać ich przy życiu.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "sustain somebody"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "utrzymywać kogoś",
+                            "zapewniać komuś utrzymanie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "sustain oneself"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "utrzymywać się"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

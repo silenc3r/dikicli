@@ -1,0 +1,57 @@
+[
+    {
+        "Entry": [
+            "catch",
+            "latch"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zasuwka",
+                            "zatrzask"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He fixed the latch on the basement door.",
+                                "Translation": "(On naprawił zasuwkę w drzwiach od piwnicy.)"
+                            },
+                            {
+                                "Sentence": "The catch is broken, I can't close the door.",
+                                "Translation": "(Zasuwka jest zepsuta, nie mogę zamknąć drzwi.)"
+                            },
+                            {
+                                "Sentence": "The catch helps the door stay shut.",
+                                "Translation": "(Zatrzask pomaga utrzymać drzwi zamknięte.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zamknąć",
+                            "zamykać na zatrzask"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Catch the door before you go to sleep.",
+                                "Translation": "(Zamknij drzwi na zatrzask, zanim pójdziesz spać.)"
+                            },
+                            {
+                                "Sentence": "I caught the door and I can't get it open.",
+                                "Translation": "(Zamknęłam drzwi na zatrzask, a teraz nie mogę ich otworzyć.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

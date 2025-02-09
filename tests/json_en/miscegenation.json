@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "miscegenation"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "krzyżowanie ras",
+                            "hybrydyzacja"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

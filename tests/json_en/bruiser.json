@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "bruiser"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "groźny typ",
+                            "mięśniak"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

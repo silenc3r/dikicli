@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "cobbler"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szewc"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "placek z nadzieniem z owoców",
+                            "pieróg",
+                            "kulebiak"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

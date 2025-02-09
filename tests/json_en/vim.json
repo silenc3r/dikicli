@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "vim"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "krzepkość",
+                            "siła",
+                            "energia"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

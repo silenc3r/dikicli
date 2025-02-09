@@ -1,0 +1,74 @@
+[
+    {
+        "Entry": [
+            "marshal"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "marszałek",
+                            "urzędnik sądowy",
+                            "komendant straży pożarnej"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I have an order signed by the marshal.",
+                                "Translation": "(Mam nakaz podpisany przez urzędnika sądowego.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "funkcjonariusz policji"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The marshal at the police station took my testimony.",
+                                "Translation": "(Funkcjonariusz policji na posterunku spisał moje zeznanie.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szeregować",
+                            "ustawiać",
+                            "formować"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wprowadzać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "To achieve peace, Europe must marshal consensus, and the UK must be part of it.",
+                                "Translation": "(By osiągnąć pokój Europa musi wprowadzić konsensus, zaś Zjednoczone Królestwo musi w nim uczestniczyć.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "marszałkowski"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "Entry": [
+            "strive"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "usiłować",
+                            "starać się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We strive to make our customers happy.",
+                                "Translation": "(Staramy się uszczęśliwić naszych klientów.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "walczyć (przeciw czemuś)",
+                            "zmagać się (z czymś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Stop striving against your fate.",
+                                "Translation": "(Przestań walczyć ze swoim przeznaczeniem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dążyć (do czegoś)",
+                            "sięgać (po coś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He strives for success.",
+                                "Translation": "(On dąży do sukcesu.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "alacrity"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "żwawość",
+                            "skwapliwość",
+                            "ochoczość"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

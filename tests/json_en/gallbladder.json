@@ -1,0 +1,27 @@
+[
+    {
+        "Entry": [
+            "gall bladder",
+            "gallbladder"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pęcherzyk żółciowy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I recently underwent surgery to remove my gall bladder.",
+                                "Translation": "(Niedawno przeszedłem operację usunięcia woreczka żółciowego.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

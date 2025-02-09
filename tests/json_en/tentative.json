@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "tentative"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niepewny (np. gest)",
+                            "nieśmiały (np. uśmiech)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "tymczasowy (o rozwiązaniu)",
+                            "wstępny (o projekcie)",
+                            "próbny (o wersji)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

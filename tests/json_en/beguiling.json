@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "beguiling"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "urzekający",
+                            "zniewalający",
+                            "nęcący"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Your accent is very beguiling.",
+                                "Translation": "(Twój akcent jest bardzo urzekający.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

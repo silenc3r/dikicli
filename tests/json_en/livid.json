@@ -1,0 +1,60 @@
+[
+    {
+        "Entry": [
+            "livid"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "siny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "After a week, the flesh was livid.",
+                                "Translation": "(Po tygodniu ciało było sine.)"
+                            },
+                            {
+                                "Sentence": "The scar on his forehead seems to be livid.",
+                                "Translation": "(Blizna na jego czole wydaje się być sina.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "blady"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Why are you so livid? Are you sick?",
+                                "Translation": "(Dlaczego jesteś tak blady? Jesteś chory?)"
+                            },
+                            {
+                                "Sentence": "She's so livid because she thought she saw a ghost.",
+                                "Translation": "(Ona jest taka blada, bo myślała, że widziała ducha.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wściekły"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He was livid that I lied to him.",
+                                "Translation": "(On był wściekły, że mu skłamałem.)"
+                            },
+                            {
+                                "Sentence": "I broke the window and my parents were livid with me.",
+                                "Translation": "(Zbiłem okno i moi rodzice byli na mnie wściekli.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

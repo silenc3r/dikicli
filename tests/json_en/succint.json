@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "succinct"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "treściwy (np. opis)",
+                            "lakoniczny (o odpowiedzi)",
+                            "zwięzły (o wyjaśnieniu)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

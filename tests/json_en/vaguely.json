@@ -1,0 +1,55 @@
+[
+    {
+        "Entry": [
+            "vaguely"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niejasno",
+                            "niewyraźnie",
+                            "nieco"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I vaguely remember my childhood.",
+                                "Translation": "(Niewyraźnie pamiętam swoje dzieciństwo.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "z roztargnieniem",
+                            "bezwiednie (uśmiechnąć się)",
+                            "odruchowo (wykonać gest)",
+                            "bez celu (szwendać się)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "When we first met, he shook my hand vaguely.",
+                                "Translation": "(Kiedy spotkaliśmy się po raz pierwszy, odruchowo uścisnął mi rękę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wymijająco",
+                            "ogólnikowo",
+                            "mętnie (np. odpowiedzieć)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I am fed up with you vaguely answering my questions!",
+                                "Translation": "(Mam dość twojego ogólnikowego odpowiadania na moje pytania!)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

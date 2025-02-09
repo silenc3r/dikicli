@@ -1,0 +1,106 @@
+[
+    {
+        "Entry": [
+            "foraging"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szukanie",
+                            "plądrowanie"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zbieractwo (o poszukiwaniu jedzenia)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "forage"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pasza",
+                            "obrok"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I refilled the bag of forage for my horse.",
+                                "Translation": "(Uzupełniłem worek z paszą dla mojego konia.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "poszukiwanie",
+                            "plądrowanie",
+                            "szperanie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The forage of the shipwreck gave them lots of money.",
+                                "Translation": "(Splądrowanie wraku statku dało im dużo pieniędzy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "poszukiwanie pożywienia"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He was sent on a forage.",
+                                "Translation": "(On został wysłany na poszukiwanie jedzenia.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "atak",
+                            "najazd (wojska)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Our village was destroyed in the last forage.",
+                                "Translation": "(Nasza wioska została zniszczona w ostatnim najeździe.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "furażować",
+                            "poszukiwać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He foraged for food every day.",
+                                "Translation": "(On każdego dnia poszukiwał jedzenia.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "Entry": [
+            "Formica"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "plastikowy laminat do pokrywania stołów i blatów kuchennych"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,91 @@
+[
+    {
+        "Entry": [
+            "squash",
+            "squoosh"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zgnieść",
+                            "zgniatać (na płasko)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I've stood on my glasses and squashed them.",
+                                "Translation": "(Stanąłem na moich okularach i zgniotłem je.)"
+                            },
+                            {
+                                "Sentence": "She squashed the can flat and threw it to the bin.",
+                                "Translation": "(Ona zgniotła puszkę i wrzuciła ją do kosza.)"
+                            },
+                            {
+                                "Sentence": "I hate wearing a cap - it's squashing my hair!",
+                                "Translation": "(Nie cierpię nosić czapki - ona zgniata mi włosy!)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wtłaczać",
+                            "wciskać"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "kłaść kres"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zdusić",
+                            "zdławić (np. uczucie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "squash"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Are you able to keep playing squash in the city?",
+                                "Translation": "(Czy możesz nadal grać w squasha w mieście?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ścisk",
+                            "tłok"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "kabaczek"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "koncentrat owocowy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

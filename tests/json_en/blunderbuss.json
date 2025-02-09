@@ -1,0 +1,33 @@
+[
+    {
+        "Entry": [
+            "blunderbuss"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "garłacz",
+                            "szturmak",
+                            "tromblon (broń palna z XVI wieku)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "niezdara",
+                            "fajtłapa",
+                            "ciamajda",
+                            "oferma",
+                            "gapa"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

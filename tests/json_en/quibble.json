@@ -1,0 +1,46 @@
+[
+    {
+        "Entry": [
+            "quibble"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "drobne zastrzeżenie",
+                            "sprzeczka"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "gra słów",
+                            "kalambur"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "spierać się (o szczegóły)",
+                            "sprzeczać się (o rzeczy nieistotne)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They are always quibbling about cat food.",
+                                "Translation": "(Oni zawsze się sprzeczają o kocie jedzenie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

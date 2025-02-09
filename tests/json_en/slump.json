@@ -1,0 +1,96 @@
+[
+    {
+        "Entry": [
+            "slump"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "osunąć się",
+                            "zapaść się"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "gwałtownie spaść (pod względem wartości, liczby)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "opadać (o ramionach, głowie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "krach",
+                            "gwałtowne załamanie",
+                            "kryzys (ekonomiczny)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "bessa (gwałtowny spadek notowań akcji)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "kryzys (gdy zawodnik nie gra tak dobrze, jak powinien)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "przygarbienie",
+                            "zgarbiona (postawa)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "pandowdy",
+            "grunt",
+            "slump"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "placek owocowy (najczęściej ciasto kruche wypełnione owocami, pieczone w naczyniu do zapiekania)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Which one do you like more: cheesecake or pandowdy?",
+                                "Translation": "(Co lubisz bardziej: sernik czy owocowy placek?)"
+                            },
+                            {
+                                "Sentence": "I ordered pandowdy for dessert but it was too sweet.",
+                                "Translation": "(Zamówiłem na deser placek owocowy, ale był za słodki.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

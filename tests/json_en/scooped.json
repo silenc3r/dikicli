@@ -1,0 +1,85 @@
+[
+    {
+        "Entry": [
+            "scoop"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "łyżka do lodów",
+                            "gałkownica"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "bomba",
+                            "sensacyjny materiał"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This is the scoop that will get me promoted.",
+                                "Translation": "(To jest ten sensacyjny materiał, który zapewni mi awans.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "informacje"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "szybki zysk"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "duży zysk osiągnięty szybko"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "opublikować wcześniej niż inni (np. sensacyjny materiał)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "nabierać (np. łyżką, dłonią)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He scooped the ice cream and put it in a cone.",
+                                "Translation": "(On nabrał lody i nałożył je do rożka.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zgarnąć (np. nagrodę)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She scooped up the main prize.",
+                                "Translation": "(Ona zgarnęła główną nagrodę.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "Entry": [
+            "cratering"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "tworzenie lejów w ziemi (np. wysadzając bombę)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "odwołanie",
+                            "porzucenie (np. planów, projektu)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zniszczenie",
+                            "popsucie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

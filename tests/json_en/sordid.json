@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "sordid"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niechlujny",
+                            "obskurny (o pomieszczeniu)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "nikczemny (zamiar)",
+                            "podły (czyn)",
+                            "brudny (interes)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

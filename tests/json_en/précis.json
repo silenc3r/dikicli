@@ -1,0 +1,47 @@
+[
+    {
+        "Entry": [
+            "précis"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "streszczać",
+                            "skracać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "précis",
+            "abstract"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "streszczenie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Give me your précis of the report at 3 pm, please.",
+                                "Translation": "(Proszę daj mi twoje streszczenie raportu o 15.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

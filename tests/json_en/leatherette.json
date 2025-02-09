@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "leatherette",
+            "Naugahyde"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sztuczna skóra",
+                            "materiał imitujący skórę"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

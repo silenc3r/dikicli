@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "gallantry"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "waleczność",
+                            "odwaga"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "galanteria",
+                            "szarmancja",
+                            "rycerskość"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

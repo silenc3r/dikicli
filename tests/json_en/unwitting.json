@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "unwitting"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bezwiedny",
+                            "mimowolny",
+                            "nieświadomy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,81 @@
+[
+    {
+        "Entry": [
+            "gorge"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wąwóz"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We pitched a camp by a creek in a lovely gorge.",
+                                "Translation": "(Rozbiliśmy obóz przy strumieniu w uroczym wąwozie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "gardło"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "lód blokujący wąskie przejście"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przepiękny",
+                            "olśniewający",
+                            "wspaniały"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "gorge oneself"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "objadać się",
+                            "napychać się",
+                            "obżerać się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "If you gorge yourself like that, you won't eat your dinner.",
+                                "Translation": "(Jeśli będziesz się tak obżerać przekąskami, to nie zjesz kolacji.)"
+                            },
+                            {
+                                "Sentence": "Stop gorging yourself on pizza.",
+                                "Translation": "(Przestań objadać się pizzą.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

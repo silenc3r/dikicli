@@ -1,0 +1,52 @@
+[
+    {
+        "Entry": [
+            "sunset",
+            "sundown",
+            "sun setting"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zachód słońca"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They went to the beach to watch the sunset.",
+                                "Translation": "(Oni poszli na plażę oglądać zachód słońca.)"
+                            },
+                            {
+                                "Sentence": "It was about an hour before sunset.",
+                                "Translation": "(Była około godzina do zachodu słońca.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "sunset"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "stopniowo wycofywać",
+                            "wycofywać etapami"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

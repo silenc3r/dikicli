@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "impugn"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kwestionować",
+                            "zbijać (twierdzenie)",
+                            "podawać w wątpliwość"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

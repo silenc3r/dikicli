@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "impartial"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bezstronny",
+                            "obiektywny",
+                            "sprawiedliwy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

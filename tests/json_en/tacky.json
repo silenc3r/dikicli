@@ -1,0 +1,64 @@
+[
+    {
+        "Entry": [
+            "tacky"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "tandetny",
+                            "w złym guście"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "What a tacky ending that would be.",
+                                "Translation": "(Co za tandetne zakończenie by to było.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "czepliwy",
+                            "przyczepny"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "lepki (o powierzchni czegoś)",
+                            "kleisty"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "tandetny (o rzeczy)",
+                            "bez gustu (o ubiorze)",
+                            "w złym guście"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "bublowaty",
+                            "źle zrobiony (o produkcie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "nieuprzejmy",
+                            "niegrzeczny",
+                            "chamski (o zachowaniu)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "Entry": [
+            "lightning",
+            "lightning bolt",
+            "flash of lightning"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "błyskawica",
+                            "piorun",
+                            "grom",
+                            "wyładowanie atmosferyczne"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We could see lightning in the distance.",
+                                "Translation": "(Widzieliśmy błyskawice w oddali.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

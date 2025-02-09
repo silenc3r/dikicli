@@ -1,0 +1,27 @@
+[
+    {
+        "Entry": [
+            "unanimous"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "jednomyślny",
+                            "jednogłośny (np. o decyzji)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The class was unanimous in desiring to go on a trip.",
+                                "Translation": "(Klasa była jednogłośna w swoim pragnieniu pojechania na wycieczkę.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

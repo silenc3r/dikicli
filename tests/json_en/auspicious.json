@@ -1,0 +1,27 @@
+[
+    {
+        "Entry": [
+            "auspicious"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pomyślny",
+                            "obiecujący"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This book is an auspicious start to a writing career.",
+                                "Translation": "(Ta ksiązka jest obiecującym początkiem kariery pisarskiej.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

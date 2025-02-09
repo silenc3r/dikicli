@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "revelry"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "głośna zabawa",
+                            "hałaśliwa uczta"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

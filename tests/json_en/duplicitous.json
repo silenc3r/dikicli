@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "duplicitous"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dwulicowy",
+                            "obłudny",
+                            "fałszywy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

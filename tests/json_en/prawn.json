@@ -1,0 +1,27 @@
+[
+    {
+        "Entry": [
+            "shrimp",
+            "prawn"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "krewetka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The speciality of this restaurant is fresh shrimp.",
+                                "Translation": "(Specjalnością tej restauracji są świeże krewetki.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

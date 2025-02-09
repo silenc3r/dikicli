@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "endearment"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "czułe słowo",
+                            "czułości",
+                            "czułe słówka"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

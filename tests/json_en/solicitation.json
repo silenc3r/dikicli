@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "solicitation"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "proszenie (np. o pieniądze)",
+                            "nagabywanie",
+                            "zabiegi (o coś)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

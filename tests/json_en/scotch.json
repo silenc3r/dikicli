@@ -1,0 +1,96 @@
+[
+    {
+        "Entry": [
+            "scotch"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "udaremniać (coś)",
+                            "ucinać (np. plotki)",
+                            "zdusić w zarodku"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "uciąć (coś)",
+                            "zaciąć (kogoś, coś)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "Scottish",
+            "Scots",
+            "Scotch",
+            "Scottish English"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szkocki"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szkocka odmiana języka angielskiego"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "Scotch",
+            "Scotch whisky"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szkocka whisky"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Scotch always tastes better if somebody else is buying.",
+                                "Translation": "(Szkocka zawsze smakuje lepiej, jeśli ktoś inny stawia.)"
+                            },
+                            {
+                                "Sentence": "There's a special ring in hell reserved for people who waste good Scotch.",
+                                "Translation": "(W piekle jest specjalny krąg dla tych, co marnują dobrą szkocką.)"
+                            },
+                            {
+                                "Sentence": "If he's in the pub, he's probably drinking Scotch.",
+                                "Translation": "(Jeżeli on jest w pubie, to najpewniej pije szkocką.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

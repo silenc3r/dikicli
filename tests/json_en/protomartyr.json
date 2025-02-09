@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "protomartyr"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "święty Szczepan",
+                            "jako pierwszy chrześcijański męczennik"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "pierwszy męczennik umierający z jakiejś przyczyny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

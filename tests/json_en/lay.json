@@ -1,0 +1,334 @@
+[
+    {
+        "Entry": [
+            "lay"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kłaść",
+                            "położyć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He laid the book on a table.",
+                                "Translation": "(On położył książkę na stole.)"
+                            },
+                            {
+                                "Sentence": "Lay your suitcase next to mine.",
+                                "Translation": "(Połóż swoją walizkę obok mojej.)"
+                            },
+                            {
+                                "Sentence": "She laid her hand on his shoulder.",
+                                "Translation": "(Ona położyła rękę na jego ramieniu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "układać (np. cegłę, kafelki)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "stawiać (pieniądze)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I would not lay money on it.",
+                                "Translation": "(Nie postawiłbym na to pieniędzy.)"
+                            },
+                            {
+                                "Sentence": "I laid money on the winning horse.",
+                                "Translation": "(Postawiłem pieniądze na zwycięskim koniu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "uprawiać seks",
+                            "ruchać",
+                            "dymać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He told me that he wanted to lay her.",
+                                "Translation": "(Powiedział mi, że chce uprawiać z nią seks.)"
+                            },
+                            {
+                                "Sentence": "He laid her when we weren't at home.",
+                                "Translation": "(On uprawiał z nią seks, kiedy nas nie było w domu.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niedoświadczony",
+                            "bez kwalifikacji"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We can't hire a lay person, this job is too serious.",
+                                "Translation": "(Nie możemy zatrudnić osoby bez kwalifikacji, ta praca jest zbyt poważna.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "świecki"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "laicki",
+                            "zwykły",
+                            "przeciętny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My lay knowledge doesn't allow me to discuss this topic.",
+                                "Translation": "(Moja laicka wiedza nie pozwala mi na dyskutowanie na ten temat.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ballada"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I will sing you a romantic lay.",
+                                "Translation": "(Zaśpiewam ci romantyczną balladę.)"
+                            },
+                            {
+                                "Sentence": "I wrote a lay. Can I read it to you?",
+                                "Translation": "(Napisałam balladę. Mogę ci ją przeczytać?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dupa",
+                            "gach (partner seksualny)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She has a new lay.",
+                                "Translation": "(Ona ma nowego gacha.)"
+                            },
+                            {
+                                "Sentence": "He is married and has a lay.",
+                                "Translation": "(On jest żonaty i ma dupę.)"
+                            },
+                            {
+                                "Sentence": "\"Who is that chick next to Tom?\" \"That's his new lay.\"",
+                                "Translation": "(\"Co to za laska obok Toma?\" \"To jego nowa dupa.\")"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "numerek",
+                            "bzykanko",
+                            "dymanko"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She offered me a lay.",
+                                "Translation": "(Zaproponowała mi dymanko.)"
+                            },
+                            {
+                                "Sentence": "It was just a quick lay, I don't even remember her name.",
+                                "Translation": "(To był tylko szybki numerek, nawet nie pamiętam jej imienia.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "lay",
+            "egg yield",
+            "laying performance",
+            "egg laying"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nieśność (np. kur)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "What is the lay of your hens?",
+                                "Translation": "(Jaka jest nieśność twoich kur?)"
+                            },
+                            {
+                                "Sentence": "Prices of hens depend on the lay.",
+                                "Translation": "(Ceny kur zależą od nieśności.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "lie"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "leżeć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He was lying on the bed.",
+                                "Translation": "(On leżał na łóżku.)"
+                            },
+                            {
+                                "Sentence": "Jane was lying on the sofa, asleep.",
+                                "Translation": "(Jane leżała na sofie, pogrążona we śnie.)"
+                            },
+                            {
+                                "Sentence": "She looked up from where she was lying.",
+                                "Translation": "(Ona spojrzała z miejsca, w którym leżała.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "być pochowanym",
+                            "spoczywać (o zmarłym)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Here lies one of the greatest warriors of our times.",
+                                "Translation": "(Tutaj został pochowany jeden z największych wojowników naszych czasów.)"
+                            },
+                            {
+                                "Sentence": "Where does your grandfather lie?",
+                                "Translation": "(Gdzie jest pochowany twój dziadek?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "istnieć (np. o problemie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The problem lies in the lack of communication between them.",
+                                "Translation": "(Problem leży w braku komunikacji między nimi.)"
+                            },
+                            {
+                                "Sentence": "We have to find out where the problem lies.",
+                                "Translation": "(Musimy się dowiedzieć gdzie istnieje problem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pozostawać w jakimś miejscu"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Spain lies in the west of Europe.",
+                                "Translation": "(Hiszpania leży na zachodzie Europy.)"
+                            },
+                            {
+                                "Sentence": "Do you know where Wroclaw lies?",
+                                "Translation": "(Wiesz, gdzie znajduje się Wrocław?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "znajdować się"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "lie"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kłamać",
+                            "łgać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Don't lie to me.",
+                                "Translation": "(Nie okłamuj mnie.)"
+                            },
+                            {
+                                "Sentence": "I think she was lying.",
+                                "Translation": "(Myślę, że ona kłamała.)"
+                            },
+                            {
+                                "Sentence": "Who knows what else he's lied about?",
+                                "Translation": "(Kto wie, o czym jeszcze on skłamał?)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kłamstwo"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He's telling lies all the time.",
+                                "Translation": "(On mówi kłamstwa przez cały czas.)"
+                            },
+                            {
+                                "Sentence": "It was just a pack of lies.",
+                                "Translation": "(To był tylko stek kłamstw.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

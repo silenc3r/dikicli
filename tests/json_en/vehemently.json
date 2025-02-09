@@ -1,0 +1,40 @@
+[
+    {
+        "Entry": [
+            "vehemently"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "gorąco",
+                            "żarliwie",
+                            "gorliwie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I vehemently oppose animal testing.",
+                                "Translation": "(Gorliwie sprzeciwiam się testom na zwierzętach.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "gwałtownie",
+                            "porywczo"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My husband vehemently denied having an affair.",
+                                "Translation": "(Mój mąż gwałtownie zaprzeczył, że ma romans.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

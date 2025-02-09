@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "elm",
+            "elm tree"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wiąz (rodzaj drzewa)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

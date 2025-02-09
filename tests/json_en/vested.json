@@ -1,0 +1,85 @@
+[
+    {
+        "Entry": [
+            "vested"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "prawnie nabyty",
+                            "ustalony"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "nabyty (np. prawo do czegoś)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "uposażony"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "vest"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kamizelka (np. kuloodporna)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The policemen wore bulletproof vests.",
+                                "Translation": "(Policjanci nosili kamizelki kuloodporne.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bezrękawnik (sweter bez rękawów)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She wore a vest over her shirt.",
+                                "Translation": "(Ona nosiła bezrękawnik na koszulce.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nadawać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The president is vested with the executive power.",
+                                "Translation": "(Prezydentowi nadawana jest władza wykonawcza.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "snotty"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "smarkający się",
+                            "zakatarzony",
+                            "zasmarkany"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zadzierający nosa (o osobie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

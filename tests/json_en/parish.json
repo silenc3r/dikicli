@@ -1,0 +1,53 @@
+[
+    {
+        "Entry": [
+            "parish"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "parafia"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Eleven years ago, there was a fire at the parish.",
+                                "Translation": "(Jedenaście Iat temu w parafii był pożar.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "gmina (w Anglii i w Luizjanie w USA)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "When I took over the parish two years ago, it had no school.",
+                                "Translation": "(Gdy objąłem gminę dwa lata temu, nie miała szkoły.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "farny (dot. kościoła parafialnego)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Father Boudreault and I came back early from parish business.",
+                                "Translation": "(Ja i ojciec Boudreault wcześniej załatwiliśmy farne sprawy.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "Entry": [
+            "bleak"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ponury",
+                            "smętny",
+                            "niewesoły",
+                            "marny (np. widok na przyszłość)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Samantha has a bleak smile.",
+                                "Translation": "(Samantha ma ponury uśmiech.)"
+                            },
+                            {
+                                "Sentence": "His expression remained bleak.",
+                                "Translation": "(Wyraz jego twarzy pozostał smętny.)"
+                            },
+                            {
+                                "Sentence": "My future looks bleak.",
+                                "Translation": "(Moja przyszłość wydaje się marna.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ponury",
+                            "przygnębiający (np. krajobraz)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Our world seems bleak to me.",
+                                "Translation": "(Nasz świat wydaje mi się przygnębiający.)"
+                            },
+                            {
+                                "Sentence": "This landscape is quite bleak.",
+                                "Translation": "(Ten krajobraz jest dość ponury.)"
+                            },
+                            {
+                                "Sentence": "The bleak moors are scary at night.",
+                                "Translation": "(Ponure wrzosowiska są straszne nocą.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ukleja (gatunek ryby)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'm going to fry some bleaks. Would you like to eat one?",
+                                "Translation": "(Zamierzam usmażyć kilka uklei. Chcesz zjeść jedną?)"
+                            },
+                            {
+                                "Sentence": "A bleak is quite tasty.",
+                                "Translation": "(Ukleja jest dość smaczna.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

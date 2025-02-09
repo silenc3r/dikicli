@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "scrappy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "chaotyczny (np. o notatkach)",
+                            "niespójny (np. o przedstawieniu)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "pełen werwy",
+                            "pełen animuszu",
+                            "waleczny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

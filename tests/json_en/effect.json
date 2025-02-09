@@ -1,0 +1,114 @@
+[
+    {
+        "Entry": [
+            "effect"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "efekt",
+                            "skutek"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It's not the effect I hoped for.",
+                                "Translation": "(To nie jest efekt na jaki liczyłem.)"
+                            },
+                            {
+                                "Sentence": "How did you achieve this effect?",
+                                "Translation": "(Jak udało ci się otrzymać ten efekt?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "efekt",
+                            "wrażenie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His shouting had little effect on her.",
+                                "Translation": "(Jego krzyki nie wywierały na niej żadnego wrażenia.)"
+                            },
+                            {
+                                "Sentence": "What kind of effect did you expect?",
+                                "Translation": "(Jakiego efektu się spodziewałaś?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "efekty (w filmie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I really like the special effects in this movie.",
+                                "Translation": "(Bardzo podobają mi się efekty specjalne w tym filmie.)"
+                            },
+                            {
+                                "Sentence": "This film was nominated to the award for its special effects.",
+                                "Translation": "(Ten film był nominowany do nagrody za efekty specjalne.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wpływ"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Exercising has a beneficial effect on your health.",
+                                "Translation": "(Ćwiczenie ma korzystny wpływ na zdrowie.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dokonywać",
+                            "doprowadzać do (np. zmiany)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This development will effect significant changes in the region.",
+                                "Translation": "(Ten rozwój doprowadzi do znaczących zmian w regionie.)"
+                            },
+                            {
+                                "Sentence": "The strike effected the overthrow of government.",
+                                "Translation": "(Strajk doprowadził do obalenia rządu.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "have an effect"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mieć skutek",
+                            "wywołać skutek"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

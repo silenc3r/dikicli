@@ -1,0 +1,34 @@
+[
+    {
+        "Entry": [
+            "kludge",
+            "kluge"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "prowizorka (tymczasowa poprawa źle działającego programu komputerowego)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sklecić",
+                            "złożyć (np. komputer z różnych części)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

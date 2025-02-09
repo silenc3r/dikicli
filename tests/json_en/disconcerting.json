@@ -1,0 +1,60 @@
+[
+    {
+        "Entry": [
+            "disconcerting"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niepokojący",
+                            "zawstydzający"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I got the same disconcerting results as the last time.",
+                                "Translation": "(Otrzymałem takie same niepokojące rezultaty jak ostatnim razem.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "disconcert"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niepokoić",
+                            "zawstydzać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She was disconcerted when everybody was looking at her.",
+                                "Translation": "(Ona była zawstydzona gdy wszyscy na nią patrzyli.)"
+                            },
+                            {
+                                "Sentence": "They were disconcerted by his strange behaviour.",
+                                "Translation": "(Byli zaniepokojeni jego dziwnym zachowaniem.)"
+                            },
+                            {
+                                "Sentence": "His reply disconcerted me.",
+                                "Translation": "(Jego odpowiedź mnie zaniepokoiła.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

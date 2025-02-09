@@ -1,0 +1,85 @@
+[
+    {
+        "Entry": [
+            "wedge"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "hak wspinaczkowy",
+                            "klin"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He bought a new wedge for his climbing equipment.",
+                                "Translation": "(On kupił nowy hak do swojego ekwipunku wspinaczkowego.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "plik banknotów",
+                            "pęga"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "szyk w klin"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The soldiers marched in a wedge.",
+                                "Translation": "(Żołnierze maszerowali w klinie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kawałek czegoś w kształcie klina (np. kawałek sera, cytryny)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "kij golfowy typu wedge"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zaklinować",
+                            "umocować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Have we got anything to wedge against the door knob?",
+                                "Translation": "(Czy mamy coś, czym można by zaklinować drzwi?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wcisnąć się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The room is pretty crowded, so you'll have to wedge in.",
+                                "Translation": "(W pokoju jest całkiem spory tłum, więc będziesz musiał się wcisnąć.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "Entry": [
+            "tangerine",
+            "mandarin",
+            "mandarin orange"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mandarynka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Would you like a tangerine?",
+                                "Translation": "(Masz ochotę na mandarynkę?)"
+                            },
+                            {
+                                "Sentence": "I prefer tangerines to oranges, they're sweeter.",
+                                "Translation": "(Wolę mandarynki od pomarańczy, są słodsze.)"
+                            },
+                            {
+                                "Sentence": "I'll buy two kilograms of tangerines.",
+                                "Translation": "(Kupię dwa kilogramy mandarynek.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "mandarin"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bonza (chiński duchowny)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "gruba ryba",
+                            "człowiek na wysokim stanowisku"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "Mandarin",
+            "Mandarin Chinese"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "język mandaryński (główny dialekt języka chińskiego)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "septum",
+            "septation"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przegroda (np. nosowa, międzykomorowa)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

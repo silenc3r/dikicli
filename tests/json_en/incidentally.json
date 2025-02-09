@@ -1,0 +1,40 @@
+[
+    {
+        "Entry": [
+            "incidentally"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nawiasem mówiąc"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Incidentally, these dance lessons were a real pleasure.",
+                                "Translation": "(Nawiasem mówiąc, te lekcje tańca były prawdziwą przyjemnością.)"
+                            },
+                            {
+                                "Sentence": "Incidentally, how did you get here?",
+                                "Translation": "(Nawiasem mówiąc, jak się tutaj dostałeś?)"
+                            },
+                            {
+                                "Sentence": "That isn't as easy as it sounds, incidentally.",
+                                "Translation": "(To nie jest takie proste na jakie wygląda, nawiasem mówiąc.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przypadkowo"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

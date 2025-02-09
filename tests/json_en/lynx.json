@@ -1,0 +1,50 @@
+[
+    {
+        "Entry": [
+            "lynx"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ryś",
+                            "ostrowidz"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I saw a lynx at the zoo.",
+                                "Translation": "(Widziałam rysia w zoo.)"
+                            },
+                            {
+                                "Sentence": "Each lynx is unique.",
+                                "Translation": "(Każdy ryś jest wyjątkowy.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "Lynx"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "Lynx (tekstowa przeglądarka dla systemu Unix)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

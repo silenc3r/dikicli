@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "bedridden",
+            "bedrid"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przykuty do łóżka",
+                            "obłożnie chory"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

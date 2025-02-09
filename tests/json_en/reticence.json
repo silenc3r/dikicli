@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "reticence"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "małomówność",
+                            "powściągliwość w słowach"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

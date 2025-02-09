@@ -1,0 +1,35 @@
+[
+    {
+        "Entry": [
+            "spate"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "natłok (ludzi)",
+                            "lawina (słów)",
+                            "nawał (pracy)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "przybór (wody w rzece)",
+                            "wezbrana (woda w rzece)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The river is in spate today.",
+                                "Translation": "(Woda w rzece przybrała dzisiaj.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

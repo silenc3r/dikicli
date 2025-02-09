@@ -1,0 +1,67 @@
+[
+    {
+        "Entry": [
+            "harbour",
+            "harbor"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "port",
+                            "przystań"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A couple of fishing boats were anchored in the harbour.",
+                                "Translation": "(Kilka łodzi rybackich było zakotwiczonych na przystani.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "harbour",
+            "harbor"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "żywić (np. nadzieje, obawy)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "być siedliskiem (np. zła, przemocy)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "ukryć",
+                            "ukrywać"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "skrywać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

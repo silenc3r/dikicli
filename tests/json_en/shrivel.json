@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "shrivel"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pomarszczyć się (o skórce owocu)",
+                            "więdnąć (o liściach)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "maleć (o zyskach)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

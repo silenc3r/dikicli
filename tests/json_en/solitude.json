@@ -1,0 +1,40 @@
+[
+    {
+        "Entry": [
+            "solitude"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "osamotnienie",
+                            "samotność"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The prophet, realizing he has come too soon returns to his solitude.",
+                                "Translation": "(Prorok uświadomił sobie, że przyszedł zbyt wcześnie i powrócił do swojej samotności.)"
+                            },
+                            {
+                                "Sentence": "Right now I need rest and solitude.",
+                                "Translation": "(Teraz potrzebuję odpoczynku i samotności.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "niezamieszkane miejsce",
+                            "bezludzie",
+                            "ustronie",
+                            "odludne miejsce"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

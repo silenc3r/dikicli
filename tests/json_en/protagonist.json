@@ -1,0 +1,54 @@
+[
+    {
+        "Entry": [
+            "protagonist"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "protagonista",
+                            "główny bohater"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I do not know if the protagonist of my next book will be named Ezra or David.",
+                                "Translation": "(Nie mogę zdecydować, czy nazwać głównego bohatera mojej następnej książki Ezra czy David.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bohater",
+                            "uczestnik",
+                            "uczestniczka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The protagonist of this book is an interesting character.",
+                                "Translation": "(Bohater tej książki to ciekawa postać.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "protagonista",
+                            "rzecznik",
+                            "zwolennik",
+                            "głosiciel"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He is a protagonist of environment protection.",
+                                "Translation": "(On jest zwolennikiem ochrony środowiska.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

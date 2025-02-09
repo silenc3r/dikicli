@@ -1,0 +1,121 @@
+[
+    {
+        "Entry": [
+            "notch up",
+            "notch"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "triumfować",
+                            "wygrywać",
+                            "zdobywać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "notch"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nacięcie",
+                            "dziurka",
+                            "wycięcie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I marked my gun with a notch.",
+                                "Translation": "(Oznaczyłem swój pistolet nacięciem.)"
+                            },
+                            {
+                                "Sentence": "He carved a notch in a stick.",
+                                "Translation": "(On wyciął dziurkę w patyku.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "karb (wytrzymałość elementów konstrukcyjnych)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "stopień",
+                            "szczebel"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I can't climb this ladder, a notch is broken.",
+                                "Translation": "(Nie wejdę na tę drabinę, bo ma złamany stopień.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "stopień",
+                            "poziom",
+                            "oczko (w skali czegoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The food was a notch above its usual standard.",
+                                "Translation": "(Jedzenie było poziom wyższe ponad swój zwyczajny standard.)"
+                            },
+                            {
+                                "Sentence": "Her opinion of Nicole dropped a few notches.",
+                                "Translation": "(Jej opinia o Nicole spadła o kilka stopni.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przesmyk",
+                            "wąska przełęcz"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "obłęcznik"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "naciąć",
+                            "nacinać",
+                            "zaznaczyć karbem",
+                            "zakarbować (np. powierzchnię)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His uniform was notched on the arm.",
+                                "Translation": "(Jego mundur został nacięty na ramieniu.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

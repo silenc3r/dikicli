@@ -1,0 +1,27 @@
+[
+    {
+        "Entry": [
+            "continuous"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ciągły",
+                            "stały"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The traffic on the main road remained almost continuous.",
+                                "Translation": "(Tłok na głównej drodze utrzymywał się niemal ciągle.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

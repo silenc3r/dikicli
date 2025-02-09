@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "attrit"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "męczyć przeciwnika poprzez spowolnioną akcję",
+                            "grać na wyczerpanie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "predilection"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "predylekcja",
+                            "zamiłowanie",
+                            "upodobanie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

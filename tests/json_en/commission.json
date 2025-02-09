@@ -1,0 +1,197 @@
+[
+    {
+        "Entry": [
+            "commission"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "prowizja"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We take 1.5% commission, no less than 5 pounds.",
+                                "Translation": "(Pobieramy 1,5% prowizji, nie mniej niż 5 funtów.)"
+                            },
+                            {
+                                "Sentence": "He gave me 100 dollars and called it commission.",
+                                "Translation": "(On dał mi 100 dolarów i nazwał to prowizją.)"
+                            },
+                            {
+                                "Sentence": "The more I sell, the bigger my commission is.",
+                                "Translation": "(Im więcej sprzedam, tym większa jest moja prowizja.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "komisja (grupa)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The commission voted on her dismissal.",
+                                "Translation": "(Komisja głosowała za jej zwolnieniem.)"
+                            },
+                            {
+                                "Sentence": "The commission meets every Monday and discusses our current problems.",
+                                "Translation": "(Komisja spotyka się w każdy poniedziałek i omawia nasze bieżące problemy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zlecenie (wydane komuś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She will receive a commission to act as a spy.",
+                                "Translation": "(Ona otrzyma zlecenie pracy jako szpieg.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zlecenie",
+                            "zamówienie dzieła",
+                            "zamówienie utworu (np. obrazu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The musician received a commission for an opera.",
+                                "Translation": "(Muzyk otrzymał zamówienie na operę.)"
+                            },
+                            {
+                                "Sentence": "Commission of a symphony from him is very expensive.",
+                                "Translation": "(Zamówienie u niego symfonii jest bardzo drogie.)"
+                            },
+                            {
+                                "Sentence": "The painter accepted a commission for a portrait.",
+                                "Translation": "(Malarz przyjął zlecenie na portret.)"
+                            },
+                            {
+                                "Sentence": "I can't take this commission, it is illegal.",
+                                "Translation": "(Nie mogę wziąć tego zlecenia, jest nielegalne.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "popełnienie (np. przestępstwa)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "In this country you can get a death penalty for the commission of this crime.",
+                                "Translation": "(W tym kraju możesz dostać karę śmierci za popełnienie tej zbrodni.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zlecać (zadanie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You should commission an architect to design your house.",
+                                "Translation": "(Powinieneś zlecić architektowi zaprojektowanie twojego domu.)"
+                            },
+                            {
+                                "Sentence": "You should commission this task to John, he's a specialist.",
+                                "Translation": "(Powinieneś zlecić to zadanie Johnowi, on jest specjalistą.)"
+                            },
+                            {
+                                "Sentence": "My boss commissioned me this project - I can't let him down.",
+                                "Translation": "(Szef zlecił mi do wykonania ten projekt - nie mogę go zawieść.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dawać zlecenie",
+                            "zamawiać (np. dzieło)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She commissioned many works from several artists.",
+                                "Translation": "(Ona zamówiła wiele dzieł u kilku artystów.)"
+                            },
+                            {
+                                "Sentence": "I want to commission my portrait.",
+                                "Translation": "(Chcę zamówić mój portret.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "mianować (oficerem)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He was commissioned yesterday.",
+                                "Translation": "(On został wczoraj mianowany oficerem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "oddawać do użytku"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This building was commissioned in 2015.",
+                                "Translation": "(Ten budynek został oddany do użytku w 2015.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "commission fee",
+            "commission"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "komisowe (rodzaj opłaty)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "get one's commission"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "otrzymać nominację oficerską"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

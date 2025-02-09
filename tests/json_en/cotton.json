@@ -1,0 +1,147 @@
+[
+    {
+        "Entry": [
+            "cotton"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bawełna (tkanina)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She looks amazing even in a simple cotton T-shirt and jeans.",
+                                "Translation": "(Ona wygląda niesamowicie nawet w zwykłej bawełnianej koszulce i dżinsach.)"
+                            },
+                            {
+                                "Sentence": "This blouse is made of cotton.",
+                                "Translation": "(Ta bluzka jest zrobiona z bawełny.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bawełna (roślina)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Which country has the biggest cotton industry?",
+                                "Translation": "(Jaki kraj ma największy przemysł bawełniany?)"
+                            },
+                            {
+                                "Sentence": "He works on a cotton plantation.",
+                                "Translation": "(On pracuje na plantacji bawełny.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nitka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You have a cotton hanging on your left sleeve.",
+                                "Translation": "(Masz wiszącą nitkę na lewym rękawie.)"
+                            },
+                            {
+                                "Sentence": "Cut off this cotton.",
+                                "Translation": "(Odetnij tę nitkę.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bawełniany"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Is this t-shirt cotton?",
+                                "Translation": "(Czy ta koszulka jest bawełniana?)"
+                            },
+                            {
+                                "Sentence": "I bought a new cotton shirt.",
+                                "Translation": "(Kupiłem nową bawełnianą koszulę.)"
+                            },
+                            {
+                                "Sentence": "Are you allergic to cotton clothes?",
+                                "Translation": "(Czy jesteś uczulony na bawełniane ubrania?)"
+                            },
+                            {
+                                "Sentence": "This cotton shirt is very comfortable.",
+                                "Translation": "(Ta bawełniana koszula jest bardzo wygodna.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "cotton wool",
+            "cotton"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wata",
+                            "wata bawełniana"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "cotton to something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "polubić coś"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "cotton to somebody"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "polubić kogoś"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

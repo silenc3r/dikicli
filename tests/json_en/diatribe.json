@@ -1,0 +1,21 @@
+[
+    {
+        "Entry": [
+            "diatribe"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "diatryba (dialog z fikcyjnym oponentem)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

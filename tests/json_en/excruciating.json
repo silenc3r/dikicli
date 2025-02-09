@@ -1,0 +1,47 @@
+[
+    {
+        "Entry": [
+            "excruciating"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nieznośny",
+                            "potworny (np. ból)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The noise they made was excruciating.",
+                                "Translation": "(Hałas, który oni robili, był nieznośny.)"
+                            },
+                            {
+                                "Sentence": "The pain was too excruciating for me.",
+                                "Translation": "(Ból był zbyt potworny dla mnie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "potworny",
+                            "straszliwy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Their performance on stage was excruciating.",
+                                "Translation": "(Ich występ na scenie był potworny.)"
+                            },
+                            {
+                                "Sentence": "My boredom here is excruciating!",
+                                "Translation": "(Moja nuda tutaj jest straszliwa!)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

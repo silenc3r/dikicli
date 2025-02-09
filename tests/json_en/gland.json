@@ -1,0 +1,33 @@
+[
+    {
+        "Entry": [
+            "gland"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "gruczoł",
+                            "węzeł chłonny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "That substance is secreted by a gland.",
+                                "Translation": "(Ta substancja jest wydzielana przez gruczoł.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dławik (rodzaj cewki elektrycznej)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

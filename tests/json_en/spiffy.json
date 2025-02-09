@@ -1,0 +1,24 @@
+[
+    {
+        "Entry": [
+            "spivvy",
+            "spiffy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "stylowy",
+                            "elegancki",
+                            "przedni"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

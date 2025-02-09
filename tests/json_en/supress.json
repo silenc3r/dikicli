@@ -1,0 +1,52 @@
+[
+    {
+        "Entry": [
+            "suppress"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zakazywać (komuś czegoś)",
+                            "powstrzymywać (kogoś od czegoś)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "tłumić (zamieszki)",
+                            "pacyfikować (bunt, powstanie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "tuszować (np. dowód)",
+                            "ukrywać (fakty)",
+                            "zatajać (prawdę)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "tłumić (np. ziewnięcie, uśmiech)",
+                            "poskramiać (uczucia)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wstrzymywać (postęp)",
+                            "osłabiać (odporność)",
+                            "hamować (rozwój, wzrost)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

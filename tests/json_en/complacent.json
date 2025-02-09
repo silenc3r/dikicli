@@ -1,0 +1,39 @@
+[
+    {
+        "Entry": [
+            "complacent"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zadowolony z siebie",
+                            "pełen samozadowolenia"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Well, are you complacent now?",
+                                "Translation": "(I co, jesteś teraz zadowolony?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "beztroski",
+                            "niefrasobliwy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You can't be so complacent all the time. Grow up.",
+                                "Translation": "(Nie możesz być cały czas taki beztroski. Dorośnij.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

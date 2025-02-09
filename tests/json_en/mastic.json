@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "mastic"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mastyka",
+                            "masa uszczelniająca"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "destitute"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ogołocony (z czegoś)",
+                            "bez środków do życia",
+                            "w nędzy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "Entry": [
+            "descending"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "malejący",
+                            "zmniejszający się"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "schodzenie (np. ze schodów)",
+                            "obniżanie (np. lotu)",
+                            "zstępowanie (np. do piekieł)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "descend"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "schodzić (np. ze schodów)",
+                            "zstępować (np. z nieba)",
+                            "obniżać (np. lot)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He slowly descended to the first floor.",
+                                "Translation": "(On powoli zszedł na pierwsze piętro.)"
+                            },
+                            {
+                                "Sentence": "Our plane descended its flight and we could see the airport.",
+                                "Translation": "(Nasz samolot obniżył swój lot i mogliśmy zobaczyć lotnisko.)"
+                            },
+                            {
+                                "Sentence": "She descended to the kitchen and ate breakfast.",
+                                "Translation": "(Zeszła do kuchni i zjadła śniadanie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przeradzać się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The discussion descended into chaos.",
+                                "Translation": "(Dyskusja przerodziła się w chaos.)"
+                            },
+                            {
+                                "Sentence": "Our meeting descended into a wild party.",
+                                "Translation": "(Nasze spotkanie przerodziło się w dziką imprezę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pochodzić (od kogoś)",
+                            "wywodzić (się z czegoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He is descended from an old family.",
+                                "Translation": "(On pochodzi ze starego rodu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zapadać (o ciszy)",
+                            "zapanować (o ciemnościach)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "When silence descended, I could hear my own breath.",
+                                "Translation": "(Kiedy zapadła cisza, mogłem usłyszeć swój własny oddech.)"
+                            },
+                            {
+                                "Sentence": "I always get scared when darkness descends and I'm alone.",
+                                "Translation": "(Zawsze się boję, kiedy zapada ciemność, a ja jestem sam.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

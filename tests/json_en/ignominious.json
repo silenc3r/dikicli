@@ -1,0 +1,25 @@
+[
+    {
+        "Entry": [
+            "ignominious"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "upokarzający",
+                            "niechlubny",
+                            "haniebny",
+                            "podły",
+                            "sromotny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

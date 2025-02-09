@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "cliché",
+            "cliche"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "truizm",
+                            "banał",
+                            "frazes (często powtarzana formułka bez znaczenia)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I know it's a cliché, but the birth of my son was the happiest day of my life.",
+                                "Translation": "(Wiem że to truizm, ale dzień narodzin mojego syna był najszczęśliwszym dniem w moim życiu.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

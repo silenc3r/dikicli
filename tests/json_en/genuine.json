@@ -1,0 +1,86 @@
+[
+    {
+        "Entry": [
+            "genuine"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "prawdziwy",
+                            "autentyczny (np. skóra)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It's made of genuine leather.",
+                                "Translation": "(To jest zrobione z prawdziwej skóry.)"
+                            },
+                            {
+                                "Sentence": "The diamond appeared to be genuine.",
+                                "Translation": "(Diament wydawał się być prawdziwy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "szczery",
+                            "uczciwy (np. osoba, opinia)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She gave me a genuine smile.",
+                                "Translation": "(Ona obdarowała mnie szczerym uśmiechem.)"
+                            },
+                            {
+                                "Sentence": "I am a genuine person.",
+                                "Translation": "(Jestem uczciwą osobą.)"
+                            },
+                            {
+                                "Sentence": "I need your genuine opinion.",
+                                "Translation": "(Potrzebuję twojej szczerej opinii.)"
+                            },
+                            {
+                                "Sentence": "She has shown a genuine interest in charity work.",
+                                "Translation": "(Ona wykazała szczere zainteresowanie pracą charytatywną.)"
+                            },
+                            {
+                                "Sentence": "He is a genuine person, you can trust him.",
+                                "Translation": "(On jest szczerą osobą, możesz mu zaufać.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "prawdziwy",
+                            "realny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We need a genuine plan to improve our company.",
+                                "Translation": "(Potrzebujemy realnego planu, żeby ulepszyć naszą firmę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "z prawdziwego zdarzenia"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He decided to build a genuine chocolate factory.",
+                                "Translation": "(Postanowił zbudować fabrykę czekolady z prawdziwego zdarzenia.)"
+                            },
+                            {
+                                "Sentence": "It's difficult to find a genuine artist these days.",
+                                "Translation": "(Obecnie ciężko o artystę z prawdziwego zdarzenia.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

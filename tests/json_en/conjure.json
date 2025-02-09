@@ -1,0 +1,39 @@
+[
+    {
+        "Entry": [
+            "conjure"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wywołać",
+                            "wywoływać",
+                            "przywołać",
+                            "przywoływać",
+                            "wyczarować",
+                            "wyczarowywać (przy użyciu magii)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zaklinać",
+                            "błagać"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "robić sztuczki magiczne"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

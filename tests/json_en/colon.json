@@ -1,0 +1,43 @@
+[
+    {
+        "Entry": [
+            "colon",
+            ":"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dwukropek"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The colon is used in writing to introduce an explanation.",
+                                "Translation": "(Dwukropek jest używany w pisowni do wprowadzenia wyjaśnienia.)"
+                            },
+                            {
+                                "Sentence": "There was a long quotation after the colon.",
+                                "Translation": "(Po dwukropku pojawił się długi cytat.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "jelito grube"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "okrężnica"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

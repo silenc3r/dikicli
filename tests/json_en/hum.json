@@ -1,0 +1,96 @@
+[
+    {
+        "Entry": [
+            "hum"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nucić",
+                            "mruczeć pod nosem"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "brzęczeć",
+                            "buczeć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There must be something wrong with the TV - it's humming.",
+                                "Translation": "(Coś się musiało stać z TV - buczy.)"
+                            },
+                            {
+                                "Sentence": "The classroom was humming with activity.",
+                                "Translation": "(W klasie wrzała praca.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "szumieć"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "tętnić (np. życiem)",
+                            "rozbrzmiewać (np. gwarem, hałasem pracy)",
+                            "być zajętym"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "buczenie",
+                            "brzęczenie"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "szum",
+                            "gwar"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "przydźwięk"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "odór",
+                            "smród"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "obciąganie (seks oralny)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "żebrak"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

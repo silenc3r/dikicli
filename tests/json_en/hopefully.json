@@ -1,0 +1,40 @@
+[
+    {
+        "Entry": [
+            "hopefully"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "miejmy nadzieję",
+                            "spodziewajmy się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Hopefully your daughter gets better.",
+                                "Translation": "(Miejmy nadzieję, że pańskiej córce się polepszy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ufnie",
+                            "z nadzieją",
+                            "mając nadzieję"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "\"Do you agree?\" she asked hopefully.",
+                                "Translation": "(\"Zgadzasz się?\" ona spytała z nadzieją.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

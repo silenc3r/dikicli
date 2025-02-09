@@ -1,0 +1,40 @@
+[
+    {
+        "Entry": [
+            "varsity"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "reprezentacja szkoły (w sporcie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I played in the junior team, but I'm not good enough for varsity.",
+                                "Translation": "(Grałam w juniorach, ale jestem za słaba do reprezentacji szkolnej.)"
+                            },
+                            {
+                                "Sentence": "Who was the first sophomore ever to make starting varsity?",
+                                "Translation": "(Kto był pierwszym studentem drugiego roku, który trafił do składu wyjściowego reprezentacji szkoły?)"
+                            },
+                            {
+                                "Sentence": "I'm the only freshman to make it on varsity.",
+                                "Translation": "(Jestem jedyną z pierwszego roku, która gra w reprezentacji.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "uniwerek"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

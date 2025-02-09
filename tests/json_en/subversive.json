@@ -1,0 +1,48 @@
+[
+    {
+        "Entry": [
+            "subversive"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wywrotowiec",
+                            "dywersant"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He was persecuted for being a subversive.",
+                                "Translation": "(On był osądzony za bycie wywrotowcem.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wywrotowy",
+                            "przewrotowy (o działaniach)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They're a bit subversive in what they do.",
+                                "Translation": "(Oni są trochę wywrotowi w tym co robią.)"
+                            },
+                            {
+                                "Sentence": "It is my conviction that this idea, although subversive, is what is needed here.",
+                                "Translation": "(W moim przekonaniu pomysł ten, choć przewrotny, jest tym tutaj potrzebny.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

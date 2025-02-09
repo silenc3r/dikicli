@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "yore"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zamierzchłe czasy",
+                            "dawne czasy",
+                            "minione czasy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

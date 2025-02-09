@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "gerbil",
+            "jerbil",
+            "Gerbillinae"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "myszoskoczek"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

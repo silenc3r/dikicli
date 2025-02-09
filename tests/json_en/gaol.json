@@ -1,0 +1,52 @@
+[
+    {
+        "Entry": [
+            "jail",
+            "gaol"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "areszt tymczasowy",
+                            "więzienie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They released him from jail after 30 days for lack of evidence.",
+                                "Translation": "(Oni zwolnili go z aresztu po 30 dniach z braku dowodów.)"
+                            },
+                            {
+                                "Sentence": "He is kept in a maximum security jail.",
+                                "Translation": "(On jest przetrzymywany w więzieniu o zaostrzonym rygorze.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "więzić (wsadzić kogoś do aresztu lub więzienia)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They jailed her father last year.",
+                                "Translation": "(W tamtym roku oni wsadzili jej ojca do więzienia.)"
+                            },
+                            {
+                                "Sentence": "He was jailed for murder.",
+                                "Translation": "(On był więziony za morderstwo.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

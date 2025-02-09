@@ -1,0 +1,35 @@
+[
+    {
+        "Entry": [
+            "bestow"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "obdarzyć",
+                            "obdarzać",
+                            "obdarowywać",
+                            "obdarować",
+                            "przyznać",
+                            "przyznawać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She bestowed a smile on me.",
+                                "Translation": "(Ona obdarzyła mnie uśmiechem.)"
+                            },
+                            {
+                                "Sentence": "The king bestowed a title upon him.",
+                                "Translation": "(Król przyznał mu tytuł.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "Entry": [
+            "liaison"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "łączność",
+                            "kontakt"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I have no liaison with the company.",
+                                "Translation": "(Nie mam łączności z firmą.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "współpraca"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Your liaison with us is to remain a secret.",
+                                "Translation": "(Twoja współpraca z nami ma pozostać tajemnicą.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "romans",
+                            "związek",
+                            "stosunek"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Any liaison with this woman would be dangerous.",
+                                "Translation": "(Jakikolwiek związek z tą kobietą byłby niebezpieczny.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "łącznik"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I could be like your liaison with the police.",
+                                "Translation": "(Mogłabym być twoim łącznikiem z policją.)"
+                            },
+                            {
+                                "Sentence": "I got a call from our military liaison.",
+                                "Translation": "(Miałem telefon od naszego wojskowego łącznika.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

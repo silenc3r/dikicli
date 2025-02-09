@@ -1,0 +1,160 @@
+[
+    {
+        "Entry": [
+            "eyelash",
+            "lash"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rzęsa"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She lowered her eyelashes.",
+                                "Translation": "(Ona opuściła rzęsy.)"
+                            },
+                            {
+                                "Sentence": "You have an eyelash on your cheek.",
+                                "Translation": "(Masz rzęsę na policzku.)"
+                            },
+                            {
+                                "Sentence": "I bought a brown eyelash mascara.",
+                                "Translation": "(Kupiłam brązowy tusz do rzęs.)"
+                            },
+                            {
+                                "Sentence": "The fire singed my lashes.",
+                                "Translation": "(Ogień przypalił mi rzęsy.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "lash"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bicz",
+                            "bat",
+                            "rzemień"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The man hit the horse with a lash.",
+                                "Translation": "(Mężczyzna uderzył konia biczem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "smagnięcie",
+                            "uderzenie",
+                            "raz"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He got twenty lashes for his disobedience.",
+                                "Translation": "(On dostał dwadzieścia razów za swoje nieposłuszeństwo.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "chłosta"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The punishment for this crime is lash.",
+                                "Translation": "(Karą za to przestępstwo jest chłosta.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "chłostać",
+                            "wychłostać",
+                            "smagać",
+                            "wysmagać",
+                            "zacinać batem"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He lashed the horses so they would run faster.",
+                                "Translation": "(On smagał konie, żeby biegły szybciej.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wysmagać",
+                            "bić",
+                            "uderzać (np. wiatr, morze)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The wind lashed the people standing on the street.",
+                                "Translation": "(Wiatr smagał ludzi stojących na ulicy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "chlastać ogonem"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The cow lashed its tail, standing on the meadow.",
+                                "Translation": "(Krowa chlastała ogonem stojąc na łące.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "napiętnować",
+                            "ostro zaatakować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Many people lashed out to him after that comment.",
+                                "Translation": "(Wielu ludzi ostro go zaatakowało po tym komentarzu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "mocować",
+                            "umocować",
+                            "umocowywać",
+                            "przymocować",
+                            "przywiązywać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "All right, now make sure you lash her down tight.",
+                                "Translation": "(Dobrze, teraz upewnij się, że przywiązałeś ją mocno.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,165 @@
+[
+    {
+        "Entry": [
+            "sheer"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sam",
+                            "sama (np. rozmiar, waga czegoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The sheer size of this building stuns people.",
+                                "Translation": "(Sama wielkość tego budynku zaskakuje ludzi.)"
+                            },
+                            {
+                                "Sentence": "He achieved it by the sheer willpower.",
+                                "Translation": "(On osiągnął to samą siłą woli.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "czysty",
+                            "najzwyklejszy",
+                            "istny (np. o szczęściu, lenistwie, głupocie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It was sheer luck.",
+                                "Translation": "(To było czyste szczęście.)"
+                            },
+                            {
+                                "Sentence": "It's sheer laziness.",
+                                "Translation": "(To jest najzwyklejsze lenistwo.)"
+                            },
+                            {
+                                "Sentence": "This dessert is sheer delight.",
+                                "Translation": "(Ten deser to sama rozkosz.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "stromy (np. pagórek)",
+                            "spadzisty (np. dach)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He was sitting on a sheer roof of my house - I was afraid that he'd fall!",
+                                "Translation": "(Siedział na spadzistym dachu mojego domu - bałem się, że spadnie!)"
+                            },
+                            {
+                                "Sentence": "This hill is too sheer for me - I'm not going there with you.",
+                                "Translation": "(Ten pagórek jest dla mnie zbyt stromy - nie idę tam z tobą.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przezroczysty (materiał)",
+                            "zwiewny (o tkaninie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She wore a sheer dress.",
+                                "Translation": "(Ona miała na sobie zwiewną sukienkę.)"
+                            },
+                            {
+                                "Sentence": "I bought her new sheer boots.",
+                                "Translation": "(Kupiłem jej nowe, przezroczyste botki.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pionowo"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The mountain drops sheer to the lake.",
+                                "Translation": "(Góra schodzi pionowo do jeziora.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wprost",
+                            "prosto",
+                            "bezpośrednio"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The kids ran sheer to the mud.",
+                                "Translation": "(Dzieci pobiegły wprost do błota.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "skręcać (gwałtownie)",
+                            "zmieniać kierunek (statku, kursu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I hit my head on the window when the car sheered.",
+                                "Translation": "(Uderzyłem głową w okno, kiedy samochód gwałtownie skręcił.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przezroczysty materiał z siateczki",
+                            "firanka z takiego materiału"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I put up new sheers so that light can now come into the room.",
+                                "Translation": "(Założyłam nowe przezroczyste firanki, więc wpadnie trochę światła do pokoju.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zboczenie z kursu statku"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wznios pokładu (o statku)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "położenie statku z dala od kotwicy/cumowania"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

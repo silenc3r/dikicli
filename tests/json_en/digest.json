@@ -1,0 +1,88 @@
+[
+    {
+        "Entry": [
+            "digest"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "skrót",
+                            "streszczenie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I read the digest at the back cover and I didn't like it.",
+                                "Translation": "(Przeczytałam skrót na tylnej okładce i mi się nie spodobał.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przegląd (np. w formie czasopisma)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I still have not read this month's digest.",
+                                "Translation": "(Nadal nie przeczytałem przeglądu z tego miesiąca.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "digest"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "trawić",
+                            "strawić"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My stomach doesn't digest milk.",
+                                "Translation": "(Mój żołądek nie trawi mleka.)"
+                            },
+                            {
+                                "Sentence": "Mushrooms are hard to digest.",
+                                "Translation": "(Grzyby są ciężkie do strawienia.)"
+                            },
+                            {
+                                "Sentence": "I can't digest cheese, I'm always sick when I eat it.",
+                                "Translation": "(Nie potrafię strawić sera, zawsze jestem chory, kiedy go jem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pojąć",
+                            "zrozumieć",
+                            "przetrawić (np. fakty, informację)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I couldn't digest all the facts.",
+                                "Translation": "(Nie potrafiłem pojąć wszystkich faktów.)"
+                            },
+                            {
+                                "Sentence": "It took some time before I digested the news.",
+                                "Translation": "(Trochę czasu zajęło, zanim przetrawiłem wiadomości.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

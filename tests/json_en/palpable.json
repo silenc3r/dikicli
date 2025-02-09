@@ -1,0 +1,31 @@
+[
+    {
+        "Entry": [
+            "palpable"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wyraźny",
+                            "ewidentny",
+                            "wyczuwalny",
+                            "namacalny (np. napięcie, różnica)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zupełny",
+                            "kompletny (np. nonsens, bzdura)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "Entry": [
+            "manure"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "obornik",
+                            "naturalny nawóz"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The barn had a separate storage for manure.",
+                                "Translation": "(Stodoła miała osobny magazyn na nawóz.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nawozić"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "At this time of year he manures his crops.",
+                                "Translation": "(O tej porze roku on nawozi swoje uprawy.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

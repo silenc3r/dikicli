@@ -1,0 +1,66 @@
+[
+    {
+        "Entry": [
+            "transient"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "obieżyświat",
+                            "wojażer",
+                            "wędrowiec (nieposiadający własnego domu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He is a famous transient and an explorer.",
+                                "Translation": "(On jest znanym obieżyświatem i odkrywcą.)"
+                            },
+                            {
+                                "Sentence": "\"A transient\" is sometimes just a polite way of describing a homeless person.",
+                                "Translation": "(\"Wędrowiec\" to czasami tylko uprzejme określenie osoby bezdomnej.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przemijający (np. o pięknie)",
+                            "przelotny (o chwili)",
+                            "krótkotrwały (o uczuciu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Let us savour this transient moment of beauty.",
+                                "Translation": "(Cieszmy się tą przemijającą chwilą piękna.)"
+                            },
+                            {
+                                "Sentence": "There was a transient relationship between them, but it didn't work out.",
+                                "Translation": "(Oni byli w krótkotrwałym związku, ale im nie wyszło.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "sezonowy (robotnik)",
+                            "przejezdny (gość)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Italy was a popular destination among transient workers in summer.",
+                                "Translation": "(Włochy były popularnym celem podróży wśród pracowników sezonowych w lecie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

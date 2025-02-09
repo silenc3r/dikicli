@@ -1,0 +1,31 @@
+[
+    {
+        "Entry": [
+            "pervasive"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wszechobecny",
+                            "wszechogarniający"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It was his only defence against the pervasive cold.",
+                                "Translation": "(To była jego jedyna obrona przed wszechogarniającym zimnem.)"
+                            },
+                            {
+                                "Sentence": "The smell of sweat was pervasive.",
+                                "Translation": "(Zapach potu był wszechogarniający.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

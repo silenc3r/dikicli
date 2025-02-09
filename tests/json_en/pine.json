@@ -1,0 +1,82 @@
+[
+    {
+        "Entry": [
+            "pine"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sosna"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We had a pine as a Christmas tree.",
+                                "Translation": "(Mieliśmy sosnę jako choinkę Bożonarodzeniową.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sosnowy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I don't like pine syrup.",
+                                "Translation": "(Nie lubię syropu sosnowego.)"
+                            },
+                            {
+                                "Sentence": "There is a pine forest behind my house.",
+                                "Translation": "(Za moim domem jest las sosnowy.)"
+                            },
+                            {
+                                "Sentence": "They bought a pine table for the kitchen.",
+                                "Translation": "(Oni kupili sosnowy stół do kuchni.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "cierpieć",
+                            "marnieć w oczach (np. z tęsknoty, złamanego serca)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "pine",
+            "pinyon"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "piniowy (orzech)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "Entry": [
+            "remit"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sprawa (przydzielona komuś)",
+                            "kompetencja",
+                            "zakres odpowiedzialności"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "przekaz (pieniężny)",
+                            "przelew (bankowy)",
+                            "wpłata",
+                            "płatność"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "umarzać (dług)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "odpuszczać (grzechy)",
+                            "przebaczać (winy)",
+                            "wybaczać (urazę)",
+                            "darować (występek)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zmniejszać (karę)",
+                            "redukować (wyrok)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "przekazywać (coś gdzieś)",
+                            "oddawać (sprawę z powrotem do niższej instancji)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zmniejszać (np. czujność)",
+                            "zelżeć (w gniewie)",
+                            "łagodnieć (w intensywności)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "remit"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "odłożyć coś na później"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

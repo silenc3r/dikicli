@@ -1,0 +1,54 @@
+[
+    {
+        "Entry": [
+            "brawn",
+            "headcheese",
+            "head cheese"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "salceson"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I don't like head cheese.",
+                                "Translation": "(Nie lubię salcesonu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "głowizna"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "brawn"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "tężyzna fizyczna",
+                            "krzepa"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

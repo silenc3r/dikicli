@@ -1,0 +1,68 @@
+[
+    {
+        "Entry": [
+            "sleazy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "brudny",
+                            "obskurny",
+                            "zapuszczony (o miejscu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We ended up in a sleazy bar.",
+                                "Translation": "(Wylądowaliśmy w obskurnym barze.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "marny",
+                            "tandetny (o jakości)",
+                            "lichy (o wymówce)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "nieuczciwy (np. adwokat)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Beware of sleazy lawyers.",
+                                "Translation": "(Strzeż się nieuczciwych adwokatów.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "obleśny",
+                            "wstrętny (o osobie)",
+                            "odpychający (typ człowieka)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wyzywający",
+                            "prowokujący"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "dziwkarski"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

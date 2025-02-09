@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "inexorable"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nieubłagany",
+                            "niepowstrzymany",
+                            "nieugięty",
+                            "nieustępliwy"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "nieunikniony"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

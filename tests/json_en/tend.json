@@ -1,0 +1,103 @@
+[
+    {
+        "Entry": [
+            "tend"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mieć tendencje",
+                            "mieć skłonności (zazwyczaj coś robić, zazwyczaj jakimś być)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My hair tends to get oily very quickly.",
+                                "Translation": "(Moje włosy mają skłonności do przetłuszczania się bardzo szybko.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zajmować się",
+                            "doglądać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I will tend your children.",
+                                "Translation": "(Zajmę się twoimi dziećmi.)"
+                            },
+                            {
+                                "Sentence": "Why does she tend your son? She is incompetent.",
+                                "Translation": "(Dlaczego ona zajmuje się twoim synem? Ona jest niekompetentna.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "tend to something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pilnować czegoś",
+                            "doglądać czegoś",
+                            "zajmować się czymś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Don't worry, I'll tend to your garden while you're away.",
+                                "Translation": "(Nie martw się, zajmę się twoim ogrodem, podczas gdy ciebie nie będzie.)"
+                            },
+                            {
+                                "Sentence": "I asked my neighbours to tend to my house while I'm in Spain.",
+                                "Translation": "(Poprosiłem sąsiadów, aby doglądali mojego domu, kiedy będę w Hiszpanii.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "tend to somebody"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "opiekować się kimś",
+                            "zajmować się kimś",
+                            "troszczyć się o kogoś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I tended to my grandmother until the day she died.",
+                                "Translation": "(Opiekowałam się moją babcią do dnia jej śmierci.)"
+                            },
+                            {
+                                "Sentence": "Can you please tend to my children while I'm at work?",
+                                "Translation": "(Czy możesz, proszę, zająć się moimi dziećmi, kiedy ja będę w pracy?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

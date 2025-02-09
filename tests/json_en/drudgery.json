@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "drudgery"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "harówka",
+                            "znój",
+                            "ciężka praca"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

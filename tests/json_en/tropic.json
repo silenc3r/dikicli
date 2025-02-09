@@ -1,0 +1,61 @@
+[
+    {
+        "Entry": [
+            "tropic"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zwrotnik (jeden z dwóch równoleżników)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "tropikalny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "tropics"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "tropiki",
+                            "strefa podzwrotnikowa"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She's a botanist and spent several years doing research in the tropics.",
+                                "Translation": "(Ona jest botanikiem i spędziła parę lat na badaniu tropików.)"
+                            },
+                            {
+                                "Sentence": "Tropics is a place that I'd like to visit one day.",
+                                "Translation": "(Tropiki to miejsce, które chciałabym zwiedzić.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

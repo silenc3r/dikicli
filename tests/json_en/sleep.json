@@ -1,0 +1,130 @@
+[
+    {
+        "Entry": [
+            "sleep"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "spać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Did you sleep well?",
+                                "Translation": "(Czy spałeś dobrze?)"
+                            },
+                            {
+                                "Sentence": "I couldn't sleep because of the noise outside.",
+                                "Translation": "(Nie mogłem spać z powodu hałasu na zewnątrz.)"
+                            },
+                            {
+                                "Sentence": "He slept late in the morning, because he didn't have to go to school.",
+                                "Translation": "(On spał rano do późna, ponieważ nie musiał iść do szkoły.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "być uśpionym",
+                            "spać (np. o mieście)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "New York is the city that never sleeps.",
+                                "Translation": "(Nowy York jest miastem, które nigdy nie śpi.)"
+                            },
+                            {
+                                "Sentence": "The centre of my town sleeps when people are at work.",
+                                "Translation": "(Centrum mojego miasta jest uśpione, kiedy ludzie są w pracy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zapewniać miejsce do spania dla określonej liczny osób"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sen (stan)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She often talks in her sleep.",
+                                "Translation": "(Ona często mówi przez sen.)"
+                            },
+                            {
+                                "Sentence": "I didn't get much sleep that night.",
+                                "Translation": "(Nie spałem za dużo tamtej nocy.)"
+                            },
+                            {
+                                "Sentence": "You'd better get some sleep.",
+                                "Translation": "(Powinieneś się trochę przespać.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "sen (noc)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "śpioch (substancja w kąciku oka)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "have a sleep"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przespać się"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "get to sleep"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zasnąć"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

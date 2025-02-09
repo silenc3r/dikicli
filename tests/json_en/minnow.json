@@ -1,0 +1,36 @@
+[
+    {
+        "Entry": [
+            "minnow",
+            "minny",
+            "pinkeen"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "strzebla (ryba)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "żywiec (mała ryba służąca jako przynęta)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "ktoś mało ważny",
+                            "neptek"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

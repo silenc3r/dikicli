@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "pep"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "werwa",
+                            "wigor",
+                            "animusz"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

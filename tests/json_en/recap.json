@@ -1,0 +1,99 @@
+[
+    {
+        "Entry": [
+            "recap"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "streszczać (wykład)",
+                            "podsumowywać (dyskusję)",
+                            "rekapitulować (główne zagadnienia czegoś)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "recap",
+            "recapitulation"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "streszczenie (wykładu)",
+                            "podsumowanie (dyskusji)",
+                            "rekapitulacja (głównych zagadnień czegoś)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "podsumowanie",
+                            "skrót (poprzednich wydarzeń, poprzedniego odcinka serialu, itp.)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Here's a recap of what happened last week!",
+                                "Translation": "(Oto podsumowanie tego, co wydarzyło się w poprzednim tygodniu!)"
+                            },
+                            {
+                                "Sentence": "It is nice to get a recap of what's going on.",
+                                "Translation": "(Miło jest otrzymać skrót tego, co się dzieje.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "retread",
+            "recap",
+            "remould"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "opona z nowym bieżnikiem"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wykorzystać ponownie w zmienionej postaci"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wulkanizować"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

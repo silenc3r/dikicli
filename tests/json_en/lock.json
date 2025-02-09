@@ -1,0 +1,199 @@
+[
+    {
+        "Entry": [
+            "lock"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zamykać",
+                            "zamykać na klucz"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Did you lock the door?",
+                                "Translation": "(Zamknąłeś drzwi?)"
+                            },
+                            {
+                                "Sentence": "Shall I lock up after you?",
+                                "Translation": "(Czy mam za tobą zamknąć?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zamykać się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He locked himself in a hotel room and wouldn't let anybody in.",
+                                "Translation": "(On zamknął się w pokoju hotelowym i nikogo nie wpuszczał.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zamykać",
+                            "chować (w bezpiecznym miejscu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He locked the dog in his room.",
+                                "Translation": "(On zamknął psa w swoim pokoju.)"
+                            },
+                            {
+                                "Sentence": "I locked my diary in a drawer.",
+                                "Translation": "(Schowałam swój pamiętnik w szufladzie.)"
+                            },
+                            {
+                                "Sentence": "I have to lock my jewellery in a box.",
+                                "Translation": "(Muszę schować swoją biżuterię w pudełku.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "blokować",
+                            "unieruchamiać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The wheel just locked.",
+                                "Translation": "(Koło po prostu się zablokowało.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zamek (np. do drzwi)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They've installed a triple-lock door.",
+                                "Translation": "(Oni zainstalowali drzwi z potrójnym zamkiem.)"
+                            },
+                            {
+                                "Sentence": "My key has broken in the lock.",
+                                "Translation": "(Mój klucz złamał się w zamku.)"
+                            },
+                            {
+                                "Sentence": "This door has no lock.",
+                                "Translation": "(Te drzwi nie mają zamka.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "lok",
+                            "pukiel"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The soldier had a lock of her hair in his pocket.",
+                                "Translation": "(Żołnierz miał pukiel jej włosów w swojej kieszeni.)"
+                            },
+                            {
+                                "Sentence": "She gave me her lock of hair.",
+                                "Translation": "(Ona dała mi swój pukiel włosów.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "śluza (na rzece)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We approached the lock on the river.",
+                                "Translation": "(Zbliżyliśmy się do śluzy na rzece.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "uścisk (w zapasach)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The wrestler put a lock on his opponent.",
+                                "Translation": "(Zapaśnik zamknął swojego przeciwnika w uścisku.)"
+                            },
+                            {
+                                "Sentence": "He is famous for his vice-like lock.",
+                                "Translation": "(On jest znany ze swojego żelaznego uścisku.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "maksymalny kąt skrętu koła"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zamek rowerowy",
+                            "zapięcie rowerowe"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zamek (część broni)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "bicycle lock",
+            "lock"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zapięcie (do zabezpieczania roweru)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "lock forward",
+            "lock"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zawodnik wspierający młyn (w rugby)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

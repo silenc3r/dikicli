@@ -1,0 +1,125 @@
+[
+    {
+        "Entry": [
+            "glazed"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "oszklony (np. okno)",
+                            "oblodzony (np. droga)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "błyszczący",
+                            "glazurowany"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "glaze"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "emalia",
+                            "glazura",
+                            "szkliwo"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He painted the metal frame with black glaze.",
+                                "Translation": "(On pomalował metalową ramę czarną emalią.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "polewa (np. na cieście)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The cake had chocolate glaze.",
+                                "Translation": "(Ciasto miało czekoladową polewę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "gołoledź",
+                            "ślizgawica",
+                            "\"szklanka\" (śliska droga)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There is a glaze on the road, so drive carefully.",
+                                "Translation": "(Na drodze jest gołoledź, więc jedź ostrożnie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "laserunek (technika malarska)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szklić",
+                            "oprawiać w szkło (np. obrazek)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He glazed the picture and hanged it on the wall.",
+                                "Translation": "(On oprawił obrazek w szkło i powiesił go na ścianie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "glazurować",
+                            "emaliować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You need to glaze the construction to protect it from weather.",
+                                "Translation": "(Należy zaglazurować konstrukcję, aby uchronić ją przed wpływem pogody.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "polewać polewą"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She glazed the cake with chocolate glaze.",
+                                "Translation": "(Ona polała ciasto czekoladową polewą.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

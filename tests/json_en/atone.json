@@ -1,0 +1,24 @@
+[
+    {
+        "Entry": [
+            "atone"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "odpokutować",
+                            "zadośćuczynić (za coś)",
+                            "wynagrodzić krzywdę",
+                            "odkupić (swoje grzechy)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

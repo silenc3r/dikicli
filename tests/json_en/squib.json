@@ -1,0 +1,42 @@
+[
+    {
+        "Entry": [
+            "squib"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "petarda"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "krótki",
+                            "błyskotliwy utwór",
+                            "często o zabarwieniu humorystycznym (np. satyra, fraszka)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "krótki",
+                            "humorystyczny artykuł w gazecie"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "krótka reklama"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

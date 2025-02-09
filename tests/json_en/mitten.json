@@ -1,0 +1,79 @@
+[
+    {
+        "Entry": [
+            "mitt",
+            "mitten"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rękawiczka z jednym palcem"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My brother gave me a baseball mitt for my birthday.",
+                                "Translation": "(Mój brat dał mi baseballową rękawicę na urodziny.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "mitenka (rękawiczka z odsłoniętymi palcami)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "mitten"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rękawica bokserska"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wymówienie z pracy",
+                            "zerwanie umowy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "get the mitten"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dostać kosza",
+                            "zostać wylanym z pracy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

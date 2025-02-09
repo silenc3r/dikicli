@@ -1,0 +1,118 @@
+[
+    {
+        "Entry": [
+            "pat"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "poklepać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "\"You'll feel better soon,\" Jack said, patting her on the arm.",
+                                "Translation": "(\"Wkrótce poczujesz się lepiej\", powiedział Jack, klepiąc ją po ramieniu.)"
+                            },
+                            {
+                                "Sentence": "She laughed and patted his knee.",
+                                "Translation": "(Ona zaśmiała się i poklepała jego kolano.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wklepywać (krem)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Patting is a gentler way to apply cream than rubbing.",
+                                "Translation": "(Wklepywanie to delikatniejszy sposób nakładania kremu niż wcieranie.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "klepnięcie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Sue gave him an encouraging pat.",
+                                "Translation": "(Sue poklepała go zachęcająco.)"
+                            },
+                            {
+                                "Sentence": "He knelt and gave the kitty a pat.",
+                                "Translation": "(On klęknął i poklepał kotka.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "porcja (np. masła, ok. 10 g)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Could you pass a pat of butter, please?",
+                                "Translation": "(Czy mógłbyś podać porcję masła, proszę?)"
+                            },
+                            {
+                                "Sentence": "She ate the whole pat of butter all at once.",
+                                "Translation": "(Ona zjadła na raz całą porcję masła.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "gładki",
+                            "bez zająknięcia"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She gave a pat speech.",
+                                "Translation": "(Ona wygłosiła mowę bez zająknięcia.)"
+                            },
+                            {
+                                "Sentence": "I tried to recite the pat poem.",
+                                "Translation": "(Próbowałem wyrecytować wiersz bez zająknięcia.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "point after touchdown",
+            "PAT",
+            "try"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "punkt po przyłożeniu (w futbolu amerykańskim)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

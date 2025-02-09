@@ -1,0 +1,53 @@
+[
+    {
+        "Entry": [
+            "murky",
+            "mirky",
+            "murk"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nieprzenikniony",
+                            "mętny (np. głębia, woda)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The water was too murky to swim.",
+                                "Translation": "(Woda była zbyt mętna do pływania.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "mętny",
+                            "niejasny (np. wyjaśnienia, tłumaczenie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I don't want to get into the murky family arguments.",
+                                "Translation": "(Nie chcę wplątywać się w niejasne konflikty rodzinne.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ciemny",
+                            "podejrzany (np. interesy, przeszłość)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He became involved in some murky business.",
+                                "Translation": "(On został wplątany w jakieś podejrzane interesy.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

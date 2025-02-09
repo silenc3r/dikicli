@@ -1,0 +1,46 @@
+[
+    {
+        "Entry": [
+            "fraud"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "oszustwo"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You commit a fraud when you deliberately try to deceive a person or an institution.",
+                                "Translation": "(Popełniasz oszustwo, kiedy próbujesz umyślnie oszukać osobę lub instytucję.)"
+                            },
+                            {
+                                "Sentence": "Your Honour, I confess to the fraud but not to the murder.",
+                                "Translation": "(Wysoki Sądzie, przyznaję się do oszustwa, ale nie do morderstwa.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "oszust",
+                            "naciągacz"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You're not a lawyer, you're a fraud.",
+                                "Translation": "(Nie jesteś prawnikiem, jesteś oszustem.)"
+                            },
+                            {
+                                "Sentence": "I invested in your business and you took my money. You're a fraud.",
+                                "Translation": "(Zainwestowałem w twój biznes, a ty wziąłeś moje pieniądze. Jesteś oszustem.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

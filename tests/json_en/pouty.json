@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "pouty"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kapryśny",
+                            "niezadowolony (np. o minie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

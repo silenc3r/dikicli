@@ -1,0 +1,50 @@
+[
+    {
+        "Entry": [
+            "throb"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bicie (serca)",
+                            "rwanie (rany)",
+                            "uderzenie (pulsu)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "warkot (silnika)",
+                            "dreszcz (np. radości)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bić (o sercu)",
+                            "rwać (o ranie)",
+                            "uderzać (o pulsie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "warczeć (o silniku)",
+                            "drżeć (z radości, ekscytacji)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

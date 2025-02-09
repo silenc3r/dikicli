@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "tepid"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "chłodny (o reakcji, nastawieniu)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "letni (o wodzie)",
+                            "ciepławy (o kawie, herbacie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

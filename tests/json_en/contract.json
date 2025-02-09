@@ -1,0 +1,129 @@
+[
+    {
+        "Entry": [
+            "contract"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kontrakt",
+                            "umowa"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You should read the contract carefully before you sign it.",
+                                "Translation": "(Powinieneś uważnie przeczytać kontrakt, zanim go podpiszesz.)"
+                            },
+                            {
+                                "Sentence": "My supplier didn't live up to the terms of our contract.",
+                                "Translation": "(Mój dostawca nie spełnił warunków umowy.)"
+                            },
+                            {
+                                "Sentence": "The contract will expire soon.",
+                                "Translation": "(Kontrakt wkrótce wygaśnie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zlecenie na zabicie kogoś za określoną sumę pieniędzy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He took out a contract on his wife's lover.",
+                                "Translation": "(On dał zlecenie na zabicie kochanka swojej żony.)"
+                            },
+                            {
+                                "Sentence": "I know about his contract on me - I have to hide.",
+                                "Translation": "(Wiem o jego zleceniu zabicia mnie - muszę się schować.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "contract",
+            "agreement"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kontrakt",
+                            "umowa"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "contract"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "skurczyć się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Metal contracts when the temperature drops.",
+                                "Translation": "(Metal kurczy się, kiedy temperatura spada.)"
+                            },
+                            {
+                                "Sentence": "Since 2005 export has contracted by 5%.",
+                                "Translation": "(Od 2005 roku eksport skurczył się o 5%.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zarazić się (np. wirusem)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She contracted a dangerous virus in Africa.",
+                                "Translation": "(Ona zaraziła się niebezpiecznym wirusem w Afryce.)"
+                            },
+                            {
+                                "Sentence": "The vaccine can prevent you from contracting a fatal disease.",
+                                "Translation": "(Szczepionka może cię uchronić przed zarażeniem się śmiertelną chorobą.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zawierać umowę"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We contracted a restaurant to cater our party.",
+                                "Translation": "(Zawarliśmy umowę z restauracją by obsługiwała naszą imprezę.)"
+                            },
+                            {
+                                "Sentence": "Don't contract with him. He is a cheater.",
+                                "Translation": "(Nie zawieraj z nim umowy. To jest oszust.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

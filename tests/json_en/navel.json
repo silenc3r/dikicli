@@ -1,0 +1,41 @@
+[
+    {
+        "Entry": [
+            "navel",
+            "umbilicus",
+            "belly button",
+            "bellybutton"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pępek"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The girl had a pierced navel.",
+                                "Translation": "(Dziewczyna miała przekłuty pępek.)"
+                            },
+                            {
+                                "Sentence": "I don't like my navel so I wear long shirts to cover it.",
+                                "Translation": "(Nie lubię swojego pępka, więc noszę długie koszulki, żeby go zakryć.)"
+                            },
+                            {
+                                "Sentence": "The model on the cover didn't have a belly button.",
+                                "Translation": "(Modelka na okładce nie miała pępka.)"
+                            },
+                            {
+                                "Sentence": "She has a pierced belly button.",
+                                "Translation": "(Ona ma przekłuty pępek.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "Entry": [
+            "apathy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "apatia",
+                            "obojętność"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I feel apathy more than usual in autumn.",
+                                "Translation": "(Jesienią odczuwam apatię bardziej niż zwykle.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

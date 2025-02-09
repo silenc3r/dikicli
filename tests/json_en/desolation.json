@@ -1,0 +1,50 @@
+[
+    {
+        "Entry": [
+            "desolation"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "spustoszenie",
+                            "dewastacja",
+                            "zniszczenie"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "pustka",
+                            "wyludnienie"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "osamotnienie",
+                            "samotność"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The sense of desolation overwhelmed him.",
+                                "Translation": "(Przytłoczyło go poczucie osamotnienia.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "żal",
+                            "rozpacz",
+                            "smutek"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

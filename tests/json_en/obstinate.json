@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "obstinate"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zawzięty",
+                            "uparty",
+                            "uporczywy (np. osoba, cisza, plama)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Teenagers may get very obstinate when it comes to defending their rights.",
+                                "Translation": "(Nastolatki mogą być bardzo zawzięte, gdy chodzi o obronę ich praw.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

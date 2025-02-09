@@ -1,0 +1,138 @@
+[
+    {
+        "Entry": [
+            "spur"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "podnieta",
+                            "zachęta",
+                            "bodziec (do zrobienia czegoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She needs a spur to start working.",
+                                "Translation": "(Ona potrzebuje zachęty, żeby zacząć pracować.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ostroga (w jeździectwie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He had silver spurs on his shoes.",
+                                "Translation": "(On miał srebrne ostrogi na butach.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "odnoga (łańcucha górskiego)",
+                            "grań (górska)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The spur carries on for a couple of miles.",
+                                "Translation": "(Grań jest długa jeszcze na kilka mil stąd.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ostroga jadowa (dziobaka)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "boczny (tor kolejowy)",
+                            "odchodząca (droga)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The train turned to the spur track.",
+                                "Translation": "(Pociąg skręcił na boczny tor.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zachęcać (kogoś do czegoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The money spurs her to study more.",
+                                "Translation": "(Pieniądze zachęcają ją do tego, aby uczyć się więcej.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "spinać ostrogami (konia)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She spurred the horse, so it would go faster.",
+                                "Translation": "(Ona spięła konia ostrogami, żeby jechał szybciej.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ponaglać",
+                            "pospieszać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Don't spur me! I'm moving as fast as I can.",
+                                "Translation": "(Nie ponaglaj mnie! Działam tak szybko, jak mogę.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "spur",
+            "spur line"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bocznica (kolejowa)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Take a look at the map, find the nearest railway spur to our location.",
+                                "Translation": "(Popatrz na mapę, znajdź najbliższą nam bocznicę kolejową.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

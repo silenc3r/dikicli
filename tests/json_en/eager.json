@@ -1,0 +1,83 @@
+[
+    {
+        "Entry": [
+            "eager"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "chętny",
+                            "ochoczy",
+                            "skory"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Teachers like students who are eager to learn.",
+                                "Translation": "(Nauczyciele lubią uczniów, którzy są chętni do nauki.)"
+                            },
+                            {
+                                "Sentence": "I am always eager to help.",
+                                "Translation": "(Zawsze jestem chętny do pomocy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przejęty",
+                            "podekscytowany",
+                            "podniecony"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The crowd was very eager when she went to the stage.",
+                                "Translation": "(Tłum był bardzo podekscytowany, kiedy ona weszła na scenę.)"
+                            },
+                            {
+                                "Sentence": "His face looked eager when she gave him the tickets.",
+                                "Translation": "(Jego twarz wyglądała na przejętą, gdy ona dała mu bilety.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "spragniony",
+                            "żądny",
+                            "niecierpliwy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He's eager for adventures.",
+                                "Translation": "(On jest żądny przygód.)"
+                            },
+                            {
+                                "Sentence": "I'm eager for answers.",
+                                "Translation": "(Jestem spragniony odpowiedzi.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zagorzały",
+                            "gorący",
+                            "entuzjastyczny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He's an eager Yankees fan.",
+                                "Translation": "(On jest zagorzałym fanem Yankees.)"
+                            },
+                            {
+                                "Sentence": "She's the most eager Drake fan you will ever meet.",
+                                "Translation": "(Ona jest najbardziej zagorzałą fanką Drake'a, jaką kiedykolwiek spotkasz.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

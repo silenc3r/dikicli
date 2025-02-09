@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "torpor"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "odrętwienie",
+                            "letarg",
+                            "otępienie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He's in a state of torpor.",
+                                "Translation": "(On jest w stanie letargu.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,81 @@
+[
+    {
+        "Entry": [
+            "later"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "później",
+                            "potem"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "See you later.",
+                                "Translation": "(Do zobaczenia później.)"
+                            },
+                            {
+                                "Sentence": "Will you tell me about it later?",
+                                "Translation": "(Opowiesz mi o tym później?)"
+                            },
+                            {
+                                "Sentence": "An hour later she called him back.",
+                                "Translation": "(Godzinę później ona oddzwoniła do niego.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "later",
+            "l8r"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "później"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "L8r!",
+                                "Translation": "(Później!)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "See you later.",
+            "Later."
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "Do zobaczenia później.",
+                            "Do później."
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

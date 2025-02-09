@@ -1,0 +1,38 @@
+[
+    {
+        "Entry": [
+            "indigenous"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rdzenny",
+                            "tubylczy",
+                            "autochtoniczny",
+                            "miejscowy",
+                            "lokalny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I also agree about the position of the indigenous peoples.",
+                                "Translation": "(Zgadzam się również co do pozycji rdzennej ludności.)"
+                            },
+                            {
+                                "Sentence": "The colonisers killed the indigenous peoples of this island.",
+                                "Translation": "(Kolonizatorzy zabili rdzenne ludy tej wyspy.)"
+                            },
+                            {
+                                "Sentence": "The indigenous people of the Amazon rainforest learn Portuguese so they can work in Brazil.",
+                                "Translation": "(Rdzenni mieszkańcy Amazonii uczą się portugalskiego, aby mogli pracować w Brazylii.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

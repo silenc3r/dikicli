@@ -1,0 +1,65 @@
+[
+    {
+        "Entry": [
+            "procurement",
+            "procural"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nabywanie",
+                            "zdobywanie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The process of procurement of those goods is long and difficult.",
+                                "Translation": "(Proces nabywania tych towarów jest długi i trudny.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zaopatrzenie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The procurement arrives every Monday.",
+                                "Translation": "(Zaopatrzenie przyjeżdża w każdy poniedziałek.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "stręczycielstwo"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "As far as I know, procurement is illegal.",
+                                "Translation": "(Z tego co mi wiadomo, stręczycielstwo jest nielegalne.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zamówienie (dóbr, usług)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Those involved in public procurement ought to consider the long-term benefits.",
+                                "Translation": "(Podmioty zaangażowane w zamówienia publiczne powinny mieć na uwadze długoterminowe korzyści.)"
+                            },
+                            {
+                                "Sentence": "My report stresses the particularly great significance that public procurement has in times of crisis.",
+                                "Translation": "(W moim sprawozdaniu podkreślam szczególne znaczenie zamówień publicznych w okresach kryzysu.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "Entry": [
+            "communion"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "komunia",
+                            "komunia święta"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I was given this pen at my own communion, long time ago.",
+                                "Translation": "(Dostałem to pióro na swoją Komunię, dawno temu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wspólnota religijna",
+                            "wspólnota wyznaniowa"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I have joined a Christian communion.",
+                                "Translation": "(Dołączyłem do chrześcijańskiej wspólnoty religijnej.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "obcowanie",
+                            "duchowa bliskość",
+                            "komunia"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "In places like this garden, it is easy to feel a communion with nature.",
+                                "Translation": "(W miejscach takich, jak ten ogród, łatwiej jest odczuwać duchową bliskość z naturą.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

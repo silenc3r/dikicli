@@ -1,0 +1,82 @@
+[
+    {
+        "Entry": [
+            "levy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "opłata wyrównawcza"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I strongly oppose this type of levy or tax on international transactions.",
+                                "Translation": "(Zdecydowanie sprzeciwiam się tego rodzaju opłacie czy podatkowi od transakcji międzynarodowych.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ściąganie (podatków)",
+                            "pobór"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Our levy system is highly inefficient.",
+                                "Translation": "(Nasz system poboru jest wysoce nieskuteczny.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pobór rekruta (w wojsku)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They are organizing a levy in anticipation of the war.",
+                                "Translation": "(Oni organizują pobór do wojska w oczekiwaniu na wojnę.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ściągać (podatki)",
+                            "nakładać (podatki)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They started to levy taxes from small enterprises like mine.",
+                                "Translation": "(Oni zaczęli ściągać podatki od małych przedsiębiorstw, takich jak moje.)"
+                            },
+                            {
+                                "Sentence": "Many countries have already levied higher taxes on sweets.",
+                                "Translation": "(Dużo krajów nałożyło już wyższe podatki na słodycze.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "werbować",
+                            "rekrutować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There are rumors that they levy more and more soldiers.",
+                                "Translation": "(Są pogłoski, że oni rekrutują coraz więcej i więcej żołnierzy.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

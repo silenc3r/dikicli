@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "awash"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pod wodą",
+                            "pod powierzchnią wody"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

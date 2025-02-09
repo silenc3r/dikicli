@@ -1,0 +1,38 @@
+[
+    {
+        "Entry": [
+            "crumple"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zgnieść",
+                            "zgniatać"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "pognieść się",
+                            "zgnieść się",
+                            "zgniatać się",
+                            "zmarszczyć się"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "załamać się",
+                            "załamywać się"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

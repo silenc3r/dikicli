@@ -1,0 +1,83 @@
+[
+    {
+        "Entry": [
+            "gutter"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rynsztok",
+                            "ściek"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This man pulled me out of the gutter and saved my life.",
+                                "Translation": "(Ten człowiek wyciągnął mnie z rynsztoka i uratował moje życie.)"
+                            },
+                            {
+                                "Sentence": "I poured all the sewage down the gutter.",
+                                "Translation": "(Wylałem wszystkie pomyje do rynsztoka.)"
+                            },
+                            {
+                                "Sentence": "Even though the society is getting richer, there are still people living in the gutter.",
+                                "Translation": "(Mimo tego, że społeczeństwo się bogaci, niektórzy ludzie nadal żyją w rynsztoku.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rynna dachowa"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Water was running along the gutter.",
+                                "Translation": "(Woda płynęła w rynnie.)"
+                            },
+                            {
+                                "Sentence": "We have fitted a brand new gutter.",
+                                "Translation": "(Zamontowaliśmy zupełnie nową rynnę.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "migotać",
+                            "zamigotać (np. płomień świecy)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "gutter margin",
+            "gutter"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "margines na oprawę",
+                            "margines do bindowania"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

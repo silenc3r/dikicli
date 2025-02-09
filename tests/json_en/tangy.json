@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "tangy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "cierpki (smak)",
+                            "ostry",
+                            "orzeźwiający (zapach)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

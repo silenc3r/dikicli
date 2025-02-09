@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "unrelenting"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bezlitosny",
+                            "nieubłagany (np. upływ czasu)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "Entry": [
+            "plight"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "trudna sytuacja",
+                            "niedola"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We are concerned about the plight of religious and ethnic minorities across the whole of China.",
+                                "Translation": "(Niepokoi nas niedola mniejszości religijnych i etnicznych w całych Chinach.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dawać słowo",
+                            "obiecywać (np. lojalność)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,97 @@
+[
+    {
+        "Entry": [
+            "fender"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "osłona (niska metalowa ścianka przy kominku)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "odbijacz (przedmiot zabezpieczający burtę i nabrzeże przed uszkodzeniami na skutek tarcia statku o nabrzeże)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "bumper",
+            "fender"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zderzak"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This car has got a crushed bumper.",
+                                "Translation": "(Ten samochód ma zgnieciony zderzak.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "wing",
+            "fender"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "błotnik (w samochodzie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She decided to buy pink wings for her car.",
+                                "Translation": "(Ona zdecydowała się kupić różowe błotniki do samochodu.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "mudguard",
+            "fender"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "błotnik (przy rowerze)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

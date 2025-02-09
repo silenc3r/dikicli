@@ -1,0 +1,52 @@
+[
+    {
+        "Entry": [
+            "whisk"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ubijać (np. jajka, śmietanę)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I have to whisk the eggs.",
+                                "Translation": "(Muszę ubić jajka.)"
+                            },
+                            {
+                                "Sentence": "Add some sugar to the cream and whisk them together.",
+                                "Translation": "(Dodaj trochę cukru do śmietany i ubij je razem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "szybko zabrać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "After a few seconds the curtains will be whisked away.",
+                                "Translation": "(Po paru sekundach zasłony zostaną szybko zabrane.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mątewka"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

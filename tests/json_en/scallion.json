@@ -1,0 +1,24 @@
+[
+    {
+        "Entry": [
+            "spring onion",
+            "green onion",
+            "scallion"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "cebulka dymka",
+                            "szalotka"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

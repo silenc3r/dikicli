@@ -1,0 +1,57 @@
+[
+    {
+        "Entry": [
+            "barley"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "jęczmień"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Barley is a major animal feed crop.",
+                                "Translation": "(Jęczmień jest ważnym zbożem do karmienia zwierząt.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "jęczmienny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "barley",
+            "hordeum vulgare"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "jęczmień zwyczajny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

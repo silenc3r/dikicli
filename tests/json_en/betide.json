@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "betide"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przytrafić się",
+                            "przydarzyć się",
+                            "zdarzyć się"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

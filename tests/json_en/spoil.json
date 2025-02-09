@@ -1,0 +1,122 @@
+[
+    {
+        "Entry": [
+            "spoil"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zepsuć",
+                            "zmarnować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You always have to spoil everything!",
+                                "Translation": "(Zawsze musisz wszystko popsuć!)"
+                            },
+                            {
+                                "Sentence": "I don't want to spoil your fun.",
+                                "Translation": "(Nie chcę ci zepsuć zabawy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rozpieścić",
+                            "rozpuścić",
+                            "zepsuć (dziecko)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "rozpieszczać (np. kogoś w dniu urodzin)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "rozkładać się",
+                            "psuć się (np. jedzenie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "oddać nieważny głos"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "korzyści",
+                            "łupy (używane w liczbie mnogiej)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "odpady",
+                            "odwały (np. w kopalni węgla)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "spoils"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "korzyści"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "łup",
+                            "łupy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "spoil oneself"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "robić sobie święto"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "Entry": [
+            "hepatitis"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "żółtaczka",
+                            "zapalenie wątroby"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He suffers from hepatitis B and must take daily medication.",
+                                "Translation": "(On cierpi na zapalenie wątroby typu B i musi codziennie brać leki.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "hepatitis A"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wirusowe zapalenie wątroby typu A"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

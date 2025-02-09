@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "matronly"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "stateczna",
+                            "dostojna (o kobiecie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

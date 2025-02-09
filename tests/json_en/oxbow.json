@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "oxbow",
+            "oxbow lake"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "starorzecze"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

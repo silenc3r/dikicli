@@ -1,0 +1,33 @@
+[
+    {
+        "Entry": [
+            "prophecy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "proroctwo",
+                            "przepowiednia"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There is a prophecy regarding this child.",
+                                "Translation": "(Istnieje przepowiednia odnosząca się do tego dziecka.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wróżba"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

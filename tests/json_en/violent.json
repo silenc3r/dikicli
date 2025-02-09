@@ -1,0 +1,115 @@
+[
+    {
+        "Entry": [
+            "violent"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pełen przemocy (np. film)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Don't let him play violent computer games.",
+                                "Translation": "(Nie pozwól mu grać w pełne przemocy gry komputerowe.)"
+                            },
+                            {
+                                "Sentence": "Children shouldn't watch violent films.",
+                                "Translation": "(Dzieci nie powinny oglądać filmów pełnych przemocy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "agresywny",
+                            "brutalny (o osobie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He is a violent and unapproachable person.",
+                                "Translation": "(On jest agresywną i nieprzystępną osobą.)"
+                            },
+                            {
+                                "Sentence": "I'm afraid of this man, because he's a violent type.",
+                                "Translation": "(Boję się tego mężczyzny, bo jest agresywnym typem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "gwałtowny (np. kłótnia, sprzeczka)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He left the room after a violent argument with his wife.",
+                                "Translation": "(Wyszedł z pokoju po gwałtownej kłótni ze swoją żoną.)"
+                            },
+                            {
+                                "Sentence": "We had a violent quarrel and I'm angry.",
+                                "Translation": "(Mieliśmy gwałtowną kłótnię i jestem wściekły.)"
+                            },
+                            {
+                                "Sentence": "It was a violent quarrel, I'm glad you were not here.",
+                                "Translation": "(To była gwałtowna kłótnia, cieszę się, że cię tu nie było.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "gwałtowny (np. uczucie, niechęć)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I felt a violent anger when I saw her.",
+                                "Translation": "(Poczułem gwałtowną złość, kiedy ją zobaczyłem.)"
+                            },
+                            {
+                                "Sentence": "She saw the corpse and felt a violent disgust.",
+                                "Translation": "(Ona zobaczyła zwłoki i poczuła gwałtowne obrzydzenie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "jaskrawy",
+                            "ostry (np. kolor, światło)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A violent light of a hospital lamp woke me up.",
+                                "Translation": "(Ostre światło szpitalnej lampy obudziło mnie.)"
+                            },
+                            {
+                                "Sentence": "You look good in violent green.",
+                                "Translation": "(Wyglądasz dobrze w jaskrawym zielonym kolorze.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "get violent"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "stać się agresywnym"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

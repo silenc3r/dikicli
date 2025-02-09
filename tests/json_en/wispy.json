@@ -1,0 +1,36 @@
+[
+    {
+        "Entry": [
+            "wispy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "drobny",
+                            "wiotki",
+                            "wątły (o ludzkiej figurze)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "rzadki",
+                            "słaby (o włosach)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "związany w kosmyki lub wiązki"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

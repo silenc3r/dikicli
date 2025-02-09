@@ -1,0 +1,70 @@
+[
+    {
+        "Entry": [
+            "misfit"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "osoba niedopasowana do otoczenia",
+                            "odmieniec"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "When in high school, I was considered a misfit.",
+                                "Translation": "(W latach licealnych uważano mnie za odmieńca.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "osoba nieumiejąca dostosować się do otoczenia",
+                            "osoba nieprzystosowana",
+                            "człowiek nieprzystosowany"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He is undoubtedly a social misfit. He can't even ask a stranger for directions.",
+                                "Translation": "(Jest niewątpliwie osobą nieprzystosowaną społecznie. Nie potrafi nawet zapytać nieznajomego o kierunek.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "część garderoby, która nie pasuje",
+                            "coś niepasującego"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Those shoes are a total misfit to the rest of the outfit.",
+                                "Translation": "(Te buty są czymś totalnie niepasującym do reszty stroju.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nie pasować",
+                            "nie dopasować się",
+                            "odstawać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His tie was misfitted to his suit.",
+                                "Translation": "(Jego krawat nie był dopasowany do jego garnituru.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

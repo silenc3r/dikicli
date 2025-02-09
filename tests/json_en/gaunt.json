@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "gaunt"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wychudły",
+                            "wyniszczony (np. o twarzy, o osobie, o figurze)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "surowy (o krajobrazie, o budowli)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

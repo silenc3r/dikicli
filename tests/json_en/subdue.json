@@ -1,0 +1,57 @@
+[
+    {
+        "Entry": [
+            "subdue"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "podbijać (np. kraj)",
+                            "pokonywać (wroga)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "ujarzmiać",
+                            "poskramiać (np. zwierzę)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "obezwładnić"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "tłumić (uczucia)",
+                            "hamować (emocje)",
+                            "opanowywać (się)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "przygaszać (światło)",
+                            "przyciszać (dźwięk)",
+                            "zniżać (głos)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "przygotować ziemię pod uprawę"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

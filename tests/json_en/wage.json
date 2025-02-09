@@ -1,0 +1,84 @@
+[
+    {
+        "Entry": [
+            "wage",
+            "wages"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "godzinówki",
+                            "zarobki (wypłacane za pracę wykonaną w określonym czasie, np. przez dziesięć godzin)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The government has set a minimum wage for all workers.",
+                                "Translation": "(Rząd ustalił minimalne zarobki dla wszystkich pracowników.)"
+                            },
+                            {
+                                "Sentence": "Are you satisfied with your wage?",
+                                "Translation": "(Czy jesteś zadowolony ze swoich zarobków?)"
+                            },
+                            {
+                                "Sentence": "Ask about your wage during the interview.",
+                                "Translation": "(Spytaj o swoje zarobki podczas rozmowy kwalifikacyjnej.)"
+                            },
+                            {
+                                "Sentence": "The wages here aren't particularly high, but at least you will gain some experience.",
+                                "Translation": "(Zarobki tutaj nie są szczególnie wysokie, ale przynajmniej zdobędziesz jakieś doświadczenie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "płaca",
+                            "zarobki (dla pracownika najemnego wypłacane za wykonanie określonej pracy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The wages here aren't particularly high, but at least you will gain some experience.",
+                                "Translation": "(Zarobki tutaj nie są szczególnie wysokie, ale przynajmniej zdobędziesz jakieś doświadczenie.)"
+                            },
+                            {
+                                "Sentence": "Are you satisfied with your wage?",
+                                "Translation": "(Czy jesteś zadowolony ze swoich zarobków?)"
+                            },
+                            {
+                                "Sentence": "I don't like my job, but the wage is great.",
+                                "Translation": "(Nie lubię mojej pracy, ale płaca jest świetna.)"
+                            },
+                            {
+                                "Sentence": "I can't afford a new car because my wage is too small.",
+                                "Translation": "(Nie stać mnie na nowy samochód, bo moje zarobki są za małe.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "prowadzić (np. wojnę przeciwko czemuś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Germany waged a war against Poland since 1939 until 1945.",
+                                "Translation": "(Niemcy prowadzili wojnę przeciwko Polsce od 1939 do 1945 roku.)"
+                            },
+                            {
+                                "Sentence": "He resolved to wage war on intolerance.",
+                                "Translation": "(On postanowił prowadzić wojnę przeciwko nietolerancji.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

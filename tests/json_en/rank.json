@@ -1,0 +1,207 @@
+[
+    {
+        "Entry": [
+            "rank"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "stopień",
+                            "ranga (w wojsku)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He holds the rank of colonel.",
+                                "Translation": "(On ma rangę pułkownika.)"
+                            },
+                            {
+                                "Sentence": "He was promoted to the rank of major.",
+                                "Translation": "(On awansował do rangi majora.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "klasa",
+                            "grupa"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "rząd",
+                            "szereg (np. ludzi ustawionych jeden obok drugiego)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Someone is missing from the second rank.",
+                                "Translation": "(Brakuje kogoś z drugiego rzędu.)"
+                            },
+                            {
+                                "Sentence": "The person in a blue shirt from the third rank would like to ask a question.",
+                                "Translation": "(Osoba w niebieskiej koszuli z trzeciego rzędu chciałaby zadać pytanie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kategoria",
+                            "jakość"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We don't sell wine of poor rank.",
+                                "Translation": "(Nie sprzedajemy wina słabej jakości.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "warstwa",
+                            "pozycja (np. społeczna)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You social rank determines your entire life.",
+                                "Translation": "(Twoja pozycja społeczna decyduje o całym twoim życiu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rząd (algebra liniowa)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "klasyfikować",
+                            "zaliczać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He ranks animals into different groups.",
+                                "Translation": "(On klasyfikuje zwierzęta do różnych grup.)"
+                            },
+                            {
+                                "Sentence": "How will we rank this matter?",
+                                "Translation": "(Jak zaklasyfikujemy tę kwestię?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przewyższać rangą"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I rank you, so obey my orders.",
+                                "Translation": "(Przewyższam cię rangą, więc stosuj się do moich rozkazów.)"
+                            },
+                            {
+                                "Sentence": "You have to respect me because I rank you.",
+                                "Translation": "(Musisz mnie szanować, bo przewyższam cię rangą.)"
+                            },
+                            {
+                                "Sentence": "I know he ranks me but it's not a reason to treat me like that.",
+                                "Translation": "(Wiem, że on przewyższa mnie rangą, ale to nie powód, żeby tak mnie traktować.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ustawiać w szeregu"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "cuchnący",
+                            "smrodliwy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "What a rank smell! It must be the fish.",
+                                "Translation": "(Co za cuchnący zapach! To musi być ryba.)"
+                            },
+                            {
+                                "Sentence": "I won't eat this rank cheese!",
+                                "Translation": "(Nie zjem tego cuchnącego sera!)"
+                            },
+                            {
+                                "Sentence": "Don't let this rank dog into my house!",
+                                "Translation": "(Nie wpuszczaj tego cuchnącego psa do mojego domu!)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ordynarny",
+                            "chamski"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Don't use these rank words.",
+                                "Translation": "(Nie używaj tych ordynarnych słów.)"
+                            },
+                            {
+                                "Sentence": "It was a rank joke, you should apologize.",
+                                "Translation": "(To był chamski żart, powinieneś przeprosić.)"
+                            },
+                            {
+                                "Sentence": "I'm angry because of his rank behaviour.",
+                                "Translation": "(Jestem zły z powodu jego ordynarnego zachowania.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bujny",
+                            "rozrośnięty"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I like this rank tree in your garden.",
+                                "Translation": "(Podoba mi się to rozrośnięte drzewo w twoim ogrodzie.)"
+                            },
+                            {
+                                "Sentence": "I lost a ball in a rank grass.",
+                                "Translation": "(Zgubiłem piłkę w bujnej trawie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "absolutny",
+                            "skończony (np. skończona głupota)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Your rank foolishness caused this accident!",
+                                "Translation": "(Twoja skończona głupota spowodowała ten wypadek!)"
+                            },
+                            {
+                                "Sentence": "You're a rank fool.",
+                                "Translation": "(Jesteś skończonym durniem.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

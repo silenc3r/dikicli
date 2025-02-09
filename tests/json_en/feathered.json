@@ -1,0 +1,112 @@
+[
+    {
+        "Entry": [
+            "feathered"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "upierzony",
+                            "pierzasty"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "z piórami"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "feather"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pióro (ptasie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I found a peculiar feather in the park.",
+                                "Translation": "(Znalazłem w parku osobliwe pióro.)"
+                            },
+                            {
+                                "Sentence": "Peacocks have beautiful feathers.",
+                                "Translation": "(Pawie mają piękne pióra.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kosmyk",
+                            "kępka"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wpust",
+                            "wpustka"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pokrywać piórami",
+                            "upierzyć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The kids feathered my car as a joke!",
+                                "Translation": "(Dzieci pokryły mój samochód piórami dla żartu!)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "położyć pióra wioseł na płasko",
+                            "położyć pióra wioseł równolegle do wody"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "ustawiać w chorągiewkę"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "łączyć na pióro-wpust"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "opierzać się (o pisklęciu)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

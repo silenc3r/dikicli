@@ -1,0 +1,69 @@
+[
+    {
+        "Entry": [
+            "ravage"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dewastacja",
+                            "spustoszenie",
+                            "zniszczenie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niszczyć (np. kraj)",
+                            "siać spustoszenie (o żywiole)",
+                            "dewastować"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "plądrować",
+                            "grabić"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Invaders ravaged the village.",
+                                "Translation": "(Najeźdźcy splądrowali wioskę.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "the ravages of something",
+            "ravages"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niszczące skutki (czegoś)",
+                            "zniszczenia spowodowane czymś"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

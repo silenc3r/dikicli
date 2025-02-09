@@ -1,0 +1,26 @@
+[
+    {
+        "Entry": [
+            "Virgil"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "Wergiliusz"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Virgil says, \"Time has no end.\"",
+                                "Translation": "(Jak mówił Wergiliusz, \"Czas nie ma końca\".)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "Entry": [
+            "septuagenarian"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "osoba między 70 a 79 rokiem życia"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

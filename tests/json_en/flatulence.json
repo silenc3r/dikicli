@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "flatulence"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wzdęcie",
+                            "gazy",
+                            "wiatry"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wyniosły styl pisania",
+                            "zarozumiały styl wypowiadania się"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

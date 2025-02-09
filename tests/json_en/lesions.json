@@ -1,0 +1,31 @@
+[
+    {
+        "Entry": [
+            "lesion"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "lezja (obrażenie, uszkodzenie, rana)",
+                            "zmiana chorobowa"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This lesion is being extremely aggressive.",
+                                "Translation": "(Ta lezja jest bardzo agresywna.)"
+                            },
+                            {
+                                "Sentence": "Lesion on your eighth cranial nerve knocks out your balance.",
+                                "Translation": "(Lezja na twoim ósmym nerwie czaszkowym wytrąca cię z równowagi.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

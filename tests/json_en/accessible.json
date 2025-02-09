@@ -1,0 +1,57 @@
+[
+    {
+        "Entry": [
+            "accessible"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dostępny",
+                            "osiągalny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It is important for health care to be accessible to all people.",
+                                "Translation": "(To ważne, aby opieka zdrowotna była dostępna dla wszystkich ludzi.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przystępny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Foreign books are becoming more accessible.",
+                                "Translation": "(Zagraniczne książki stają się bardziej przystępne.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "be accessible"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "być dostępnym"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

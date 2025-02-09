@@ -1,0 +1,164 @@
+[
+    {
+        "Entry": [
+            "jarring"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "prowokujący",
+                            "rażący"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zaskakujący",
+                            "szokujący"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "gryzący się",
+                            "kłócący się (np. kolor)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wyboisty",
+                            "nierówny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "jar"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "słoik"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I couldn't open the jar.",
+                                "Translation": "(Nie mogłem otworzyć słoika.)"
+                            },
+                            {
+                                "Sentence": "There are some cookies in that big jar.",
+                                "Translation": "(W tamtym dużym słoiku jest trochę ciasteczek.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dzban"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I brought a jar of lemonade.",
+                                "Translation": "(Przyniosłem dzban lemoniady.)"
+                            },
+                            {
+                                "Sentence": "The waiter served us a jar of wine.",
+                                "Translation": "(Kelner podał nam dzban wina.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kufel piwa"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I drank two jars at the party.",
+                                "Translation": "(Na imprezie wypiłem dwa kufle piwa.)"
+                            },
+                            {
+                                "Sentence": "I poured him a jar of beer.",
+                                "Translation": "(Nalałem mu kufel piwa.)"
+                            },
+                            {
+                                "Sentence": "This jar is on me.",
+                                "Translation": "(Ten kufel jest na mój rachunek.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "drażnić (coś kogoś, np. hałas)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This music jars on my nerves.",
+                                "Translation": "(Ta muzyka drażni moje nerwy.)"
+                            },
+                            {
+                                "Sentence": "The children were making a lot of noise and it was jarring me.",
+                                "Translation": "(Dzieci robiły dużo hałasu i to mnie drażniło.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "szarpać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I saw a man jarring a woman so I helped her.",
+                                "Translation": "(Widziałem mężczyznę szarpiącego kobietę, więc jej pomogłem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kłócić się (z czymś)",
+                            "nie pasować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "These pillows jar with the sofa.",
+                                "Translation": "(Te poduszki kłócą się z sofą.)"
+                            },
+                            {
+                                "Sentence": "You have to change something because your furniture jars with the room.",
+                                "Translation": "(Musisz coś zmienić, bo twoje meble nie pasują do pokoju.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wstrząsać",
+                            "wstrząsnąć (gwałtownie poruszyć)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He jarred the bottle of champagne before opening it.",
+                                "Translation": "(Wstrząsnął butelką szampana przed otworzeniem jej.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

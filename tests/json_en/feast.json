@@ -1,0 +1,94 @@
+[
+    {
+        "Entry": [
+            "feast"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "uroczystość",
+                            "przyjęcie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A huge feast is being held in your honour.",
+                                "Translation": "(Na twoją cześć wyprawiane jest wspaniałe przyjęcie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "uczta"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This dinner was a real feast.",
+                                "Translation": "(Ten obiad był prawdziwą ucztą.)"
+                            },
+                            {
+                                "Sentence": "There was a feast after the ceremony.",
+                                "Translation": "(Po ceremonii była uczta.)"
+                            },
+                            {
+                                "Sentence": "This whole time I was waiting for the feast.",
+                                "Translation": "(Cały ten czas czekałem na ucztę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "święto kościelne",
+                            "festyn kościelny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There is a feast in the city center today.",
+                                "Translation": "(Dzisiaj w centrum miasta jest festyn kościelny.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "święto"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ucztować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I was too ill to feast with them.",
+                                "Translation": "(Byłem zbyt chory, żeby z nimi ucztować.)"
+                            },
+                            {
+                                "Sentence": "This event is a great opportunity to feast.",
+                                "Translation": "(To wydarzenie jest świetną okazja do ucztowania.)"
+                            },
+                            {
+                                "Sentence": "Take your seats and get ready to feast.",
+                                "Translation": "(Zajmijcie miejsca i przygotujcie się do ucztowania.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "obchodzić uroczyście"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

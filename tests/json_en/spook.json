@@ -1,0 +1,71 @@
+[
+    {
+        "Entry": [
+            "spook"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "duch",
+                            "widmo",
+                            "zjawa"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "szpieg"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "czarnuch",
+                            "asfalt"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przestraszyć (kogoś)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "spook somebody"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wystraszyć kogoś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Don't spook my son; I don't want him to cry again.",
+                                "Translation": "(Nie wystrasz mojego syna; nie chcę, żeby znowu płakał.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

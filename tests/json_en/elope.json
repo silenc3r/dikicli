@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "elope"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "uciec, aby się pobrać potajemnie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I am ready to elope with her and get married.",
+                                "Translation": "(Jestem gotowy z nią uciec i wziąć ślub.)"
+                            },
+                            {
+                                "Sentence": "They wanted to elope and wed. They still can do that.",
+                                "Translation": "(Oni chcieli uciec i pobrać się. Oni wciąż mogą to zrobić.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

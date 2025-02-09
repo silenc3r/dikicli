@@ -1,0 +1,36 @@
+[
+    {
+        "Entry": [
+            "whim"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kaprys",
+                            "zachcianka",
+                            "grymas"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "While you are there, please feel free to indulge your every whim.",
+                                "Translation": "(Kiedy już tam będziecie, oddajcie się każdej zachciance.)"
+                            },
+                            {
+                                "Sentence": "My schedule is not subject to the whim of lunatics.",
+                                "Translation": "(Mój harmonogram nie jest podporządkowany kaprysom szaleńców.)"
+                            },
+                            {
+                                "Sentence": "You can't change your university course on a whim.",
+                                "Translation": "(Nie można zmienić kursu uczelnianego dla zachcianki.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

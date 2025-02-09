@@ -1,0 +1,37 @@
+[
+    {
+        "Entry": [
+            "jeer"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "gwizdy",
+                            "drwiny",
+                            "szyderstwo"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wyszydzać",
+                            "szydzić",
+                            "wyśmiewać",
+                            "drwić"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "blitheness"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "beztroskość",
+                            "niefrasobliwość"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

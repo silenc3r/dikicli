@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "aftermath"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "następstwo",
+                            "wynik",
+                            "pokłosie (np. wojny, klęski żywiołowej)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I see people struggling to emerge from the aftermath of the civil war atrocities.",
+                                "Translation": "(Widzę ludzi próbujących otrząsnąć się z następstw okrucieństw wojny domowej.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

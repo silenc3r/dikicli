@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "corpulent"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "korpulentny",
+                            "tęgi",
+                            "otyły"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

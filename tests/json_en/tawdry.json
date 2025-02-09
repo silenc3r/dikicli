@@ -1,0 +1,49 @@
+[
+    {
+        "Entry": [
+            "tawdry"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "krzykliwy",
+                            "tandetny",
+                            "niegustowny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This shop sells tawdry clothes and jewellery.",
+                                "Translation": "(Ten sklep sprzedaje tandetne ubrania i biżuterię.)"
+                            },
+                            {
+                                "Sentence": "The furnishings in her house are tawdry.",
+                                "Translation": "(Umeblowanie w jej domu jest niegustowne.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "brudny (np. sekret)",
+                            "niemoralny (o zagraniu)",
+                            "tani (o sztuczce)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I knew that his motives were tawdry.",
+                                "Translation": "(Wiedziałem, że jego motywy były niemoralne.)"
+                            },
+                            {
+                                "Sentence": "She discovered his tawdry secret.",
+                                "Translation": "(Ona odkryła jego brudny sekret.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

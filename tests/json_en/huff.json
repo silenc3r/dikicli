@@ -1,0 +1,49 @@
+[
+    {
+        "Entry": [
+            "huff"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "obrażać się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She huffed when I asked her not to go with me.",
+                                "Translation": "(Obraziła się, gdy poprosiłem ją aby nie szła ze mną.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dyszeć",
+                            "głośno sapać (z wysiłku)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "oburzać się",
+                            "gniewać się",
+                            "obruszać się",
+                            "wyrażać niezadowolenie"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "usuwać pionek przeciwnika za niewykorzystanie okazji do bicia",
+                            "zdejmować pionek przeciwnika za niebicie (warcaby)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

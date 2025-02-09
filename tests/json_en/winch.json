@@ -1,0 +1,58 @@
+[
+    {
+        "Entry": [
+            "winch",
+            "hoisting winch"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kołowrót ręczny",
+                            "korba"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "dźwig",
+                            "wyciąg",
+                            "wyciągarka (w samochodzie terenowym)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "kabestan (winda cumownicza do wybierania i luzowania cum i innych lin na statku)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wciągarka",
+                            "dźwig",
+                            "wyciąg (poziomy lub pochyły)",
+                            "linociąg"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "podnosić za pomocą kołowrotu",
+                            "windować wciągarką"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

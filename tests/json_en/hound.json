@@ -1,0 +1,55 @@
+[
+    {
+        "Entry": [
+            "hound"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ogar",
+                            "pies gończy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The hunters sent hounds after the fox.",
+                                "Translation": "(Myśliwi wysłali ogary w pogoni za lisem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pies"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Would you mind keeping your hound on a leash?",
+                                "Translation": "(Czy mógłbyś trzymać swojego psa na smyczy?)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ścigać",
+                            "prześladować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The reporters won't stop hounding her.",
+                                "Translation": "(Reporterzy nie przestaną jej prześladować.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

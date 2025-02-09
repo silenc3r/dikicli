@@ -1,0 +1,303 @@
+[
+    {
+        "Entry": [
+            "writ"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nakaz (urzędowy)",
+                            "rozporządzenie"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "pismo urzędowe"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "egzamin pisemny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "write"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pisać (zapisywać coś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Write your name on it.",
+                                "Translation": "(Napisz na tym swoje nazwisko.)"
+                            },
+                            {
+                                "Sentence": "You can write at the table over there.",
+                                "Translation": "(Możesz pisać przy tamtym stole.)"
+                            },
+                            {
+                                "Sentence": "She wrote him a letter.",
+                                "Translation": "(Ona napisała mu list.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pisać (tworzyć, np. książkę)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'm writing a book on Polish cuisine.",
+                                "Translation": "(Piszę książkę o polskiej kuchni.)"
+                            },
+                            {
+                                "Sentence": "I want to write a book about my adventures.",
+                                "Translation": "(Chcę napisać książkę o moich przygodach.)"
+                            },
+                            {
+                                "Sentence": "She wrote that book in 1984.",
+                                "Translation": "(Ona napisała tę książkę w 1984 roku.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pisać (być pisarzem, kompozytorem, itp.)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I write for a living.",
+                                "Translation": "(Zarabiam na życie pisząc.)"
+                            },
+                            {
+                                "Sentence": "She's always wanted to write but her mom wanted her to be a doctor.",
+                                "Translation": "(Ona zawsze chciała pisać, ale jej mama chciała, żeby była doktorem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pisać list",
+                            "napisać list"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I wrote a letter to him two weeks ago.",
+                                "Translation": "(Napisałem mu list dwa tygodnie temu.)"
+                            },
+                            {
+                                "Sentence": "You should write to your mother.",
+                                "Translation": "(Powinieneś napisać list do swojej matki.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "napisać",
+                            "stwierdzić"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Your teacher wrote that you are unbearable in class.",
+                                "Translation": "(Twoja nauczycielka stwierdziła, że jesteś nie do zniesienia w klasie.)"
+                            },
+                            {
+                                "Sentence": "My friend wrote that I'm selfish and rude.",
+                                "Translation": "(Moja koleżanka stwierdziła, że jestem samolubna i niegrzeczna.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "komponować (np. muzykę, piosenkę)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Vivaldi wrote \"The Four Seasons\".",
+                                "Translation": "(Vivaldi skomponował \"Cztery pory roku\".)"
+                            },
+                            {
+                                "Sentence": "Who wrote this song?",
+                                "Translation": "(Kto skomponował tę piosenkę?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "napisać",
+                            "pisać (program komputerowy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Bill Gates wrote his first computer program when he was 13.",
+                                "Translation": "(Bill Gates napisał swój pierwszy program komputerowy, kiedy miał 13 lat.)"
+                            },
+                            {
+                                "Sentence": "I have to write a computer program but I have no idea how.",
+                                "Translation": "(Muszę napisać program komputerowy, a nie mam pojęcia jak.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zapisać (dane na twardym dysku)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "When you click Save, the program will write the data on the hard disk.",
+                                "Translation": "(Kiedy klikniesz Zapisz, program zapisze dane na twardym dysku.)"
+                            },
+                            {
+                                "Sentence": "I wrote my essay and printed it.",
+                                "Translation": "(Zapisałam esej i go wydrukowałam.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pisać (o piórze, długopisie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My pen stopped writing.",
+                                "Translation": "(Mój długopis przestał pisać.)"
+                            },
+                            {
+                                "Sentence": "None of these pens write.",
+                                "Translation": "(Żaden z tych długopisów nie pisze.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "write",
+            "write out"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wypisać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Could you write me a prescription for some painkillers, doctor?",
+                                "Translation": "(Czy mógłby mi doktor wypisać receptę na jakieś leki przeciwbólowe?)"
+                            },
+                            {
+                                "Sentence": "She wrote out a cheque for me.",
+                                "Translation": "(Ona wypisała dla mnie czek.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "write somebody"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pisać do kogoś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Don't forget to write me.",
+                                "Translation": "(Nie zapomnij do mnie pisać.)"
+                            },
+                            {
+                                "Sentence": "I have to write my boss.",
+                                "Translation": "(Muszę napisać do mojego szefa.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "write to somebody"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pisać do kogoś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'll write to her later.",
+                                "Translation": "(Później do niej napiszę.)"
+                            },
+                            {
+                                "Sentence": "Promise you'll write to me.",
+                                "Translation": "(Obiecaj, że napiszesz do mnie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "write to something",
+            "write onto something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zapisać na czymś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She wrote my number onto a napkin.",
+                                "Translation": "(Ona zapisała mój numer na serwetce.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

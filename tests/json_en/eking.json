@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "eking"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "uzupełnianie",
+                            "uzupełnienie",
+                            "podreperowanie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

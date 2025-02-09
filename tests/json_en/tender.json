@@ -1,0 +1,178 @@
+[
+    {
+        "Entry": [
+            "tender"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "miękki",
+                            "kruchy (dobrze ugotowany)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Can you check if the meat is tender?",
+                                "Translation": "(Możesz sprawdzić czy mięso jest miękkie?)"
+                            },
+                            {
+                                "Sentence": "I don't like it when pasta is too tender.",
+                                "Translation": "(Nie lubię, kiedy makaron jest zbyt miękki.)"
+                            },
+                            {
+                                "Sentence": "The potatoes are not tender yet, let's wait a moment.",
+                                "Translation": "(Ziemniaki nie są jeszcze miękkie, poczekajmy chwilę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "czuły"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Her tone was tender, anxious.",
+                                "Translation": "(Jej ton głosu był czuły, zatroskany.)"
+                            },
+                            {
+                                "Sentence": "She gave him a tender kiss.",
+                                "Translation": "(Ona czule go pocałowała.)"
+                            },
+                            {
+                                "Sentence": "His tender touch made my knees weak.",
+                                "Translation": "(Jego czuły dotyk sprawiał, że kolana mi się uginały.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wrażliwy",
+                            "delikatny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She has a tender soul.",
+                                "Translation": "(Ona ma wrażliwą duszę.)"
+                            },
+                            {
+                                "Sentence": "He's so tender and romantic.",
+                                "Translation": "(On jest taki wrażliwy i romantyczny.)"
+                            },
+                            {
+                                "Sentence": "I was a tender child.",
+                                "Translation": "(Byłem wrażliwym dzieckiem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przetargowy (dot. przetargu)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "oferować"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mały statek pomocniczy"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "tender (wagon na węgiel i wodę za lokomotywą parową)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "przetarg"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "tender",
+            "bid"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "składać ofertę przetargową"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I don't understand why no other company bid.",
+                                "Translation": "(Nie rozumiem, dlaczego żadna inna firma nie złożyła oferty przetargowej.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "oferta (składana w przetargu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The highest bid will win.",
+                                "Translation": "(Najwyższa oferta wygra.)"
+                            },
+                            {
+                                "Sentence": "I can double that bid if you give me some more time.",
+                                "Translation": "(Mogę podwoić tę ofertę przetargową jeśli dacie mi trochę więcej czasu.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "tender something to somebody"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "oferować komuś coś"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "ditty"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "piosenka",
+                            "wierszowanka",
+                            "rymowanka"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "rzecz",
+                            "przedmiot"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "chokehold",
+            "choke hold"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "duszący uścisk",
+                            "duszenie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

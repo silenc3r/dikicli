@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "unilaterally"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "unilateralnie",
+                            "jednostronnie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

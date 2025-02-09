@@ -1,0 +1,207 @@
+[
+    {
+        "Entry": [
+            "felt"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "filc",
+                            "pilśń (rodzaj materiału)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "filcować"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "filcowy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "feel"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "czuć",
+                            "czuć się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He felt a pain in his leg.",
+                                "Translation": "(On poczuł ból w swojej nodze.)"
+                            },
+                            {
+                                "Sentence": "I feel nervous. I can't relax.",
+                                "Translation": "(Czuję się podenerwowany. Nie mogę się zrelaksować.)"
+                            },
+                            {
+                                "Sentence": "How do you feel?",
+                                "Translation": "(Jak się czujesz?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "doświadczać",
+                            "odczuwać",
+                            "doznać",
+                            "poczuć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I felt the same.",
+                                "Translation": "(Odczułem to samo.)"
+                            },
+                            {
+                                "Sentence": "She felt it twice.",
+                                "Translation": "(Ona doznała tego dwa razy.)"
+                            },
+                            {
+                                "Sentence": "Do you feel the atmosphere of this place?",
+                                "Translation": "(Czy czujesz atmosferę tego miejsca?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dotykać",
+                            "macać (sprawdzać lub badać dotykiem)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Can you feel my forehead? I think I have a fever.",
+                                "Translation": "(Czy możesz dotknąć mojego czoła? Myślę, że mam gorączkę.)"
+                            },
+                            {
+                                "Sentence": "Feel my knee - you see how swollen it is?",
+                                "Translation": "(Pomacaj moje kolano - widzisz, jakie jest spuchnięte?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "mieć wrażenie",
+                            "czuć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I feel as if I needed to do something.",
+                                "Translation": "(Mam wrażenie, jakbym miał coś zrobić.)"
+                            },
+                            {
+                                "Sentence": "She felt as if she had been there before.",
+                                "Translation": "(Ona poczuła, jakby już tam wcześniej była.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zrozumieć (kogoś)",
+                            "załapać (o co komuś chodzi)",
+                            "czaić",
+                            "kminić"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Now I feel you, bro.",
+                                "Translation": "(Teraz cię rozumiem, brachu.)"
+                            },
+                            {
+                                "Sentence": "I feel you, I went through the same thing.",
+                                "Translation": "(Czaję, przeszedłem przez to samo.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "czuć (uważać, sądzić)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I just felt you should respect my private life.",
+                                "Translation": "(Uważałam tylko, że powinieneś uszanować moje życie prywatne.)"
+                            },
+                            {
+                                "Sentence": "I feel it's the right time to tell you the truth.",
+                                "Translation": "(Czuję, że to odpowiedni moment, żeby powiedzieć ci prawdę.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wrażenie",
+                            "odczucie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You get the feel of the French culture here.",
+                                "Translation": "(Tu możesz odczuć francuską kulturę.)"
+                            },
+                            {
+                                "Sentence": "I had a feel of loneliness in the big empty house.",
+                                "Translation": "(Miałam wrażenie samotności w wielkim pustym domu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dotyk (fizyczne odczucie, gdy dotykamy czegoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I like the feel of your hand.",
+                                "Translation": "(Lubię dotyk twojej dłoni.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dotyk (zmysł dotyku)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You can tell it is leather by the feel.",
+                                "Translation": "(Możesz powiedzieć po dotyku, że to skóra.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

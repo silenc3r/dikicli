@@ -1,0 +1,41 @@
+[
+    {
+        "Entry": [
+            "obstruct"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przesłonić",
+                            "przesłaniać",
+                            "zatarasować",
+                            "zablokować",
+                            "zatkać",
+                            "zatykać (np. widok, rurę)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zablokować",
+                            "utrudniać",
+                            "bruździć",
+                            "zawadzać (np. ruch uliczny, postęp)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zablokować nieprzepisowo"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

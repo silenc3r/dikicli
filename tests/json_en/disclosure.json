@@ -1,0 +1,27 @@
+[
+    {
+        "Entry": [
+            "disclosure"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ujawnienie",
+                            "wyjawienie (np. poufnej informacji)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We had to close this secret military base due to the disclosure of its location.",
+                                "Translation": "(Musieliśmy zamknąć tę tajną bazę wojskową ze względu na wyjawienie jej umiejscowienia.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

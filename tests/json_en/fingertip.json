@@ -1,0 +1,35 @@
+[
+    {
+        "Entry": [
+            "fingertip"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "koniuszek palca",
+                            "opuszka palca"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She pushed the box open with her fingertips.",
+                                "Translation": "(Ona otwarła pudełko koniuszkami palców.)"
+                            },
+                            {
+                                "Sentence": "He tapped the file with his fingertips.",
+                                "Translation": "(On postukał teczkę koniuszkami palców.)"
+                            },
+                            {
+                                "Sentence": "Tom reached out and ran a fingertip along her hands.",
+                                "Translation": "(Tom wyciągnął rękę i przeciągnął koniuszkiem palca po jej dłoniach.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

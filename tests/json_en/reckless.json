@@ -1,0 +1,36 @@
+[
+    {
+        "Entry": [
+            "reckless"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nieostrożny",
+                            "nierozważny",
+                            "niebaczny",
+                            "lekkomyślny (na zagrożenie, niebezpieczeństwo)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "brawurowy (np. kierowca)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "trzpiotowaty"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

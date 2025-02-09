@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "punctilious"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "drobiazgowy",
+                            "skrupulatny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,115 @@
+[
+    {
+        "Entry": [
+            "curbing"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "materiał na krawężnik"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "powściąganie",
+                            "pohamowanie"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "ograniczenie",
+                            "ograniczanie (np. wydatków, podatków)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "hamowanie",
+                            "pohamowanie się"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "okiełznanie",
+                            "kiełznanie (konia)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "curb"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "powściągać",
+                            "pohamowywać (np. złość, pożądanie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Curb your anger, Michael.",
+                                "Translation": "(Pohamuj swoją złość, Michael.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ograniczać (np. wydatki, podatki)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We have to curb our expenses or else we will go bankrupt.",
+                                "Translation": "(Musimy ograniczyć nasze wydatki, bo inaczej zbankrutujemy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "hamować",
+                            "hamować się"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "okiełznać (konia)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ograniczenie"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wędzidło (część uprzęży końskiej)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

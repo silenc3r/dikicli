@@ -1,0 +1,70 @@
+[
+    {
+        "Entry": [
+            "drape"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zasłona",
+                            "kotara"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "draperia (fragment materiału)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "drapować",
+                            "marszczyć (materiał)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "That's what makes the pants drape so well.",
+                                "Translation": "(To przez to spodnie drapują się tak dobrze.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "powiesić luźno ubranie (na czymś lub na kimś, np. szal)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "owinąć",
+                            "pokryć (materiałem, np. kocem)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "luźno położyć się gdzieś",
+                            "luźno położyć gdzieś część ciała (np. ramię na kogoś barku)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

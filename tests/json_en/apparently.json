@@ -1,0 +1,54 @@
+[
+    {
+        "Entry": [
+            "apparently"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "widocznie",
+                            "najwidoczniej",
+                            "najwyraźniej"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Apparently, I always choose the losing side.",
+                                "Translation": "(Widocznie zawsze wybieram przegrywającą stronę.)"
+                            },
+                            {
+                                "Sentence": "He had no notes - apparently he needed none.",
+                                "Translation": "(On nie miał notatek - najwyraźniej nie potrzebował żadnych.)"
+                            },
+                            {
+                                "Sentence": "Apparently, she considered me an easy mark.",
+                                "Translation": "(Najwidoczniej ona uznała mnie za łatwy cel.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pozornie",
+                            "na pozór",
+                            "z pozoru",
+                            "podobno"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Apparently, they broke up.",
+                                "Translation": "(Podobno oni ze sobą zerwali.)"
+                            },
+                            {
+                                "Sentence": "He was brave only apparently.",
+                                "Translation": "(On był odważny tylko na pozór.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

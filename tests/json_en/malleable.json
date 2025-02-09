@@ -1,0 +1,31 @@
+[
+    {
+        "Entry": [
+            "malleable"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ciągliwy",
+                            "giętki",
+                            "kowalny",
+                            "podatny"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "uległy",
+                            "ulegający wpływom"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "Entry": [
+            "assuage",
+            "asswage"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ulżyć (w cierpieniu, bólu)",
+                            "koić (żal)",
+                            "zagłuszać (poczucie winy)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "gasić (pragnienie)",
+                            "zaspokajać (głód)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

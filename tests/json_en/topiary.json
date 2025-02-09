@@ -1,0 +1,21 @@
+[
+    {
+        "Entry": [
+            "topiary"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sztuka ozdobnego strzyżenia krzewów i drzew"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

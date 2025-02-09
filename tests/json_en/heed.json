@@ -1,0 +1,43 @@
+[
+    {
+        "Entry": [
+            "heed"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "uwaga"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "If he keeps paying no heed, he will get into trouble.",
+                                "Translation": "(Jeśli nadal nię będzie zwracał uwagi, to wpakuje się w kłopoty.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "uważać",
+                            "baczyć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Heed my words and do not open that door!",
+                                "Translation": "(Bacz na to co mówię i nie otwieraj tych drzwi!)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

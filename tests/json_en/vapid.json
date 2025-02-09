@@ -1,0 +1,38 @@
+[
+    {
+        "Entry": [
+            "vapid"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mdły",
+                            "banalny",
+                            "nudny (np. rozmowa)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "bezduszny",
+                            "bezbarwny",
+                            "nieciekawy (np. styl)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "tępy (umysłowo)",
+                            "pozbawiony wyrazu (np. uśmiech)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

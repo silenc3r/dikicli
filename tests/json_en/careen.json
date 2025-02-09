@@ -1,0 +1,47 @@
+[
+    {
+        "Entry": [
+            "career",
+            "careen"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przechylać się",
+                            "przechylać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She careered over the balcony.",
+                                "Translation": "(Ona przechyliła się przez balkon.)"
+                            },
+                            {
+                                "Sentence": "He careered and fell into the sea.",
+                                "Translation": "(On przechylił się i wpadł do morza.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pędzić (zwłaszcza o pojeździe)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A black car was careering on the motorway.",
+                                "Translation": "(Czarne auto pędziło po autostradzie.)"
+                            },
+                            {
+                                "Sentence": "Don't career like that. Do you want to kill all of us?",
+                                "Translation": "(Nie pędź tak. Chcesz nas wszystkich pozabijać?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "Entry": [
+            "clench"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ściskać",
+                            "ścisnąć",
+                            "zaciskać",
+                            "zacisnąć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He clenched his fist as if he wanted to hit me.",
+                                "Translation": "(On zacisnął pięść, jak gdyby chciał mnie uderzyć.)"
+                            },
+                            {
+                                "Sentence": "The man clenched his teeth so hard that he thought they would shatter.",
+                                "Translation": "(Mężczyzna zacisnął zęby tak mocno, że bał się, że się pokruszą.)"
+                            },
+                            {
+                                "Sentence": "After her comment, he clenched his jaw.",
+                                "Translation": "(Po jej komentarzu, on zacisnął szczękę.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "uścisk",
+                            "zacisk"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He has a very strong clench.",
+                                "Translation": "(On ma bardzo mocny uścisk.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

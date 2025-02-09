@@ -1,0 +1,148 @@
+[
+    {
+        "Entry": [
+            "bulk"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wielki rozmiar",
+                            "wielka bryła",
+                            "cielsko",
+                            "ogrom (o opakowaniu, o maszynerii, o budynku)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The bulk of the building made sure it was noticed.",
+                                "Translation": "(Wielkość bryły budynku sprawiała, że nie można było go nie dostrzec.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "cielsko",
+                            "zwalista figura (o dużym ciele)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The bull was sleeping in the middle of the road, blocking the way with its bulk.",
+                                "Translation": "(Byk spał na środku drogi, blokując przejście swoim cielskiem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "większość czegoś",
+                            "gros czegoś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Today, the bulk of these issues have still not been addressed.",
+                                "Translation": "(Do dnia dzisiejszego większość tych kwestii nadal nie została rozwiązana.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "hurt",
+                            "luz (o produktach)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I bought those things in bulk, so that we save some money.",
+                                "Translation": "(Kupiłem te rzeczy hurtem, żebyśmy trochę zaoszczędzili.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "błonnik"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "ładunek"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He was careful not to drop any of his bulk.",
+                                "Translation": "(On uważał, aby nie upuścić swojego ładunku.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "hurtowy",
+                            "masowy (o dostawie, o wysyłce)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I can get you a bulk discount on the shots.",
+                                "Translation": "(Mogę dać ci hurtowy rabat na te zastrzyki.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "masowy",
+                            "luzem (o transporcie, o przewozie towarów)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "być większością",
+                            "być główną częścią"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "bulk",
+            "bulk up"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zyskać masę ciała",
+                            "budować mięśnie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "If you want to bulk up, you have to work out a lot.",
+                                "Translation": "(Jeżeli chcesz zbudować mięśnie, musisz dużo ćwiczyć.)"
+                            },
+                            {
+                                "Sentence": "He bulked up in just a month.",
+                                "Translation": "(On zyskał masę ciała w tylko jeden miesiąc.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

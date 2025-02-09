@@ -1,0 +1,118 @@
+[
+    {
+        "Entry": [
+            "bold"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "odważny",
+                            "śmiały (np. decyzja)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She always had a soft spot for bold and open-minded men.",
+                                "Translation": "(Ona zawsze miała słabość do śmiałych i otwartych mężczyzn.)"
+                            },
+                            {
+                                "Sentence": "He made a bold decision.",
+                                "Translation": "(On podjął odważną decyzję.)"
+                            },
+                            {
+                                "Sentence": "Brave for you to come here with such bold words.",
+                                "Translation": "(Odważny jesteś, przychodząc tu z takimi śmiałymi słowami.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "śmiały",
+                            "odważny (np. strój)",
+                            "krzykliwy (np. kolor)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She wore a bold dress.",
+                                "Translation": "(Ona założyła odważną sukienkę.)"
+                            },
+                            {
+                                "Sentence": "She dyed her hair bold red.",
+                                "Translation": "(Ona zafarbowała swoje włosy na krzykliwą czerwień.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zuchwały",
+                            "bezczelny (np. uwaga)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She ignored his bold remark.",
+                                "Translation": "(Ona zignorowała jego bezczelny komentarz.)"
+                            },
+                            {
+                                "Sentence": "It was a bold question.",
+                                "Translation": "(To było bezczelne pytanie.)"
+                            },
+                            {
+                                "Sentence": "Your bold behaviour is inappropriate right now.",
+                                "Translation": "(Twoje zuchwałe zachowanie jest teraz nieodpowiednie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "niegrzeczny",
+                            "nieznośny (np. dziecko)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My sister's children are bold.",
+                                "Translation": "(Dzieci mojej siostry są nieznośne.)"
+                            },
+                            {
+                                "Sentence": "He punished his bold son.",
+                                "Translation": "(On ukarał swojego niegrzecznego syna.)"
+                            },
+                            {
+                                "Sentence": "Children from this class are really bold.",
+                                "Translation": "(Dzieci z tej klasy są naprawdę nieznośne.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wyraźny (pismo)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His handwriting is very bold.",
+                                "Translation": "(Jego charakter pisma jest bardzo wyraźny.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pogrubiony (czcionka)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The title was written in a bold print.",
+                                "Translation": "(Tytuł był napisany pogrubioną czcionką.)"
+                            },
+                            {
+                                "Sentence": "Bold letters will be more visible.",
+                                "Translation": "(Pogrubione litery będą bardziej widoczne.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

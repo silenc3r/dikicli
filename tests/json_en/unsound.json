@@ -1,0 +1,35 @@
+[
+    {
+        "Entry": [
+            "unsound"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "fałszywy",
+                            "oparty na błędnych przesłankach"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "niepewny",
+                            "ryzykowny (np. kredyt, sytuacja ekonomiczna)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "niezdrowy (np. umysł)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

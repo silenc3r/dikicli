@@ -1,0 +1,27 @@
+[
+    {
+        "Entry": [
+            "uppercut"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "hak",
+                            "cios"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I finally hit him with an uppercut to the stomach.",
+                                "Translation": "(W końcu trafiłem go hakiem w brzuch.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

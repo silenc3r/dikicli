@@ -1,0 +1,89 @@
+[
+    {
+        "Entry": [
+            "harness"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "uprząż (dla konia)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She put a harness on the horse before leading it out of the stable.",
+                                "Translation": "(Ona założyła uprząż na konia przed wyprowadzeniem go ze stajni.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "uprząż (do wspinaczki)",
+                            "szelki",
+                            "pas bezpieczeństwa"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You cannot climb here without a harness.",
+                                "Translation": "(Nie można się tutaj wspinać bez uprzęży.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "szelki (np. dla psa, kota)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "okiełznać",
+                            "ujarzmić"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Everything changed after the man harnessed fire.",
+                                "Translation": "(Wszystko się zmieniło, kiedy człowiek okiełznał ogień.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zaprzęgać",
+                            "wprzęgać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "pod pack",
+            "harness"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pas do fatów (do gry w paintball)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

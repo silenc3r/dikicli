@@ -1,0 +1,57 @@
+[
+    {
+        "Entry": [
+            "fern"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "paproć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There was a fern next to the door.",
+                                "Translation": "(Obok drzwi stała paproć.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "oak",
+            "fern",
+            "gymnocarpium"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "cienistka",
+                            "zachyłka (rodzaj paproci)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He collects and dries leaves of an oak.",
+                                "Translation": "(On zbiera i suszy liście zachyłki.)"
+                            },
+                            {
+                                "Sentence": "Oak usually occurs in the mountains.",
+                                "Translation": "(Cienistka zazwyczaj występuje w górach.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

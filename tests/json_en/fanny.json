@@ -1,0 +1,61 @@
+[
+    {
+        "Entry": [
+            "fanny"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pupa",
+                            "tyłek"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "cipa",
+                            "cipka",
+                            "dziurka (wulgarne określenie na żeńskie genitalia)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "Francesca",
+            "Fran",
+            "Franny",
+            "Fanny"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "nazwa własna",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "Franciszka (imię żeńskie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Francesca will show you to your office.",
+                                "Translation": "(Franciszka zaprowadzi cię do twojego biura.)"
+                            },
+                            {
+                                "Sentence": "Franny is my granddaughter.",
+                                "Translation": "(Franciszka jest moją wnuczką.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

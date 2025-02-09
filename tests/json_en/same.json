@@ -1,0 +1,130 @@
+[
+    {
+        "Entry": [
+            "same"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "taki sam",
+                            "identyczny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "the same"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ten sam",
+                            "taki sam"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We go to the same school.",
+                                "Translation": "(Chodzimy do tej samej szkoły.)"
+                            },
+                            {
+                                "Sentence": "Let's meet at the same place tomorrow.",
+                                "Translation": "(Spotkajmy się jutro w tym samym miejscu.)"
+                            },
+                            {
+                                "Sentence": "Why do we always have to talk about the same topics?",
+                                "Translation": "(Dlaczego zawsze musimy rozmawiać na te same tematy?)"
+                            },
+                            {
+                                "Sentence": "Your idea is the same as his.",
+                                "Translation": "(Twój pomysł jest taki jak jego.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "tak samo",
+                            "identycznie",
+                            "bez zmian"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "\"How does your mother feel?\" \"The same.\"",
+                                "Translation": "(\"Jak czuje się twoja matka?\" \"Bez zmian.\")"
+                            },
+                            {
+                                "Sentence": "\"How's life?\" \"The same.\"",
+                                "Translation": "(\"Jak życie?\" \"Bez zmian.\")"
+                            },
+                            {
+                                "Sentence": "He wanted the war to end, the same as Wally.",
+                                "Translation": "(Chciał, żeby skończyła się wojna, tak samo jak Wally.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "zaimek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "to samo"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "\"I'll have coffee, and you?\" \"The same.\"",
+                                "Translation": "(\"Ja wezmę kawę, a ty?\" \"To samo.\")"
+                            },
+                            {
+                                "Sentence": "\"I'll take a cake.\" \"The same for me.\"",
+                                "Translation": "(\"Wezmę ciasto.\" \"To samo dla mnie.\")"
+                            },
+                            {
+                                "Sentence": "They ordered an omelette, so she did the same.",
+                                "Translation": "(Oni zamówili omleta, więc ona zrobiła to samo.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "same to you"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "tobie również",
+                            "nawzajem",
+                            "wzajemnie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

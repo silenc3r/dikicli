@@ -1,0 +1,65 @@
+[
+    {
+        "Entry": [
+            "badger"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "borsuk"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I saw a badger in the forest.",
+                                "Translation": "(Widziałem borsuka w lesie.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "borsuczy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I've never drunk badger milk.",
+                                "Translation": "(Nigdy nie piłem borsuczego mleka.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wiercić dziurę w brzuchu",
+                            "zasypywać pytaniami",
+                            "uporczywie nakłaniać kogoś do czegoś",
+                            "zamęczać prośbami"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Stop badgering me.",
+                                "Translation": "(Przestań wiercić mi dziurę w brzuchu.)"
+                            },
+                            {
+                                "Sentence": "I badgered my wife into buying a new TV.",
+                                "Translation": "(Namówiłem żonę do kupienia nowego telewizora.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "moped"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "skuter",
+                            "motorower",
+                            "motorynka"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

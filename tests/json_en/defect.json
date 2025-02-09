@@ -1,0 +1,50 @@
+[
+    {
+        "Entry": [
+            "defect"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zbiec",
+                            "zbiegać",
+                            "uciec",
+                            "uciekać (np. z ojczyzny do innego kraju)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "defect"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "defekt",
+                            "wada",
+                            "usterka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His car was sent back to the factory because of an engine defect.",
+                                "Translation": "(Jego samochód został odesłany do fabryki z powodu defektu silnika.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

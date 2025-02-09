@@ -1,0 +1,136 @@
+[
+    {
+        "Entry": [
+            "crest"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "grzebień",
+                            "czubek (np. z piór u ptaków)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This bird can be identified by its colorful crest.",
+                                "Translation": "(Ten ptak może zostać rozpoznany dzięki jego kolorowemu grzebieniowi.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "grzebień",
+                            "grzbiet",
+                            "grań (w górach)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "On the other side of the crest there's another lake.",
+                                "Translation": "(Po drugiej stronie grani jest kolejne jezioro.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "grzebień (na hełmie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The knight wore a helmet with a bushy crest.",
+                                "Translation": "(Rycerz nosił hełm z puszystym grzebieniem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kita",
+                            "czub"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "herb",
+                            "korona",
+                            "tiara"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He opened the door and saw the family crest on the wall.",
+                                "Translation": "(Otworzył drzwi i zobaczył herb rodziny na ścianie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "grzebień",
+                            "wyrostek grzebieniasty (część anatomiczna ciała)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "klejnot herbowy"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "grzbiet (np. fali morskiej)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wspinać się na coś",
+                            "wspiąć się na coś",
+                            "wznieść się na coś",
+                            "wznosić się na coś"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zwieńczyć"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "osiągnąć maksymalny poziom"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "Scientific and Technical Research Committee",
+            "CREST"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "Komitet Badań Naukowych i Technicznych"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

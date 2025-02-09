@@ -1,0 +1,32 @@
+[
+    {
+        "Entry": [
+            "extol"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wynosić",
+                            "wychwalać",
+                            "chwalić",
+                            "wysławiać",
+                            "sławić",
+                            "wywyższać",
+                            "wynosić na wyżyny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They kept extolling my skills.",
+                                "Translation": "(Oni wciąż wychwalali moje umiejętności.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

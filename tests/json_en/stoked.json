@@ -1,0 +1,105 @@
+[
+    {
+        "Entry": [
+            "stoked"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "podjarany",
+                            "nakręcony"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She said she'd bring some pills. Are you stoked?",
+                                "Translation": "(Ona powiedziała, że przyniesie piguły. Jesteś podjarany?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "stoke"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dokładać (do pieca)",
+                            "dorzucać (do ognia)",
+                            "podsypywać"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wzbudzać (np. szacunek) wzniecać (np. emocje)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It stoked fear in me.",
+                                "Translation": "(To wzbudziło we mnie strach.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "palić w piecu",
+                            "piec"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "napchać się (jedzeniem)",
+                            "obżerać się"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "frygnąć (pobiec dokądś, krzątać się zwinnie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "be stoked"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "jarać się",
+                            "być podekscytowanym",
+                            "być podekscytowanym"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'm stoked about her new album.",
+                                "Translation": "(Jaram się jej nowym albumem.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

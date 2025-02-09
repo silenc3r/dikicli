@@ -1,0 +1,27 @@
+[
+    {
+        "Entry": [
+            "prudish"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pruderyjny",
+                            "świętoszkowaty"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He wanted to reawaken the passionate girl inside the prudish woman.",
+                                "Translation": "(On chciał obudzić na nowo namiętną dziewczynę wewnątrz świętoszkowatej kobiety.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

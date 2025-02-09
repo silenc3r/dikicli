@@ -1,0 +1,63 @@
+[
+    {
+        "Entry": [
+            "derelict"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "włóczęga",
+                            "bezdomny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I saw some derelicts near the waste dump.",
+                                "Translation": "(Widziałem jakichś bezdomnych w pobliżu wysypiska śmieci.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wrak (statku)",
+                            "rzecz porzucona"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "opuszczony (np. budynek)",
+                            "porzucony (o rzeczy)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "niedbały",
+                            "nieuważny",
+                            "winny (zaniedbania)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Most road accidents are caused by derelict drivers.",
+                                "Translation": "(Większość wypadków drogowych jest spowodowana przez nieuważnych kierowców.)"
+                            },
+                            {
+                                "Sentence": "The prime minister was deemed derelict in his duty since he didn't take the opportunity to prevent the worst-case scenario.",
+                                "Translation": "(Premier został uznany winnym zaniedbania swoich powinności, ponieważ nie skorzystał z okazji, aby zapobiec najgorszemu scenariuszowi.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

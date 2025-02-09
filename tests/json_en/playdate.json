@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "play date",
+            "playdate"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "umówione spotkanie w celu wspólnej zabawy",
+                            "zabawa dla dzieci (wcześniej umówiona)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

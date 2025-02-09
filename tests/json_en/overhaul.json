@@ -1,0 +1,76 @@
+[
+    {
+        "Entry": [
+            "overhaul"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przegląd",
+                            "naprawa",
+                            "remont kapitalny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It is about time a general overhaul of public transport was carried out.",
+                                "Translation": "(Najwyższy czas, aby dokonać kapitalnego remontu transportu publicznego.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "restrukturyzacja"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Our parliamentary system is in need of an overhaul.",
+                                "Translation": "(Nasz system parlamentarny potrzebuje restrukturyzacji.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "badanie (np. przez lekarza)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "overhaul"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przeprowadzać przegląd",
+                            "dokonać remontu kapitalnego",
+                            "naprawić",
+                            "naprawiać"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wyprzedzić",
+                            "wyprzedzać",
+                            "dogonić",
+                            "doganiać (np. rywala, samochód)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "sobriety"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "trzeźwość (abstynencja od alkoholu)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "powaga",
+                            "rozsądek",
+                            "trzeźwość (umysłu)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "gaudy",
+            "garish",
+            "gawdy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "krzykliwy",
+                            "jaskrawy (kolor)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He was a big man, with expensive but also garish clothes.",
+                                "Translation": "(On był dużym mężczyzną z drogimi, ale i krzykliwymi ubraniami.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

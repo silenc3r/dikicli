@@ -1,0 +1,31 @@
+[
+    {
+        "Entry": [
+            "devious"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przebiegły",
+                            "oszukańczy",
+                            "nieszczery (o osobie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "okrężny (o drodze)",
+                            "kręty (o ścieżce)",
+                            "pokrętny (np. sposób)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

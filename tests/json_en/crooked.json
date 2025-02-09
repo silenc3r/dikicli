@@ -1,0 +1,135 @@
+[
+    {
+        "Entry": [
+            "crooked"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "krzywy",
+                            "przekrzywiony (np. krawat, uliczka)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He's got crooked teeth.",
+                                "Translation": "(On ma krzywe zęby.)"
+                            },
+                            {
+                                "Sentence": "Your tie is crooked.",
+                                "Translation": "(Twój krawat jest przekrzywiony.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nieuczciwy",
+                            "szemrany (np. policjant)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "crook"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "oszust"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Most of these politicians are just a bunch of crooks.",
+                                "Translation": "(Większość z tych polityków to tylko banda oszustów.)"
+                            },
+                            {
+                                "Sentence": "I was deceived by some crook who told me it was gold.",
+                                "Translation": "(Zostałem nabrany przez jakiegoś oszusta, który powiedział mi, że to było złoto.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zakręt",
+                            "zgięcie łokciowe"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zakrzywiony kij pastuszy",
+                            "pastorał"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The shepherd carried a long crook.",
+                                "Translation": "(Pasterz niósł długi, zakrzywiony kij.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "krąglik (część rogu - instrumentu muzycznego)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "chory (o osobie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'll stop by at Kate's - she's such a poor crook.",
+                                "Translation": "(Wpadnę do Kate - jest taka biedna chora.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "podły (o jedzeniu, piciu niskiej jakości)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I've never eaten at such a crook restaurant before.",
+                                "Translation": "(Nigdy nie jadłem w tak podłej restauracji.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zginać",
+                            "kiwnąć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The lady delicately crooked her finger as she picked up the cup.",
+                                "Translation": "(Dama delikatnie zgięła palec podnosząc filiżankę.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

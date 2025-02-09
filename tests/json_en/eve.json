@@ -1,0 +1,77 @@
+[
+    {
+        "Entry": [
+            "eve"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przeddzień",
+                            "wigilia"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The whole family got together on the Christmas Eve.",
+                                "Translation": "(Cała rodzina zebrała się na Wigilię Świąt Bożego Narodzenia.)"
+                            },
+                            {
+                                "Sentence": "We went out on a date on the eve of my birthday.",
+                                "Translation": "(Byliśmy na randce w przeddzień moich urodzin.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zmierzch",
+                            "wieczór"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Last eve, he had done much the same to her.",
+                                "Translation": "(Ostatniego wieczora on zrobił jej to samo.)"
+                            },
+                            {
+                                "Sentence": "You will regret this by the time eve comes.",
+                                "Translation": "(Będziesz tego żałował zanim przyjdzie wieczór.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "Eve",
+            "Evie",
+            "Eva"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "nazwa własna",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "Ewa (imię żeńskie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It was some time before Eve could make up her mind.",
+                                "Translation": "(Minęła chwila zanim Ewa podjęła decyzję.)"
+                            },
+                            {
+                                "Sentence": "Evie is my friend, and you don't even know her.",
+                                "Translation": "(Ewa jest moją przyjaciółką, a ty jej nawet nie znasz.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

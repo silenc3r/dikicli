@@ -1,0 +1,140 @@
+[
+    {
+        "Entry": [
+            "brass"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mosiądz"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Don't forget, even priceless brass turns black!",
+                                "Translation": "(Nie zapominaj, nawet bezcenny mosiądz czernieje!)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "instrumenty dęte blaszane"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He wants to talk about the brass instruments we're thinking about buying.",
+                                "Translation": "(On chce porozmawiać o instrumentach dętych, które zamierzamy kupić.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "elementy mosiężne",
+                            "przedmioty mosiężne",
+                            "mosiądze"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "forsa"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "dziwka",
+                            "prostytutka"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mosiężny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The statue had a brass plate on it.",
+                                "Translation": "(Na posągu była mosiężna tabliczka.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "brass"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pokrywać mosiądzem (np. instrument)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "top brass",
+            "the brass"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wierchuszka (grupa ludzi sprawujących władzę w państwie)",
+                            "szefostwo",
+                            "najważniejsi urzędnicy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "the brass"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sekcja instrumentów dętych blaszanych"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "ludzie na kierowniczych stanowiskach"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "Entry": [
+            "deliberation"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "narada",
+                            "obrady"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The jury's deliberations lasted two days.",
+                                "Translation": "(Obrady ławy przysięgłych trwały dwa dni.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przezorność",
+                            "rozwaga"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

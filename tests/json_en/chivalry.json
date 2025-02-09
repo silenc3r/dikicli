@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "chivalry"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rycerstwo",
+                            "rycerskość"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "rycerskość",
+                            "galanteria",
+                            "wyszukana grzeczność"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

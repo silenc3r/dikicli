@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "morass"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bagno (trudna sytuacja)",
+                            "gąszcz (np. pracy papierkowej)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "bagno",
+                            "trzęsawisko"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

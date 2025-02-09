@@ -1,0 +1,98 @@
+[
+    {
+        "Entry": [
+            "console"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pocieszyć",
+                            "pocieszać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "console"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "konsola",
+                            "konsoleta",
+                            "pulpit sterowniczy",
+                            "tablica sterownicza"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There was a big red button on the console.",
+                                "Translation": "(Na konsoli był wielki czerwony przycisk.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "szafka",
+                            "konsola"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I picked up a book from the console.",
+                                "Translation": "(Wzięłam książkę z szafki.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wspornik",
+                            "konsola"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "konsola (np. gier wideo)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My mother doesn't let me play long on a console.",
+                                "Translation": "(Mama nie pozwala mi długo grać na konsoli.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "console somebody"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pocieszać kogoś"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

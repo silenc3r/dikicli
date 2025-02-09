@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "dilate"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozszerzać się (np. o źrenicy)",
+                            "zwiększać objętość (np. o komorze serca)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "rozwodzić się",
+                            "rozpisywać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "Entry": [
+            "deter"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "odstraszać (kogoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "New security measures are being introduced to deter thieves.",
+                                "Translation": "(Nowe systemy zabezpieczeń są wprowadzane w celu odstraszania złodziei.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

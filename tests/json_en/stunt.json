@@ -1,0 +1,57 @@
+[
+    {
+        "Entry": [
+            "stunt"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wyczyn",
+                            "popis (kaskaderski)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Her latest stunt was walking on a tightrope.",
+                                "Translation": "(Jej ostatni wyczyn to chodzenie po linie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "afera",
+                            "sensacja",
+                            "chwyt (reklamowy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Their row was just a publicity stunt.",
+                                "Translation": "(Ich kłótnia była tylko chwytem reklamowym.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "spowalniać (rozwój czegoś)",
+                            "hamować (wzrost czegoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Inappropriate teaching may stunt the learning potential of children.",
+                                "Translation": "(Niewłaściwe nauczanie może zahamować potencjał dzieci do uczenia się.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

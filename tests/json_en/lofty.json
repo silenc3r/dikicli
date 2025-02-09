@@ -1,0 +1,45 @@
+[
+    {
+        "Entry": [
+            "lofty"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szczytny",
+                            "wzniosły"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He has lofty goals.",
+                                "Translation": "(On ma szczytne cele.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wyniosły",
+                            "dumny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She was a lofty princess.",
+                                "Translation": "(Ona była wyniosłą księżniczką.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wysoki"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

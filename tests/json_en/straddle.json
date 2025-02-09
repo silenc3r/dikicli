@@ -1,0 +1,77 @@
+[
+    {
+        "Entry": [
+            "straddle"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "siedzieć okrakiem (np. na koniu, na motorze)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "stać z rozstawionymi nogami",
+                            "rozkraczyć się",
+                            "stanąć rozkrokiem"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "rozciągać się nad czymś",
+                            "znajdować się po obu stronach czegoś (np. granicy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His house straddles the border.",
+                                "Translation": "(Jego dom stoi na granicy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nie angażować się w danej sprawie",
+                            "popierać obie strony (w kwestiach spornych)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zawierać",
+                            "obejmować (gdy coś obejmuje więcej niż jedną rzecz)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The book straddles two genres.",
+                                "Translation": "(Książka obejmuje dwa gatunki.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozkrok"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "opcja podwójna"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

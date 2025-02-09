@@ -1,0 +1,92 @@
+[
+    {
+        "Entry": [
+            "desolate"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "odludny",
+                            "opuszczony (np. dom)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "niepocieszony",
+                            "pogrążony w smutku (o osobie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I was unhappy and desolate for so long.",
+                                "Translation": "(Tak długo byłem nieszczęśliwy i pogrążony w smutku.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "spustoszony",
+                            "zdewastowany",
+                            "zniszczony (o okolicy)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "samotny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "desolate"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wyludniać (okolicę)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "pustoszyć",
+                            "dewastować",
+                            "niszczyć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The war desolated our country.",
+                                "Translation": "(Wojna spustoszyła nasz kraj.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "opuszczać (kogoś w potrzebie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "pogrążać w smutku (kogoś)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

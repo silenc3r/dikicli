@@ -1,0 +1,99 @@
+[
+    {
+        "Entry": [
+            "snag"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przeszkoda",
+                            "trudność",
+                            "szkopuł"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It appears there is a snag in our plan.",
+                                "Translation": "(Wygląda na to, że wnaszym planie jest jakaś przeszkoda.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "suszka (częściowo lub całkowicie martwe, suche drzewo)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There was a snag by the road.",
+                                "Translation": "(Przy drodze stała suszka.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ostry wystający element czegoś",
+                            "odłamany fragment (np. zęba)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There was a snag of tooth sticking out of the skull.",
+                                "Translation": "(Z czaszki wystawał ostry fragment zęba.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "haczyk (kruczek prawny w dokumencie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Every document has some kind of a snag.",
+                                "Translation": "(Każdy dokument ma jakiś rodzaj haczyka.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "serdelek",
+                            "kiełbaska"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozerwać",
+                            "rozedrzeć (o coś)",
+                            "porwać (np. ubranie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My clothes got snagged when I walked through the forest.",
+                                "Translation": "(Moje ubrania się porwały, jak przechodziłem przez las.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "złapać",
+                            "capnąć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I snagged the bottle from the shelf.",
+                                "Translation": "(Capnąłem butelkę z półki.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "Entry": [
+            "alloy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "stop (np. metali)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Steel is a metal alloy whose major components are iron and carbon.",
+                                "Translation": "(Stal jest stopem metali, w którym głównymi składnikami są żelazo i węgiel.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mieszać (dwa metale w celu uzyskania stopu)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

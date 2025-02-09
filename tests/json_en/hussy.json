@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "hussy",
+            "hussie"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "latawica",
+                            "lafirynda"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "Entry": [
+            "feeble"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "słaby",
+                            "nikły",
+                            "marny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The feeble old man collapsed on the sidewalk.",
+                                "Translation": "(Słaby stary mężczyzna upadł na chodnik.)"
+                            },
+                            {
+                                "Sentence": "She made a feeble attempt to explain the issue.",
+                                "Translation": "(Ona zrobiła marną próbę wytłumaczenia problemu.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

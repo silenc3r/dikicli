@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "perpetuate"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "uwieczniać",
+                            "utrwalać",
+                            "zachowywać"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "nadawać nieprzerwany bieg",
+                            "kontynuować"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

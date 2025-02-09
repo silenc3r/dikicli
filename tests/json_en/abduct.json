@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "abduct"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "uprowadzać (kogoś siłą)",
+                            "porywać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

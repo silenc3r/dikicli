@@ -1,0 +1,83 @@
+[
+    {
+        "Entry": [
+            "poaching"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kłusownictwo"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "gotowanie w małej ilości płynu"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "poach"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "gotować jajko bez skorupki"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "gotować w małej ilości wody lub mleka (dusić)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "kłusować",
+                            "uprawiać kłusownictwo",
+                            "polować nielegalnie"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "kaperować (werbować do swojej firmy pracowników innej firmy)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "kraść (pomysły, informacje)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "odbierać piłkę partnerowi"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He poached the ball and scored a goal.",
+                                "Translation": "(On odebrał piłke partnerowi i strzelił gola.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

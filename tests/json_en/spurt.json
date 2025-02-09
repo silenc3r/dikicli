@@ -1,0 +1,72 @@
+[
+    {
+        "Entry": [
+            "spurt",
+            "spirt"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "strumień (wody)",
+                            "struga (ognia)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wybuch (radości)",
+                            "atak (złości)",
+                            "przypływ (adrenaliny)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "przyspieszenie",
+                            "zwiększenie",
+                            "przyśpieszenie (np. tempa)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "nagły wzrost (np. cen)",
+                            "nagłe pójście w górę (np. akcji)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "tryśnięcie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wytryskać (o wodzie)",
+                            "buchać (o płomieniach)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "przyspieszać",
+                            "przyśpieszać (bieg, jazdę)",
+                            "zwiększać (tempo)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

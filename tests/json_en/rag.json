@@ -1,0 +1,178 @@
+[
+    {
+        "Entry": [
+            "rag"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szmata (do sprzątania)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Take the rag and start cleaning up this mess.",
+                                "Translation": "(Weź szmatę i zacznij sprzątać ten bałagan.)"
+                            },
+                            {
+                                "Sentence": "My old T-shirt served as a rag.",
+                                "Translation": "(Moja stara koszulka służyła za szmatę.)"
+                            },
+                            {
+                                "Sentence": "She wiped the floor with a rag.",
+                                "Translation": "(Ona wytarła podłogę szmatą.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "gadzinówka"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "utwór w stylu ragtime"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zbiórka pieniędzy przez studentów na cele społeczne",
+                            "połączona z zabawami"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "chustka do nosa"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wkładka higieniczna",
+                            "cienka podpaska"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "dupek",
+                            "gnój",
+                            "gnojek"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "szmatka",
+                            "kawałek materiału",
+                            "skrawek materiału",
+                            "gałganek"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dokuczać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szmaciany"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "gossip rag",
+            "rag"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szmatławiec",
+                            "brukowiec"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "rag",
+            "rags"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ciuch",
+                            "ciuchy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You only have to wear this rag on duty days.",
+                                "Translation": "(Te ciuchy trzeba nosić tylko jak się dyżuruje.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "rag somebody"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wyśmiewać się z kogoś"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zwymyślać kogoś",
+                            "skrytykować kogoś"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

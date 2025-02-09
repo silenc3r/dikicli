@@ -1,0 +1,82 @@
+[
+    {
+        "Entry": [
+            "tranny",
+            "trannie"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "transseksualista"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "transwestyta"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "tranzystor"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "transseksualny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "gearbox",
+            "transmission",
+            "tranny"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "skrzynia biegów"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I learned how to drive on a manual transmission, so driving an automatic is easy for me.",
+                                "Translation": "(Uczyłem się jeździć w samochodzie z ręczną skrzynią biegów, więc prowadzenie z automatyczną jest dla mnie proste.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przekładnia"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "To avoid situations like this, we should think about regular gearbox maintenance.",
+                                "Translation": "(Żeby uniknąć sytuacji takich jak ta, powinniśmy pomyśleć o regularnej konserwacji przekładni.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

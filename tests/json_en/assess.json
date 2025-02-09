@@ -1,0 +1,69 @@
+[
+    {
+        "Entry": [
+            "assess"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "oceniać",
+                            "poddawać ocenie",
+                            "wyceniać",
+                            "oszacowywać",
+                            "określać (np. wartość czegoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Can you assess the value of this ring?",
+                                "Translation": "(Czy możesz oszacować cenę tego pierścionka?)"
+                            },
+                            {
+                                "Sentence": "I can't assess how many people came to the concert.",
+                                "Translation": "(Nie potrafię oszacować, ilu ludzi przyszło na koncert.)"
+                            },
+                            {
+                                "Sentence": "My fiancée has already assessed the costs of our wedding reception.",
+                                "Translation": "(Moja narzeczona oszacowała już koszty naszego wesela.)"
+                            },
+                            {
+                                "Sentence": "Can you assess our chance to win this match?",
+                                "Translation": "(Czy możesz ocenić naszą szansę na wygranie tego meczu?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "oceniać (np. prace uczniów)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I need to assess these papers by tomorrow.",
+                                "Translation": "(Muszę ocenić te prace do jutra.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nakładać podatek",
+                            "wymierzać podatek"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The Inland Revenue assessed me.",
+                                "Translation": "(Urząd skarbowy nałożył na mnie podatek.)"
+                            },
+                            {
+                                "Sentence": "Our government wants to assess those who are rich.",
+                                "Translation": "(Nasz rząd chce nałożyć podatek na tych, którzy są bogaci.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

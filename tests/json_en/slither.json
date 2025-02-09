@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "slither"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ślizgać się",
+                            "poślizgnąć się (na czymś)",
+                            "ześlizgnąć się (z czegoś)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "pełzać (o wężu)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "uneasiness",
+            "unease"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niepokój",
+                            "zaniepokojenie",
+                            "skrępowanie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Public speaking in general provokes uneasiness.",
+                                "Translation": "(Ogólnie rzecz biorąc, wystąpienia publiczne wywołują niepokój.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

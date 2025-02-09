@@ -1,0 +1,45 @@
+[
+    {
+        "Entry": [
+            "foreman"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "majster",
+                            "mistrz",
+                            "brygadzista (w fabryce)",
+                            "kierownik (na budowie)",
+                            "sztygar (w kopalni)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He's a construction foreman.",
+                                "Translation": "(On jest kierownikiem na budowie.)"
+                            },
+                            {
+                                "Sentence": "You have to speak to your foreman.",
+                                "Translation": "(Musisz porozmawiać ze swoim brygadzistą.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przewodniczący ławy przysięgłych"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The foreman presented the verdict.",
+                                "Translation": "(Przewodniczący ławy przysięgłych przedstawił decyzję.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

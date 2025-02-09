@@ -1,0 +1,46 @@
+[
+    {
+        "Entry": [
+            "tenacity"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wytrzymałość",
+                            "ciągliwość (materiału)",
+                            "spoistość (metalu)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "upór",
+                            "nieustępliwość",
+                            "zawziętość"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "siła (uścisku)",
+                            "trwałość (pamięci)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "lepkość (substancji)",
+                            "przylepność",
+                            "czepliwość"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

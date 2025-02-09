@@ -1,0 +1,408 @@
+[
+    {
+        "Entry": [
+            "position",
+            "post"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "stanowisko",
+                            "posada"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Remember, you can lose your post as fast as you have gained it.",
+                                "Translation": "(Pamiętaj, że możesz stracić swoją posadę tak szybko, jak ją zyskałeś.)"
+                            },
+                            {
+                                "Sentence": "I was offered a new position at the job.",
+                                "Translation": "(Zaoferowano mi nowe stanowisko w pracy.)"
+                            },
+                            {
+                                "Sentence": "He seems much too young to hold such a post.",
+                                "Translation": "(On zdaje się zbyt młody, aby zajmować takie stanowisko.)"
+                            },
+                            {
+                                "Sentence": "I'd like to offer you a post in the government.",
+                                "Translation": "(Chciałbym zaproponować ci posadę w rządzie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "post",
+            "mail"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wysyłać (pocztą)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I should post this letter as soon as possible.",
+                                "Translation": "(Powinienem wysłać ten list tak szybko, jak to możliwe.)"
+                            },
+                            {
+                                "Sentence": "I mailed the letter you gave me this morning.",
+                                "Translation": "(Wysłałem list, który mi dałeś dzisiaj rano.)"
+                            },
+                            {
+                                "Sentence": "Did you post the documents as I asked you?",
+                                "Translation": "(Czy wysłałeś pocztą dokumenty, tak jak cię prosiłem?)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "poczta (system pocztowy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I prefer to send this package by courier rather than by post.",
+                                "Translation": "(Wolę wysłać tę paczkę kurierem niż pocztą.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "poczta (listy, korespondencja pocztowa)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The post for you, m'lady.",
+                                "Translation": "(Milady, poczta do pani.)"
+                            },
+                            {
+                                "Sentence": "Is there any post for me?",
+                                "Translation": "(Czy jest dla mnie jakaś poczta?)"
+                            },
+                            {
+                                "Sentence": "Did you remember to check the mail?",
+                                "Translation": "(Pamiętałeś żeby sprawdzić pocztę?)"
+                            },
+                            {
+                                "Sentence": "Is there any mail for me?",
+                                "Translation": "(Czy jest do mnie jakaś poczta?)"
+                            },
+                            {
+                                "Sentence": "I have to stay home today because I'm waiting for mail.",
+                                "Translation": "(Muszę dziś zostać w domu, bo czekam na pocztę.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "post"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "słup",
+                            "słupek (np. część płotu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There is a speaker box on a post.",
+                                "Translation": "(Na słupie wisi głośnik.)"
+                            },
+                            {
+                                "Sentence": "He ran into the post.",
+                                "Translation": "(On wjechał na słupek.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "słupek (część bramki)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The ball bounced off the post.",
+                                "Translation": "(Piłka odbiła się od słupka.)"
+                            },
+                            {
+                                "Sentence": "The ball should not touch the post.",
+                                "Translation": "(Piłka nie powinna dotknąć słupka.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "posterunek (np. na granicy państwowej)",
+                            "punkt (np. obserwacyjny)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He had to go down and find a hiding place, a kind of observation post.",
+                                "Translation": "(On musiał zejść i znaleźć kryjówkę, coś w rodzaju punktu obserwacyjnego.)"
+                            },
+                            {
+                                "Sentence": "The post was a brick-built building.",
+                                "Translation": "(Posterunek był ceglanym budynkiem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "post (wiadomość na grupie dyskusyjnej)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I've read some posts on the forum saying that this place is worth visiting.",
+                                "Translation": "(Czytałam posty na forum o tym, że to miejsce jest warte zwiedzenia.)"
+                            },
+                            {
+                                "Sentence": "I wrote a post about my problem and I got some good advice.",
+                                "Translation": "(Napisałem post o moim problemie i dostałem trochę dobrych rad.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "delegować (do jednostki)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I was posted to an infantry regiment in 2000.",
+                                "Translation": "(Oddelegowano mnie do pułku piechoty w 2000 roku.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wystawiać (np. strażnika na posterunek)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He decided to post guards and give them very strict orders.",
+                                "Translation": "(On zdecydował się wystawić strażników i wydać im ścisłe polecenia.)"
+                            },
+                            {
+                                "Sentence": "They've posted him here to guard the local camp and he doesn't seem to like it.",
+                                "Translation": "(Wystawili go tu celem pilnowania tutejszego obozowiska, ale to zdaje się mu nie podobać.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ogłaszać",
+                            "publikować (w formie obwieszczenia)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I want to post my article.",
+                                "Translation": "(Chcę opublikować mój artykuł.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "umieszczać (np. coś na stronie internetowej)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I posted the advertisement on our website.",
+                                "Translation": "(Umieściłem ogłoszenie na naszej stronie internetowej.)"
+                            },
+                            {
+                                "Sentence": "You should post this photo on your website, it's beautiful.",
+                                "Translation": "(Powinieneś umieścić to zdjęcie na swojej stronie internetowej, jest piękne.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "post",
+            "post up"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozlepiać",
+                            "wywieszać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Our dog is missing, we must post his pictures in the neighbourhood.",
+                                "Translation": "(Nasz pies zaginął, musimy rozlepiać jego zdjęcia w okolicy.)"
+                            },
+                            {
+                                "Sentence": "Someone has to post our posters.",
+                                "Translation": "(Ktoś musi rozlepić nasze plakaty.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "post",
+            "enter"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zaksięgować",
+                            "księgować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Did you post the last expense?",
+                                "Translation": "(Zaksięgowałaś ostatni wydatek?)"
+                            },
+                            {
+                                "Sentence": "When will the bank post my money?",
+                                "Translation": "(Kiedy bank zaksięguje moje pieniądze?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "the post",
+            "the finishing post"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "celownik (meta w wyścigach konnych)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His horse was the last at the finishing post.",
+                                "Translation": "(Jego koń dotarł do mety ostatni.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "post-"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "prefiks",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "po- (następujący po czymś, np. pooperacyjny)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "sticky note",
+            "post-it",
+            "post-it note"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "karteczka samoprzylepna"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Write down his phone number on a post-it.",
+                                "Translation": "(Zapisz jego numer telefonu na karteczce samoprzylepnej.)"
+                            },
+                            {
+                                "Sentence": "She wrote their address on a post-it.",
+                                "Translation": "(Ona zapisała ich adres na karteczce samoprzylepnej.)"
+                            },
+                            {
+                                "Sentence": "Post-its are ideal for noting down short messages.",
+                                "Translation": "(Karteczki samoprzylepne są idealne do notowania krótkich wiadomości.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "power-on self-test",
+            "POST"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "test POST",
+                            "procedura sprawdzająca poprawność działania podstawowych podzespołów komputera"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

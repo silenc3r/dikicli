@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "bandicoot"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "jamraj",
+                            "borsuk workowaty (ssak z rodziny torbaczy)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

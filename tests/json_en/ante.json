@@ -1,0 +1,60 @@
+[
+    {
+        "Entry": [
+            "ante"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "stawka",
+                            "wejście (np. w grze karcianej)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "postawić",
+                            "stawiać (np. w grze w pokera)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wpłacić",
+                            "wpłacać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "ante-"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "prefiks",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przed"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

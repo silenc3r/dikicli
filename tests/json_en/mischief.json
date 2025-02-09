@@ -1,0 +1,39 @@
+[
+    {
+        "Entry": [
+            "mischief"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "figiel",
+                            "psota",
+                            "szelmostwo"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "krzywda",
+                            "nieszczęście",
+                            "szkoda",
+                            "niegodziwość"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "urwis",
+                            "szelma"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

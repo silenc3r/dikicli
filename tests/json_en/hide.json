@@ -1,0 +1,213 @@
+[
+    {
+        "Entry": [
+            "hide"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "chować",
+                            "ukrywać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The girl hid the doll in the garden.",
+                                "Translation": "(Dziewczynka ukryła lalkę w ogrodzie.)"
+                            },
+                            {
+                                "Sentence": "He was hiding it from the police.",
+                                "Translation": "(On ukrywał to przed policją.)"
+                            },
+                            {
+                                "Sentence": "She hid her face in her hands.",
+                                "Translation": "(Ona schowała twarz w dłoniach.)"
+                            },
+                            {
+                                "Sentence": "They were hiding Jews during the Second World War.",
+                                "Translation": "(Oni ukrywali Żydów podczas drugiej wojny światowej.)"
+                            },
+                            {
+                                "Sentence": "Are you hiding illegal immigrants?",
+                                "Translation": "(Czy ukrywacie nielegalnych imigrantów?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "chować się",
+                            "ukrywać się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Where are you hiding?",
+                                "Translation": "(Gdzie się chowasz?)"
+                            },
+                            {
+                                "Sentence": "Stop hiding from me.",
+                                "Translation": "(Przestań się przede mną ukrywać.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ukrywać",
+                            "zamaskowywać (np. swoje uczucia)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She is good in hiding her feelings.",
+                                "Translation": "(Ona jest dobra w ukrywaniu swoich uczuć.)"
+                            },
+                            {
+                                "Sentence": "They should have hidden themselves in the bushes better.",
+                                "Translation": "(Oni powinni byli się lepiej zamaskować w krzakach.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zlać",
+                            "stłuc",
+                            "dać lanie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My older brother will hide you if you touch me!",
+                                "Translation": "(Mój starszy brat cię zleje, jeśli mnie dotkniesz!)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "skóra zwierzęca (wyprawiona)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He has a bag made from hide.",
+                                "Translation": "(On ma torbę zrobioną ze skóry.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "hide",
+                            "łan (jednostka miary powierzchni ziemi)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "screen",
+            "hide"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "osłaniać",
+                            "zasłaniać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "hide",
+            "blind"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ekran maskujący (np. do obserwowania ptaków)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Where did you buy this blind?",
+                                "Translation": "(Gdzie kupiłeś ten ekran maskujący?)"
+                            },
+                            {
+                                "Sentence": "You need to use a hide to get close to the birds.",
+                                "Translation": "(Musisz użyć ekranu maskującego, żeby zbliżyć się do ptaków.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "somebody's hide"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "czyjś tyłek (używane do opisu trudnej sytuacji, w której ktoś się znajduje)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The truth will not save his hide.",
+                                "Translation": "(Prawda nie uratuje mu tyłka.)"
+                            },
+                            {
+                                "Sentence": "He's saved my hide too many times to count.",
+                                "Translation": "(On ratował mój tyłek zbyt wiele razy, żeby liczyć.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "have somebody's hide"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "złoić komuś skórę"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'll have your hide once we get home.",
+                                "Translation": "(Złoję ci skórę, jak wrócimy do domu.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

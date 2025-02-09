@@ -1,0 +1,27 @@
+[
+    {
+        "Entry": [
+            "dissuade"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "odwodzić",
+                            "odwieść (np. od jakiegoś pomysłu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He tried to dissuade me from jumping off the cliff.",
+                                "Translation": "(On próbował odwieść mnie od skakania z klifu.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

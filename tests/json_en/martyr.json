@@ -1,0 +1,62 @@
+[
+    {
+        "Entry": [
+            "martyr"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "cierpiętnik",
+                            "męczennik"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "If you kill him now, he will become a martyr to their cause.",
+                                "Translation": "(Jeżeli zabijesz go teraz, zostanie męczennikiem dla ich sprawy.)"
+                            },
+                            {
+                                "Sentence": "Many of the Christian saints are martyrs for their faith.",
+                                "Translation": "(Wielu chrześcijańskich świętych to męczennicy za wiarę.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zamęczyć",
+                            "zadać śmierć męczeńską"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "be a martyr to something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "być męczennikiem dla sprawy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

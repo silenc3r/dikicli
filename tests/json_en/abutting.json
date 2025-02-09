@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "abut"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "graniczyć (z czymś)",
+                            "przylegać (do czegoś)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

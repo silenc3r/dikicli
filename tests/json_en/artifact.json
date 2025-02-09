@@ -1,0 +1,47 @@
+[
+    {
+        "Entry": [
+            "artefact",
+            "artifact"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "artefakt",
+                            "dzieło rąk ludzkich (zwłaszcza o historycznym znaczeniu)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "nieprawidłowy element wyniku badania naukowego (w wyniku ingerencji zewnętrznej, np. człowieka)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wada w obrazie lub dźwięku, powstająca zwykle w wyniku kompresji danych"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "elektrokardiograficzna fala, która pochodzi ze źródeł innych niż serce lub mózg"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "magiczny przedmiot o cennych właściwościach (w grach oraz fantastyce)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

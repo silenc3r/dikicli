@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "desultory"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bezładny",
+                            "chaotyczny",
+                            "przypadkowy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

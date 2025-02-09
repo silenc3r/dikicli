@@ -1,0 +1,34 @@
+[
+    {
+        "Entry": [
+            "pamphlet",
+            "pam.",
+            "pamph."
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pamflet",
+                            "satyra",
+                            "broszurka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Take the pamphlets and pass them along.",
+                                "Translation": "(Weźcie broszury i podajcie je dalej.)"
+                            },
+                            {
+                                "Sentence": "The pamphlet includes all the information needed.",
+                                "Translation": "(Ten pamflet zawiera wszystkie potrzebne informacje.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

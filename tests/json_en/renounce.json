@@ -1,0 +1,34 @@
+[
+    {
+        "Entry": [
+            "renounce"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zrzekać się (np. stanowiska)",
+                            "wypowiadać (np. umowę)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wyrzekać się",
+                            "wypierać się (poglądów)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They forced her to renounce her faith.",
+                                "Translation": "(Oni zmusili ją do wyrzeknięcia się wiary.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

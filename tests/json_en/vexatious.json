@@ -1,0 +1,25 @@
+[
+    {
+        "Entry": [
+            "vexatious",
+            "vexing"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dokuczliwy",
+                            "irytujący",
+                            "nieznośny",
+                            "przykry"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "Entry": [
+            "jostle",
+            "justle"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "popchnąć",
+                            "popychać",
+                            "potrącić",
+                            "potrącać",
+                            "szturchnąć",
+                            "szturchać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Don't jostle me!",
+                                "Translation": "(Nie popychaj mnie!)"
+                            },
+                            {
+                                "Sentence": "Mum, she jostled me!",
+                                "Translation": "(Mamo, ona mnie szturchnęła!)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rozpychać się",
+                            "przepychać się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Don't jostle on the bus.",
+                                "Translation": "(Nie przepychaj się w autobusie.)"
+                            },
+                            {
+                                "Sentence": "She always jostles when she sleeps.",
+                                "Translation": "(Ona zawsze się rozpycha, gdy śpi.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przepychać się łokciami",
+                            "walczyć",
+                            "rywalizować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He jostled with me for a shirt in the shop.",
+                                "Translation": "(On walczył ze mną o koszulę w sklepie.)"
+                            },
+                            {
+                                "Sentence": "They both jostled to get out of the building.",
+                                "Translation": "(One obie przepychały się łokciami, by wydostać się z budynku.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

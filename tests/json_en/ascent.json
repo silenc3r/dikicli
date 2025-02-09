@@ -1,0 +1,63 @@
+[
+    {
+        "Entry": [
+            "ascent"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wspinaczka",
+                            "wspinanie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The ascent took them a day, but they reached the summit.",
+                                "Translation": "(Wspinaczka zajęła im cały dzień, ale zdobyli szczyt.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wejście pod górę",
+                            "ścieżka pod górę"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This ascent is the safest on this mountain.",
+                                "Translation": "(Ta ścieżka jest najbezpieczniejsza na tej górze.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pięcie się w górę"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This year marked his ascent through the ranks of the company.",
+                                "Translation": "(Ten rok był oznaczony przez jego pięcie się w górę w szeregach firmy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zdobycie szczytu górskiego",
+                            "wejście na szczyt"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "podbieg"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

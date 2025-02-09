@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "senile"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "starczy (np. wiek)",
+                            "zniedołężniały (o osobie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

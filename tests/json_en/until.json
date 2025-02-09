@@ -1,0 +1,96 @@
+[
+    {
+        "Entry": [
+            "until",
+            "till",
+            "'til",
+            "til"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "spójnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "póki",
+                            "póki nie",
+                            "dopóki",
+                            "dopóki nie",
+                            "aż",
+                            "aż nie",
+                            "do czasu, gdy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You won't know it until you try.",
+                                "Translation": "(Nie będziesz tego wiedział, póki nie spróbujesz.)"
+                            },
+                            {
+                                "Sentence": "I won't give you dinner until you clean your room.",
+                                "Translation": "(Nie dam ci obiadu, dopóki nie posprzątasz w swoim pokoju.)"
+                            },
+                            {
+                                "Sentence": "You can't leave your office until you finish the project.",
+                                "Translation": "(Nie możesz opuścić swojego biura, dopóki nie skończysz projektu.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przyimek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "do",
+                            "aż do",
+                            "aż"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She went shopping - she won't be back until late this afternoon.",
+                                "Translation": "(Ona pojechała na zakupy - nie będzie jej aż do późnego popołudnia.)"
+                            },
+                            {
+                                "Sentence": "Can't you wait until you get home?",
+                                "Translation": "(Nie możesz zaczekać, aż dotrzesz do domu?)"
+                            },
+                            {
+                                "Sentence": "Let's wait until tomorrow.",
+                                "Translation": "(Zaczekajmy do jutra.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "not until"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nie przed",
+                            "po jakimś czasie",
+                            "nie wcześniej",
+                            "dopiero"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Not until the next morning did he really know why she left him.",
+                                "Translation": "(Dopiero następnego ranka naprawdę wiedział, dlaczego go zostawiła.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

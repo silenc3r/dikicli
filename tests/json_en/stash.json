@@ -1,0 +1,62 @@
+[
+    {
+        "Entry": [
+            "stash"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "chować (coś cennego)",
+                            "skrywać (coś)",
+                            "mieć w schowku (coś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The stolen pictures were stashed in an abandoned house.",
+                                "Translation": "(Ukradzione obrazy zostały ukryte w opuszczonym domu.)"
+                            },
+                            {
+                                "Sentence": "I stashed a present for her under my bed.",
+                                "Translation": "(Ukryłem prezent dla niej pod moim łóżkiem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "odkładać (na później)",
+                            "gromadzić (np. pieniądze)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The businessman stashed his earnings abroad.",
+                                "Translation": "(Biznesmen gromadził swoje pieniądze za granicą.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ukryte zapasy",
+                            "zapasy na czarną godzinę"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zapas narkotyków na własne potrzeby"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "Entry": [
+            "dengue",
+            "dengue fever",
+            "breakbone fever",
+            "dandy fever"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "denga (gorączka tropikalna)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He died from dengue fever.",
+                                "Translation": "(On zmarł na dengę.)"
+                            },
+                            {
+                                "Sentence": "Mosquitoes are carrying malaria and dengue fever into that region.",
+                                "Translation": "(Komary przenoszą do tamtego regionu malarię i gorączkę tropikalną.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

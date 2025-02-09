@@ -1,0 +1,24 @@
+[
+    {
+        "Entry": [
+            "irritable"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "drażliwy",
+                            "łatwo wpadający w irytację",
+                            "pobudliwy",
+                            "rozdrażniony"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

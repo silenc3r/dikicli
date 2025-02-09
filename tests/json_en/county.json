@@ -1,0 +1,101 @@
+[
+    {
+        "Entry": [
+            "county"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "hrabstwo"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Are you from the county of Devon?",
+                                "Translation": "(Jesteś z hrabstwa Devon?)"
+                            },
+                            {
+                                "Sentence": "In my region lies the historic county of Northamptonshire.",
+                                "Translation": "(W moim regionie leży historyczne hrabstwo Northamptonshire.)"
+                            },
+                            {
+                                "Sentence": "He's from the Surrey county.",
+                                "Translation": "(On pochodzi z hrabstwa Surrey.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "hrabstwo",
+                            "powiat"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You are the best lawyer in the county.",
+                                "Translation": "(Jesteś najlepszym prawnikiem w powiecie.)"
+                            },
+                            {
+                                "Sentence": "He owns almost every farm in the county.",
+                                "Translation": "(On posiada prawie każda farmę w powiecie.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "okręgowy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "County court sentenced him to twenty hours of community work.",
+                                "Translation": "(Sąd okręgowy skazał go na dwadzieścia godzin prac społecznych.)"
+                            },
+                            {
+                                "Sentence": "He's in the county jail.",
+                                "Translation": "(On jest w więzieniu okręgowym.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "afektowany",
+                            "z wyższych sfer (określenie pejoratywne)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He's a county boy, he acts like a king.",
+                                "Translation": "(On jest chłopcem z wyższych sfer, zachowuje się jak król.)"
+                            },
+                            {
+                                "Sentence": "Why are you acting like a county person?",
+                                "Translation": "(Dlaczego zachowujesz się jak osoba z wyższych sfer?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "powiatowy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The county election went according to the plan.",
+                                "Translation": "(Wybory powiatowe poszły zgodnie z planem.)"
+                            },
+                            {
+                                "Sentence": "The county budget will be well used this year.",
+                                "Translation": "(Budżet powiatowy zostanie w tym roku dobrze wykorzystany.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

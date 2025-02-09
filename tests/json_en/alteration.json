@@ -1,0 +1,60 @@
+[
+    {
+        "Entry": [
+            "alteration"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zmiana (np. planu, rozkładu zajęć)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There were some alterations to our schedule.",
+                                "Translation": "(Nastąpiły pewne zmiany w naszym grafiku.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przemiana (np. zachowania, postawy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His behaviour has gone through a considerable alteration.",
+                                "Translation": "(Jego zachowanie przeszło znaczącą przemianę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przeróbka",
+                            "poprawka (krawiecka)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I need to make some alterations on the stitches.",
+                                "Translation": "(Muszę wykonać kilka poprawek na szwach.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przebudowa (np. budynku)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The building had three extra rooms after the alteration.",
+                                "Translation": "(Budynek miał trzy dodatkowe pokoje po przebudowie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

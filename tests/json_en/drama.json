@@ -1,0 +1,61 @@
+[
+    {
+        "Entry": [
+            "drama"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dramat (rodzaj literacki)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I enjoy Shakespeare's dramas.",
+                                "Translation": "(Lubię dramaty Szekspira.)"
+                            },
+                            {
+                                "Sentence": "I prefer prose to drama.",
+                                "Translation": "(Wolę epikę od dramatu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "aktorstwo"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'm studying drama in Paris.",
+                                "Translation": "(Studiuję aktorstwo w Paryżu.)"
+                            },
+                            {
+                                "Sentence": "My friend Tom studies drama.",
+                                "Translation": "(Mój przyjaciel Tom studiuje aktorstwo.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dramat",
+                            "tragedia (np. życiowa)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Losing a child is a human drama.",
+                                "Translation": "(Strata dziecka jest ludzkim dramatem.)"
+                            },
+                            {
+                                "Sentence": "It was a family drama because they lost a house in the flood.",
+                                "Translation": "(To była rodzinna tragedia, ponieważ oni stracili dom w powodzi.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

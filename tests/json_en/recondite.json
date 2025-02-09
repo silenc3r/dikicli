@@ -1,0 +1,24 @@
+[
+    {
+        "Entry": [
+            "recondite"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ukryty (np. fakt)",
+                            "tajemny (o wiedzy)",
+                            "zawiły (np. styl)",
+                            "mało znany (o sobie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

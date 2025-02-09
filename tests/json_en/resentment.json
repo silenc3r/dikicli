@@ -1,0 +1,41 @@
+[
+    {
+        "Entry": [
+            "resentment"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "gniew",
+                            "niechęć",
+                            "frustracja"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She felt a new wave of resentment towards Jacqueline.",
+                                "Translation": "(Ona odczuwała nową falę niechęci do Jacqueline.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przykrość",
+                            "uraza",
+                            "rozżalenie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I could feel her resentment even though she didn't say anything.",
+                                "Translation": "(Czułem jej rozżalenie, nawet jeżeli nic nie mówiła.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

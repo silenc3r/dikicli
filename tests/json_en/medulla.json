@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "medulla"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szpik",
+                            "rdzeń",
+                            "istota rdzenna"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

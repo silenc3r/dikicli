@@ -1,0 +1,318 @@
+[
+    {
+        "Entry": [
+            "foul"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "faul (np. w piłce nożnej)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Three and a half minutes into the game, he had to take a seat with two personal fouls.",
+                                "Translation": "(Trzy i pół minuty od rozpoczęcia gry on już musiał zejść na ławkę z powodu dwóch fauli osobistych.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zderzenie",
+                            "kolizja (statków, graczy)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zaplątanie (np. liny, kotwicy)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "okropny",
+                            "obrzydliwy",
+                            "odrażający",
+                            "paskudny",
+                            "ohydny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This meal's taste is foul.",
+                                "Translation": "(Smak tego dania jest okropny.)"
+                            },
+                            {
+                                "Sentence": "The murder was foul. The body is missing its head.",
+                                "Translation": "(Morderstwo było ohydne. Ciału brakuje głowy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "brudny",
+                            "zanieczyszczony"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The foul sea is a threat to many organisms.",
+                                "Translation": "(Zanieczyszczone morze jest zagrożeniem dla wielu organizmów.)"
+                            },
+                            {
+                                "Sentence": "The beach was foul because of the people.",
+                                "Translation": "(Plaża była zanieczyszczona przez ludzi.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "paskudny",
+                            "burzowy",
+                            "zimny (np. o dniu, pogodzie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This weather is foul. It's so cold.",
+                                "Translation": "(Ta pogoda jest paskudna. Jest tak zimno.)"
+                            },
+                            {
+                                "Sentence": "What a foul day! It's raining again!",
+                                "Translation": "(Co za paskudny dzień! Znów pada!)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nieprzepisowy",
+                            "niecny",
+                            "nikczemny"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "porośnięty (przez muszle, wodorosty; o elementach na spodzie statku)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zaplątany",
+                            "splątany (o kotwicy, linie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "niesprzyjający (o wietrze, fali)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zarośnięty (zwł. chwastami)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His garden was foul with weeds.",
+                                "Translation": "(Jego ogród był zarośnięty chwastami.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zepsuty",
+                            "popsuty",
+                            "przeterminowany (o jedzeniu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Our son got sick from the foul food.",
+                                "Translation": "(Nasz syn rozchorował się przez zepsute jedzenie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zapchany (np. odpływ, rura)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "kiepski",
+                            "słaby"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "brzydki"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "błędny",
+                            "z naniesionymi poprawkami (o jakimś wydruku)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "faulować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She was fouled, and her free throw gave the Americans an 83-70 lead.",
+                                "Translation": "(Ona została zfaulowana, a jej rzut wolny dał Amerykanom przewagę 83-70.)"
+                            },
+                            {
+                                "Sentence": "If you foul anyone, you will be kicked out.",
+                                "Translation": "(Jeśli kogoś sfaulujesz, to zostaniesz wyrzucony.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "oszukiwać"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wybić piłkę poza boisko (w baseballu)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zanieczyszczać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The factory fouled the river.",
+                                "Translation": "(Fabryka zanieczyściła rzekę.)"
+                            },
+                            {
+                                "Sentence": "If they foul the sea, they have to be punished.",
+                                "Translation": "(Jeśli oni zanieczyszczają morze, muszą zostać ukarani.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zderzyć się z czymś"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zablokować",
+                            "zaklinować (jakiś mechanizm, np. śrubę napędową statku przez linę)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zablokować się",
+                            "zaklinować się (o jakimś mechanizmie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "załatwiać się gdzieś (o zwierzęciu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Don't let your dog foul the pavement.",
+                                "Translation": "(Nie pozwól, aby twój pies załatwił się na chodniku.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zatykać",
+                            "zapychać",
+                            "blokować (np. odpływ, rurę)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zatykać się",
+                            "zapychać się",
+                            "blokować się (np. o odpływie, rurze)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "skompromitować",
+                            "zhańbić"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zaplątać się (np. o linie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "obrastać",
+                            "porastać (dno statku)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nieuczciwie",
+                            "nieprzepisowo"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "foul oneself"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mimowolnie wypróżniać się"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

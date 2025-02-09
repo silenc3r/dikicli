@@ -1,0 +1,85 @@
+[
+    {
+        "Entry": [
+            "kale",
+            "kail"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "forsa",
+                            "kapusta"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "How much kale do you have?",
+                                "Translation": "(Ile masz forsy?)"
+                            },
+                            {
+                                "Sentence": "I have some kale hidden in the house.",
+                                "Translation": "(Mam trochę forsy schowanej w domu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kapusta"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We grow kale in our garden.",
+                                "Translation": "(Uprawiamy kapustę w naszym ogrodzie.)"
+                            },
+                            {
+                                "Sentence": "We need more than some kales for dinner.",
+                                "Translation": "(Potrzebujemy więcej niż kilka kapust na obiad.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kapuśniak",
+                            "zupa jarzynowa"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She says that kale is healthy.",
+                                "Translation": "(Ona mówi, że zupa jarzynowa jest zdrowa.)"
+                            },
+                            {
+                                "Sentence": "She hates eating kale.",
+                                "Translation": "(Ona nienawidzi jeść kapuśniaku.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "kale",
+            "borecole",
+            "curly kale",
+            "Brassica oleracea acephala"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "jarmuż (odmiana kapusty)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

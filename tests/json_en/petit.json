@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "petit"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mały",
+                            "nieważny",
+                            "nieistotny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "futilely"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "na darmo",
+                            "na próżno",
+                            "bezskutecznie"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "głupio",
+                            "bez sensu (np. gadać)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

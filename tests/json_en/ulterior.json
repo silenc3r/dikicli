@@ -1,0 +1,38 @@
+[
+    {
+        "Entry": [
+            "ulterior"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "następny",
+                            "dalszy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We proceeded without ulterior problems.",
+                                "Translation": "(Kontynuowaliśmy bez dalszych problemów.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ukryty (motyw)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I believe that he has an ulterior motive.",
+                                "Translation": "(Wierzę, że on ma jakiś ukryty motyw.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

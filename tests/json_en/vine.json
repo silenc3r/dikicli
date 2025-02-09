@@ -1,0 +1,70 @@
+[
+    {
+        "Entry": [
+            "vine",
+            "grapevine"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "winorośl"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "That vine looks like a snake.",
+                                "Translation": "(Ta winorośl wygląda jak wąż.)"
+                            },
+                            {
+                                "Sentence": "He picked some grapes from the grapevine.",
+                                "Translation": "(On zebrał kilka winogron z winorośli.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "vine"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "roślina pnąca",
+                            "pnącze"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "vine"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kilkusekundowy filmik (nazwa pochodzi od serwisu Vine, który umożliwiał tworzenie i udostępnianie takich krótkich filmów)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

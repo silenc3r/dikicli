@@ -1,0 +1,77 @@
+[
+    {
+        "Entry": [
+            "lime tree",
+            "linden",
+            "basswood",
+            "tilia"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "lipa"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "lipowy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "lime",
+            "linden",
+            "basswood"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "drewno lipowe"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "At my grandfather's it always smelled of linden.",
+                                "Translation": "(U mojego dziadka zawsze pachniało drewnem lipowym.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "lipowy (o drewnie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He bought a lime door for his new apartment.",
+                                "Translation": "(On kupił lipowe drzwi do jego nowego mieszkania.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

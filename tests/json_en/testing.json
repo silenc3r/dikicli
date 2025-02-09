@@ -1,0 +1,273 @@
+[
+    {
+        "Entry": [
+            "testing"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "podchwytliwy",
+                            "kłopotliwy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The police asked me a lot of testing questions.",
+                                "Translation": "(Policja zadała mi wiele podchwytliwych pytań.)"
+                            },
+                            {
+                                "Sentence": "I hope the teacher won't set testing questions.",
+                                "Translation": "(Mam nadzieję, że nauczyciel nie ułoży podchwytliwych pytań.)"
+                            },
+                            {
+                                "Sentence": "It was a testing conversation.",
+                                "Translation": "(To była kłopotliwa rozmowa.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "testowanie",
+                            "sprawdzanie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There are many ways of testing a child's intelligence.",
+                                "Translation": "(Jest wiele sposobów na sprawdzanie inteligencji dziecka.)"
+                            },
+                            {
+                                "Sentence": "Testing your knowledge is necessary.",
+                                "Translation": "(Sprawdzanie waszej wiedzy jest konieczne.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "test"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "test (sprawdzian lub egzamin)",
+                            "klasówka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Our teacher gave us a spelling test.",
+                                "Translation": "(Nasz nauczyciel zrobił nam sprawdzian z pisowni.)"
+                            },
+                            {
+                                "Sentence": "You're not allowed to talk during the test.",
+                                "Translation": "(Nie wolno rozmawiać w czasie testu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "badanie (np. krwi)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She carried out all the necessary blood tests.",
+                                "Translation": "(Ona przeprowadziła wszystkie potrzebne badania krwi.)"
+                            },
+                            {
+                                "Sentence": "You may have anaemia. You should do a blood test.",
+                                "Translation": "(Możesz mieć anemię. Powinieneś zrobić badanie krwi.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "test (przyrząd, np. test ciążowy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You should buy a pregnancy test to see if you're having a baby.",
+                                "Translation": "(Powinnaś kupić test ciążowy, żeby zobaczyć, czy będziesz mieć dziecko.)"
+                            },
+                            {
+                                "Sentence": "She hid the pregnancy test under her bed.",
+                                "Translation": "(Ona schowała test ciążowy pod łóżkiem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "test",
+                            "testowanie",
+                            "sprawdzenie (np. nowego leku)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The test of the new robot took a lot of time.",
+                                "Translation": "(Testowanie nowego robota zajęło dużo czasu.)"
+                            },
+                            {
+                                "Sentence": "We need money for the test of that new drug.",
+                                "Translation": "(Potrzebujemy pieniędzy na testowanie tego nowego leku.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "test",
+                            "próba",
+                            "sprawdzian (np. czyichś umiejętności)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This war was a test of power.",
+                                "Translation": "(Ta wojna była próbą siły.)"
+                            },
+                            {
+                                "Sentence": "This competition was a test of your strength.",
+                                "Translation": "(Te zawody były sprawdzianem twojej siły.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "mecz z drużyną z innego kraju"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We have a test with a Spanish team today.",
+                                "Translation": "(Dzisiaj mamy mecz z hiszpańską drużyną.)"
+                            },
+                            {
+                                "Sentence": "We have never played a test before.",
+                                "Translation": "(Nigdy wcześniej nie graliśmy meczu z drużyną z innego kraju.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kolokwium",
+                            "test sprawdzający wiedzę studentów"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "badać (np. krew)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "If you're not feeling well you should test your blood.",
+                                "Translation": "(Jeśli nie czujesz się najlepiej, powinieneś zbadać sobie krew.)"
+                            },
+                            {
+                                "Sentence": "My doctor advised me to have my urine tested.",
+                                "Translation": "(Mój lekarz zalecił mi zbadanie moczu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "badać (np. wodę pod kątem czystości)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We should test this water before we let people drink it.",
+                                "Translation": "(Powinniśmy zbadać tę wodę, zanim pozwolimy ludziom ją pić.)"
+                            },
+                            {
+                                "Sentence": "I tested my blood but everything was fine.",
+                                "Translation": "(Zbadałam krew, ale wszystko było w porządku.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "testować",
+                            "sprawdzać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Our company tests toys for safety.",
+                                "Translation": "(Nasza firma testuje zabawki pod względem bezpieczeństwa.)"
+                            },
+                            {
+                                "Sentence": "I have to have my eyes tested.",
+                                "Translation": "(Muszę poddać się badaniu wzroku.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "próbować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I tested the salad, it's not good.",
+                                "Translation": "(Próbowałem sałatki, jest niedobra.)"
+                            },
+                            {
+                                "Sentence": "Could you please test the soup? I don't know if I should season it more or not.",
+                                "Translation": "(Czy możesz, proszę, spróbować zupy? Nie wiem, czy powinienem ją bardziej przyprawić, czy nie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wypróbowywać (np. kogoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We should test him and see if we can trust him.",
+                                "Translation": "(Powinniśmy go wypróbować i zobaczyć, czy możemy mu ufać.)"
+                            },
+                            {
+                                "Sentence": "Let's test him for a month and see how he will cope.",
+                                "Translation": "(Wypróbujmy go przez miesiąc i zobaczmy jak sobie poradzi.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "testowy",
+                            "kontrolny (np. pytanie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I marked twenty test questions.",
+                                "Translation": "(Ja oceniłem dwadzieścia pytań testowych.)"
+                            },
+                            {
+                                "Sentence": "He knew all the test answers.",
+                                "Translation": "(On znał wszystkie odpowiedzi testowe.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

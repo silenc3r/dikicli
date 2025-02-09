@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "travois",
+            "travoise"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rodzaj indiańskiego zaprzęgu stosowanego do przewożenia ładunku"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "Entry": [
+            "VAT",
+            "value-added tax",
+            "Value Added Tax"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "VAT",
+                            "podatek od wartości dodanej"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You don't have to register if your business provides VAT-exempt services.",
+                                "Translation": "(Nie musisz się rejestrować, jeśli twoja firma zapewnia usługi zwolnione z podatku VAT.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "vat"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "cysterna",
+                            "kadź",
+                            "zbiornik"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

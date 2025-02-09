@@ -1,0 +1,26 @@
+[
+    {
+        "Entry": [
+            "feasible"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wykonalny",
+                            "możliwy",
+                            "prawdopodobny",
+                            "realny do wykorzystania",
+                            "możliwy do zrealizowania",
+                            "osiągalny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

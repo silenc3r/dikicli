@@ -1,0 +1,26 @@
+[
+    {
+        "Entry": [
+            "cranium"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "czaszka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The medical students have to study the structure of a cranium.",
+                                "Translation": "(Studenci medycyny muszą uczyć się budowy czaszki.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

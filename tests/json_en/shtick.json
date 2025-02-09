@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "shtick",
+            "schtick"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "charakterystyczny styl humoru (np. artysty, komedianta)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "sztuczka",
+                            "trik"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

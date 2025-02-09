@@ -1,0 +1,57 @@
+[
+    {
+        "Entry": [
+            "zest"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "entuzjazm",
+                            "werwa",
+                            "zapał"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I always come back with a new zest for life.",
+                                "Translation": "(Zawsze wracam z nowym zapałem do życia.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pikanteria",
+                            "smaczek (czyniący coś bardziej interesującym, ekscytującym)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "skórka owocowa (dodawana np. do drinka lub potrawy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Finely slice oranges and grate zest.",
+                                "Translation": "(Drobno pokroić pomarańcze i utrzeć skórkę.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ścierać skórkę z cytrusa, aby użyć jej w potrawie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

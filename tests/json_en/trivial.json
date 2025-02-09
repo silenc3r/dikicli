@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "trivial"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "błahy",
+                            "trywialny",
+                            "bagatelny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

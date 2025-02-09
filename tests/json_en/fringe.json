@@ -1,0 +1,180 @@
+[
+    {
+        "Entry": [
+            "fringe",
+            "bangs"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "grzywka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She pushed her fringe out of her eyes.",
+                                "Translation": "(Ona odsunęła swoją grzywkę z oczu.)"
+                            },
+                            {
+                                "Sentence": "His fringe had become almost completely grey.",
+                                "Translation": "(Jego grzywka stała się prawie całkowicie siwa.)"
+                            },
+                            {
+                                "Sentence": "The wind lifted her bangs off her forehead.",
+                                "Translation": "(Wiatr podniósł jej grzywkę z czoła.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "fringe"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "frędzle (np. na zasłonach okiennych)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Too bad you couldn't get the new Prada bag with the fringe.",
+                                "Translation": "(Szkoda, że nie mógłeś kupić tej nowej torebki Prady z frędzlami.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "peryferia",
+                            "ubocze",
+                            "skrajny element"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "ugrupowanie lub grupa ludzi o skrajnych lub niekonwencjonalnych poglądach"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He joined this fringe group of people believing that the end of the world is scheduled for March next year.",
+                                "Translation": "(Dołączył do tej skrajnej grupy, która wierzy, że koniec świata jest wyznaczony na marzec przyszłego roku.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "uboczny",
+                            "poboczny",
+                            "pomniejszy",
+                            "mniej ważny",
+                            "mniej znaczący"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Nobody should consider their health a fringe issue.",
+                                "Translation": "(Nikt nie powinien traktować swojego zdrowia jako kwestię poboczną.)"
+                            },
+                            {
+                                "Sentence": "A couple of years ago, producing ebooks was considered a fringe activity; now it's not.",
+                                "Translation": "(Kilka lat temu produkowanie e-booków postrzegano jako pomniejszą działalność; teraz tak nie jest.)"
+                            },
+                            {
+                                "Sentence": "All the rest are seen as fringe candidates, and none of them can beat him in race for presidency.",
+                                "Translation": "(Cała reszta kandydatów traktowana jest jako mniej znacząca i nikt z nich nie może pokonać go w wyścigu o prezydenturę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "skrajny",
+                            "o skrajnych poglądach",
+                            "niekonwencjonalny",
+                            "poza głównym nurtem",
+                            "marginalny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "These beliefs led to the creation of a religious fringe group.",
+                                "Translation": "(Te przekonania doprowadziły do powstania religijnego ugrupowania o skrajnych poglądach.)"
+                            },
+                            {
+                                "Sentence": "In fact, this is not a fringe group with bizarre views but a group that is tightly connected with the government.",
+                                "Translation": "(W zasadzie nie jest to jakieś marginalne ugrupowanie z dziwnymi poglądami lecz ugrupowanie ściśle związane z rządem.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "okalać",
+                            "ciągnąć się wzdłuż czegoś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A line of trees fringes the little hamlet.",
+                                "Translation": "(Linia drzew ciągnie się wzdłuż małej wioski.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dekorować coś frędzlami"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The floor is covered with fringed rugs.",
+                                "Translation": "(Podłoga pokryta jest dywanami udekorowanymi frędzlami.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "the fringe",
+            "fringe theatre",
+            "fringe theater"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "teatr alternatywny",
+                            "teatr awangardowy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He is a theatre director working in the fringe.",
+                                "Translation": "(On jest reżyserem teatralnym, który pracuje w teatrze alternatywnym.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

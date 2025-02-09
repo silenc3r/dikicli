@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "espouse"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "opowiedzieć się za czymś",
+                            "związać się z czymś",
+                            "obierać (np. za ideą, z partią polityczną, sposób życia)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "poślubiać",
+                            "poślubić"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

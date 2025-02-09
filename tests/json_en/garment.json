@@ -1,0 +1,42 @@
+[
+    {
+        "Entry": [
+            "garment"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "strój",
+                            "część garderoby"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This garment was made by one of my men.",
+                                "Translation": "(Ten strój uszył jeden z moich ludzi.)"
+                            },
+                            {
+                                "Sentence": "Would anyone like to know what I'm wearing underneath this garment?",
+                                "Translation": "(Czy ktoś chciałby wiedzieć, co noszę pod tym ubraniem?)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ubierać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

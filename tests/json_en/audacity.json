@@ -1,0 +1,56 @@
+[
+    {
+        "Entry": [
+            "audacity",
+            "audaciousness",
+            "nerviness"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "śmiałość",
+                            "zuchwałość",
+                            "tupet"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "czelność",
+                            "bezczelność"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "Audacity"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "Audacity (edytor plików dźwiękowych)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He edited your favourite song using Audacity.",
+                                "Translation": "(On edytował twoją ulubioną piosenkę używając Audacity.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

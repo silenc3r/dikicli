@@ -1,0 +1,43 @@
+[
+    {
+        "Entry": [
+            "assent"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "akceptacja",
+                            "zgoda",
+                            "przyzwolenie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wyrażać zgodę (na coś)",
+                            "akceptować (coś)",
+                            "przyzwalać (na coś)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "sankcjonować (dokument)",
+                            "zatwierdzać (np. ustawę)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

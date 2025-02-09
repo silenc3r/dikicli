@@ -1,0 +1,93 @@
+[
+    {
+        "Entry": [
+            "environment"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "otoczenie",
+                            "środowisko",
+                            "anturaż (tworzone przez otaczających ludzi oraz rzeczy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She likes working in a clean environment.",
+                                "Translation": "(Ona lubi pracować w czystym otoczeniu.)"
+                            },
+                            {
+                                "Sentence": "You should change your environment.",
+                                "Translation": "(Powinieneś zmienić swoje otoczenie.)"
+                            },
+                            {
+                                "Sentence": "He grew up in a pathological environment.",
+                                "Translation": "(On wychował się w patologicznym środowisku.)"
+                            },
+                            {
+                                "Sentence": "They wanted to raise their child in the best environment possible.",
+                                "Translation": "(Oni chcieli wychować swoje dziecko w jak najlepszym środowisku.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "otoczenie",
+                            "środowisko (rodzaj lub charakterystyczne cechy danego obszaru)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This animal is able to adapt to living in different environments.",
+                                "Translation": "(To zwierzę potrafi dostosować się do życia w wielu różnych otoczeniach.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "the environment"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "środowisko",
+                            "środowisko naturalne"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Corporations need to stop damaging the environment.",
+                                "Translation": "(Korporacje muszą przestać niszczyć środowisko naturalne.)"
+                            },
+                            {
+                                "Sentence": "We need to protect the environment.",
+                                "Translation": "(Musimy chronić środowisko naturalne.)"
+                            },
+                            {
+                                "Sentence": "The environment includes living and non-living things.",
+                                "Translation": "(Środowisko naturalne zawiera elementy ożywione i nieożywione.)"
+                            },
+                            {
+                                "Sentence": "The stuff we use for cleaning is really bad for the environment.",
+                                "Translation": "(Środki, których używamy do czyszczenia, są naprawdę nieprzyjazne dla środowiska.)"
+                            },
+                            {
+                                "Sentence": "This new method is less damaging for the environment.",
+                                "Translation": "(Ta nowa metoda jest mniej szkodliwa dla środowiska.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

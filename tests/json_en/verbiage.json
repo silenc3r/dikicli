@@ -1,0 +1,32 @@
+[
+    {
+        "Entry": [
+            "verbiage"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nadużywanie ilości słów",
+                            "wodolejstwo",
+                            "rozwlekłość stylu"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "brzmienie",
+                            "dobór słów",
+                            "sformułowanie",
+                            "wyrażenie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

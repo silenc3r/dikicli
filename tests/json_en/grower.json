@@ -1,0 +1,26 @@
+[
+    {
+        "Entry": [
+            "grower"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "hodowca (roślin, zwierząt)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We finally got a grower. Right now, we're driving to meet them.",
+                                "Translation": "(W końcu mamy hodowcę, jedziemy żeby się z nim spotkać.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "Entry": [
+            "conciliation"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pojednanie",
+                            "mediacja",
+                            "postępowanie rozjemcze"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozjemczy",
+                            "pojednawczy",
+                            "koncyliacyjny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

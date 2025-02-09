@@ -1,0 +1,61 @@
+[
+    {
+        "Entry": [
+            "cleft"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szczelina",
+                            "rozpadlina"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "rozszczep"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She was born with a cleft palate.",
+                                "Translation": "(Ona urodziła się z rozszczepem podniebienia.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "cleave"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozłupać",
+                            "rozłupywać",
+                            "rozszczepić"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "podzielić",
+                            "rozdzielić (np. społeczeństwo na dwie części)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

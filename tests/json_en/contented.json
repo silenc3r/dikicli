@@ -1,0 +1,90 @@
+[
+    {
+        "Entry": [
+            "contented"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zadowolony"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "content"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zadowolony",
+                            "rad",
+                            "ukontentowany"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'm quite content with my life.",
+                                "Translation": "(Jestem dość zadowolony ze swojego życia.)"
+                            },
+                            {
+                                "Sentence": "He graduated, found a good job and is perfectly content.",
+                                "Translation": "(On skończył studia, znalazł dobrą pracę i jest całkowicie zadowolony.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zadowalać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You don't have to content other people, do what makes you happy.",
+                                "Translation": "(Nie musisz zadowalać innych ludzi, rób to, co cię uszczęśliwia.)"
+                            },
+                            {
+                                "Sentence": "I don't want to spend my life trying to content my mother.",
+                                "Translation": "(Nie chcę spędzić całego życia próbując zadowolić moją matkę.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "content oneself"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zadowalać się"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

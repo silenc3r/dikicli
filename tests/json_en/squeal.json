@@ -1,0 +1,57 @@
+[
+    {
+        "Entry": [
+            "squeal"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "piszczeć (wysokim głosem)",
+                            "kwiczeć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The children squealed with excitement.",
+                                "Translation": "(Dzieci piszczały z podekscytowania.)"
+                            },
+                            {
+                                "Sentence": "The baby squealed in delight when he saw the cat.",
+                                "Translation": "(Dziecko zapiszczało z zadowolenia, kiedy zobaczyło kota.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "narzekać",
+                            "biadolić"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "kablować",
+                            "donosić"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pisk",
+                            "skomlenie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

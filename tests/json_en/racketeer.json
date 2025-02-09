@@ -1,0 +1,24 @@
+[
+    {
+        "Entry": [
+            "racketeer"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "gangster",
+                            "szantażysta",
+                            "oszust",
+                            "grandziarz"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

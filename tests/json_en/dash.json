@@ -1,0 +1,248 @@
+[
+    {
+        "Entry": [
+            "sprint",
+            "dash"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sprint (wyścig na krótki dystans)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Her best individual performance is 7th, in the 2008 sprint.",
+                                "Translation": "(Jej najlepszy wynik indywidualny to siódme miejsce na sprincie w 2008 roku.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "dash"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rzucić się (np. do ucieczki)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They caught us stealing, so we dashed.",
+                                "Translation": "(Oni złapali nas na kradzieży, więc rzuciliśmy się do ucieczki.)"
+                            },
+                            {
+                                "Sentence": "I wanted to win the remote so I dashed toward it.",
+                                "Translation": "(Chciałem zdobyć pilot do telewizora, więc rzuciłem się w jego kierunku.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "roztrzaskiwać się",
+                            "rozbryzgiwać się (np. o coś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The jar dashed on the floor.",
+                                "Translation": "(Słoik roztrzaskał się o podłogę.)"
+                            },
+                            {
+                                "Sentence": "My favourite mug dashed when my brother pushed me.",
+                                "Translation": "(Mój ulubiony kubek się roztrzaskał, kiedy mój brat mnie popchnął.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "lecieć",
+                            "zasuwać",
+                            "spieszyć się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I am very late, I have to dash.",
+                                "Translation": "(Jestem bardzo spóźniony, muszę lecieć.)"
+                            },
+                            {
+                                "Sentence": "Where are you dashing to?",
+                                "Translation": "(Dokąd się spieszysz?)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kropla (np. octu w sałatce)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Add a dash of vinegar.",
+                                "Translation": "(Dodaj kroplę octu.)"
+                            },
+                            {
+                                "Sentence": "His comment was the last dash of bitterness that I could stand.",
+                                "Translation": "(Jego komentarz był ostatnią kroplą goryczy, którą mogłem znieść.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "odrobina (np. uczucia, romantyzmu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A dash of sensitivity would be nice.",
+                                "Translation": "(Odrobina wrażliwości byłaby miła.)"
+                            },
+                            {
+                                "Sentence": "Everyone needs a dash of romanticism in their lives.",
+                                "Translation": "(Każdy potrzebuje odrobiny romantyzmu w swoim życiu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ucieczka",
+                            "pogoń (np. za wolnością)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I support their dash for freedom.",
+                                "Translation": "(Popieram ich pogoń za wolnością.)"
+                            },
+                            {
+                                "Sentence": "His dash for love was unsuccessful.",
+                                "Translation": "(Jego pogoń za miłością była bezowocna.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "myślnik"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Use dashes to point out the most important ideas.",
+                                "Translation": "(Użyj myślników, aby wypunktować najważniejsze myśli.)"
+                            },
+                            {
+                                "Sentence": "A dash is longer than a hyphen.",
+                                "Translation": "(Myślnik jest dłuższy od dywizu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "werwa"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My grandfather still has a lot of dash.",
+                                "Translation": "(Mój dziadek wciąż ma dużo werwy.)"
+                            },
+                            {
+                                "Sentence": "I admire his dash, he's so active.",
+                                "Translation": "(Podziwiam jego werwę, on jest taki aktywny.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "dashboard",
+            "dash"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "deska rozdzielcza (np. w samochodzie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The dashboard clock read 9:30.",
+                                "Translation": "(Zegarek na desce rozdzielczej pokazywał 9:30.)"
+                            },
+                            {
+                                "Sentence": "She lifted her head above the dashboard.",
+                                "Translation": "(Ona podniosła głowę ponad deskę rozdzielczą.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "have to dash",
+            "must dash"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "musieć pędzić",
+                            "musieć lecieć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I have to dash, I'll call you later.",
+                                "Translation": "(Muszę pędzić, zadzwonię do ciebie później.)"
+                            },
+                            {
+                                "Sentence": "I wanted to talk to him but he had to dash.",
+                                "Translation": "(Chciałem z nim porozmawiać, ale musiał lecieć.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "dash it!",
+            "dash it all!"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "wykrzyknik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "a niech to!"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

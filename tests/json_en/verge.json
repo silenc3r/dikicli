@@ -1,0 +1,44 @@
+[
+    {
+        "Entry": [
+            "verge"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "brzeg",
+                            "kraniec",
+                            "krawędź"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We might all be on the verge of going to prison.",
+                                "Translation": "(Wszyscy możemy być na krawędzi pójścia do więzienia.)"
+                            },
+                            {
+                                "Sentence": "I don't know about you but I'm on the verge of a breakdown.",
+                                "Translation": "(Nie wiem jak ty, ale ja jestem na granicy załamania nerwowego.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pobocze",
+                            "skraj"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The car stopped on the verge of the road.",
+                                "Translation": "(Samochód zatrzymał się na skraju drogi.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

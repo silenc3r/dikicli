@@ -1,0 +1,37 @@
+[
+    {
+        "Entry": [
+            "eclectic"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "eklektyk"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "eklektyczny (stanowiący mieszankę wielu różnych rzeczy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I find your musical taste eclectic.",
+                                "Translation": "(Uważam, że twój gust muzyczny jest eklektyczny.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

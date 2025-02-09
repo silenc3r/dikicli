@@ -1,0 +1,40 @@
+[
+    {
+        "Entry": [
+            "elicit"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "uzyskiwać",
+                            "zyskiwać (np. zapewnienie, obietnicę)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This handbook elicited only negative reviews.",
+                                "Translation": "(Ten poradnik uzyskał jedynie negatywne recenzje.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wzbudzać",
+                            "wywoływać",
+                            "prowokować (np. uśmiech, śmiech)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Whenever performed, this song elicits difficult emotions in the singer.",
+                                "Translation": "(Kiedykolwiek wykonywana, ta piosenka wzbudza trudne emocje w piosenkarce.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

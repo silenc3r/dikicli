@@ -1,0 +1,34 @@
+[
+    {
+        "Entry": [
+            "uncanny"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niesamowity",
+                            "zadziwiający (w niepokojący sposób)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Her voice has an uncanny similarity to Madonna's voice.",
+                                "Translation": "(Jej głos jest zadziwiająco podobny do głosu Madonny.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "tajemniczy",
+                            "zagadkowy (w niepokojący sposób)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

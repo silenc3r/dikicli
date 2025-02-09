@@ -1,0 +1,86 @@
+[
+    {
+        "Entry": [
+            "chestnut"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kasztanowiec",
+                            "kasztan (drzewo)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A chestnut was growing in front of my house.",
+                                "Translation": "(Przed moim domem rósł kasztanowiec.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kasztan (owoc)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We would go to the park and collect chestnuts.",
+                                "Translation": "(Chodziliśmy do parku i zbieraliśmy kasztany.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kawał z brodą",
+                            "suchar (stary i dobrze znany dowcip)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Nobody laughed at his joke, because it was a chestnut.",
+                                "Translation": "(Nikt nie śmiał się z jego dowcipu, bo był to kawał z brodą.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kasztanowy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She has chestnut hair.",
+                                "Translation": "(Ona ma kasztanowe włosy.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "chestnut",
+            "night eye"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kasztan (warstwa zrogowaciałego naskórka na nogach koni)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

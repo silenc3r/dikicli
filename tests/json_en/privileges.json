@@ -1,0 +1,82 @@
+[
+    {
+        "Entry": [
+            "privilege"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przywilej",
+                            "uprawnienie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Being a student is a privilege.",
+                                "Translation": "(Bycie studentem jest przywilejem.)"
+                            },
+                            {
+                                "Sentence": "It's not your right, it's a privilege and you should earn it.",
+                                "Translation": "(To nie jest twoje prawo, to przywilej i powinieneś na niego zasłużyć.)"
+                            },
+                            {
+                                "Sentence": "Being a part of the management board comes with privileges.",
+                                "Translation": "(Bycie częścią rady nadzorczej niesie za sobą uprawnienia.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zaszczyt",
+                            "honor"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Gentlemen, it has been a privilege playing with you tonight.",
+                                "Translation": "(Panowie, to był zaszczyt móc grać z wami dziś wieczór.)"
+                            },
+                            {
+                                "Sentence": "It's a privilege to meet you, sir!",
+                                "Translation": "(To zaszczyt móc pana poznać!)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "immunitet"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Our privilege got taken away from us.",
+                                "Translation": "(Zabrano nam nasz immunitet.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "uprzywilejować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You privileged your children too much.",
+                                "Translation": "(Uprzywilejowałeś za bardzo swoje dzieci.)"
+                            },
+                            {
+                                "Sentence": "The government should privilege young families.",
+                                "Translation": "(Rząd powinien uprzywilejować młode rodziny.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

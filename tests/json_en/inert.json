@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "inert"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bezwładny (np. ciało)",
+                            "niewładny"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "bierny",
+                            "bezczynny (np. osoba, kierownictwo)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

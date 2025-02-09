@@ -1,0 +1,26 @@
+[
+    {
+        "Entry": [
+            "vinegar"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ocet"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I don't like dishes based on vinegar.",
+                                "Translation": "(Nie lubię potraw bazujących na occie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

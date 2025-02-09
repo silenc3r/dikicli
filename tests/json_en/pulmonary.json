@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "pulmonary",
+            "pulmonic",
+            "pneumonic"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "płucny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Entry": [
+            "ferocious"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dziki",
+                            "niebezpieczny",
+                            "przerażający (np. o zwierzęciu)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "silny",
+                            "srogi",
+                            "nieprzyjemny",
+                            "nieznośny (np. o krytyce)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zaciekły (o osobie, o działaniu)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

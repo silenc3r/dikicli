@@ -1,0 +1,38 @@
+[
+    {
+        "Entry": [
+            "gullible"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "łatwowierny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It's amazing how gullible people are, he said to himself.",
+                                "Translation": "(To niesamowite jacy ludzie są łatwowierni, powiedział do siebie.)"
+                            },
+                            {
+                                "Sentence": "I'd like to find out if he's as gullible as you say.",
+                                "Translation": "(Chciałbym dowiedzieć się, czy on jest tak łatwowierny jak mówisz.)"
+                            },
+                            {
+                                "Sentence": "Surely you weren't gullible enough to believe all that?",
+                                "Translation": "(Z pewnością nie byłaś na tyle łatwowierna, żeby w to wszystko uwierzyć?)"
+                            },
+                            {
+                                "Sentence": "He is extremely gullible and believes anything someone tells him.",
+                                "Translation": "(On jest niesamowicie łatwowierny i wierzy we wszystko, co mu się powie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "Entry": [
+            "abrupt"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "raptowny",
+                            "nagły"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They made an abrupt change of plan.",
+                                "Translation": "(Oni dokonali gwałtownej zmiany planu.)"
+                            },
+                            {
+                                "Sentence": "The car came to an abrupt halt.",
+                                "Translation": "(Samochód gwałtownie się zatrzymał.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "obcesowy",
+                            "szorstki",
+                            "opryskliwy"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "stromy"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "nieskładny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "Entry": [
+            "injunction"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nakaz sądowy",
+                            "zakaz sądowy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The court injunction prevented the book from being published.",
+                                "Translation": "(Zakaz sądowy zapobiegł opublikowaniu tej książki.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "napomnienie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

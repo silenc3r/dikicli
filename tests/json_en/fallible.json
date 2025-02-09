@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "fallible"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "omylny",
+                            "zawodny (np. o pamięci)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "Entry": [
+            "itinerary"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "plan podróży",
+                            "marszruta"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We have a problem with your itinerary.",
+                                "Translation": "(Mamy problem z pana planem podróży.)"
+                            },
+                            {
+                                "Sentence": "This location wasn't in our itinerary.",
+                                "Translation": "(Tego miejsca nie było w naszym planie podróży.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przewodnik (książka)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "If you need more information, consult the itinerary.",
+                                "Translation": "(Jeżeli potrzebujecie więcej informacji, zajrzyjcie do przewodnika.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

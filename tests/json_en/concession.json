@@ -1,0 +1,80 @@
+[
+    {
+        "Entry": [
+            "concession"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ustępstwo (kompromis)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Maybe we can negotiate a concession regarding the deal.",
+                                "Translation": "(Może uda nam się wynegocjować jakieś ustępstwo co do umowy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ustępstwo"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A concession on his part allowed me to pass this exam.",
+                                "Translation": "(Ustępstwo z jego strony pozwoliło mi zaliczyć ten egzamin.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zniżka",
+                            "ulga"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "As a student, you get a concession in various places.",
+                                "Translation": "(Będąc studentem dostajesz zniżki w wielu miejscach.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "koncesja (prawa własności i posiadania)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "koncesja (prawo sprzedaży)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "as a concession"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "tytułem ustępstwa"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "affidavit"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "oświadczenie złożone pod przysięgą"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Your Honor, we have not had an opportunity to review this affidavit.",
+                                "Translation": "(Wysoki sądzie, nie mieliśmy możliwości zapoznać się z tym oświadczeniem.)"
+                            },
+                            {
+                                "Sentence": "I just need you to sign this affidavit and we'll be all done.",
+                                "Translation": "(Musi pani jeszcze podpisać to oświadczenie i będzie po wszystkim.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

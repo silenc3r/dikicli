@@ -1,0 +1,41 @@
+[
+    {
+        "Entry": [
+            "salmon"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "łosoś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He caught two salmons.",
+                                "Translation": "(On złowił dwa łososie.)"
+                            },
+                            {
+                                "Sentence": "I ate a salmon for dinner.",
+                                "Translation": "(Zjadłem łososia na obiad.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "łososiowy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

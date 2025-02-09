@@ -1,0 +1,31 @@
+[
+    {
+        "Entry": [
+            "opulent"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bardzo bogaty",
+                            "zamożny",
+                            "wystawny",
+                            "wykwintny (np. kraj, życie, restauracja)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "bujny",
+                            "obfity (np. włosy, dostawa)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "Entry": [
+            "influence"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wpływ",
+                            "oddziaływanie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The mass media have a great influence on today's society.",
+                                "Translation": "(Środki masowego przekazu mają duży wpływ na dzisiejsze społeczeństwo.)"
+                            },
+                            {
+                                "Sentence": "You must have offended someone with a lot of influence.",
+                                "Translation": "(Musiałeś obrazić kogoś z dużymi wpływami.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wywierać wpływ",
+                            "wpływać",
+                            "oddziaływać",
+                            "mieć wpływ (na coś, na kogoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Don't try to influence my decision, I won't listen to you anyway.",
+                                "Translation": "(Nie próbuj wywierać wpływu na moją decyzję, i tak cię nie posłucham.)"
+                            },
+                            {
+                                "Sentence": "You can't let your parents influence your choice of studies.",
+                                "Translation": "(Nie możesz pozwolić rodzicom oddziaływać na twój wybór studiów.)"
+                            },
+                            {
+                                "Sentence": "That's the person who'll be in a position to influence him.",
+                                "Translation": "(To jest osoba która będzie w stanie na niego wpłynąć.)"
+                            },
+                            {
+                                "Sentence": "He is the one who influenced me and my work.",
+                                "Translation": "(On jest tym, który wpłynął na mnie i moją pracę.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

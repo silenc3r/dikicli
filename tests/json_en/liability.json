@@ -1,0 +1,97 @@
+[
+    {
+        "Entry": [
+            "liability"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "odpowiedzialność prawna",
+                            "zobowiązanie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This company has been my liability from the start.",
+                                "Translation": "(Ta firma była moją odpowiedzialnością prawną od początku.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "obciążenie",
+                            "zawada",
+                            "balast",
+                            "problem",
+                            "ciężar (np. o osobie, o rzeczy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He has become a serious liability to our business, and that cannot continue.",
+                                "Translation": "(Stał się poważnym obciążeniem dla naszych interesów i nie możemy tego tolerować.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "skłonność (np. do choroby)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I have a liability to headaches.",
+                                "Translation": "(Mam skłonność do bólów głowy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dług",
+                            "zobowiązanie pieniężne"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "pasywa"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "All liabilities must be included in the balance sheet.",
+                                "Translation": "(Wszystkie pasywa muszą być zawarte w bilansie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "liability to somebody"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "odpowiedzialność względem kogoś"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "obciążenie dla kogoś",
+                            "zawada dla kogoś"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

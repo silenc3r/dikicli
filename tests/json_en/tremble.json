@@ -1,0 +1,67 @@
+[
+    {
+        "Entry": [
+            "tremble"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "drżeć",
+                            "trząść się (np. ze strachu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I was trembling with cold.",
+                                "Translation": "(Trząsłem się z zimna.)"
+                            },
+                            {
+                                "Sentence": "His hand trembling, he lifted the receiver.",
+                                "Translation": "(On podniósł słuchawkę trzęsącą się ręką.)"
+                            },
+                            {
+                                "Sentence": "She stood there, trembling with hesitation.",
+                                "Translation": "(Ona stała tam, drżąc z niepewności.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "trząść się",
+                            "ulegać wstrząsom (np. z powodu przejazdu ciężarówki)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "załamywać się",
+                            "trząść się (głos)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "drżeć",
+                            "martwić się (o coś)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "drżenie (np. głosu)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

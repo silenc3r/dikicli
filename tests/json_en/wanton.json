@@ -1,0 +1,98 @@
+[
+    {
+        "Entry": [
+            "wanton"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "swawolny",
+                            "figlarny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You are in a wanton mood today.",
+                                "Translation": "(Dzisiaj jesteś w figlarnym humorze.)"
+                            },
+                            {
+                                "Sentence": "The breeze outside is wanton.",
+                                "Translation": "(Wiaterek na zewnątrz jest swawolny.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rozpustny",
+                            "rozwiązły"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "nieokiełznany",
+                            "złośliwy",
+                            "grymaśny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Your child is wanton. I won't tolerate his behaviour.",
+                                "Translation": "(Twoje dziecko jest złośliwe. Nie będę tolerował jego zachowania.)"
+                            },
+                            {
+                                "Sentence": "I think that his aspirations are wanton.",
+                                "Translation": "(Myślę, że jego zapędy są nieokiełznane.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wybujały",
+                            "niekontrolowany (np. roślinność)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The plants in their garden are wanton.",
+                                "Translation": "(Rośliny w ich ogrodzie są wybujałe.)"
+                            },
+                            {
+                                "Sentence": "The growth of these flowers is wanton.",
+                                "Translation": "(Wzrost tych kwiatów jest niekontrolowany.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bezsensowny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "jawnogrzesznica",
+                            "kobieta rozwiązła"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This wanton cannot enter this house.",
+                                "Translation": "(Ta jawnogrzesznica nie może wejść do tego domu.)"
+                            },
+                            {
+                                "Sentence": "A wanton is considered immoral.",
+                                "Translation": "(Kobieta rozwiązła jest uznawana za niemoralną.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

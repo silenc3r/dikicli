@@ -1,0 +1,50 @@
+[
+    {
+        "Entry": [
+            "jeopardy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niebezpieczeństwo",
+                            "zagrożenie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You're putting the lab in jeopardy, and I want you off the case.",
+                                "Translation": "(Narażasz laboratorium na niebezpieczeństwo i chcę, żebyś trzymał się z daleka od tej sprawy.)"
+                            },
+                            {
+                                "Sentence": "His life was in jeopardy, so I had to act.",
+                                "Translation": "(Jego życie było w niebezpieczeństwie, więc musiałam działać.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "Jeopardy!"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "nazwa własna",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "Va banque"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "Entry": [
+            "trigger"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "spust",
+                            "cyngiel"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He slowly squeezed the trigger.",
+                                "Translation": "(On powoli nacisnął spust.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wynajęty zabójca"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "powód",
+                            "przyczyna",
+                            "czynnik"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "bodziec"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "trigger"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "prowokować (silną reakcję emocjonalną)",
+                            "wywoływać skrajne emocje"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Don't trigger me!",
+                                "Translation": "(Nie prowokuj mnie!)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "trigger something",
+            "trigger off something",
+            "trigger something off"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wyzwalać coś",
+                            "uruchamiać coś",
+                            "powodować coś",
+                            "wywołać coś",
+                            "pociągać za sobą"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He triggers my worst instincts.",
+                                "Translation": "(On wyzwala moje najgorsze instynkty.)"
+                            },
+                            {
+                                "Sentence": "This song always triggers my emotions.",
+                                "Translation": "(Ta piosenka zawsze wyzwala moje emocje.)"
+                            },
+                            {
+                                "Sentence": "I wonder what triggered the alarm.",
+                                "Translation": "(Zastanawiam się, co uruchomiło alarm.)"
+                            },
+                            {
+                                "Sentence": "Your cigarette triggered my fire detector.",
+                                "Translation": "(Twój papieros uruchomił mój czujnik dymu.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

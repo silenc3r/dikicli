@@ -1,0 +1,52 @@
+[
+    {
+        "Entry": [
+            "abolish"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "uchylać",
+                            "unieważniać"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "likwidować"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "obalać"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "znosić (unieważniać)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Abraham Lincoln abolished slavery in 1862.",
+                                "Translation": "(Abraham Lincoln zniósł niewolnictwo w 1862.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "usuwać",
+                            "kasować"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

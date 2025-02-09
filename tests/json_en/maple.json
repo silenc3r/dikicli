@@ -1,0 +1,38 @@
+[
+    {
+        "Entry": [
+            "maple",
+            "maple tree"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "klon (gatunek drzewa)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She has painted a lovely picture with a maple in the background.",
+                                "Translation": "(Ona namalowała śliczny obrazek z klonem w tle.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "klonowy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

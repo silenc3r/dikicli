@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "tempestuous"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "burzliwy (o dyskusji, romansie)",
+                            "porywczy (o osobie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wzburzony (o morzu)",
+                            "porywisty (o wietrze)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "mercantile"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "handlowy",
+                            "kupiecki",
+                            "merkantylny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

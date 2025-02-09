@@ -1,0 +1,57 @@
+[
+    {
+        "Entry": [
+            "fidget",
+            "fidge",
+            "jiffle"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wiercić się",
+                            "kręcić się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Children can't sit still without fidgeting.",
+                                "Translation": "(Dzieci nie potrafią siedzieć spokojnie bez wiercenia się.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niespokojny duch",
+                            "wiercipięta"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She is a terrible fidget.",
+                                "Translation": "(Ona jest strasznym wiercipiętą.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "niepokój"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She's got the fidgets - she can't concentrate on anything for too long.",
+                                "Translation": "(Ona czuje niepokój - nie może na niczym się skoncentrować zbyt długo.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

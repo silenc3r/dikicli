@@ -1,0 +1,89 @@
+[
+    {
+        "Entry": [
+            "sheen"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "blask",
+                            "połysk"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They worked hard to return this armor to its original sheen.",
+                                "Translation": "(Oni pracowali ciężko, żeby przywrócić tej zbroi jej pierwotny blask.)"
+                            },
+                            {
+                                "Sentence": "My car has a metallic sheen.",
+                                "Translation": "(Moje auto ma metaliczny połysk.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "świecić"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This light sheens too brightly.",
+                                "Translation": "(To światło świeci zbyt jasno.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "błyszczeć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The feathers of this bird sheen.",
+                                "Translation": "(Pióra tego ptaka błyszczą.)"
+                            },
+                            {
+                                "Sentence": "I envy her that her hair sheens.",
+                                "Translation": "(Zazdroszczę jej, że jej włosy błyszczą.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "promienieć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You're sheening! You look great.",
+                                "Translation": "(Ty promieniejesz! Świetnie wyglądasz.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "polerować",
+                            "wypolerować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I sheened the floor in my room.",
+                                "Translation": "(Wypolerowałem podłogę w moim pokoju.)"
+                            },
+                            {
+                                "Sentence": "My car is so shiny because a mechanic sheened it.",
+                                "Translation": "(Moje auto jest takie lśniące, bo mechanik je wypolerował.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

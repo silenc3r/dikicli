@@ -1,0 +1,46 @@
+[
+    {
+        "Entry": [
+            "scurry",
+            "skurry"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "tupot (stóp)",
+                            "bieg"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We could hear a scurry outside.",
+                                "Translation": "(Słyszeliśmy tupot na zewnątrz.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pędzić",
+                            "biec",
+                            "mknąć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Hurry, my child, and scurry inside.",
+                                "Translation": "(Pośpiesz się, moje dziecko i mknij do wnętrza.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

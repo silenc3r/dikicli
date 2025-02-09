@@ -1,0 +1,31 @@
+[
+    {
+        "Entry": [
+            "ferocity",
+            "ferociousness"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dzikość",
+                            "okrucieństwo",
+                            "srogość",
+                            "surowość",
+                            "zaciekłość"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The dogs fought with great ferocity.",
+                                "Translation": "(Psy walczyły z wielką zaciekłością.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

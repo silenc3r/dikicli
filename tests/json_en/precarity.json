@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "precariousness",
+            "precarity"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wielkie ryzyko",
+                            "niebezpieczeństwo"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "niepewność",
+                            "nietrwałość"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

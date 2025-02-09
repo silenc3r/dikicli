@@ -1,0 +1,37 @@
+[
+    {
+        "Entry": [
+            "during"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przyimek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "w czasie",
+                            "podczas",
+                            "w trakcie",
+                            "w dobie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'll have this cleaned up during my break.",
+                                "Translation": "(Posprzątam to w trakcie przerwy.)"
+                            },
+                            {
+                                "Sentence": "Someone stole their car during the night.",
+                                "Translation": "(Ktoś ukradł ich samochód podczas nocy.)"
+                            },
+                            {
+                                "Sentence": "He fell asleep during the film.",
+                                "Translation": "(On zasnął w trakcie filmu.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

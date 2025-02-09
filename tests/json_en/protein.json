@@ -1,0 +1,31 @@
+[
+    {
+        "Entry": [
+            "protein"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "białko",
+                            "proteina"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I went on a protein diet.",
+                                "Translation": "(Przeszedłem na dietę białkową.)"
+                            },
+                            {
+                                "Sentence": "Just as protein molecules are chains of amino acids, so DNA molecules are chains of nucleotides.",
+                                "Translation": "(Tak jak molekuły białkowe są łańcuchami aminokwasów, tak molekuły DNA są łańcuchami nukleotydów.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

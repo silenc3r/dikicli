@@ -1,0 +1,46 @@
+[
+    {
+        "Entry": [
+            "lorry",
+            "truck"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ciężarówka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A lorry had pulled up by the side of the road.",
+                                "Translation": "(Ciężarówka zaparkowała na poboczu drogi.)"
+                            },
+                            {
+                                "Sentence": "He works as a lorry driver.",
+                                "Translation": "(On pracuje jako kierowca ciężarówki.)"
+                            },
+                            {
+                                "Sentence": "He waved and wheeled the lorry back to the main road.",
+                                "Translation": "(On pomachał i wjechał ciężarówką z powrotem na główną drogę.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ciężarowy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

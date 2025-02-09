@@ -1,0 +1,38 @@
+[
+    {
+        "Entry": [
+            "nimble"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zwinny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Her nimble feet show what a great dancer she is.",
+                                "Translation": "(Jej zwinne stopy ukazują jaką wspaniała jest tancerką.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bystry",
+                            "lotny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His nimble mind calculated the answer in a second.",
+                                "Translation": "(Jego bystry umysł obliczył wynik w sekundę.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

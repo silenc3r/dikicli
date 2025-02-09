@@ -1,0 +1,38 @@
+[
+    {
+        "Entry": [
+            "vindicate"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bronić",
+                            "dowieść czegoś"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "oczyszczać z zarzutów",
+                            "bronić",
+                            "rehabilitować"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "rekompensować",
+                            "rewindykować",
+                            "windykować"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

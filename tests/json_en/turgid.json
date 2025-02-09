@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "turgid",
+            "turgent"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nabrzmiały",
+                            "napęczniały"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "patetyczny (np. styl)",
+                            "napuszony (np. język)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

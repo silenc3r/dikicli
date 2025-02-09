@@ -1,0 +1,26 @@
+[
+    {
+        "Entry": [
+            "insatiable"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nienasycony"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He demonstrates an insatiable desire for knowledge.",
+                                "Translation": "(On wykazuje niezaspokojone pragnienie wiedzy.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

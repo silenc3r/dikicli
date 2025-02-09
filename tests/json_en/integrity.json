@@ -1,0 +1,50 @@
+[
+    {
+        "Entry": [
+            "integrity"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "prawość",
+                            "uczciwość"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He's got integrity to be our President for the next four years.",
+                                "Translation": "(On ma uczciwość, żeby być naszym prezydentem przez następne cztery lata.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "integralność (np. terytorialna)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Questions about financial integrity have been around since the start of the year.",
+                                "Translation": "(Pytania dotyczące integralności finansowej krążą od początku roku.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nienaruszalność"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "integralność (techniczna)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

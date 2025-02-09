@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "platitude"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "płytkość (wypowiedzi)",
+                            "banał",
+                            "frazes"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

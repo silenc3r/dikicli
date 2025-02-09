@@ -1,0 +1,21 @@
+[
+    {
+        "Entry": [
+            "pinnace"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pinasa (żaglowiec mniejszy od galeona, popularny w XVI-XVIII wieku)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

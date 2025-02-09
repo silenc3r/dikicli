@@ -1,0 +1,63 @@
+[
+    {
+        "Entry": [
+            "vista"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "perspektywa",
+                            "widok (np. na okolicę)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This is what's called a scenic vista.",
+                                "Translation": "(To jest dopiero malownicza perspektywa.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "perspektywa",
+                            "możliwość (np. na przyszłość)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Our company has many vistas for development.",
+                                "Translation": "(Nasza firma ma wiele perspektyw na rozwój.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "Vista"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "Vista (system operacyjny firmy Microsoft)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I hated Vista when I used it, so I installed Windows 7 on my new computer.",
+                                "Translation": "(Nienawidziłam korzystania z Visty, więc zainstalowałam Windows 7 na moim nowym komputerze.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

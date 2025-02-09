@@ -1,0 +1,26 @@
+[
+    {
+        "Entry": [
+            "crayfish",
+            "crawdad",
+            "crawdaddy",
+            "crawfish",
+            "Astacus astacus",
+            "mudbug"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rak (zwierzę żyjące w rzekach i strumieniach)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

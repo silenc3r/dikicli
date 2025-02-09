@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "unbridled"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nieokiełznany (np. o gniewie)",
+                            "niepohamowany (np. optymizm)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "nie zaprzężony (o koniu)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "stupor"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "upojenie (alkoholowe)",
+                            "odurzenie (narkotykowe)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "osłupienie",
+                            "odrętwienie (w skutek dramatycznego przeżycia)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

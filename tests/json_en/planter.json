@@ -1,0 +1,52 @@
+[
+    {
+        "Entry": [
+            "planter"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "siewnik",
+                            "sadzarka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I put the seeds in the planter.",
+                                "Translation": "(Włożyłem ziarna do sadzarki.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "plantator",
+                            "hodowca roślin"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He is the best planter in the neighborhood.",
+                                "Translation": "(On jest najlepszym plantatorem w okolicy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "maszyna do flancowania sadzonek"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "donica",
+                            "skrzynka na rośliny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

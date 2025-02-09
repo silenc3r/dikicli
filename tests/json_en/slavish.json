@@ -1,0 +1,33 @@
+[
+    {
+        "Entry": [
+            "slavish"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niewolniczy (o posłuszeństwie, przywiązaniu)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wiernie naśladujący",
+                            "dosłowny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It was a slavish reproduction of the novel.",
+                                "Translation": "(To była wierna reprodukcja powieści.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

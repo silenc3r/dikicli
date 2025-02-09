@@ -1,0 +1,55 @@
+[
+    {
+        "Entry": [
+            "gush"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "tryskać",
+                            "wytrysnąć (np. o krwi, ropie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "przesadnie się czymś entuzjazmować",
+                            "odnieść się do czegoś z przesadnym entuzjazmem",
+                            "zbyt entuzjastycznie na coś zareagować"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "piać z zachwytu, achać i ochać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wylew",
+                            "wytrysk"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wybuch",
+                            "potok (emocji, słów)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

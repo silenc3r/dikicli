@@ -1,0 +1,132 @@
+[
+    {
+        "Entry": [
+            "cow"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "krowa"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Cows give milk.",
+                                "Translation": "(Krowy dają mleko.)"
+                            },
+                            {
+                                "Sentence": "The field was full of cows.",
+                                "Translation": "(Pole było pełne krów.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "samica niektórych dużych ssaków (np. słonia, nosorożca)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "krowa",
+                            "stara krowa",
+                            "babsko"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "What is this cow doing in my house?",
+                                "Translation": "(Co to babsko robi w moim domu?)"
+                            },
+                            {
+                                "Sentence": "Don't listen to this old cow, she's telling fairy tales.",
+                                "Translation": "(Nie słuchaj tej starej krowy, ona opowiada bajki.)"
+                            },
+                            {
+                                "Sentence": "My new teacher is a cow, I don't like her.",
+                                "Translation": "(Moja nowa nauczycielka to stara krowa, nie lubię jej.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kłopoty",
+                            "trudna sytuacja",
+                            "gnój"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This cow started shortly after he left us.",
+                                "Translation": "(Te kłopoty zaczęły się zaraz po tym, jak on nas opuścił.)"
+                            },
+                            {
+                                "Sentence": "This situation is a cow. I don't know what to do.",
+                                "Translation": "(Ta sytuacja to gnój. Nie wiem, co robić.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "straszyć",
+                            "zastraszyć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I know that you want to cow my wife but I won't let you do that.",
+                                "Translation": "(Wiem, że chcesz zastraszyć moją żonę, ale nie pozwolę ci na to.)"
+                            },
+                            {
+                                "Sentence": "My sister couldn't sleep because her boyfriend cowed her.",
+                                "Translation": "(Moja siostra nie mogła spać, bo jej chłopak ją postraszył.)"
+                            },
+                            {
+                                "Sentence": "The bully cowed a little boy.",
+                                "Translation": "(Łobuz zastraszył małego chłopca.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "have kittens",
+            "have a cow"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "być bardzo zdenerwowanym"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wkurzyć się",
+                            "zdenerwować się"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zmartwić się"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

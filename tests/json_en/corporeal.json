@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "corporeal"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "cielesny",
+                            "fizyczny",
+                            "materialny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

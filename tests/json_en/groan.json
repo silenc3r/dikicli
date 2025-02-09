@@ -1,0 +1,67 @@
+[
+    {
+        "Entry": [
+            "groan"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "jęczeć",
+                            "wydawać jęki",
+                            "pojękiwać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I groaned with pain.",
+                                "Translation": "(Jęczałem z bólu.)"
+                            },
+                            {
+                                "Sentence": "The patient groaned when he saw the needle.",
+                                "Translation": "(Pacjent zajęczał, gdy zobaczył igłę.)"
+                            },
+                            {
+                                "Sentence": "She was groaning with pleasure.",
+                                "Translation": "(Ona jęczała z rozkoszy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "jęczeć",
+                            "narzekać"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "skrzypieć"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "jęk"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "skrzypnięcie",
+                            "skrzypienie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

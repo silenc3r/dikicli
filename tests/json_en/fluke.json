@@ -1,0 +1,100 @@
+[
+    {
+        "Entry": [
+            "fluke"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "fuks",
+                            "szczęśliwy traf",
+                            "fart"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Their discovery was just a fluke.",
+                                "Translation": "(Ich odkrycie było tylko szczęśliwym trafem.)"
+                            },
+                            {
+                                "Sentence": "One might have been a fluke, but two?",
+                                "Translation": "(Jeden to mógł być fart, ale dwa?)"
+                            },
+                            {
+                                "Sentence": "I had won by a fluke because I hadn't cared enough to be nervous.",
+                                "Translation": "(Wygrałem fuksem, bo nie przejmowałem się wystarczająco, żeby się stresować.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "flądra"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "płetwa ogonowa (rzędu waleni)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szczęśliwy traf",
+                            "fuks"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "fluke",
+            "fluke off"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "odpływać, używając płetwy ogonowej (np. o wielorybie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "trematode",
+            "fluke"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przywra (płaziniec z gromady Trematoda)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

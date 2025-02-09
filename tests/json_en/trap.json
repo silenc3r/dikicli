@@ -1,0 +1,315 @@
+[
+    {
+        "Entry": [
+            "trap"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pułapka",
+                            "potrzask"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He was leading them into a trap.",
+                                "Translation": "(On prowadził ich w pułapkę.)"
+                            },
+                            {
+                                "Sentence": "Don't go there, it's a trap.",
+                                "Translation": "(Nie idź tam, to pułapka.)"
+                            },
+                            {
+                                "Sentence": "A mouse was caught in a trap.",
+                                "Translation": "(Mysz została złapana w pułapkę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pułapka (sztuczka)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This magician is famous for escaping various traps.",
+                                "Translation": "(Ten iluzjonista jest znany z uciekania z różnych pułapek.)"
+                            },
+                            {
+                                "Sentence": "This is impossible to do - it must be some trap!",
+                                "Translation": "(To jest niemożliwe do zrobienia - to musi być jakaś pułapka!)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pułapka (zła sytuacja)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I lost my job and my flat, I'm in a trap.",
+                                "Translation": "(Straciłem pracę i moje mieszkanie, jestem w pułapce.)"
+                            },
+                            {
+                                "Sentence": "He always seems to be in some kind of trap.",
+                                "Translation": "(On zawsze zdaje się być w jakiejś pułapce.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dwukółka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We loaded up the trap with scrap metal.",
+                                "Translation": "(Załadowaliśmy dwukółkę złomem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "boks startowy w wyścigach psów"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The dogs are still in the traps but they will take off at any minute.",
+                                "Translation": "(Psy są nadal w swoich boksach startowych ale zaraz wystartują.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "morda",
+                            "japa",
+                            "pysk"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Shut your trap, I need to focus.",
+                                "Translation": "(Zamknij japę, muszę się skupić.)"
+                            },
+                            {
+                                "Sentence": "I'm not going to the party, I don't want to see his trap.",
+                                "Translation": "(Nie idę na imprezę, nie chcę widzieć jego mordy.)"
+                            },
+                            {
+                                "Sentence": "I can't look at his ugly trap.",
+                                "Translation": "(Nie mogę patrzeć na jego brzydki pysk.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bajzel (miejsce spotkań handlarzy narkotyków)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Are you sure that this place is a trap?",
+                                "Translation": "(Czy jesteś pewny, że to miejsce to bajzel?)"
+                            },
+                            {
+                                "Sentence": "The police discovered our trap, we have to change the plan.",
+                                "Translation": "(Policja odkryła nasz bajzel, musimy zmienić plan.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "transseksualista"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He said he hated being a trap.",
+                                "Translation": "(On powiedział, że nienawidzi być transseksualistą.)"
+                            },
+                            {
+                                "Sentence": "I'm a trap and I'm not ashamed of it!",
+                                "Translation": "(Jestem transseksualistą i się tego nie wstydzę!)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "uwięzić"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I trapped the rat in the box.",
+                                "Translation": "(Uwięziłem szczura w pudełku.)"
+                            },
+                            {
+                                "Sentence": "He trapped me in a small room.",
+                                "Translation": "(Uwięził mnie w małym pokoju.)"
+                            },
+                            {
+                                "Sentence": "We have to trap this monster inside the house.",
+                                "Translation": "(Musimy uwięzić tego potwora wewnątrz domu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "złapać w pułapkę (zwierzę)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The hunter trapped a bear.",
+                                "Translation": "(Myśliwy złapał w pułapkę niedźwiedzia.)"
+                            },
+                            {
+                                "Sentence": "Look, we trapped a fox!",
+                                "Translation": "(Spójrz, złapaliśmy lisa w pułapkę!)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zatrzymać",
+                            "złapać (np. złodzieja)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Trap the thief, I'll call the police.",
+                                "Translation": "(Zatrzymaj złodzieja, ja zadzwonię po policję.)"
+                            },
+                            {
+                                "Sentence": "The police trapped the rapist.",
+                                "Translation": "(Policja złapała gwałciciela.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zastawić pułapkę (na kogoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He tried to trap me but I got a warning.",
+                                "Translation": "(Próbował zastawić na mnie pułapkę, ale dostałem ostrzeżenie.)"
+                            },
+                            {
+                                "Sentence": "We trapped the thief and called the police.",
+                                "Translation": "(Zastawiliśmy pułapkę na złodzieja i zadzwoniliśmy po policję.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zatrzymywać (np. ciepło, wodę)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Don't open the window, we have to trap the heat.",
+                                "Translation": "(Nie otwieraj okna, musimy zatrzymać ciepło.)"
+                            },
+                            {
+                                "Sentence": "Trap the rain water - we have nothing left to drink!",
+                                "Translation": "(Zatrzymaj deszczówkę - nie zostało nam nic do picia!)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "bunker",
+            "trap"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wyrzutnia (do rzutków)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "trap",
+            "pinch"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przytrzasnąć (np. palec, nogę)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I trapped my finger in the car door.",
+                                "Translation": "(Przytrzasnąłem sobie palec drzwiami samochodu.)"
+                            },
+                            {
+                                "Sentence": "Be careful or you'll pinch your hand.",
+                                "Translation": "(Bądź ostrożny albo przytrzaśniesz sobie rękę.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "drain trap",
+            "siphon trap",
+            "trap"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "syfon kanalizacyjny",
+                            "syfon odpływowy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "twin reversed arterial perfusion",
+            "TRAP"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zespół odwróconej perfuzji tętniczej",
+                            "zespół odwróconego kierunku przepływu krwi (zespół wad wrodzonych)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

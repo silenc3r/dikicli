@@ -1,0 +1,58 @@
+[
+    {
+        "Entry": [
+            "succulent"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sukulent (roślina gromadząca wodę)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Succulents have thick cuticles to minimize water loss.",
+                                "Translation": "(Sukulenty mają grubą skórkę, aby zminimalizować utratę wody.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "soczysty (np. owoc)",
+                            "smakowity (o jedzeniu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "These are wonderfully succulent peaches.",
+                                "Translation": "(To są cudownie soczyste brzoskwinie.)"
+                            },
+                            {
+                                "Sentence": "The chicken you made was succulent.",
+                                "Translation": "(Kurczak, którego przygotowałeś był smakowity.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "interesujący (o filmie, powieści)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I've never seen such a succulent film before!",
+                                "Translation": "(Nigdy wcześniej nie widziałem tak interesującego filmu!)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "Entry": [
+            "playwright"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dramatopisarz",
+                            "dramaturg (autor sztuk scenicznych)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "By the year of 1592, Shakespeare was already an actor and a playwright.",
+                                "Translation": "(W roku 1592 Szekspir był już znany jako aktor i dramaturg.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

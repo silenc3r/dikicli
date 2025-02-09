@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "placidity"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "łagodność",
+                            "spokój",
+                            "pogoda ducha"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

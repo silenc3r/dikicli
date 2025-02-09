@@ -1,0 +1,86 @@
+[
+    {
+        "Entry": [
+            "impediment"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przeszkoda",
+                            "utrudnienie",
+                            "zawada"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The financial crisis is a major impediment to job creation and growth.",
+                                "Translation": "(Kryzys finanasowy to zasadnicze utrudnienie, jeśli chodzi o możliwość tworzenia miejsc pracy i wzrostu.)"
+                            },
+                            {
+                                "Sentence": "It would be a serious impediment to the process if you didn't bring the documents in time.",
+                                "Translation": "(Gdybyś nie dostarczył dokumentów na czas, byłoby to poważne utrudnienie procesu.)"
+                            },
+                            {
+                                "Sentence": "There are two people, who are an impediment to our plan.",
+                                "Translation": "(Jest dwoje ludzi, którzy są zawadą dla naszego planu.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "impediment",
+            "speech impediment"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wada wymowy",
+                            "defekt wymowy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She has a speech impediment, but she is working on it.",
+                                "Translation": "(Ona ma wadę wymowy, ale pracuje nad nią.)"
+                            },
+                            {
+                                "Sentence": "He has such a terrible speech impediment I can barely understand him.",
+                                "Translation": "(On ma taką straszną wadę wymowy, że ledwie go rozumiem.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "impediment to something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przeszkoda na drodze do czegoś",
+                            "przeszkoda w czymś"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

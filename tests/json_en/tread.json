@@ -1,0 +1,139 @@
+[
+    {
+        "Entry": [
+            "tread"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nastąpić",
+                            "nadepnąć (na coś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'm sorry that I trod on your foot.",
+                                "Translation": "(Przepraszam, że nadepnąłem ci na stopę.)"
+                            },
+                            {
+                                "Sentence": "I accidentally trod on the dog's tail.",
+                                "Translation": "(Przypadkowo nastąpiłem na ogon psa.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "iść"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I will tread the same path as my father.",
+                                "Translation": "(Pójdę w ślady mojego ojca.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bieżnik (na oponie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The tread is unworn. I will buy these tyres.",
+                                "Translation": "(Bieżnik jest niezużyty. Kupię te opony.)"
+                            },
+                            {
+                                "Sentence": "There is almost no tread on the tyre.",
+                                "Translation": "(Na oponie nie ma już prawie bieżnika.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "podnóżek (stopnia)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She was standing on the tread.",
+                                "Translation": "(Ona stała na podnóżku.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "krok (dźwięk kroków)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The tread reverberated in the hall.",
+                                "Translation": "(Dźwięk kroków rozbrzmiał w holu.)"
+                            },
+                            {
+                                "Sentence": "The tread was very loud in the empty chamber.",
+                                "Translation": "(Dźwięk kroków był bardzo głośny w pustej komnacie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "podeszwa buta"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The tread of my shoe is used.",
+                                "Translation": "(Podeszwa mojego buta jest zużyta.)"
+                            },
+                            {
+                                "Sentence": "The tread has to be thick so I can walk on rocks.",
+                                "Translation": "(Podeszwa buta musi być gruba, żebym mógł chodzić po skałach.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ślad buta"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This tread will lead us to the murderer.",
+                                "Translation": "(Ten ślad buta zaprowadzi nas do mordercy.)"
+                            },
+                            {
+                                "Sentence": "The tread tells us that the person was tall and heavy.",
+                                "Translation": "(Ślad buta mówi nam, że osoba była wysoka i ciężka.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "tread",
+            "track"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wdeptać",
+                            "zadeptać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

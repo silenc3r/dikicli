@@ -1,0 +1,34 @@
+[
+    {
+        "Entry": [
+            "pundit",
+            "pandit"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ekspert",
+                            "spec"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We are awaiting an opinion from our pundits.",
+                                "Translation": "(Czekamy na opinię od naszych ekspertów.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pandit (mędrzec hinduski)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

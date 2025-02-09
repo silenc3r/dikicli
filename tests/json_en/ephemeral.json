@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "ephemeral"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "efemeryczny",
+                            "ulotny (np. sława, przyjemność)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "efemeryczny (w biologii)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

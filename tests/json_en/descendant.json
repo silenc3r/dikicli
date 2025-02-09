@@ -1,0 +1,84 @@
+[
+    {
+        "Entry": [
+            "descendant"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "potomek",
+                            "zstępny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I can't be his descendant because he didn't have any.",
+                                "Translation": "(Nie mogę być jego potomkiem, ponieważ nie miał żadnych.)"
+                            },
+                            {
+                                "Sentence": "I am the last descendant of the Mandarin.",
+                                "Translation": "(Jestem ostatnim potomkiem Mandaryna.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "potomny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "descendant",
+            "descendent"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "opadający",
+                            "schodzący",
+                            "zstępujący",
+                            "obniżający"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "somebody's descendant"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "czyjś potomek"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

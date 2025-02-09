@@ -1,0 +1,115 @@
+[
+    {
+        "Entry": [
+            "foil"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "folia"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He wrapped the sandwich in aluminum foil.",
+                                "Translation": "(On owinął kanapkę w folię aluminiową.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "sreberko",
+                            "pozłotko",
+                            "złotko (np. na czekoladzie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She unwrapped the chocolate from its foil.",
+                                "Translation": "(Ona rozwinęła czekoladę ze sreberka.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "floret (sportowa broń szermiercza)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She saw so clearly the tip of her foil against his heart.",
+                                "Translation": "(Ona jasno widziała czubek swojego floretu na jego sercu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "slajd",
+                            "przezrocze"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "udaremnić"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They managed to foil the terrorist attack.",
+                                "Translation": "(Udało się im udaremnić atak terrorystyczny.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "front foil",
+            "foil"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przednie płaty wodne (element budowy wodolotu)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "be a foil to somebody",
+            "be a foil to something",
+            "be a foil for somebody",
+            "be a foil for something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "podkreślać czyjeś zalety"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

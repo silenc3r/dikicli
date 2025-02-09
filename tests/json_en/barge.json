@@ -1,0 +1,55 @@
+[
+    {
+        "Entry": [
+            "barge"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "barka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Transportation is carried out by trains, lorries, ships and barges.",
+                                "Translation": "(Transport odbywa się za pomocą pociągów, ciężarówek, statków i barek.)"
+                            },
+                            {
+                                "Sentence": "They transported coal by barge.",
+                                "Translation": "(Oni przewozili węgiel barką.)"
+                            },
+                            {
+                                "Sentence": "The pollution in your lake is dissolving our barge.",
+                                "Translation": "(Zanieczyszczenia z waszego jeziora zżerają naszą barkę.)"
+                            },
+                            {
+                                "Sentence": "I need an oarsman for my barge.",
+                                "Translation": "(Potrzebuję wioślarza na moją barkę.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przepychać się",
+                            "wpychać się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He had to barge through the crowd to take a photo.",
+                                "Translation": "(Musiał przepchnąć się przez tłum, aby zrobić zdjęcie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

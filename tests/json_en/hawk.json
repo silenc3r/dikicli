@@ -1,0 +1,92 @@
+[
+    {
+        "Entry": [
+            "hawk"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "jastrząb"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The hawk sat on his arm.",
+                                "Translation": "(Jastrząb usiadł na jego ramieniu.)"
+                            },
+                            {
+                                "Sentence": "He's been watching me like a hawk.",
+                                "Translation": "(On obserwuje mnie niczym jastrząb.)"
+                            },
+                            {
+                                "Sentence": "The hawk is a bird of prey.",
+                                "Translation": "(Jastrząb to drapieżny ptak.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "polityk będący zwolennikiem używania siły"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "prowadzić handel obnośny",
+                            "handlować na ulicy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We can buy it at a discount price, and hawk it later for a profit.",
+                                "Translation": "(Możemy to kupić na przecenie, a później sprzedać na ulicy z zyskiem.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "hawk",
+            "hock"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "chrząkać",
+                            "odchrząkiwać",
+                            "spluwać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Don't hawk, it's rude.",
+                                "Translation": "(Nie chrząkaj, to niegrzeczne.)"
+                            },
+                            {
+                                "Sentence": "He always hawks when he eats, it makes me sick.",
+                                "Translation": "(On zawsze odchrząkuje, kiedy je - robi mi się od tego niedobrze.)"
+                            },
+                            {
+                                "Sentence": "He had to hawk to get rid of that awful taste.",
+                                "Translation": "(Musiał splunąć, żeby pozbyć się tego okropnego smaku.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

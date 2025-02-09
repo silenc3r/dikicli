@@ -1,0 +1,41 @@
+[
+    {
+        "Entry": [
+            "rehearse"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ćwiczyć (przemówienie)",
+                            "robić próbę (teatralną)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "opowiadać szczegółowo (o czymś)",
+                            "relacjonować (coś)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wymienić w kolejności (np. żądania lub zażalenia)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "powtarzać (wielokrotnie wcześniej wyrażaną opinię)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,85 @@
+[
+    {
+        "Entry": [
+            "swath",
+            "swathe"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pas (ziemi)",
+                            "smuga (światła)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It was a gigantic swath of torn-up ground extending to the horizon.",
+                                "Translation": "(To był gigantyczny pas zrytej ziemi rozciągający się aż po horyzont.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pokos (skoszonej trawy lub zboża)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "duża część czegoś"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "swathe"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pas (tkaniny)",
+                            "bandaż"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "osnuć",
+                            "spowijać",
+                            "otulać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The moon was swathed in dark clouds.",
+                                "Translation": "(Księżyc był osnuty ciemnymi chmurami.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bandażować",
+                            "owijać (bandażem)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

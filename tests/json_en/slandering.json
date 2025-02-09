@@ -1,0 +1,94 @@
+[
+    {
+        "Entry": [
+            "slandering"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szarganie (czyjegoś dobrego imienia)",
+                            "obmawianie (kogoś)",
+                            "oczernianie (kogoś)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "slander"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "obmowa",
+                            "oszczerstwo"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zniesławienie (w formie słownej)",
+                            "pomówienie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He was sued for slander.",
+                                "Translation": "(On został oskarżony o zniesławienie.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szargać (czyjeś dobre imię)",
+                            "obmawiać (kogoś)",
+                            "oczerniać (kogoś)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "pomówić",
+                            "zniesławić"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "slander somebody"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szkalować kogoś"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

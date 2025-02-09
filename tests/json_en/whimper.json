@@ -1,0 +1,50 @@
+[
+    {
+        "Entry": [
+            "whimper"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "biadolić",
+                            "jęczeć",
+                            "skomleć",
+                            "łkać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Stop whimpering like a two year old.",
+                                "Translation": "(Przestań jęczeć jak dwulatek.)"
+                            },
+                            {
+                                "Sentence": "Babies whimper from time to time.",
+                                "Translation": "(Niemowlęta łkają od czasu do czasu.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "łkanie",
+                            "biadolenie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I thought I heard a whimper.",
+                                "Translation": "(Zdawało mi się, że słyszałem łkanie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

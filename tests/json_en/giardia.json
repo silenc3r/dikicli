@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "Giardia"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rodzaj wiciowców",
+                            "lamblia"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

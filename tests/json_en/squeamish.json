@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "squeamish"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "delikatny",
+                            "przeczulony",
+                            "skłonny do mdłości (np. na widok czegoś)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

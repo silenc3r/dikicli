@@ -1,0 +1,35 @@
+[
+    {
+        "Entry": [
+            "recalcitrant"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "krnąbrny (np. uczeń)",
+                            "oporny",
+                            "nieposłuszny (o osobie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ciężki w obsłudze",
+                            "niełatwy w użyciu (o rzeczy)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "Entry": [
+            "strife"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "konflikt (np. małżeński)",
+                            "spór (np. polityczny)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Their marriage was going through numerous strifes recently.",
+                                "Translation": "(Ich małżeństwo ostatnio przechodziło przez liczne konflikty.)"
+                            },
+                            {
+                                "Sentence": "The political strife has been a problem in our country for years.",
+                                "Translation": "(Spory polityczne są problemem w naszym państwie już od wielu lat.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "walka",
+                            "potyczka (zbrojna)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The last strife has cost us many lives.",
+                                "Translation": "(W ostatniej potyczce straciliśmy wielu ludzi.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

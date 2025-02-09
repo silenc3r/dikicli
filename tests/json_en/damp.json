@@ -1,0 +1,69 @@
+[
+    {
+        "Entry": [
+            "damp"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wilgotny (np. o ubraniach, szmatce)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The clothes are still damp.",
+                                "Translation": "(Ubrania ciągle są wilgotne.)"
+                            },
+                            {
+                                "Sentence": "Wipe it off with a damp cloth.",
+                                "Translation": "(Zetrzyj to wilgotną szmatką.)"
+                            },
+                            {
+                                "Sentence": "This towel is damp - take another one.",
+                                "Translation": "(Ten ręcznik jest wilgotny - weź inny.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zawilgły",
+                            "zawilgotniały"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wilgoć (np. na ścianach budynku)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zwilżyć (np. twarz, ręcznik)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "butwieć"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "Entry": [
+            "turf"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "darń",
+                            "murawa"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Everything will be settled as soon as they enter the turf.",
+                                "Translation": "(Wszystko zostanie rozwiązane w momencie, w którym oni wejdą na murawę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "terytorium",
+                            "teren"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He's aggressively defending his turf.",
+                                "Translation": "(On agresywnie broni swojego terytorium.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pokrywać darnią"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "the turf"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wyścigi konne",
+                            "tor wyścigowy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

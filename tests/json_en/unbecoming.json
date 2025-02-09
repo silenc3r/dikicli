@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "unbecoming"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nieodpowiedni (o zachowaniu)",
+                            "niestosowny (o ubraniu)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

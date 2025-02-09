@@ -1,0 +1,40 @@
+[
+    {
+        "Entry": [
+            "proliferation"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozpowszechnianie",
+                            "szybki wzrost liczby",
+                            "rozprzestrzenianie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We acknowledge the common threat of nuclear proliferation, particularly from Iran.",
+                                "Translation": "(Uznajemy wspólne zagrożenie rozprzestrzenianiem broni atomowej, w szczególności ze strony Iranu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rozrastanie",
+                            "rozmnażanie się (np. komórek)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Here we have a proliferation of scar tissue on his body.",
+                                "Translation": "(Mamy tutaj rozrastanie tkanki bliznowatej na jego ciele.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

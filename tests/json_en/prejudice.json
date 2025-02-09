@@ -1,0 +1,58 @@
+[
+    {
+        "Entry": [
+            "prejudice"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "uprzedzenie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He has a prejudice against people from different countries.",
+                                "Translation": "(On jest uprzedzony wobec ludzi z innych krajów.)"
+                            },
+                            {
+                                "Sentence": "I don't tolerate racial prejudice.",
+                                "Translation": "(Nie toleruję uprzedzeń rasowych.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "uprzedzać się (do czegoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Try not to prejudice against them.",
+                                "Translation": "(Spróbuj się do nich nie uprzedzać.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zaszkodzić",
+                            "przynosić szkodę"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This incident may prejudice your career.",
+                                "Translation": "(Ten incydent może zaszkodzić twojej karierze.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

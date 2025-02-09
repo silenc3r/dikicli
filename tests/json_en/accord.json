@@ -1,0 +1,90 @@
+[
+    {
+        "Entry": [
+            "accord"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "porozumienie",
+                            "układ"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Richard's reached an accord with her and she's been freed.",
+                                "Translation": "(Richard zawarł z nią porozumienie i została uwolniona.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zgoda",
+                            "zgodność"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "On this, the Union is united and in full accord.",
+                                "Translation": "(W tej sprawie Unia jest zjednoczona i w pełnej zgodzie.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "udzielać",
+                            "wyświadczać",
+                            "przyznawać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Other members have also overrun slightly, and we must accord the same treatment to everyone.",
+                                "Translation": "(Inni członkowie również lekko przekroczyli limit czasowy, a jesteśmy zobowiązani udzielić wszystkim równego traktowania.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zgadzać się (na coś)",
+                            "uzgadniać (coś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "That does not accord with the demands of ordinary people.",
+                                "Translation": "(To nie pokrywa się z oczekiwaniami zwykłych ludzi.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "accord something to somebody"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "użyczać komuś czegoś",
+                            "darzyć kogoś czymś",
+                            "nadawać komuś coś"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

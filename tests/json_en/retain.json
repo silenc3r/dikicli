@@ -1,0 +1,76 @@
+[
+    {
+        "Entry": [
+            "retain"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zachowywać",
+                            "zatrzymywać (o przedmiocie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The box retains heat.",
+                                "Translation": "(Pudełko zatrzymuje ciepło.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przetrzymywać",
+                            "gromadzić (np. dane w komputerze)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We are retaining the data in our computer.",
+                                "Translation": "(Gromadzimy dane w naszym komputerze.)"
+                            },
+                            {
+                                "Sentence": "Where do you retain all of the data?",
+                                "Translation": "(Gdzie przechowujecie wszystkie dane?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zachowywać w pamięci"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We have to retain this event in memory.",
+                                "Translation": "(Musimy zachować w pamięci to wydarzenie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przyjmować na służbę",
+                            "zatrudniać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She's retaining 10 people!",
+                                "Translation": "(Ona zatrudnia 10 osób!)"
+                            },
+                            {
+                                "Sentence": "We need to retain one more person.",
+                                "Translation": "(Musimy zatrudnić jeszcze jedną osobę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zatrzymywać (np. klientów w firmie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

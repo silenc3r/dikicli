@@ -1,0 +1,26 @@
+[
+    {
+        "Entry": [
+            "cattle"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bydło (krowy i byki hodowane dla mięsa lub mleka)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My neighbor sold his cattle today.",
+                                "Translation": "(Mój sąsiad sprzedał dzisiaj swoje bydło.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

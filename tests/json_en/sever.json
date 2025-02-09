@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "sever"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ucinać (nogę, rękę)",
+                            "przecinać (linę)",
+                            "odcinać (coś od czegoś)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zrywać (kontakty z kimś)",
+                            "zrywać (znajomość)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

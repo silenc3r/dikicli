@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "sumach",
+            "sumac"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sumak (rodzaj roślin)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

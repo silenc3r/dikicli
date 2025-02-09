@@ -1,0 +1,49 @@
+[
+    {
+        "Entry": [
+            "walnut"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "orzech (drzewo orzechowe)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "walnut"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "orzech włoski"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He gave me a handful of walnuts.",
+                                "Translation": "(On dał mi garść orzechów włoskich.)"
+                            },
+                            {
+                                "Sentence": "Walnuts are exceptionally nutritious.",
+                                "Translation": "(Orzechy włoskie są nadzwyczajnie pożywne.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "Entry": [
+            "rumbustious",
+            "rambunctious",
+            "rumbunctious"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "hałaśliwy (np. tłum)",
+                            "wrzaskliwy (człowiek)",
+                            "żywiołowy"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "trudny do opanowania",
+                            "niesforny (o dziecku)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

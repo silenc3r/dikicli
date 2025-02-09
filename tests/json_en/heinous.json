@@ -1,0 +1,33 @@
+[
+    {
+        "Entry": [
+            "heinous"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "obrzydliwy",
+                            "ohydny",
+                            "potworny",
+                            "haniebny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His behaviour was heinous. I'll talk to his parents.",
+                                "Translation": "(Jego zachowanie było haniebne. Porozmawiam z jego rodzicami.)"
+                            },
+                            {
+                                "Sentence": "This heinous crime has to be solved.",
+                                "Translation": "(Ta obrzydliwa zbrodnia musi zostać rozwiązana.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

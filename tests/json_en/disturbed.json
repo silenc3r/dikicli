@@ -1,0 +1,101 @@
+[
+    {
+        "Entry": [
+            "disturbed"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niezrównoważony (np. psychicznie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zaniepokojony",
+                            "poruszony"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "niespokojny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "disturb"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zakłócać",
+                            "przeszkadzać",
+                            "zaburzać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Do not disturb me when I work.",
+                                "Translation": "(Nie przeszkadzaj mi kiedy pracuję.)"
+                            },
+                            {
+                                "Sentence": "She lowered her voice not to disturb him.",
+                                "Translation": "(Ona ściszyła swój głos, aby mu nie przeszkadzać.)"
+                            },
+                            {
+                                "Sentence": "We didn't want to disturb you, but the door was open.",
+                                "Translation": "(Nie chcieliśmy ci przeszkadzać, ale drzwi były otwarte.)"
+                            },
+                            {
+                                "Sentence": "\"Why do you disturb me?\" \"Because it's urgent.\"",
+                                "Translation": "(\"Dlaczego mi przeszkadzasz?\" \"Bo to pilne.\")"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "niepokoić",
+                            "martwić"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The news has disturbed our family.",
+                                "Translation": "(Ta wiadomość zmartwiła naszą rodzinę.)"
+                            },
+                            {
+                                "Sentence": "Something in the atmosphere of this house disturbed me.",
+                                "Translation": "(Coś w atmosferze tego domu zaniepokoiło mnie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "poruszać",
+                            "zmarszczyć",
+                            "ruszać (np. powierzchnię wody, papiery na stole)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The wind disturbed the curtain.",
+                                "Translation": "(Wiatr poruszył zasłoną.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

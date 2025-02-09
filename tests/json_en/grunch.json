@@ -1,0 +1,32 @@
+[
+    {
+        "Entry": [
+            "grunge",
+            "grunch"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "obrzydlistwo",
+                            "świństwo",
+                            "paskudztwo"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "świntuch",
+                            "paskuda",
+                            "obrzydliwiec"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

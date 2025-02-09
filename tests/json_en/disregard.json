@@ -1,0 +1,56 @@
+[
+    {
+        "Entry": [
+            "disregard"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "lekceważenie",
+                            "brak poszanowania",
+                            "niezważanie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We must not be indifferent to such disregard for human life.",
+                                "Translation": "(Wobec takiego lekceważenia życia ludzkiego nie można być obojętnym.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zlekceważyć",
+                            "zignorować",
+                            "nie brać pod uwagę"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Experts claim that the European institutions simply disregard this serious problem.",
+                                "Translation": "(Eksperci uważają, że instytucje europejskie po prostu lekceważą ten poważny problem.)"
+                            },
+                            {
+                                "Sentence": "We cannot disregard the problems of the poor people in our country.",
+                                "Translation": "(Nie możemy zlekceważyć problemów ubogich ludzi w naszym kraju.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "okazać brak poszanowania"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

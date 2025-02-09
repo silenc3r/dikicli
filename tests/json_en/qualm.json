@@ -1,0 +1,67 @@
+[
+    {
+        "Entry": [
+            "qualm"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "skrupuł",
+                            "opór",
+                            "wahanie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She uses people like that without a qualm.",
+                                "Translation": "(Wykorzystuje ludzi w ten sposób bez oporu.)"
+                            },
+                            {
+                                "Sentence": "He has no qualms about being destructive towards his employees.",
+                                "Translation": "(On nie ma skrupułów być destrukcyjnym wobec swoich pracowników.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ukłucie",
+                            "nagłe poczucie (niepokoju, niepewności, strachu, winy, itd.)",
+                            "niepokój",
+                            "niepewność"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He felt a qualm of guilt about what he had done.",
+                                "Translation": "(Poczuł nagłe poczucie winy w związku z tym, co zrobił.)"
+                            },
+                            {
+                                "Sentence": "She swallowed a qualm and said she wanted to ask him a question.",
+                                "Translation": "(Przełknęła niepokój i powiedziała, że chciałaby zadać mu pytanie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "atak (choroby, mdłości, nudności)",
+                            "mdłości",
+                            "nudności"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Once more he tried to climb a little higher, but a qualm of nausea overwhelmed him.",
+                                "Translation": "(Po raz kolejny spróbował wspiąć się odrobinę wyżej, ale opanował go atak mdłości.)"
+                            },
+                            {
+                                "Sentence": "A qualm made him stop running.",
+                                "Translation": "(Mdłości zmusiły go do przerwania biegu.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

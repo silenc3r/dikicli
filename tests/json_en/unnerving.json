@@ -1,0 +1,57 @@
+[
+    {
+        "Entry": [
+            "unnerving"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zniechęcający",
+                            "osłabiający"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It is quite unnerving when you always lose.",
+                                "Translation": "(To dość zniechęcające, kiedy zawsze przegrywasz.)"
+                            },
+                            {
+                                "Sentence": "All this attention is unnerving. I hate being on display.",
+                                "Translation": "(Całe to zainteresowanie jest osłabiające. Nienawidzę być na widoku.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "unnerve"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "osłabiać",
+                            "zniechęcać",
+                            "wytrącać z równowagi"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A job interview with so many people unnerved me.",
+                                "Translation": "(Rozmowa kwalifikacyjna z tyloma osobami wytrąciła mnie z równowagi.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

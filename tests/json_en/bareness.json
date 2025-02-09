@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "bareness"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nagość",
+                            "pustka (np. ścian, skał)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

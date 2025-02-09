@@ -1,0 +1,41 @@
+[
+    {
+        "Entry": [
+            "concussion"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wstrząśnienie mózgu"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The doctors think it's a concussion.",
+                                "Translation": "(Lekarze sądzą, że to wstrząśnienie mózgu.)"
+                            },
+                            {
+                                "Sentence": "I'm afraid he has a concussion and will have to stay in hospital.",
+                                "Translation": "(Obawiam się, że on ma wstrząśnienie mózgu i będzie musiał zostać w szpitalu.)"
+                            },
+                            {
+                                "Sentence": "She's got some cuts and a concussion.",
+                                "Translation": "(Ona ma kilka ran i wstrząśnienie mózgu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wstrząs",
+                            "zadrżenie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

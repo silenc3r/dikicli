@@ -1,0 +1,49 @@
+[
+    {
+        "Entry": [
+            "sensible"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozsądny",
+                            "sensowny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Be sensible.",
+                                "Translation": "(Bądź rozsądny.)"
+                            },
+                            {
+                                "Sentence": "Your plan to save money sounds sensible.",
+                                "Translation": "(Twój plan oszczędzania pieniędzy brzmi sensownie.)"
+                            },
+                            {
+                                "Sentence": "She's intelligent and sensible.",
+                                "Translation": "(Ona jest inteligentna i rozsądna.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "praktyczny",
+                            "funkcjonalny (o ubraniu, np. buty)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zauważalny",
+                            "odczuwalny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "Entry": [
+            "bondage"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niewola",
+                            "poddaństwo (ograniczenie wolności)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "niewolnictwo (stan bycia niewolnikiem)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "praktyki seksualne polegające na krępowaniu partnera"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

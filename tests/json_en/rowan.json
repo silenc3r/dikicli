@@ -1,0 +1,46 @@
+[
+    {
+        "Entry": [
+            "rowan",
+            "rowan berry",
+            "rowanberry"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "jarzębina"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "rowan",
+            "mountain-ash",
+            "sorbus aucuparia"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "jarząb pospolity",
+                            "jarząb zwyczajny",
+                            "jarzębina (gatunek rośliny)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

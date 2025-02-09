@@ -1,0 +1,26 @@
+[
+    {
+        "Entry": [
+            "entice"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kusić",
+                            "skusić",
+                            "nęcić",
+                            "znęcić",
+                            "zwabić",
+                            "przywabić"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

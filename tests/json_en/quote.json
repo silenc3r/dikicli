@@ -1,0 +1,297 @@
+[
+    {
+        "Entry": [
+            "quote",
+            "quotation",
+            "quot.",
+            "citation"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "cytat"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He did not trouble to correct the quotation.",
+                                "Translation": "(On nie kłopotał się, żeby poprawić ten cytat.)"
+                            },
+                            {
+                                "Sentence": "'It was only a quotation,' said Jack.",
+                                "Translation": "(\"To był tylko cytat\", powiedział Jack.)"
+                            },
+                            {
+                                "Sentence": "What's your favourite quote from this book?",
+                                "Translation": "(Jaki jest twój ulubiony cytat z tej książki?)"
+                            },
+                            {
+                                "Sentence": "Do you know where this quote is from?",
+                                "Translation": "(Wiesz skąd jest ten cytat?)"
+                            },
+                            {
+                                "Sentence": "You need a citation of a source in such paper.",
+                                "Translation": "(W takiej pracy potrzebujesz cytatu z jakiegoś źródła.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "quote"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "cytować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I quoted Shakespeare in this essay.",
+                                "Translation": "(Zacytowałem Szekspira w tym wypracowaniu.)"
+                            },
+                            {
+                                "Sentence": "John asked the local newspaper not to quote him.",
+                                "Translation": "(John poprosił lokalną gazetę, aby go nie cytować.)"
+                            },
+                            {
+                                "Sentence": "I was quoted in a local newspaper.",
+                                "Translation": "(Zostałem zacytowany w lokalnej gazecie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "powoływać się (na coś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "While arguing with me he quoted my own words.",
+                                "Translation": "(Podczas kłótni ze mną, on powoływał się na moje własne słowa.)"
+                            },
+                            {
+                                "Sentence": "I'll quote you while talking about success.",
+                                "Translation": "(Powołam się na ciebie podczas mówienia o sukcesie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przytaczać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'd like to quote the words my father said to me.",
+                                "Translation": "(Chciałbym przytoczyć słowa, które wypowiedział do mnie mój ojciec.)"
+                            },
+                            {
+                                "Sentence": "He likes to quote boring anectodes.",
+                                "Translation": "(On lubi przytaczać nudne anegdoty.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wyceniać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The real estate agent quoted a million dollars for this house.",
+                                "Translation": "(Agent nieruchomości wycenił ten dom na milion dolarów.)"
+                            },
+                            {
+                                "Sentence": "They quoted the lost painting for half a million.",
+                                "Translation": "(Oni wycenili zaginiony obraz na pół miliona.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "podawać kurs",
+                            "notować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The business news always quotes all the stocks.",
+                                "Translation": "(Wiadomości biznesowe zawsze podają kurs wszystkich akcji.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "cytować",
+                            "przytaczać (czyjeś słowa)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My teacher always quotes from Paulo Coelho.",
+                                "Translation": "(Mój nauczyciel zawsze cytuje Paula Coelho.)"
+                            },
+                            {
+                                "Sentence": "She is constantly quoting Marilyn Monroe.",
+                                "Translation": "(Ona cały czas cytuje Marilyn Monroe.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "podawać (o informacji)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The police doesn't want to quote any information.",
+                                "Translation": "(Policja nie chce podawać żadnych informacji.)"
+                            },
+                            {
+                                "Sentence": "They didn't quote the name of the killer.",
+                                "Translation": "(Nie podali imienia zabójcy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "podawać za przykład",
+                            "przytaczać jako przykład"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He quoted me as an example of good behaviour.",
+                                "Translation": "(On podał mnie za przykład dobrego zachowania.)"
+                            },
+                            {
+                                "Sentence": "The teacher quoted me as a person with perfect grades and behaviour.",
+                                "Translation": "(Nauczyciel podał mnie za przykład osoby z idealnymi ocenami i zachowaniem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wyceniać",
+                            "podawać cenę (np. produktu, usługi)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The jeweler quoted my ring.",
+                                "Translation": "(Jubiler wycenił mój pierścionek.)"
+                            },
+                            {
+                                "Sentence": "I can quote this painting for free.",
+                                "Translation": "(Mogę wycenić ten obraz za darmo.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "notować (o udziałach, spółkach na giełdzie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He sold his stocks after they quoted high enough to be profitable.",
+                                "Translation": "(On sprzedał swoje akcje po tym, jak zanotowały tak wysoko, żeby mieć z tego zysk.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "cytuję"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He said, and I quote: \"I will be there\".",
+                                "Translation": "(On powiedział, cytuję: \"będę tam\".)"
+                            },
+                            {
+                                "Sentence": "Can you quote exactly what he said?",
+                                "Translation": "(Czy możesz dokładnie zacytować co on powiedział?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "quotation",
+            "quote"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wycena"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I disagree with the quote.",
+                                "Translation": "(Nie zgadzam się z wyceną.)"
+                            },
+                            {
+                                "Sentence": "The quote of this artefact is difficult.",
+                                "Translation": "(Wycena tego artefaktu jest trudna.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "quotation",
+            "quote"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "cytowanie",
+                            "przytoczenie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A proper quotation must always refer to the source of the quote.",
+                                "Translation": "(Właściwe cytowanie musi zawsze odnieść się do źródła cytatu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "notowanie giełdowe",
+                            "notowanie kursów na giełdzie"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wycena",
+                            "oferta cenowa"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The quotation has proven the painting to be quite valuable.",
+                                "Translation": "(Wycena dowiodła, że ten obraz jest całkiem sporo wart.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

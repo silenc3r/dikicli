@@ -1,0 +1,44 @@
+[
+    {
+        "Entry": [
+            "fraternity",
+            "frat"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bractwo"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You have been accepted into our fraternity.",
+                                "Translation": "(Zostałeś przyjęty do naszego bractwa.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bractwo studenckie (na uniwersytecie, zwykle w USA)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "braterstwo"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The idea of fraternity is absent in our society.",
+                                "Translation": "(Koncept braterstwa jest nieobecny w naszym społeczeństwie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

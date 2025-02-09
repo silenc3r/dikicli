@@ -1,0 +1,44 @@
+[
+    {
+        "Entry": [
+            "precarious"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niebezpieczny",
+                            "ryzykowny",
+                            "zagrażający"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "niepewny",
+                            "wątpliwy (np. o sytuacji)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "nietrwały",
+                            "niestały (łatwo ulegający pogorszeniu)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "prekaryjny",
+                            "odwołalny (np. o decyzji sądu)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

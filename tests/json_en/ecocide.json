@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "ecocide"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zagłada ekologiczna",
+                            "ekobójstwo"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

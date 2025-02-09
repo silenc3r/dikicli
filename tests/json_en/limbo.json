@@ -1,0 +1,36 @@
+[
+    {
+        "Entry": [
+            "limbo"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "otchłań",
+                            "próżnia (Pandemonium)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "stan zawieszenia",
+                            "niepewność",
+                            "stan pośredni (którego nie jesteśmy w stanie kontrolować ani zmienić)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "rodzaj tańca z coraz bardziej obniżaną poprzeczką (zapoczątkowany w Trynidadzie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

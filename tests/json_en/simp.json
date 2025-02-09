@@ -1,0 +1,48 @@
+[
+    {
+        "Entry": [
+            "simpleton",
+            "simp"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "głuptas",
+                            "prostak",
+                            "naiwniak"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "simp"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "simp (obraźliwe określenie mężczyzny charakteryzującego się służalczą postawą wobec kobiet)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Don't be such a simp!",
+                                "Translation": "(Nie bądź takim simpem!)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

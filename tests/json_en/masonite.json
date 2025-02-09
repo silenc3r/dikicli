@@ -1,0 +1,21 @@
+[
+    {
+        "Entry": [
+            "Masonite"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "twarda płyta pilśniowa Masonite"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

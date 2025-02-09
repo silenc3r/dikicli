@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "hovel"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "buda",
+                            "chałupa",
+                            "rudera"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Hippies used to live in squats, which remind me of hovels.",
+                                "Translation": "(Hipisi mieszkali w squatach, które przypominają mi rudery.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

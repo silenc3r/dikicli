@@ -1,0 +1,52 @@
+[
+    {
+        "Entry": [
+            "ripe"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dojrzały (owoc, zboże, ser)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Don't pick the apples, they aren't ripe yet.",
+                                "Translation": "(Nie zbieraj jabłek, nie są jeszcze dojrzałe.)"
+                            },
+                            {
+                                "Sentence": "The bananas aren't ripe yet.",
+                                "Translation": "(Banany nie są jeszcze dojrzałe.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ostry (zapach)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "dosadny",
+                            "rubaszny (np. język, żart)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zupełny",
+                            "porządny",
+                            "niezły",
+                            "super"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

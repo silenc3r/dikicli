@@ -1,0 +1,40 @@
+[
+    {
+        "Entry": [
+            "stature"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "renoma",
+                            "pozycja (społeczna)",
+                            "ranga"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His research has given him stature in the scientific world.",
+                                "Translation": "(Jego badania dały mu wysoką pozycję w naukowym świecie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "postura (osoby)",
+                            "wzrost"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She's rather small in stature.",
+                                "Translation": "(Ona ma raczej niską posturę.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

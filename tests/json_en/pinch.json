@@ -1,0 +1,198 @@
+[
+    {
+        "Entry": [
+            "pinch"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szczypać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Somebody pinched his arm.",
+                                "Translation": "(Ktoś uszczypnął jego ramię.)"
+                            },
+                            {
+                                "Sentence": "\"I feel like pinching myself to see if I'm real,\" Bob said.",
+                                "Translation": "(\"Mam ochotę się uszczypnąć, żeby zobaczyć, czy jestem prawdziwy\", powiedział Bob.)"
+                            },
+                            {
+                                "Sentence": "\"Mum, he pinched me!\"",
+                                "Translation": "(\"Mamo, on mnie uszczypnął!\")"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "uciskać",
+                            "uwierać",
+                            "cisnąć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "These shoes are pinching my feet.",
+                                "Translation": "(Te buty uciskają moje stopy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "aresztować"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "podwędzić",
+                            "zakosić",
+                            "rąbnąć",
+                            "buchnąć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I once pinched some strawberries when I was 4 or 5 years old.",
+                                "Translation": "(Kiedyś podwędziłem truskawki, mając 4 czy 5 lat.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ściskać",
+                            "trzymać mocno"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "przybliżać (obraz na telefonie, używając dwóch palców)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "oddalać (obraz na telefonie, używając dwóch palców)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szczypta (np. soli, pieprzu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Add a pinch of salt to the soup.",
+                                "Translation": "(Dodaj do zupy szczyptę soli.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "szczypanie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "swipe",
+            "pinch"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zakosić",
+                            "zwędzić",
+                            "zwinąć (coś)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "trap",
+            "pinch"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przytrzasnąć (np. palec, nogę)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I trapped my finger in the car door.",
+                                "Translation": "(Przytrzasnąłem sobie palec drzwiami samochodu.)"
+                            },
+                            {
+                                "Sentence": "Be careful or you'll pinch your hand.",
+                                "Translation": "(Bądź ostrożny albo przytrzaśniesz sobie rękę.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "pinch somebody"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zgarnąć kogoś",
+                            "wsadzić kogoś"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "have to pinch oneself"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "musieć uszczypnąć się (żeby upewnić się, że się nie śni)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

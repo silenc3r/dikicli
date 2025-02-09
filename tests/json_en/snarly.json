@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "snarly"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "w kłębkach",
+                            "poplątane (np. włosy)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

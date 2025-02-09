@@ -1,0 +1,44 @@
+[
+    {
+        "Entry": [
+            "retrograde"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "regresywny",
+                            "wsteczny (prowadzący do pogorszenia sytuacji)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wsteczny (np. bieg)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The rotation of Venus is retrograde.",
+                                "Translation": "(Rotacja Wenus jest wsteczna.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "cofać się"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

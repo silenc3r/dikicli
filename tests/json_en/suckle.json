@@ -1,0 +1,27 @@
+[
+    {
+        "Entry": [
+            "suckle"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "karmić piersią (dziecko, młode zwierzęcia)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "ssać pierś (o dziecku, młodym zwierzęcia)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

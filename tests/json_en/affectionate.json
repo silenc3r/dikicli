@@ -1,0 +1,51 @@
+[
+    {
+        "Entry": [
+            "affectionate"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "czuły",
+                            "tkliwy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He was very affectionate.",
+                                "Translation": "(On był bardzo czuły.)"
+                            },
+                            {
+                                "Sentence": "Why are you both being so affectionate tonight?",
+                                "Translation": "(Dlaczego jesteście tacy tkliwi dzisiejszego wieczoru?)"
+                            },
+                            {
+                                "Sentence": "I love her affectionate smile.",
+                                "Translation": "(Uwielbiam jej czuły uśmiech.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kochający",
+                            "uczuciowy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I have a very affectionate mother.",
+                                "Translation": "(Mam bardzo kochającą matkę.)"
+                            },
+                            {
+                                "Sentence": "She admits that she isn't an affectionate person.",
+                                "Translation": "(Ona przyznaje, że nie jest uczuciową osobą.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

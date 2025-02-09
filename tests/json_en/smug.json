@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "smug",
+            "smeghead"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "próżny",
+                            "zadowolony z siebie (o osobie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

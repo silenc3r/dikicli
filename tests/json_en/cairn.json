@@ -1,0 +1,21 @@
+[
+    {
+        "Entry": [
+            "cairn"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kopiec (budowla z kamieni poświęcona czyjejś pamięci)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

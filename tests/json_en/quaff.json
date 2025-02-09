@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "quaff"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wypijać haustem",
+                            "wychylać jednym łykiem",
+                            "pić łapczywie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

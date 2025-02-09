@@ -1,0 +1,31 @@
+[
+    {
+        "Entry": [
+            "dulcimer",
+            "hammered dulcimer"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "cymbały"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They taught us how to play the dulcimer at school.",
+                                "Translation": "(Oni nauczyli nas w szkole jak grać na cymbałach.)"
+                            },
+                            {
+                                "Sentence": "The sounds of the dulcimer get on my nerves.",
+                                "Translation": "(Dźwięki cymbałów działają mi na nerwy.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

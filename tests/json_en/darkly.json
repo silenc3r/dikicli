@@ -1,0 +1,47 @@
+[
+    {
+        "Entry": [
+            "darkly"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ciemno",
+                            "mrocznie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He stood in the darkly lit corner of the room.",
+                                "Translation": "(On stał w mrocznie oświetlonym kącie pokoju.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "grobowo",
+                            "posępnie",
+                            "ponuro"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I enjoyed his darkly humourous movie.",
+                                "Translation": "(Podobał mi się jego mrocznie humorystyczny film.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "złowrogo (np. spojrzeć)",
+                            "złowieszczo (np. powiedzieć coś)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

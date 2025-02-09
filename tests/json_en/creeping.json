@@ -1,0 +1,148 @@
+[
+    {
+        "Entry": [
+            "creeping"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "skradający się"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "pełzający"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "płożący się",
+                            "pnący"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "creep"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "czubek",
+                            "świrus",
+                            "psychol",
+                            "dziwak (osoba obsesyjnie zabiegająca o czyjąś uwagę)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He's a creep, known for stalking celebrities.",
+                                "Translation": "(On jest psycholem, znanym ze śledzenia celebrytów.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "głupek",
+                            "czubek"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Shut up, you creep!",
+                                "Translation": "(Zamknij się, ty czubku!)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "menda",
+                            "kreatura"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wazeliniarz",
+                            "wazelina (ktoś, kto się podlizuje)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wymykanie się spod kontroli (np. wydatków, stopnia czegoś)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "pełzanie (np. betonu)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "skradać się",
+                            "podkradać się"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "pełzać (np. insekt)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wkradać się (np. nowa idea)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "płożyć się",
+                            "piąć się (np. roślina)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zasnuwać (np. chmury, mgła)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "podlizywać się (np. szefowi)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "pełgać (o ogniu)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

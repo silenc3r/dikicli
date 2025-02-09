@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "defiant"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "prowokujący (o zachowaniu)",
+                            "wyzywający (o spojrzeniu)",
+                            "nieposłuszny (o osobie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

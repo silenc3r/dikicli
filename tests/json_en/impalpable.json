@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "impalpable"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nie dający się odczuć (np. o różnicy)",
+                            "niewyczuwalny (ręką)",
+                            "nieuchwytny"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "niepojęty"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

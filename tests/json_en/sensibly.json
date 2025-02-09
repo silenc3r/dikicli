@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "sensibly"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mądrze",
+                            "rozważnie",
+                            "z sensem"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She answered him sensibly.",
+                                "Translation": "(Ona odpowiedziała mu rozważnie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "quirky"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dziwny",
+                            "dziwaczny",
+                            "ekscentryczny (np. o człowieku)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

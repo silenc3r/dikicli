@@ -1,0 +1,60 @@
+[
+    {
+        "Entry": [
+            "ladle"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "chochla",
+                            "chochelka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I need a ladle to stir the soup.",
+                                "Translation": "(Potrzebuję chochli, żeby mieszać zupę.)"
+                            },
+                            {
+                                "Sentence": "She poured me some soup with a ladle.",
+                                "Translation": "(Ona nalała mi trochę zupy chochlą.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "łyżka wazowa"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "kadź"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nabierać chochlą",
+                            "nalewać chochlą"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I ladled four bowls of soup.",
+                                "Translation": "(Nalałem chochlą cztery miski zupy.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "Entry": [
+            "dissent"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "różnica zdań",
+                            "sprzeciw",
+                            "protest",
+                            "bunt"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Let's not become enemies due to our dissent.",
+                                "Translation": "(Nie bądźmy wrogami ze względu na naszą różnicę zdań.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zdanie odrębne (np. w sądzie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Freedom of the press entails that dissent and opposing points of view need to be heard and - more importantly - tolerated.",
+                                "Translation": "(Wolność prasy polega na tym, że odmiennych i przeciwstawnych opinii należy wysłuchać i - co ważniejsze - je tolerować.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "odstępstwo (od religii panującej)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mieć odmienne zdanie",
+                            "odcinać się",
+                            "zaoponować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I am going to dissent from this popular opinion.",
+                                "Translation": "(Zamierzam odciąć się od tej popularnej opinii.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "odstąpić",
+                            "odstępować (np. od panującej religii)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

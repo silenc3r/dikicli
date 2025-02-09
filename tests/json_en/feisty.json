@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "feisty"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zadziorny",
+                            "narwany",
+                            "porywczy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,61 @@
+[
+    {
+        "Entry": [
+            "remedy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "remedium",
+                            "lekarstwo"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There is one remedy for your illness.",
+                                "Translation": "(Na twoją chorobę jest tylko jedno lekarstwo.)"
+                            },
+                            {
+                                "Sentence": "People still haven't discovered a remedy for death.",
+                                "Translation": "(Ludzie nadal nie odkryli remedium na śmierć.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zadośćuczynienie",
+                            "wyrównanie szkody"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He gave her flowers as a remedy for the argument.",
+                                "Translation": "(Dał jej kwiaty w ramach zadośćuczynienia za kłótnię.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "leczyć",
+                            "naprawiać",
+                            "rozwiązywać (problem)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Political decisions are necessary in order to remedy the situation.",
+                                "Translation": "(Niezbędne są decyzje polityczne, które pomogą naprawić obecną sytuację.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

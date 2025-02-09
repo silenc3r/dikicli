@@ -1,0 +1,50 @@
+[
+    {
+        "Entry": [
+            "merit"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wartość",
+                            "zaleta",
+                            "zasługa",
+                            "wyróżnienie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My husband was promoted because of merit, not because of friendship.",
+                                "Translation": "(Mój mąż został awansowany z powodu zasługi, a nie przez przyjaźń.)"
+                            },
+                            {
+                                "Sentence": "I can't see any merit in his proposal.",
+                                "Translation": "(Nie widzę żadnej zalety w jego ofercie.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zasłużyć (się)",
+                            "zasłużyć na coś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This suggestion merits further discussion.",
+                                "Translation": "(Ta sugestia zasługuje na dalszą dyskusję.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

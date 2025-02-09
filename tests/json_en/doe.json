@@ -1,0 +1,112 @@
+[
+    {
+        "Entry": [
+            "though",
+            "tho",
+            "doe",
+            "even though"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "spójnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pomimo że",
+                            "chociaż",
+                            "mimo że",
+                            "aczkolwiek"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Our coach was proud of us even though we lost the game.",
+                                "Translation": "(Nasz trener był z nas dumny, pomimo że przegraliśmy mecz.)"
+                            },
+                            {
+                                "Sentence": "Even though taxes went up, people didn't protest.",
+                                "Translation": "(Pomimo że podatki poszły w górę, ludzie nie protestowali.)"
+                            },
+                            {
+                                "Sentence": "I had to get up early in the morning even though it was Sunday.",
+                                "Translation": "(Musiałem wstać wcześnie rano, pomimo że to była niedziela.)"
+                            },
+                            {
+                                "Sentence": "He's a good friend though he makes me angry sometimes.",
+                                "Translation": "(On jest dobrym przyjacielem, mimo że czasem mnie złości.)"
+                            },
+                            {
+                                "Sentence": "Though learning English is hard work, I really enjoy it.",
+                                "Translation": "(Chociaż nauka angielskiego to ciężka praca, to sprawia mi wiele przyjemności.)"
+                            },
+                            {
+                                "Sentence": "I'm not tired even though it's late.",
+                                "Translation": "(Nie jestem zmęczony, mimo że jest późno.)"
+                            },
+                            {
+                                "Sentence": "I don't want to date her, though she's nice.",
+                                "Translation": "(Nie chcę się z nią umówić, chociaż jest miła.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "doe"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "łania (samica jelenia lub daniela)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I saw a lost doe in the woods.",
+                                "Translation": "(Widziałem w lesie zagubioną łanię.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "królica",
+                            "zajęczyca"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I have a pet doe.",
+                                "Translation": "(Mam zajęczycę jako zwierzątko domowe.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "United States Department of Energy",
+            "DOE"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "Departament Energii Stanów Zjednoczonych"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

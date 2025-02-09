@@ -1,0 +1,81 @@
+[
+    {
+        "Entry": [
+            "plummet",
+            "plummet down"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "runąć",
+                            "spadać",
+                            "obniżać się (o wartości, cenie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The prices are plummeting, so it's a good moment to buy a few shares.",
+                                "Translation": "(Ceny spadają, więc to dobry moment, żeby kupić kilka udziałów.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "runąć",
+                            "spadać (z wysokości)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The climber plummeted to the ground, but luckily he survived.",
+                                "Translation": "(Wspinacz runął na ziemię, ale na szczęście przeżył.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "plummet",
+            "plumb-bob"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pion",
+                            "ciężarek pionu (prosty przyrząd do wyznaczania pionu)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "plummet"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kamień na sercu"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

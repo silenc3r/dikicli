@@ -1,0 +1,31 @@
+[
+    {
+        "Entry": [
+            "peril"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zagrożenie",
+                            "niebezpieczeństwo"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I knew that no peril could come to me if I stayed alert.",
+                                "Translation": "(Wiedziałem, że nie spotka mnie żadne niebezpieczeństwo, jeśli pozostanę czujny.)"
+                            },
+                            {
+                                "Sentence": "It put their lives in peril.",
+                                "Translation": "(To naraziło ich życie na niebezpieczeństwo.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

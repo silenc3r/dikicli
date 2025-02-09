@@ -1,0 +1,35 @@
+[
+    {
+        "Entry": [
+            "matron"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pielęgniarka szkolna",
+                            "siostra przełożona"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "kierowniczka",
+                            "dyrektorka (np. w szpitalu, w więzieniu)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "kobieta w podeszłym wieku"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

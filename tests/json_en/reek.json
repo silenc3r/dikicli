@@ -1,0 +1,48 @@
+[
+    {
+        "Entry": [
+            "reek"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "śmierdzieć",
+                            "cuchnąć (czymś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The room reeked of cigarette smoke.",
+                                "Translation": "(Pokój cuchnął dymem papierosowym.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wydzielać (dym)",
+                            "parować",
+                            "kurzyć"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ostra woń (nieprzyjemna)",
+                            "fetor",
+                            "smród"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

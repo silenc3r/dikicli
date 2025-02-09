@@ -1,0 +1,177 @@
+[
+    {
+        "Entry": [
+            "dope"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "środek odurzający",
+                            "narkotyk"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He usually hides his dope under the bed.",
+                                "Translation": "(On zwykle chowa swoje narkotyki pod łóżkiem.)"
+                            },
+                            {
+                                "Sentence": "He took some kind of dope and he's high.",
+                                "Translation": "(On wziął jakiś rodzaj narkotyków i jest naćpany.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "idiota",
+                            "palant"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Don't be a dope and give me a hand.",
+                                "Translation": "(Nie bądź idiotą, pomóż mi.)"
+                            },
+                            {
+                                "Sentence": "You're a dope that you left her.",
+                                "Translation": "(Jesteś palantem, dlatego że ją zostawiłeś.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "cynk",
+                            "informacje"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I got the dope that he'll be here tomorrow.",
+                                "Translation": "(Dostałem cynk, że on będzie tutaj jutro.)"
+                            },
+                            {
+                                "Sentence": "We caught him because somebody gave us the dope.",
+                                "Translation": "(Złapaliśmy go, bo ktoś dał nam cynk.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "domieszka",
+                            "dodatek"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This necklace has a dope of gold.",
+                                "Translation": "(Ten naszyjnik ma domieszkę złota.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "materiał obojętny (w produkcji dynamitu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Make sure you put enough dope in the dynamite stick.",
+                                "Translation": "(Upewnij się, że włożyłeś odpowiednio dużo materiału obojętnego do laski dynamitu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "lakier używany do pokrywania samolotów"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The hull is now covered with dope.",
+                                "Translation": "(Kadłub jest teraz pokrywany lakierem.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "podawać środki dopingujące",
+                            "odurzać narkotykiem"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He doped her so she would win the race.",
+                                "Translation": "(On podał jej środki dopingujące, żeby wygrała wyścig.)"
+                            },
+                            {
+                                "Sentence": "They doped him and smuggled him inside.",
+                                "Translation": "(Oni odurzyli go narkotykiem i przemycili do środka.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ćpać",
+                            "brać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I heard he doped in high school.",
+                                "Translation": "(Słyszałem, że on ćpał w liceum.)"
+                            },
+                            {
+                                "Sentence": "I don't dope anymore, I changed.",
+                                "Translation": "(Nie biorę już, zmieniłem się.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "dope",
+            "fat",
+            "phat"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rewelacyjny",
+                            "odjechany",
+                            "świetny",
+                            "czadowy",
+                            "kozacki",
+                            "zarąbisty"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His new jacket is really dope.",
+                                "Translation": "(Jego nowa kurtka jest naprawdę odjechana.)"
+                            },
+                            {
+                                "Sentence": "My car is dope, right?",
+                                "Translation": "(Moje auto jest odjechane, nie?)"
+                            },
+                            {
+                                "Sentence": "It was a fat party, I met great people!",
+                                "Translation": "(To była czadowa impreza, poznałem świetnych ludzi!)"
+                            },
+                            {
+                                "Sentence": "This band plays phat music!",
+                                "Translation": "(Ten zespół gra świetną muzykę!)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

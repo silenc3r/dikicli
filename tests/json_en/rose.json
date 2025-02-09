@@ -1,0 +1,441 @@
+[
+    {
+        "Entry": [
+            "rose"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "róża"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I got a red rose from my boyfriend.",
+                                "Translation": "(Dostałam czerwoną różę od mojego chłopaka.)"
+                            },
+                            {
+                                "Sentence": "I plant roses in my garden.",
+                                "Translation": "(Sadzę róże w moim ogrodzie.)"
+                            },
+                            {
+                                "Sentence": "There are a lot of roses in my aunt's garden.",
+                                "Translation": "(W ogrodzie mojej cioci jest mnóstwo róż.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "sitko (np. w konewce)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I lost the rose from my watering can.",
+                                "Translation": "(Zgubiłem sitko z mojej konewki.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "różany"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I bought a rose face cream for my wife.",
+                                "Translation": "(Kupiłem różany krem do twarzy dla mojej żony.)"
+                            },
+                            {
+                                "Sentence": "I like rose perfumes.",
+                                "Translation": "(Lubię różane perfumy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "różowy",
+                            "różany (kolor)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I like your rose sweater.",
+                                "Translation": "(Podoba mi się twój różowy sweter.)"
+                            },
+                            {
+                                "Sentence": "She bought a rose dress.",
+                                "Translation": "(Ona kupiła różową sukienkę.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "rosé",
+            "rose"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wino różowe"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "rise"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wzrastać (np. cena)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The temperature outside will rise a little bit later on.",
+                                "Translation": "(Temperatura na zewnątrz trochę wzrośnie później.)"
+                            },
+                            {
+                                "Sentence": "Petrol price has risen again.",
+                                "Translation": "(Cena paliwa znowu wzrosła.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wzbierać",
+                            "wznosić się (np. w powietrze)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The balloon rose into the air.",
+                                "Translation": "(Balonik wzniósł się w powietrze.)"
+                            },
+                            {
+                                "Sentence": "I had a dream I rose to the air.",
+                                "Translation": "(Miałem sen, że wznosiłem się w powietrze.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wstawać",
+                            "powstać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "All rise, please.",
+                                "Translation": "(Proszę powstać.)"
+                            },
+                            {
+                                "Sentence": "You have to rise when the Queen enters.",
+                                "Translation": "(Musicie wstać, kiedy wchodzi Królowa.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rosnąć (np. w siłę albo do pozycji kogoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Nobody expected him to rise in power so quickly.",
+                                "Translation": "(Nikt sie nie spodziewał, że on tak szybko urośnie w siłę.)"
+                            },
+                            {
+                                "Sentence": "After returning from Afghanistan, he rose to the rank of a hero.",
+                                "Translation": "(Po powrocie z Afganistanu, on urósł do rangi bohatera.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rosnąć",
+                            "wzbijać się (być wysokim)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The skyscraper rises above the clouds.",
+                                "Translation": "(Wieżowiec wzbija się ponad chmury.)"
+                            },
+                            {
+                                "Sentence": "That tree will rise above your house in three years.",
+                                "Translation": "(To drzewo wzbije się ponad twój dom za trzy lata.)"
+                            },
+                            {
+                                "Sentence": "The sun rose above the top edge of the forest.",
+                                "Translation": "(Słońce wzbiło się ponad szczytem lasu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "unosić się (o głosie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His voice rose when he noticed that I didn't listen to him.",
+                                "Translation": "(Jego głos uniósł się, kiedy zauważył, że go nie słuchałam.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wschodzić (o słońcu, księżycu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "In the summer, the sun rises early.",
+                                "Translation": "(Latem słońce wcześnie wschodzi.)"
+                            },
+                            {
+                                "Sentence": "The moon will rise at eight today.",
+                                "Translation": "(Księżyc wzejdzie dziś o ósmej.)"
+                            },
+                            {
+                                "Sentence": "The Sun rises in the east.",
+                                "Translation": "(Słońce wstaje na wschodzie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rosnąć (np. gniew, smutek)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Her anger began to rise as she heard the news.",
+                                "Translation": "(Jej gniew zaczął rosnąć kiedy usłyszała wieści.)"
+                            },
+                            {
+                                "Sentence": "Her sadness rose with every day.",
+                                "Translation": "(Jej smutek rósł z każdym dniem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "powstać (przeciwko czemuś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "All women should rise against inequality and discrimination.",
+                                "Translation": "(Wszystkie kobiety powinny powstać przeciwko nierówności i dyskryminacji.)"
+                            },
+                            {
+                                "Sentence": "We need to rise against our oppressors!",
+                                "Translation": "(Musimy powstać przeciwko naszym ciemiężcom!)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rosnąć (o cieście)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Pizza dough needs to rise for nearly an hour.",
+                                "Translation": "(Ciasto na pizzę musi rosnąć przez prawie godzinę.)"
+                            },
+                            {
+                                "Sentence": "Leave the dough to rise for thirty minutes.",
+                                "Translation": "(Zostaw ciasto żeby wyrosło przez trzydzieści minut.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wstawać z łóżka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It's time to rise, you can't sleep all day.",
+                                "Translation": "(Czas wstać z łóżka, nie możesz spać cały dzień.)"
+                            },
+                            {
+                                "Sentence": "I like to rise at 6 o'clock everyday.",
+                                "Translation": "(Lubię codziennie wstawać z łóżka o 6.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wstawać z martwych"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "On the third day, Jesus rose from the dead.",
+                                "Translation": "(Trzeciego dnia Jezus wstał z martwych.)"
+                            },
+                            {
+                                "Sentence": "I watched a film about a man who rises and becomes a zombie.",
+                                "Translation": "(Oglądałem film o mężczyźnie, który wstaje z martwych i zostaje zombie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kończyć posiedzenie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We have to rise, I have an important meeting in an hour.",
+                                "Translation": "(Musimy zakończyć posiedzenie, mam za godzinę ważne spotkanie.)"
+                            },
+                            {
+                                "Sentence": "They found a solution for the problem so they decided to rise.",
+                                "Translation": "(Znaleźli rozwiązanie problemu, więc postanowili zakończyć posiedzenie.)"
+                            },
+                            {
+                                "Sentence": "The committee rose after having resolved this problem.",
+                                "Translation": "(Komisja zakończyła posiedzenie po tym, jak rozwiązała ten problem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nabierać na sile"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The rain is rising, we have to stay inside.",
+                                "Translation": "(Deszcz nabiera na sile, musimy zostać w środku.)"
+                            },
+                            {
+                                "Sentence": "You have to eat healthy to rise and win that fight.",
+                                "Translation": "(Musisz jeść zdrowo, żeby nabrać na sile i wygrać tę walkę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "brać początek"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My interests rise in my father's job.",
+                                "Translation": "(Moje zainteresowania biorą początek w pracy mojego ojca.)"
+                            },
+                            {
+                                "Sentence": "Does this fear rise from the past?",
+                                "Translation": "(Czy ten strach bierze początek w przeszłości?)"
+                            },
+                            {
+                                "Sentence": "Her reluctance towards men rises from bad childhood experiences.",
+                                "Translation": "(Jej niechęć wobec mężczyzn bierze się ze złych doświadczeń z dzieciństwa.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wzrost (zwiększenie się czegoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The rise in oil prices didn't have much impact on this.",
+                                "Translation": "(Wzrost ceny oleju nie miał na to dużego wpływu.)"
+                            },
+                            {
+                                "Sentence": "There has been a huge rise of unemployment recently.",
+                                "Translation": "(W ostatnim czasie nastąpił ogromny wzrost bezrobocia.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wzniesienie się",
+                            "dojście (np. do władzy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This was the decisive step towards his rise to a high office.",
+                                "Translation": "(To był decydujący krok w kierunku jego dojścia do wysokiego stanowiska.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wzniesienie",
+                            "pagórek"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There is a small rise behind my house.",
+                                "Translation": "(Za moim domem jest mały pagórek.)"
+                            },
+                            {
+                                "Sentence": "When they came to the top of a little rise, they stopped.",
+                                "Translation": "(Kiedy dotarli na szczyt pagórka, zatrzymali się.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wzwód"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "rise to something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "odnieść się do czegoś",
+                            "odpowiedzieć na coś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Can you rise to my question?",
+                                "Translation": "(Czy możesz odpowiedzieć na moje pytanie?)"
+                            },
+                            {
+                                "Sentence": "In your essay you should rise to the opinion of an expert.",
+                                "Translation": "(W swoim eseju powinieneś odnieść się do opinii eksperta.)"
+                            },
+                            {
+                                "Sentence": "He rose to the issue of poverty.",
+                                "Translation": "(On odniósł się do problemu ubóstwa.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

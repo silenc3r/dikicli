@@ -1,0 +1,39 @@
+[
+    {
+        "Entry": [
+            "dinky",
+            "dinkey"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ciasny",
+                            "za mały"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "uroczy",
+                            "przemiły",
+                            "milutki"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "mały",
+                            "lichy",
+                            "mało ważny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "Entry": [
+            "inhibit"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "hamować",
+                            "powstrzymywać",
+                            "utrudniać (np. rozwój, proces)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "hamować (np. impuls, pożądanie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "blokować",
+                            "spowalniać"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zakazywać",
+                            "zabraniać"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "powstrzymywać (zatrzymać proces lub wyłączyć obwód z działania)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

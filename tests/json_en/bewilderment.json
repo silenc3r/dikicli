@@ -1,0 +1,24 @@
+[
+    {
+        "Entry": [
+            "bewilderment"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "osłupienie",
+                            "oszołomienie",
+                            "zdziwienie",
+                            "konfuzja"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

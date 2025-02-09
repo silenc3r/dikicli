@@ -1,0 +1,64 @@
+[
+    {
+        "Entry": [
+            "clout"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "uderzenie",
+                            "walnięcie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His clout could knock out five people at once.",
+                                "Translation": "(Jego uderzenie mogło powalić pięciu ludzi naraz.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "siła oddziaływania",
+                            "znaczenie (np. polityczne)",
+                            "siła przebicia",
+                            "duże wpływy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I should still have enough clout to pull that off.",
+                                "Translation": "(Wciąż mam wystarczające znaczenie, by to przepchnąć.)"
+                            },
+                            {
+                                "Sentence": "It turned out that his ideas have an unexpected clout in the Parliament.",
+                                "Translation": "(Okazało się, że jego idee mają nieoczekiwane znaczenie w parlamencie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "szmatka",
+                            "ściereczka"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "walić",
+                            "walnąć w coś"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

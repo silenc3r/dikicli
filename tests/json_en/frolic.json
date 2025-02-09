@@ -1,0 +1,52 @@
+[
+    {
+        "Entry": [
+            "frolic",
+            "frolick"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dokazywać",
+                            "hasać",
+                            "figlować",
+                            "swawolić",
+                            "psocić"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "igraszki",
+                            "figle",
+                            "harce",
+                            "zabawa"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "figlarny",
+                            "swawolny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

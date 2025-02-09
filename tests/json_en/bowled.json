@@ -1,0 +1,176 @@
+[
+    {
+        "Entry": [
+            "bowl"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "miska",
+                            "miseczka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Put the chocolates in a bowl.",
+                                "Translation": "(Włóż czekoladki do miseczki.)"
+                            },
+                            {
+                                "Sentence": "Who's been using my favourite bowl?",
+                                "Translation": "(Kto używał mojej ulubionej miseczki?)"
+                            },
+                            {
+                                "Sentence": "This is the only bowl I ever eat from.",
+                                "Translation": "(To jest jedyna miseczka, z jakiej jem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pojemność miseczki"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We need a bowl of sugar.",
+                                "Translation": "(Potrzebujemy miseczki cukru.)"
+                            },
+                            {
+                                "Sentence": "I ate a bowl of strawberries.",
+                                "Translation": "(Zjadłem miseczkę truskawek.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kula do gry w kręgle"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He took the bowls and started a new game.",
+                                "Translation": "(On wziął kule i rozpoczął nową grę.)"
+                            },
+                            {
+                                "Sentence": "I bought a bowl.",
+                                "Translation": "(Kupiłem kulę do gry w kręgle.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "miseczka",
+                            "miska (kształt)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The cat was drinking water from a bowl.",
+                                "Translation": "(Kot pił wodę z miseczki.)"
+                            },
+                            {
+                                "Sentence": "He poured milk into the bowl.",
+                                "Translation": "(On nalał mleko do miseczki.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "stadion sportowy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There will be a match at the bowl.",
+                                "Translation": "(Na stadionie sportowym odbędzie się mecz.)"
+                            },
+                            {
+                                "Sentence": "Let's meet at the bowl.",
+                                "Translation": "(Spotkajmy się na stadionie sportowym.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kuliste akwarium"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "toczyć",
+                            "potoczyć (np. po jakiejś powierzchni)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She bowled her ring on the table.",
+                                "Translation": "(Ona potoczyła swoim pierścionkiem po stole.)"
+                            },
+                            {
+                                "Sentence": "The pen bowled on the table and fell.",
+                                "Translation": "(Długopis potoczył się po stole i spadł.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rzucić",
+                            "rzucać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Bowl the ball finally!",
+                                "Translation": "(Rzuć piłką w końcu!)"
+                            },
+                            {
+                                "Sentence": "He bowled the ball so far we weren't able to find it.",
+                                "Translation": "(On rzucił piłkę tak daleko, że nie byliśmy w stanie jej znaleźć.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wyeliminować z gry przez uderzenie piłką w bramkę (w grze w krykieta)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I was bowled out and my team lost.",
+                                "Translation": "(Byłem wyeliminowany z gry i moja drużyna przegrała.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pędzić (szybko podróżować)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The children bowled along the street on their new bicycles.",
+                                "Translation": "(Dzieci pędziły wzdłuż drogi na swoich nowych rowerach.)"
+                            },
+                            {
+                                "Sentence": "Stop bowling! Do you want to break your neck?",
+                                "Translation": "(Nie pędź tak! Chcesz sobie złamać kark?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "grać w kręgle"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He bowls every day.",
+                                "Translation": "(On gra w kręgle codziennie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

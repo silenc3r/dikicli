@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "rectitude"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "prawość",
+                            "uczciwość",
+                            "rzetelność"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "poprawność (postępowania)",
+                            "trafność (opinii)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

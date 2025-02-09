@@ -1,0 +1,41 @@
+[
+    {
+        "Entry": [
+            "liver"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wątroba (w ciele człowieka)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He was diagnosed with liver cancer.",
+                                "Translation": "(Zdiagnozowano u niego raka wątroby.)"
+                            },
+                            {
+                                "Sentence": "The human liver weighs about 1.5 kilograms.",
+                                "Translation": "(Ludzka wątroba waży około 1,5 kilograma.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wątróbka (rodzaj mięsa)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You know I don't like liver, so why do you keep buying it?",
+                                "Translation": "(Wiesz że nie lubię wątróbki, więc dlaczego ciągle ją kupujesz?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

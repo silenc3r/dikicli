@@ -1,0 +1,36 @@
+[
+    {
+        "Entry": [
+            "rebuke"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nagana",
+                            "upomnienie",
+                            "reprymenda (za coś)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zbesztać (kogoś)",
+                            "dać reprymendę (komuś)",
+                            "strofować (kogoś za coś)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

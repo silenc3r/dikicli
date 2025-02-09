@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "tendentious",
+            "tendencious"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "tendencyjny",
+                            "stronniczy (o artykule, przemowie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

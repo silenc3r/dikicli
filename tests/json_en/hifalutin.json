@@ -1,0 +1,25 @@
+[
+    {
+        "Entry": [
+            "highfalutin",
+            "hifalutin",
+            "high-falutin",
+            "high-faluting"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pretensjonalny",
+                            "szpanujący"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

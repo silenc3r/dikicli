@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "adage"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "maksyma",
+                            "przysłowie",
+                            "porzekadło"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

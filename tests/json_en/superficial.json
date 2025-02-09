@@ -1,0 +1,59 @@
+[
+    {
+        "Entry": [
+            "superficial"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pobieżny",
+                            "powierzchowny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It's a very superficial description.",
+                                "Translation": "(To jest bardzo pobieżny opis.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pozorny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I don't trust his superficial friendliness.",
+                                "Translation": "(Nie ufam jego pozornej życzliwości.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "płytki (o osobie)",
+                            "powierzchowny (o ranie, uczuciach)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "nieistotny",
+                            "drobny (o zmianie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "powierzchowny",
+                            "dotyczący warstwy zewnętrznej (np. gleby, skały)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

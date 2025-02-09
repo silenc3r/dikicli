@@ -1,0 +1,48 @@
+[
+    {
+        "Entry": [
+            "remedial"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "naprawczy (o działaniach)",
+                            "zaradczy (środek)",
+                            "naprawczy (zakład)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The doctor gave him a remedial medication.",
+                                "Translation": "(Doktor dał mu środek zaradczy.)"
+                            },
+                            {
+                                "Sentence": "We have to take remedial actions.",
+                                "Translation": "(Musimy przedsięwziąć działania naprawcze.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rehabilitacyjny (o kuracji)",
+                            "leczniczy (o terapii)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She does remedial excercises every day.",
+                                "Translation": "(Ona wykonuje ćwiczenia rehabilitacyjne każdego dnia.)"
+                            },
+                            {
+                                "Sentence": "A remedial therapy after stroke is essential.",
+                                "Translation": "(Terapia lecznicza po udarze jest niezbędna.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

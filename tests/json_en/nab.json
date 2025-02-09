@@ -1,0 +1,44 @@
+[
+    {
+        "Entry": [
+            "nab"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przyłapywać (np. złodzieja)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The shop assistant nabbed the shoplifter.",
+                                "Translation": "(Ekspedient przyłapał złodzieja sklepowego.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zajmować",
+                            "zaklepywać (np. miejsce, stolik)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "piwo bezalkoholowe"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "Entry": [
+            "squid"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kalmar",
+                            "kałamarnica"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A squid can't come out of the water.",
+                                "Translation": "(Kałamarnica nie może wyjść z wody.)"
+                            },
+                            {
+                                "Sentence": "I always wondered what squid tastes like.",
+                                "Translation": "(Zawsze mnie zastanawiało jak smakuje kałamarnica.)"
+                            },
+                            {
+                                "Sentence": "This restaurant serves the best squid in the city.",
+                                "Translation": "(Ta restauracja podaje najlepszą kałamarnicę w mieście.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "początkujący motocyklista jeżdżący niebezpiecznie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "Entry": [
+            "voluble"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "elokwentny",
+                            "swobodnie wypowiadający się (o osobie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "potoczysty",
+                            "płynny",
+                            "obszerny (o sposobie mówienia)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "obrotowy",
+                            "obracający się"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

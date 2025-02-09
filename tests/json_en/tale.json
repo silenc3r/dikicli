@@ -1,0 +1,52 @@
+[
+    {
+        "Entry": [
+            "tale"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "historyjka",
+                            "bajka",
+                            "opowieść"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "When I was a child, my mother used to tell me tales before I was going to sleep.",
+                                "Translation": "(Kiedy byłem dzieckiem, moja mama opowiadała mi bajki zanim szedłem spać.)"
+                            },
+                            {
+                                "Sentence": "Geoffrey Chaucer is the author of \"The Canterbury Tales\".",
+                                "Translation": "(Geoffrey Chaucer jest autorem \"Opowieści kanterberyjskich\".)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "sprawozdanie",
+                            "raport"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I don't understand your tale. Draw up another one.",
+                                "Translation": "(Nie rozumiem twojego raportu. Sporządź kolejny.)"
+                            },
+                            {
+                                "Sentence": "I have to hand the tale to my boss.",
+                                "Translation": "(Muszę dać raport mojemu szefowi.)"
+                            },
+                            {
+                                "Sentence": "I need that tale by tomorrow - can you do this?",
+                                "Translation": "(Potrzebuję tego sprawozdania do jutra - możesz to zrobić?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "Entry": [
+            "rattle"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "grzechotka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This rattle makes too much noise.",
+                                "Translation": "(Ta grzechotka robi zbyt wiele hałasu.)"
+                            },
+                            {
+                                "Sentence": "The baby was playing with a rattle.",
+                                "Translation": "(Dziecko bawiło się grzechotką.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "grzechotanie",
+                            "terkot"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The rattle was really annoying.",
+                                "Translation": "(Grzechotanie było naprawdę denerwujące.)"
+                            },
+                            {
+                                "Sentence": "I couldn't focus because of the rattle of the toys.",
+                                "Translation": "(Nie mogłem się skupić przez grzechotanie zabawek.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "terkotka"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "grzechotać",
+                            "kołatać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Rattle the toy, she will stop crying in a minute.",
+                                "Translation": "(Grzechotaj tą zabawką, ona przestanie płakać za minutę.)"
+                            },
+                            {
+                                "Sentence": "The baby rattles the toy in her crib.",
+                                "Translation": "(Dziecko kołacze zabawką w swojej kołysce.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "turkotać",
+                            "stukać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Something rattles in my car.",
+                                "Translation": "(Coś stuka w moim samochodzie.)"
+                            },
+                            {
+                                "Sentence": "Don't rattle the window.",
+                                "Translation": "(Nie stukaj oknem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "denerwować (kogoś)",
+                            "zbić z tropu"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His laugh rattled me.",
+                                "Translation": "(Jego śmiech zbił mnie z tropu.)"
+                            },
+                            {
+                                "Sentence": "Her question rattled him.",
+                                "Translation": "(Jej pytanie zdenerwowało go.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

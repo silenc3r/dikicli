@@ -1,0 +1,79 @@
+[
+    {
+        "Entry": [
+            "contingent"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "reprezentacja",
+                            "grupa",
+                            "lobby"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Our contingent has a significant influence on the Parliament.",
+                                "Translation": "(Nasza grupa ma znaczący wpływ na parlament.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kontyngent"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They sent a small contingent to Iraq.",
+                                "Translation": "(Oni wysłali mały kontyngent do Iraku.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przypadkowość"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "autorament"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zależny"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "możliwy (w logice modalnej)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "przypadkowy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We cannot allow our plan to be interrupted by a contingent cause.",
+                                "Translation": "(Nie możemy pozwolić, żeby nasz plan został przerwany przez przypadkową przyczynę.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

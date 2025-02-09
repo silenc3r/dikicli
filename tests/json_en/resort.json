@@ -1,0 +1,91 @@
+[
+    {
+        "Entry": [
+            "resort"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kurort",
+                            "miejscowość wypoczynkowa"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The town is best known as a summer resort area.",
+                                "Translation": "(To miasto jest znane jako letnia miejscowość wypoczynkowa.)"
+                            },
+                            {
+                                "Sentence": "This is the most popular Polish resort.",
+                                "Translation": "(To jest najbardziej popularna miejscowość wypoczynkowa w Polsce.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ośrodek wypoczynkowy",
+                            "ośrodek wczasowy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Film stars spend their holidays in this winter resort.",
+                                "Translation": "(Gwiazdy filmowe spędzają swoje wakacje w tym zimowym ośrodku wczasowym.)"
+                            },
+                            {
+                                "Sentence": "Can you recommend me some nice resort?",
+                                "Translation": "(Czy możesz polecić mi jakiś miły ośrodek wypoczynkowy?)"
+                            },
+                            {
+                                "Sentence": "This is the best resort I've ever stayed at - and it's so cheap!",
+                                "Translation": "(To jest najlepszy ośrodek wczasowy, w jakim się zatrzymałem - i jest taki tani!)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "resort to something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "uciekanie się do czegoś"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "uciekać się do czegoś",
+                            "ratować się czymś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My father never resorts to violence.",
+                                "Translation": "(Mój ojciec nigdy nie ucieka się do przemocy.)"
+                            },
+                            {
+                                "Sentence": "She resorted to a lie.",
+                                "Translation": "(Ona uciekła się do kłamstwa.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

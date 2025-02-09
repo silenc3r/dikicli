@@ -1,0 +1,40 @@
+[
+    {
+        "Entry": [
+            "adrift"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "unoszący się na falach",
+                            "dryfujący (swobodnie płynący)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zagubiony (nie posiadający celu w życiu)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "do tyłu",
+                            "w tyle (mający stratę czasową do kogoś w czasie wyścigu)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

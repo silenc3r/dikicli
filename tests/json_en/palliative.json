@@ -1,0 +1,46 @@
+[
+    {
+        "Entry": [
+            "palliative",
+            "alleviant"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "półśrodek"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "środek uśmierzający ból",
+                            "paliatyw"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Heroine is a palliative.",
+                                "Translation": "(Heroina jest paliatywem.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "łagodzący",
+                            "paliatywny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

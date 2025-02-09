@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "cromulent"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "akceptowalny",
+                            "zadowalający"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "typowy",
+                            "zwykły",
+                            "przeciętny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

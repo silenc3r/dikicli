@@ -1,0 +1,24 @@
+[
+    {
+        "Entry": [
+            "infamous"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "owiany złą sławą",
+                            "niesławny",
+                            "niechlubny",
+                            "haniebny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

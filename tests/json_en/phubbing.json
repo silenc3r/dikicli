@@ -1,0 +1,21 @@
+[
+    {
+        "Entry": [
+            "phubbing"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ignorowanie osób, z którymi się przebywa poprzez nieustanne korzystanie z telefonu"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

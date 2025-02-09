@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "pettiness"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "małostkowość",
+                            "drobnostkowość"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "błahość",
+                            "trywialność",
+                            "bagatelność"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

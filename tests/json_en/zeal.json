@@ -1,0 +1,32 @@
+[
+    {
+        "Entry": [
+            "zeal"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "gorliwość",
+                            "żarliwość",
+                            "zapał"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They misunderstood my zeal.",
+                                "Translation": "(Oni źle zrozumieli mój zapał.)"
+                            },
+                            {
+                                "Sentence": "Their zeal was always greater than their wisdom.",
+                                "Translation": "(Ich zapał był zawsze większy niż ich mądrość.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

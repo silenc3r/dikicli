@@ -1,0 +1,45 @@
+[
+    {
+        "Entry": [
+            "palatable"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "smaczny (np. wino, ser)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This cheese is palatable.",
+                                "Translation": "(Ten ser jest smaczny.)"
+                            },
+                            {
+                                "Sentence": "I've never drunk more palatable wine.",
+                                "Translation": "(Nigdy nie piłem smaczniejszego wina.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "do przyjęcia (np. pomysł)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I think your idea is palatable.",
+                                "Translation": "(Myślę, że twój pomysł jest do przyjęcia.)"
+                            },
+                            {
+                                "Sentence": "Present the solution in a palatable form.",
+                                "Translation": "(Zaprezentuj rozwiązanie w formie do przyjęcia.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

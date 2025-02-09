@@ -1,0 +1,27 @@
+[
+    {
+        "Entry": [
+            "famished"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "głodny jak wilk",
+                            "bardzo głodny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'm famished, how long are we gonna have to wait?",
+                                "Translation": "(Jestem głodny jak wilk, jak długo mamy jeszcze czekać?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

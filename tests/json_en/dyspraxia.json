@@ -1,0 +1,21 @@
+[
+    {
+        "Entry": [
+            "dyspraxia"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dyspraksja (schorzenie powodujące problemy z poruszaniem się)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

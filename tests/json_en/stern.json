@@ -1,0 +1,44 @@
+[
+    {
+        "Entry": [
+            "stern"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rufa"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We can't keep riding with our stern to the wind.",
+                                "Translation": "(Nie uda nam się płynąć rufą do wiatru.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "srogi (o tonie głosu)",
+                            "nieugięty (o osobie)",
+                            "surowy (o spojrzeniu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He gave me his most stern look.",
+                                "Translation": "(On rzucił mi swoje najbardziej surowe spojrzenie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

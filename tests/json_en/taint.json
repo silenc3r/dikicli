@@ -1,0 +1,89 @@
+[
+    {
+        "Entry": [
+            "taint"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "plama (na honorze)",
+                            "zepsucie (np. moralne)",
+                            "skaza (na reputacji)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There is an immense moral taint in this city.",
+                                "Translation": "(W tym mieście jest znaczące zepsucie moralne.)"
+                            },
+                            {
+                                "Sentence": "I have redeemed the taint on my honor.",
+                                "Translation": "(Odkupiłem plamę na moim honorze.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zabarwienie",
+                            "barwa"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He wore a shirt with a red taint.",
+                                "Translation": "(On miał na sobie koszulę o czerwonej barwie.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zanieczyszczać (powietrze)",
+                            "zatruwać (wodę)",
+                            "skażać (jedzenie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The water was tainted by the sludge from the factory.",
+                                "Translation": "(Woda była zanieczyszczona przez ścieki z fabryki.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "plugawić",
+                            "splugawić",
+                            "plamić (honor)",
+                            "niszczyć (reputację)",
+                            "kalać (dobre imię)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You taint your family honor with your deeds.",
+                                "Translation": "(Plamisz honor twojej rodziny swoimi uczynkami.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zabarwiać",
+                            "farbować (coś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The blood tainted my shirt red.",
+                                "Translation": "(Krew zabarwiła moją koszulę na czerwono.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

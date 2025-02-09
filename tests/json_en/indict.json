@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "indict"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "oskarżać",
+                            "stawiać w stan oskarżenia"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

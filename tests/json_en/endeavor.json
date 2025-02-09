@@ -1,0 +1,61 @@
+[
+    {
+        "Entry": [
+            "endeavour",
+            "endeavor"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "próba",
+                            "staranie",
+                            "wysiłek"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "In spite of my best endeavours, I couldn't contact her.",
+                                "Translation": "(Pomimo usilnych prób, nie mogłem się z nią skontaktować.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dążenia"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "przedsięwzięcie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "starać się",
+                            "postarać się",
+                            "usiłować",
+                            "próbować",
+                            "spróbować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Engineers are endeavouring to locate the source of the problem.",
+                                "Translation": "(Inżynierowie usiłują znaleźć źródło problemu.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

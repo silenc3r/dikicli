@@ -1,0 +1,53 @@
+[
+    {
+        "Entry": [
+            "pram",
+            "perambulator",
+            "baby carriage",
+            "baby buggy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wózek dziecięcy (z budką)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A woman with a pram gave him a friendly \"Good morning!\".",
+                                "Translation": "(Kobieta z wózkiem przyjaźnie powiedziała mu \"Dzień dobry\".)"
+                            },
+                            {
+                                "Sentence": "We sell prams in our shop.",
+                                "Translation": "(Sprzedajemy wózki dziecięce w naszym sklepie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "pram",
+            "pramm"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dziób płaski"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

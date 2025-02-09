@@ -1,0 +1,58 @@
+[
+    {
+        "Entry": [
+            "lustre",
+            "luster"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "blask",
+                            "połysk"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I love the lustre of your eyes.",
+                                "Translation": "(Kocham blask twoich oczu.)"
+                            },
+                            {
+                                "Sentence": "I saw the lustre of silver.",
+                                "Translation": "(Zobaczyłem blask srebra.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "atrakcyjność"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His lustre is indisputable.",
+                                "Translation": "(Jego atrakcyjność jest niekwestionowana.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "żyrandol"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Can you help me to hang the luster?",
+                                "Translation": "(Możesz mi pomóc zawiesić żyrandol?)"
+                            },
+                            {
+                                "Sentence": "There was a huge golden lustre on the ceiling.",
+                                "Translation": "(Na suficie był wielki złoty żyrandol.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

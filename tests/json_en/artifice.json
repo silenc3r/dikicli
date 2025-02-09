@@ -1,0 +1,31 @@
+[
+    {
+        "Entry": [
+            "artifice"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przebiegłość",
+                            "spryt",
+                            "pomysłowość"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "fortel",
+                            "podstęp",
+                            "sztuczka"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

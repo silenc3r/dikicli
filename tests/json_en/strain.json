@@ -1,0 +1,253 @@
+[
+    {
+        "Entry": [
+            "strain"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "napięcie (np. emocjonalne)",
+                            "stres"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This job is a big strain for me.",
+                                "Translation": "(Ta praca to dla mnie duży stres.)"
+                            },
+                            {
+                                "Sentence": "A long-running strain can be harmful to your mental health.",
+                                "Translation": "(Długotrwałe napięcie może być szkodliwe dla twojego zdrowia psychicznego.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "obciążenie",
+                            "wysiłek"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This loan is a real strain on our budget.",
+                                "Translation": "(Ta pożyczka to prawdziwe obciążenie dla naszego budżetu.)"
+                            },
+                            {
+                                "Sentence": "The strain was too much and Mary fainted.",
+                                "Translation": "(Wysiłek był zbyt duży i Mary zemdlała.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "naciąganie (np. liny)",
+                            "napięcie (np. mięśni)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The rope broke because of the strain.",
+                                "Translation": "(Lina pękła z powodu naciągnięcia.)"
+                            },
+                            {
+                                "Sentence": "I feel a horrible pain because of a muscle strain.",
+                                "Translation": "(Czuję okropny ból z powodu napięcia mięśni.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "naderwanie (np. ścięgna)",
+                            "ból (np. oczu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Try to use these eye drops to get rid of eye strain.",
+                                "Translation": "(Spróbuj użyć tych kropli, aby pozbyć się bólu oczu.)"
+                            },
+                            {
+                                "Sentence": "I can't train because of the strain of the tendon.",
+                                "Translation": "(Nie mogę trenować z powodu naderwania ścięgna.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "odmiana (np. grypy, rośliny)",
+                            "szczep (np. bakterii)",
+                            "rasa (zwierzęcia)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She caught a new strain of flu.",
+                                "Translation": "(Ona złapała nową odmianę grypy.)"
+                            },
+                            {
+                                "Sentence": "It must be some dangerous strain of influenza.",
+                                "Translation": "(To musi być jakaś niebezpieczna odmiana grypy.)"
+                            },
+                            {
+                                "Sentence": "Our scientists discovered a new strain of bacteria.",
+                                "Translation": "(Nasi naukowcy odkryli nowy szczep bakterii.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "skłonność (do czegoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There's a strain of aggression in him.",
+                                "Translation": "(Jest w nim skłonność do agresji.)"
+                            },
+                            {
+                                "Sentence": "People have a strain of laziness.",
+                                "Translation": "(Ludzie mają skłonność do lenistwa.)"
+                            },
+                            {
+                                "Sentence": "He has a strain of selfishness.",
+                                "Translation": "(On ma skłonność do egoizmu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nuta (np. cynizmu, zazdrości)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I detected a strain of bitterness in his voice.",
+                                "Translation": "(Wyczułem nutę rozgoryczenia w jego głosie.)"
+                            },
+                            {
+                                "Sentence": "I heard a strain of envy in his tone.",
+                                "Translation": "(Usłyszałam nutę zazdrości w jego tonie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "odkształcenie (wielkość deformacji)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nadwyrężać (np. ścięgno)",
+                            "męczyć (np. oczy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Working at a computer strains your eyes.",
+                                "Translation": "(Praca na komputerze męczy twoje oczy.)"
+                            },
+                            {
+                                "Sentence": "You can't watch TV every single day, you'll strain your eyes.",
+                                "Translation": "(Nie możesz całymi dniami oglądać telewizji, zmęczysz sobie oczy.)"
+                            },
+                            {
+                                "Sentence": "He strained Achilles tendon in the gym.",
+                                "Translation": "(On nadwyrężył na siłowni ścięgno Achillesa.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wytężać (wzrok)",
+                            "nadstawiać (uszu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He strained his ears to hear her whisper.",
+                                "Translation": "(On nadstawił uszu, aby usłyszeć jej szept.)"
+                            },
+                            {
+                                "Sentence": "She strained her eyes but she couldn't see anything.",
+                                "Translation": "(Ona natężyła wzrok, ale nic nie zobaczyła.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "robić coś z wysiłkiem",
+                            "wysilać się, żeby coś zrobić"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He was straining to speak.",
+                                "Translation": "(On mówił z wysiłkiem.)"
+                            },
+                            {
+                                "Sentence": "I strained to smile.",
+                                "Translation": "(Z wysiłkiem się uśmiechnęłam.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "odsączać (coś)",
+                            "odcedzać (np. makaron)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Strain the pasta if it is cooked.",
+                                "Translation": "(Odcedź makaron, jeśli jest ugotowany.)"
+                            },
+                            {
+                                "Sentence": "He burned himself while he was straining the potatoes.",
+                                "Translation": "(On się poparzył kiedy odcedzał ziemniaki.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "naciągać (linę)",
+                            "napinać (mięśnie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He strained his muscles to show off.",
+                                "Translation": "(On napiął swoje mięśnie by się popisać.)"
+                            },
+                            {
+                                "Sentence": "Strain all of your muscles and lift the stone.",
+                                "Translation": "(Napnij wszystkie swoje mięśnie i podnieś ten kamień.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "strain oneself"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przemęczać się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Don't strain yourself so much.",
+                                "Translation": "(Nie przemęczaj się tak bardzo.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

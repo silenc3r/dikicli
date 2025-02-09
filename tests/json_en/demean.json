@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "demean"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "poniżać (kogoś)",
+                            "umniejszać (komuś)",
+                            "znieważać (kogoś)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zachowywać się w określony sposób"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

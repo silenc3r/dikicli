@@ -1,0 +1,72 @@
+[
+    {
+        "Entry": [
+            "birch"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "brzoza"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'll race you to that birch tree.",
+                                "Translation": "(Ścigajmy się do tej brzozy.)"
+                            },
+                            {
+                                "Sentence": "See the small birch behind, off to the left?",
+                                "Translation": "(Widzisz tę małą brzozę z tyłu po lewej?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rózga (do chłostania)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "chłosta"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "chłostać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "get the birch"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dostać rózgi"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

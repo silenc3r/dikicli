@@ -1,0 +1,39 @@
+[
+    {
+        "Entry": [
+            "incidence"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "częstość",
+                            "częstotliwość",
+                            "zasięg (występowania)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "All these measures can help reduce the incidence of these activities.",
+                                "Translation": "(Wszystkie te działania mogą się przyczyniać do ograniczenia częstotliwości występowania powyższych zjawisk.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "padanie (np. promienia)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Remember, the angle of incidence equals the angle of reflection.",
+                                "Translation": "(Pamiętaj, kąt padania równy jest kątowi odbicia.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

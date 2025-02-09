@@ -1,0 +1,57 @@
+[
+    {
+        "Entry": [
+            "endowment"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dotowanie",
+                            "dofinansowanie",
+                            "ufundowanie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His endowment helped me continue my studies.",
+                                "Translation": "(Jego dotowanie pomogło mi kontynuować moją naukę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "darowizna"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Sir, this is a benefit to increase our endowment.",
+                                "Translation": "(Sir, to dodatek do naszej darowizny.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przyrodzony dar",
+                            "uzdolnienie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It's hard to live a life without any endowments.",
+                                "Translation": "(Ciężko jest żyć bez żadnych uzdolnień.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ceremonia praktykowana przez Mormonów"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "Entry": [
+            "mayhem",
+            "maihem"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "chaos",
+                            "zamęt",
+                            "zamieszanie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They are always creating mayhem in our life.",
+                                "Translation": "(Oni zawsze powodują zamęt w naszym życiu.)"
+                            },
+                            {
+                                "Sentence": "The tornado caused mayhem in the country.",
+                                "Translation": "(Tornado spowodowało chaos w kraju.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "okaleczenie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "okaleczyć"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

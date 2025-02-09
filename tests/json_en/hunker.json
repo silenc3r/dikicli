@@ -1,0 +1,34 @@
+[
+    {
+        "Entry": [
+            "hunker",
+            "hunker down"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przykucać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He hunkered down beside me and asked me what was wrong.",
+                                "Translation": "(On przykucnął obok mnie i zapytał, co się stało.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "garbić się",
+                            "schylać się"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

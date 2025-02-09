@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "barmy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "stuknięty",
+                            "zbzikowany",
+                            "zwariowany"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He's been going barmy lately, don't you think?",
+                                "Translation": "(On jest ostatnio coraz bardziej zbzikowany, nie sądzisz?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "Entry": [
+            "glossary"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "słowniczek",
+                            "glosariusz (np. na końcu książki lub artykułu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There is a glossary at the end of this book.",
+                                "Translation": "(Na końcu książki jest słowniczek.)"
+                            },
+                            {
+                                "Sentence": "The glossary contains the key words used in the text.",
+                                "Translation": "(Słowniczek zawiera kluczowe słowa użyte w tekście.)"
+                            },
+                            {
+                                "Sentence": "He decided to add some Latin quotes to the glossary.",
+                                "Translation": "(On zdecydował się dodać kilka łacińskich przysłów do słowniczka.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

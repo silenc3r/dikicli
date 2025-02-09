@@ -1,0 +1,180 @@
+[
+    {
+        "Entry": [
+            "commit"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "popełniać",
+                            "dopuszczać się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They will arrest you if you commit a crime.",
+                                "Translation": "(Oni cię aresztują jeśli popełnisz przestępstwo.)"
+                            },
+                            {
+                                "Sentence": "I don't understand why he committed suicide.",
+                                "Translation": "(Nie rozumiem dlaczego popełnił samobójstwo.)"
+                            },
+                            {
+                                "Sentence": "He committed four murders and didn't feel guilty.",
+                                "Translation": "(On popełnił cztery morderstwa i nie czuł się winny.)"
+                            },
+                            {
+                                "Sentence": "He committed adultery with a married woman.",
+                                "Translation": "(On dopuścił się cudzołóstwa z zamężną kobietą.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "angażować się",
+                            "związywać się (romantycznie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I do not want to commit before I turn thirty.",
+                                "Translation": "(Nie chcę się wiązać zanim nie skończę trzydziestu lat.)"
+                            },
+                            {
+                                "Sentence": "Have you committed to any of them yet?",
+                                "Translation": "(Czy związałeś się z którąś z nich już?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przeznaczać",
+                            "poświęcać (np. pieniądze, czas)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I need to commit some money for a new car.",
+                                "Translation": "(Potrzebuję przeznaczyć trochę pieniędzy na nowy samochód.)"
+                            },
+                            {
+                                "Sentence": "I'm mad that I committed my time to this.",
+                                "Translation": "(Jestem zły, że przeznaczyłem na to swój czas.)"
+                            },
+                            {
+                                "Sentence": "I committed a lot of time and money to raising my children.",
+                                "Translation": "(Przeznaczyłam dużo czasu i pieniędzy na wychowanie moich dzieci.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "skierować do komisji (np. parlamentarnej)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This proposal has been committed twice.",
+                                "Translation": "(Ten projekt został skierowany do komisji dwa razy.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "commit something to something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "powierzać coś czemuś",
+                            "przelewać coś na coś",
+                            "zachowywać coś w czymś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He committed his thoughts to paper.",
+                                "Translation": "(On przelał swoje myśli na papier.)"
+                            },
+                            {
+                                "Sentence": "I will commit every second to memory.",
+                                "Translation": "(Zachowam każdą sekundę w pamięci.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "commit somebody to something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zobowiązywać kogoś do czegoś"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zsyłać kogoś gdzieś",
+                            "wysyłać kogoś gdzieś (np. do więzienia, szpitala)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He was committed to ten years in prison.",
+                                "Translation": "(On został wysłany na dziesięć lat do więzienia.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "commit oneself",
+            "commit oneself to something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zobowiązywać się",
+                            "zobowiązywać się do czegoś"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "poświęcać się czemuś (np. pasji)",
+                            "angażować się w coś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She decided to commit herself to volunteering at the animal shelter every weekend.",
+                                "Translation": "(Zdecydowała się zaangażować się w wolontariat w schronisku dla zwierząt co weekend.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

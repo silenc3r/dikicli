@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "watercress"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rukiew wodna",
+                            "rzeżucha wodna"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

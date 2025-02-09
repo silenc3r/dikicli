@@ -1,0 +1,46 @@
+[
+    {
+        "Entry": [
+            "critic"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "krytyk",
+                            "recenzent (np. filmów, przedstawień teatralnych)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The critic praised the performance.",
+                                "Translation": "(Krytyk zachwalał przedstawienie.)"
+                            },
+                            {
+                                "Sentence": "A classical music critic turned out to have no musical education whatsoever.",
+                                "Translation": "(Krytyk muzyki poważnej okazał się nie mieć żadnej edukacji muzycznej.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "krytyk (np. osób, pomysłów)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You are a critic of all my ideas.",
+                                "Translation": "(Jesteś krytykiem wszystkich moich pomysłów.)"
+                            },
+                            {
+                                "Sentence": "I don't like him, he's a critic of everything I do.",
+                                "Translation": "(Nie lubię go, jest krytykiem wszystkiego co robię.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

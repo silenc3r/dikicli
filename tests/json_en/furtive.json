@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "furtive"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "potajemny",
+                            "tajemny",
+                            "ukradkowy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

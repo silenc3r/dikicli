@@ -1,0 +1,45 @@
+[
+    {
+        "Entry": [
+            "glisten"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "blask"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This shampoo gives your hair a natural glisten.",
+                                "Translation": "(Ten szampon daje twoim włosom naturalny blask.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "błyszczeć",
+                            "lśnić",
+                            "połyskiwać",
+                            "mienić się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The lake was glistening in the sun.",
+                                "Translation": "(Jezioro błyszczało w słońcu.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

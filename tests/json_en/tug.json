@@ -1,0 +1,108 @@
+[
+    {
+        "Entry": [
+            "tug"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szarpnięcie",
+                            "pociągnięcie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I can take a fellow's head clean off with just a little tug.",
+                                "Translation": "(Ja mogę zdjąć mu tę główkę z karku jednym leciutkim pociągnięciem.)"
+                            },
+                            {
+                                "Sentence": "I felt a tug and I turned around.",
+                                "Translation": "(Poczułem szarpnięcie i się odwróciłem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ukłucie (np. zazdrości)",
+                            "przypływ (np. emocji)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He felt a tug of jealousy.",
+                                "Translation": "(On poczuł ukłucie zazdrości.)"
+                            },
+                            {
+                                "Sentence": "The tug of emotions didn't allow me to speak.",
+                                "Translation": "(Przypływ emocji nie pozwolił mi mówić.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pociągać",
+                            "szarpać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I felt somebody tug on my sleeve.",
+                                "Translation": "(Poczułem, że ktoś pociągnął mnie za rękaw.)"
+                            },
+                            {
+                                "Sentence": "She tugged my hair!",
+                                "Translation": "(Ona pociągnęła mnie za włosy!)"
+                            },
+                            {
+                                "Sentence": "When he is nervous, he tugs at his moustache.",
+                                "Translation": "(Kiedy on jest zdenerwowany, szarpie za swoje wąsy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "holować (statek holownikiem)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The ship was tugging our boat.",
+                                "Translation": "(Statek holował naszą łódź.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "tugboat",
+            "tug"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "holownik (statek do holowania innych statków)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He is a captain of a tug boat.",
+                                "Translation": "(On jest kapitanem holownika.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

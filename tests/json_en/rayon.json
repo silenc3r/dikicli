@@ -1,0 +1,26 @@
+[
+    {
+        "Entry": [
+            "rayon"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wiskoza (materiał)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This skirt is made of cotton and rayon.",
+                                "Translation": "(Ta spódnica jest zrobiona z bawełny i wiskozy.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

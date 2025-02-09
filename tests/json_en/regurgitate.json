@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "regurgitate"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zwracać (połkniętą żywność)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "bezmyślnie powtarzać (coś)",
+                            "cytować bez zrozumienia treści"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

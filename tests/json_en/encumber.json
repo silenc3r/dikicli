@@ -1,0 +1,42 @@
+[
+    {
+        "Entry": [
+            "encumber",
+            "incumber"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "obarczyć",
+                            "obarczać",
+                            "obciążyć",
+                            "obciążać (np. obowiązkami)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "przeszkodzić",
+                            "przeszkadzać",
+                            "zatamować",
+                            "krępować (np. o odzieży, o ruchu ulicznym)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zastawiać",
+                            "zawalić",
+                            "zatarasować (np. pokój, sklep)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

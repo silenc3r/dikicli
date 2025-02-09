@@ -1,0 +1,76 @@
+[
+    {
+        "Entry": [
+            "pebble",
+            "pebblestone"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kamyk",
+                            "otoczak"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A pebble got into my shoe.",
+                                "Translation": "(Kamyk wpadł mi do buta.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "pebble"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przezroczysty kryształ górski (kwarc)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The man said it was some sort of a rare pebble.",
+                                "Translation": "(Mężczyzna powiedział, że to był jakiś rzadki przezroczysty kryształ górski.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "męczydupa",
+                            "wrzód na dupie",
+                            "upierdliwiec"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "obrzucać kamieniami"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Why did you pebble his car?",
+                                "Translation": "(Dlaczego obrzuciłeś kamieniami jego samochód?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

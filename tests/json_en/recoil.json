@@ -1,0 +1,53 @@
+[
+    {
+        "Entry": [
+            "recoil"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "cofnąć się",
+                            "odsunąć (od czegoś lub kogoś)",
+                            "odskoczyć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She recoiled in horror.",
+                                "Translation": "(Ona odskoczyła z przerażeniem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wzdragać się (przed czymś)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "szarpnąć",
+                            "odrzucić (po wystrzale z broni palnej)",
+                            "odprężyć (o sprężynie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "odrzut (podczas strzelania z broni)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

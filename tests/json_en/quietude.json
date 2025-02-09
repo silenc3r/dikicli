@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "quietude"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "opanowanie",
+                            "zrównoważenie",
+                            "spokój wewnętrzny"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "cisza",
+                            "spokój"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

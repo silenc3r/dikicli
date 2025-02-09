@@ -1,0 +1,45 @@
+[
+    {
+        "Entry": [
+            "sludge"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "błoto",
+                            "muł (rzeczny)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I got my boot stuck in the sludge when I was crossing the river.",
+                                "Translation": "(Mój but ugrzązł w mule, kiedy przechodziłem przez rzekę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "szlam",
+                            "osad (kanalizacyjny)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They were pouring sludge directly into the river.",
+                                "Translation": "(Oni wylewali szlam prosto do rzeki.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "osad olejowy (w silniku)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

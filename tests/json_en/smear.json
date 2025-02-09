@@ -1,0 +1,91 @@
+[
+    {
+        "Entry": [
+            "smear"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "plama",
+                            "smuga (farby, sadzy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Catherine found blood smear on the floor where she was playing.",
+                                "Translation": "(Catherine znalazła smugę krwi na podłodze, gdzie się bawiła.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "oszczerstwo",
+                            "potwarz"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This allegation was a smear.",
+                                "Translation": "(Ta insynuacja była oszczerstwem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wymaz (krwi, wydzieliny jakiegoś narządu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'll need your blood smear for analysis.",
+                                "Translation": "(Potrzebuję twojego wymazu krwi do badań.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "usmarować (się czymś)",
+                            "rozmazać (np. makijaż)",
+                            "mazać (np. kredką po ścianie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He was smeared with grease.",
+                                "Translation": "(On był usmarowany smarem.)"
+                            },
+                            {
+                                "Sentence": "Her makeup got smeared.",
+                                "Translation": "(Jej makijaż się rozmazał.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "oczerniać",
+                            "obsmarowywać (kogoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Sure, you can smear him, ruin his whole life's work.",
+                                "Translation": "(Jasne, możesz go oczernić, zrujnować pracę całego jego życia.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zmiażdżyć",
+                            "rozgromić"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "Entry": [
+            "darkness"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ciemność (częściowy lub całkowity brak światła)",
+                            "mrok",
+                            "pomroka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She was looking at him in the darkness, not saying a word.",
+                                "Translation": "(Ona patrzyła na niego w mroku, nic nie mówiąc.)"
+                            },
+                            {
+                                "Sentence": "Being a child, she was afraid of darkness.",
+                                "Translation": "(Będąc dzieckiem, bała się ciemności.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zaciemnienie (np. soczewek, szkieł)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She wears glasses with darkness.",
+                                "Translation": "(Ona nosi okulary z zaciemnieniem.)"
+                            },
+                            {
+                                "Sentence": "For these sunny days I need glasses with darkness.",
+                                "Translation": "(Na te słoneczne dni potrzebuję okularów z zaciemnieniem.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

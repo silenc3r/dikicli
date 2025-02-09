@@ -1,0 +1,81 @@
+[
+    {
+        "Entry": [
+            "mute"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niemy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They are no longer willing to remain mute on this subject.",
+                                "Translation": "(Oni nie chcą już milczeć na ten temat.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "niemy",
+                            "milczący"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "niemy",
+                            "niemowa (o osobie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ściszać",
+                            "wyciszać"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "tłumić dźwięk (instrumentu)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "tłumić (np. protesty)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wypróżniać się"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "tłumik (nakładany na instrument)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

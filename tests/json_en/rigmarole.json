@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "rigmarole",
+            "rigamarole"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "skomplikowana procedura (długotrwała i myląca)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "długa przemowa (pełna mylących, skomplikowanych stwierdzeń)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

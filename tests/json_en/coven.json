@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "coven"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zgromadzenie czarownic",
+                            "spęd wiedźm",
+                            "grupa wiedźm"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "Entry": [
+            "crumpet"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "placek",
+                            "racuch",
+                            "placuszek",
+                            "racuszek"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "laska",
+                            "dupa (o kobiecie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "łepetyna",
+                            "bania",
+                            "makówka"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

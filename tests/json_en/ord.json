@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "optical rotatatory dispersion",
+            "ORD"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dyspersja skręcalności optycznej"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

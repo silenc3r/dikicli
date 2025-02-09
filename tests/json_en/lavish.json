@@ -1,0 +1,74 @@
+[
+    {
+        "Entry": [
+            "lavish"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "hojny",
+                            "szczodry",
+                            "obfity",
+                            "suty",
+                            "ogromny",
+                            "niezwykły"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This dinner was lavish. I could eat everything I wanted.",
+                                "Translation": "(Ten obiad był obfity. Mogłem zjeść wszystko, co chciałem.)"
+                            },
+                            {
+                                "Sentence": "My grandpa is very lavish. He gave me 100 dollars.",
+                                "Translation": "(Mój dziadek jest bardzo hojny. On dał mi 100 dolarów.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wystawny",
+                            "przepyszny",
+                            "pełen przepychu"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They lead a lavish lifestyle.",
+                                "Translation": "(Oni prowadzą wystawny tryb życia.)"
+                            },
+                            {
+                                "Sentence": "The costumes in the play were lavish!",
+                                "Translation": "(Kostiumy w sztuce były pełne przepychu!)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szafować",
+                            "hojnie rozdawać",
+                            "nie szczędzić (np. pochwał, uczucia)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Your teacher lavishes praise on you.",
+                                "Translation": "(Twój nauczyciel nie szczędzi ci pochwał.)"
+                            },
+                            {
+                                "Sentence": "Our parents lavish gifts on us.",
+                                "Translation": "(Nasi rodzice hojnie rozdają nam prezenty.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

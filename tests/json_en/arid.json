@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "arid"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "suchy",
+                            "wysuszony",
+                            "bez deszczu"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "jałowy",
+                            "bezowocny (np. rozmyślania, pomysły)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

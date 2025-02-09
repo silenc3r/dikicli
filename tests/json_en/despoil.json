@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "despoil"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rabować",
+                            "plądrować",
+                            "ograbiać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

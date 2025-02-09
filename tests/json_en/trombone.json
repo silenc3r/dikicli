@@ -1,0 +1,26 @@
+[
+    {
+        "Entry": [
+            "trombone"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "puzon"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Jeff used to play the trombone in high school.",
+                                "Translation": "(Jeff grał w liceum na puzonie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

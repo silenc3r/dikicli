@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "lugubrious"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ponury",
+                            "żałobny",
+                            "żałosny (np. nastrój)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "przygnębiony",
+                            "smutny (o osobie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

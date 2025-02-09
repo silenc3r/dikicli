@@ -1,0 +1,69 @@
+[
+    {
+        "Entry": [
+            "vocation"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "powołanie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I still don't know my vocation!",
+                                "Translation": "(Wciąż nie znam mojego powołania!)"
+                            },
+                            {
+                                "Sentence": "The decision of becoming a priest should be based on vocation.",
+                                "Translation": "(Decyzja o zostaniu kapłanem powinna być oparta na powołaniu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zawód"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My vocation is a teacher.",
+                                "Translation": "(Mój zawód to nauczyciel.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "have the vocation"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mieć powołanie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He says that he has the vocation.",
+                                "Translation": "(On mówi, że ma powołanie.)"
+                            },
+                            {
+                                "Sentence": "My son became a priest because he had the vocation.",
+                                "Translation": "(Mój syn został księdzem, bo miał powołanie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

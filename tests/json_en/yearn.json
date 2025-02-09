@@ -1,0 +1,34 @@
+[
+    {
+        "Entry": [
+            "yearn"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "tęsknić",
+                            "bardzo pragnąć (kogoś lub czegoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He yearned for having a mother.",
+                                "Translation": "(On bardzo pragnął mieć matkę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "współczuć",
+                            "lubić (kogoś)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

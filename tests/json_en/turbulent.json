@@ -1,0 +1,37 @@
+[
+    {
+        "Entry": [
+            "turbulent"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wzburzony (o wodzie)",
+                            "gwałtowny",
+                            "rwący",
+                            "porywisty (o wietrze)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "niespokojny (np. okres)",
+                            "burzliwy (przebieg czegoś)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "z turbulencjami"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "taciturn"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "małomówny",
+                            "milczący",
+                            "mrukliwy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "As the years passed, Ann became more and more silent and taciturn.",
+                                "Translation": "(W miarę upływu lat Anna stawała się coraz bardziej cicha i małomówna.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

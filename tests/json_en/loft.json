@@ -1,0 +1,61 @@
+[
+    {
+        "Entry": [
+            "loft"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "poddasze",
+                            "strych"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I have to get to the loft, to my lab.",
+                                "Translation": "(Muszę dostać się na strych do mojego laboratorium.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "loft (duże mieszkanie w dawnej fabryce)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Was she at your loft when you left?",
+                                "Translation": "(Czy ona była w twoim lofcie kiedy wychodziłeś?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "galeria",
+                            "chór (w kościele)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Once the flames create chaos, crawl to the exit under the choir loft.",
+                                "Translation": "(Kiedy płomienie wywołają chaos, idź do wyjścia pod galerią dla chóru.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wybijać wysoko piłkę (w golfie lub krykiecie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

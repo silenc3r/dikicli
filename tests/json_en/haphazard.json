@@ -1,0 +1,39 @@
+[
+    {
+        "Entry": [
+            "haphazard"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przypadek",
+                            "los szczęścia"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przypadkowy",
+                            "chaotyczny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Mary put the books down in a haphazard manner.",
+                                "Translation": "(Mary odłożyła książki w chaotyczny sposób.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

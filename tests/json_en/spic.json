@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "spic",
+            "spick",
+            "spik"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "Hiszpan",
+                            "Meksykaniec"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "język hiszpański"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

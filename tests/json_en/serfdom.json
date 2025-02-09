@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "serfdom",
+            "serfage"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pańszczyzna",
+                            "poddaństwo"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

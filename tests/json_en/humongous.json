@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "humongous",
+            "humungous"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ogromniasty (np. posiłek)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

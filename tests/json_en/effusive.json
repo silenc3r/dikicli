@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "effusive"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wylewny",
+                            "górnolotny",
+                            "przesadny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "That was very effusive of her to meet us in such a happy manner.",
+                                "Translation": "(To było bardzo wylewne z jej strony powitać nas w tak radosny sposób.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

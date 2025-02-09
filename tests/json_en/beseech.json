@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "beseech"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "błagać",
+                            "poprosić",
+                            "prosić usilnie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

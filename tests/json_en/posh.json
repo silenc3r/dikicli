@@ -1,0 +1,52 @@
+[
+    {
+        "Entry": [
+            "posh"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wykwintny",
+                            "wytworny",
+                            "ekskluzywny",
+                            "elegancki"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "That restaurant is really posh.",
+                                "Translation": "(Ta restauracja jest naprawdę wykwintna.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "z wyższych sfer"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "At least a posh guy like me could fit in here easily.",
+                                "Translation": "(Przynajmniej taki koleś z klasą, jak ja mógł się tu wpasować.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kokaina",
+                            "koka"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

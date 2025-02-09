@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "trebuchet",
+            "trebucket"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "trebusz (rodzaj starożytnej i średniowiecznej broni)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

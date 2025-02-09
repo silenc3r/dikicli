@@ -1,0 +1,34 @@
+[
+    {
+        "Entry": [
+            "mussels"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "małże"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They make white paint from these mussels.",
+                                "Translation": "(Robią białą farbę z tych małży.)"
+                            },
+                            {
+                                "Sentence": "The mussels attach themselves to the inside wall of pipes.",
+                                "Translation": "(Małże przyczepiają się do wewnętrznej ściany rur.)"
+                            },
+                            {
+                                "Sentence": "Are these mussels edible?",
+                                "Translation": "(Czy te małże są jadalne?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

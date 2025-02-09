@@ -1,0 +1,60 @@
+[
+    {
+        "Entry": [
+            "mesmerizing",
+            "mesmerising"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niesamowity",
+                            "zachwycający",
+                            "hipnotyzujący"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Her eyes are really mesmerizing.",
+                                "Translation": "(Jej oczy są naprawdę zachwycające.)"
+                            },
+                            {
+                                "Sentence": "His voice was mesmerizing.",
+                                "Translation": "(Jego głos był niesamowity.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "mesmerize",
+            "mesmerise"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zauroczyć (kogoś)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "hipnotyzować (kogoś)",
+                            "mesmeryzować"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "Entry": [
+            "divest",
+            "devest"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozdziać",
+                            "rozdziewać kogoś z czegoś (np. z ubrań)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "pozbawić kogoś",
+                            "pozbawiać kogoś (np. mocy, obowiązków, władzy)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zbyć coś",
+                            "sprzedać coś (np. firmę lub udziały)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

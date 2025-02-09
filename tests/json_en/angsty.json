@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "angsty"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "smutny",
+                            "zmartwiony",
+                            "przybity (zwykle problemami osobistymi)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

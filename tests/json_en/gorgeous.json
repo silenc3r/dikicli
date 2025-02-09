@@ -1,0 +1,56 @@
+[
+    {
+        "Entry": [
+            "gorgeous"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "olśniewający",
+                            "zachwycający",
+                            "przepiękny (np. o czyimś wyglądzie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This guy is absolutely gorgeous!",
+                                "Translation": "(Ten facet jest absolutnie zachwycający!)"
+                            },
+                            {
+                                "Sentence": "You did look gorgeous, but you look even better now.",
+                                "Translation": "(Wyglądałaś olśniewająco, ale teraz wyglądasz jeszcze lepiej.)"
+                            },
+                            {
+                                "Sentence": "This gorgeous man was actually interested in her.",
+                                "Translation": "(Ten zachwycający mężczyzna był nią rzeczywiście zainteresowany.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "cudowny",
+                            "wspaniały (np. widok, jedzenie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The view from their room was just gorgeous.",
+                                "Translation": "(Widok z ich pokoju był po prostu cudowny.)"
+                            },
+                            {
+                                "Sentence": "I love your shirt! It's such a gorgeous colour!",
+                                "Translation": "(Uwielbiam twoją koszulę! To taki cudowny kolor!)"
+                            },
+                            {
+                                "Sentence": "Thank you for the flowers. They are gorgeous!",
+                                "Translation": "(Dziękuję za kwiaty. Są cudowne!)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

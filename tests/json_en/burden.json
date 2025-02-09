@@ -1,0 +1,105 @@
+[
+    {
+        "Entry": [
+            "burden"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ciężar",
+                            "brzemię",
+                            "obciążenie (odpowiedzialność za coś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The burden is on us to think of something else now.",
+                                "Translation": "(Brzemię wymyślenia czegoś innego teraz spoczywa na nas.)"
+                            },
+                            {
+                                "Sentence": "I have to carry this burden on my own.",
+                                "Translation": "(Muszę sam nosić to brzemię.)"
+                            },
+                            {
+                                "Sentence": "I have to bear the burden of caring for my grandparents.",
+                                "Translation": "(Muszę znosić ciężar opiekowania się moimi dziadkami.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ładunek",
+                            "obciążenie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The burden of the van weighed 5 tonnes.",
+                                "Translation": "(Ładunek ciężarówki ważył 5 ton.)"
+                            },
+                            {
+                                "Sentence": "This landing is not suitable for burden of over 1 ton.",
+                                "Translation": "(Ten pomost nie nadaje się do ładunków powyżej 1 tony.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "obowiązek"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The defendant has the burden of producing sufficient evidence.",
+                                "Translation": "(Obrońca ma obowiązek przedstawić wystarczające dowody.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "obciążać",
+                            "obarczać",
+                            "obładowywać (np. problemami)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I wanted to ask you a favour, but I don't want to burden you more.",
+                                "Translation": "(Chciałem poprosić cię o przysługę, ale nie chcę cię bardziej obciążać.)"
+                            },
+                            {
+                                "Sentence": "My boss burdened me with papers and box files.",
+                                "Translation": "(Mój szef obładował mnie papierami i segregatorami.)"
+                            },
+                            {
+                                "Sentence": "I don't want to burden my mother with my problems.",
+                                "Translation": "(Nie chcę obarczać mojej matki moimi problemami.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "obciążać",
+                            "obładowywać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The table was burdened with a heavy box.",
+                                "Translation": "(Stół był obciążony ciężkim pudłem.)"
+                            },
+                            {
+                                "Sentence": "He was walking around burdened with a pile of papers.",
+                                "Translation": "(On chodził obładowany stosem papierów.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

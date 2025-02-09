@@ -1,0 +1,36 @@
+[
+    {
+        "Entry": [
+            "veer"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "skręcać",
+                            "zmieniać kierunek (o drodze, o pojeździe)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zmieniać przekonanie",
+                            "zmieniać opinię"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "luzować",
+                            "poluzować (np. linę)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

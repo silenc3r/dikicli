@@ -1,0 +1,31 @@
+[
+    {
+        "Entry": [
+            "tuberculosis",
+            "TB"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "gruźlica (choroba zakaźna)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "One of the symptoms of tuberculosis are swellings on the lungs.",
+                                "Translation": "(Jednym z objawów gruźlicy są opuchlizny na płucach.)"
+                            },
+                            {
+                                "Sentence": "He needs a lung transplant because of his tuberculosis.",
+                                "Translation": "(On potrzebuje przeszczepu płuc przez gruźlicę.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

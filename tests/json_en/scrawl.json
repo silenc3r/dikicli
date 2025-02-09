@@ -1,0 +1,36 @@
+[
+    {
+        "Entry": [
+            "scrawl"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bazgranina",
+                            "gryzmoły",
+                            "niestaranne pismo"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bazgrać",
+                            "gryzmolić",
+                            "pisać niestarannie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

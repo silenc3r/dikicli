@@ -1,0 +1,116 @@
+[
+    {
+        "Entry": [
+            "flock"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "gromada",
+                            "stado (ptaków, owiec, kóz)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A flock of sheep has escaped onto the road.",
+                                "Translation": "(Stado owiec wydostało się na ulicę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "grupa",
+                            "gromada (ludzi)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A noisy flock of tourists came into the museum.",
+                                "Translation": "(Hałaśliwa grupa turystów weszła do muzeum.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "grupa wiernych",
+                            "parafianie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The vicar invited all the members of his flock to attend the concert.",
+                                "Translation": "(Proboszcz zaprosił wszystkich swoich parafian na koncert.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wełna odpadowa służąca do wypełniania poduszek",
+                            "strzyża tekstylna"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This cushion is filled with flock.",
+                                "Translation": "(Ta poduszka jest wypełniona wełną odpadową.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kosmyk (wełny)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "gromadzić się (o ludziach, zwierzętach)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Hundreds of people are flocking to the football game.",
+                                "Translation": "(Setki ludzi gromadzi się na grę piłki nożnej.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "sprzedać",
+                            "opchnąć"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "flocculus",
+            "floc",
+            "floccule",
+            "flock",
+            "floccus"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kłaczek",
+                            "kłaczki"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

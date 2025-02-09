@@ -1,0 +1,117 @@
+[
+    {
+        "Entry": [
+            "sob"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "łkać",
+                            "szlochać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I found her sobbing in the attic.",
+                                "Translation": "(Znalazłem ją szlochającą na strychu.)"
+                            },
+                            {
+                                "Sentence": "You will not help matters by sobbing.",
+                                "Translation": "(Twoje szlochanie nic nie pomoże.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szloch",
+                            "łkanie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "sob",
+            "sob out"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "powiedzieć szlochając",
+                            "wyszlochać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "shortness of breath",
+            "dyspnea",
+            "SOB"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zadyszka",
+                            "płytki oddech"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "son of a bitch",
+            "SOB",
+            "S.O.B."
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sukinsyn",
+                            "skurwysyn"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Some son of a bitch tried to sell me a broken bike.",
+                                "Translation": "(Jakiś sukinsyn próbował mi sprzedać zepsuty rower.)"
+                            },
+                            {
+                                "Sentence": "You son of a bitch!",
+                                "Translation": "(Ty skurwysynu!)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

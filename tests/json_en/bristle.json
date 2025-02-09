@@ -1,0 +1,79 @@
+[
+    {
+        "Entry": [
+            "bristle"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szczecina (krótki, sztywny zarost)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He hasn't shaved for a few days, so he had a bristle on his face.",
+                                "Translation": "(On nie golił się przez kilka dni, więc miał na twarzy szczecinę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "włosie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I need a brush with tough bristle.",
+                                "Translation": "(Potrzebuję szczotki z twardym włosiem.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "jeżyć się",
+                            "najeżyć się",
+                            "zjeżyć się (o włosach)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The hair bristled on his neck.",
+                                "Translation": "(Włosy zjeżyły się mu na karku.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "najeżyć się",
+                            "zjeżyć się (oburzyć się, zdenerwować na coś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She bristled at the suggestion that she might be wrong.",
+                                "Translation": "(Zjeżyła się na sugestię, że może być w błędzie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "być czymś najeżonym",
+                            "jeżyć się czymś (być pełnym czegoś, np. ciasto najeżone rodzynkami)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This cake bristles with raisins.",
+                                "Translation": "(To ciasto jest najeżone rodzynkami.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

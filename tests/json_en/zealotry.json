@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "zealotry"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nadmierna gorliwość",
+                            "fanatyzm"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "vigilante"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "samozwańczy strażnik",
+                            "samozwańczy stróż prawa"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

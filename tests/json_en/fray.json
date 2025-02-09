@@ -1,0 +1,80 @@
+[
+    {
+        "Entry": [
+            "fray",
+            "the fray"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bójka",
+                            "zwada",
+                            "walka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Troops soon joined the fray.",
+                                "Translation": "(Żołnierze szybko przyłączyli się do walki.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "fray"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "strzępić się",
+                            "strzępić",
+                            "siepać się"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "być na włosku (o nerwach)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My nerves started to fray.",
+                                "Translation": "(Miałem nerwy na włosku.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "The Fray"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "nazwa własna",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "The Fray"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

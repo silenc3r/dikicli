@@ -1,0 +1,65 @@
+[
+    {
+        "Entry": [
+            "proxy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pełnomocnik",
+                            "pełnomocnictwo"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They used a proxy to contact us.",
+                                "Translation": "(Oni skorzystali z pełnomocnika, żeby się z nami skontaktować.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zastępca",
+                            "zastępstwo"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I can't go to the meeting, but my proxy will come.",
+                                "Translation": "(Nie mogę się pojawić na spotkaniu, ale wyślę mojego zastępcę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "aproksymanta",
+                            "zmienna proxy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "be somebody's proxy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "występować jako czyjś pełnomocnik"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

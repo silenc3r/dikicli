@@ -1,0 +1,53 @@
+[
+    {
+        "Entry": [
+            "prowess"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sprawność"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Here in Cambridge, we've always been proud of our athletic prowess.",
+                                "Translation": "(U nas w Cambridge zawsze byliśmy dumni z naszej sprawności fizycznej.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dzielność",
+                            "waleczność"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He was known for his prowess in battle.",
+                                "Translation": "(On był znany ze swej dzielności w walce.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "jurność"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She's been spreading rumors about your prowess.",
+                                "Translation": "(Ona rozprowadzała plotki o twojej jurności.)"
+                            },
+                            {
+                                "Sentence": "Do you have any doubts about my prowess?",
+                                "Translation": "(Czy masz jakieś wątpliwości co do mojej jurności?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

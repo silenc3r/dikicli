@@ -1,0 +1,26 @@
+[
+    {
+        "Entry": [
+            "indolence"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "lenistwo",
+                            "ociężałość",
+                            "opieszałość",
+                            "ospałość",
+                            "gnuśność",
+                            "indolencja"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

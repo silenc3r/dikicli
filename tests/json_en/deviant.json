@@ -1,0 +1,45 @@
+[
+    {
+        "Entry": [
+            "deviant"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zboczeniec",
+                            "dewiant (o osobie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Chuck may be a deviant, but he's still a man.",
+                                "Translation": "(Chuck może i jest dewiantem, ale jest też mężczyzną.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wykolejeniec"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "odbiegający od normy",
+                            "dewiacyjny (o zachowaniu)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

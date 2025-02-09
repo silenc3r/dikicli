@@ -1,0 +1,24 @@
+[
+    {
+        "Entry": [
+            "incinerate"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "spalać",
+                            "spalić na popiół",
+                            "spopielać",
+                            "obrócić w popiół"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

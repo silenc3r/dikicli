@@ -1,0 +1,93 @@
+[
+    {
+        "Entry": [
+            "squirm"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wiercić się",
+                            "kręcić się (o osobie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Don't squirm!",
+                                "Translation": "(Nie wierć się!)"
+                            },
+                            {
+                                "Sentence": "He was squirming on the sofa.",
+                                "Translation": "(On wiercił się na sofie.)"
+                            },
+                            {
+                                "Sentence": "My son often squirms when he's bored.",
+                                "Translation": "(Mój syn często się wierci, kiedy jest znudzony.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wić się (o wężu)",
+                            "skręcać się (o robaku)",
+                            "zwijać się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The snake was squirming on the field.",
+                                "Translation": "(Wąż wił się na polu.)"
+                            },
+                            {
+                                "Sentence": "I dug out a worm and it was squirming.",
+                                "Translation": "(Wykopałem robaka i on się skręcał.)"
+                            },
+                            {
+                                "Sentence": "The patient was squirming in pain.",
+                                "Translation": "(Pacjent zwijał się z bólu.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wiercenie się",
+                            "kręcenie się (o osobie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His squirm gets on my nerves.",
+                                "Translation": "(Jego kręcenie się działa mi na nerwy.)"
+                            },
+                            {
+                                "Sentence": "I can't stand her squirm anymore.",
+                                "Translation": "(Nie mogę już znieść jej wiercenia się.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zwijanie się",
+                            "skręcanie się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The squirm of the worm was disgusting.",
+                                "Translation": "(Skręcanie się robaka było obrzydliwe.)"
+                            },
+                            {
+                                "Sentence": "Nobody likes watching at somebody's squirm in agony.",
+                                "Translation": "(Nikt nie lubi oglądać czyjegoś zwijania się w agonii.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

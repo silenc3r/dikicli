@@ -1,0 +1,36 @@
+[
+    {
+        "Entry": [
+            "insular"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zaściankowy",
+                            "małomiasteczkowy (np. sposób myślenia)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wycofany",
+                            "zamknięty (na innych)",
+                            "zdystansowany"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wyspowy (np. klimat)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

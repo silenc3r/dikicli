@@ -1,0 +1,34 @@
+[
+    {
+        "Entry": [
+            "parchment"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pergamin (cienka skóra)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I write with ink and parchment.",
+                                "Translation": "(Piszę atramentem na pergaminie.)"
+                            },
+                            {
+                                "Sentence": "It was an ancient parchment.",
+                                "Translation": "(To był jakiś starożytny pergamin.)"
+                            },
+                            {
+                                "Sentence": "Yes, parchment is of a fine quality.",
+                                "Translation": "(Tak, pergamin jest doskonałej jakości.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

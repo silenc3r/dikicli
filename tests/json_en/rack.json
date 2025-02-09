@@ -1,0 +1,248 @@
+[
+    {
+        "Entry": [
+            "rack"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "konstrukcja do podtrzymywania czegoś (np. butelek z winem)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There should be some wine left on the rack.",
+                                "Translation": "(Na stojaku powinno być jeszcze trochę wina.)"
+                            },
+                            {
+                                "Sentence": "He took a cucumber from a vegetable rack.",
+                                "Translation": "(On wziął ogórka ze stojaka na warzywa.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "półka (na bagaż)",
+                            "regał (na książki)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Remember to keep your luggage on the rack.",
+                                "Translation": "(Proszę pamiętać o trzymaniu swojego bagażu na półce.)"
+                            },
+                            {
+                                "Sentence": "She put the books on a rack.",
+                                "Translation": "(Ona położyła książki na regał.)"
+                            },
+                            {
+                                "Sentence": "A gentleman helped me put my luggage on a rack.",
+                                "Translation": "(Dżentelmen pomógł mi położyć mój bagaż na półkę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wieszak (na płaszcze)",
+                            "stojak (na kapelusze)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Hang your coat on the rack.",
+                                "Translation": "(Powieś swój płaszcz na wieszaku.)"
+                            },
+                            {
+                                "Sentence": "Put your hat on the rack.",
+                                "Translation": "(Połóż swój kapelusz na stojaku.)"
+                            },
+                            {
+                                "Sentence": "I left my scarf on your rack.",
+                                "Translation": "(Zostawiłam mój szalik na twoim wieszaku.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "łoże sprawiedliwości",
+                            "madejowe łoże (narzędzie tortur)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Racks were used in the Middle Ages to torture people.",
+                                "Translation": "(Łoża sprawiedliwości były używane w średniowieczu, aby torturować ludzi.)"
+                            },
+                            {
+                                "Sentence": "I've seen a wooden rack in the museum.",
+                                "Translation": "(Widziałem drewniane madejowe łoże w muzeum.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "koja",
+                            "łóżko"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This is your room and your rack.",
+                                "Translation": "(To jest twój pokój i twoje łóżko.)"
+                            },
+                            {
+                                "Sentence": "My rack is in the middle of the room.",
+                                "Translation": "(Moja koja jest na środku pokoju.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "drabina na siano (w stodole)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Every farmer has a rack in his barn.",
+                                "Translation": "(Każdy rolnik ma drabinę na siano w swojej stodole.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zderzaki",
+                            "balony",
+                            "cyce"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Have you seen the rack on this girl?",
+                                "Translation": "(Widziałeś balony tej laski?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pomieszczenia sypialne"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Did you see the rack of this ship?",
+                                "Translation": "(Widziałeś pomieszczenia sypialne tego statku?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "trójkąt (w bilardzie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "stojak (w grach, w których gracz układa przed sobą np. płytki na stojaku)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "listwa zębata"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "torturować",
+                            "poddawać katuszom",
+                            "łamać (kołem)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "In the Middle Ages people were racked.",
+                                "Translation": "(W średniowieczu ludzie byli łamani kołem.)"
+                            },
+                            {
+                                "Sentence": "If you don't confess, I'll rack you!",
+                                "Translation": "(Jeśli się nie przyznasz, poddam cię katuszom!)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kimać",
+                            "chrapać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A man on the bus was racking so loudly I wasn't able to read.",
+                                "Translation": "(Mężczyzna w autobusie chrapał tak głośno, że nie mogłam czytać.)"
+                            },
+                            {
+                                "Sentence": "I'm exhausted, I need to rack.",
+                                "Translation": "(Jestem wykończony, muszę się przekimać.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przeładować (poprzez odciągnięcie zamka)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "rack",
+            "single-foot"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "krok pomiędzy kłusem a galopem"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The horse accelerated into a rack.",
+                                "Translation": "(Koń przspieszył do kroku pomiędzy kłusem a galopem.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "rack somebody"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "poderwać kogoś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I racked that blonde girl last night.",
+                                "Translation": "(Poderwałem tamtą blondynkę wczorajszej nocy.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

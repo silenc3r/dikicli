@@ -1,0 +1,24 @@
+[
+    {
+        "Entry": [
+            "leniency",
+            "lenience"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "łagodność",
+                            "pobłażliwość",
+                            "wyrozumiałość"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

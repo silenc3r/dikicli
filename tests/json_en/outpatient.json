@@ -1,0 +1,49 @@
+[
+    {
+        "Entry": [
+            "outpatient"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pacjent leczony ambulatoryjnie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He was treated as an outpatient.",
+                                "Translation": "(On był pacjentem leczonym ambulatoryjnie.)"
+                            },
+                            {
+                                "Sentence": "The doctor still had to visit an outpatient.",
+                                "Translation": "(Lekarz musiał jeszcze odwiedzić pacjenta leczonego ambulatoryjnie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "out-patient"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pacjent ambulatoryjny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

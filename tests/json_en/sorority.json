@@ -1,0 +1,21 @@
+[
+    {
+        "Entry": [
+            "sorority"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "stowarzyszenie żeńskie (na uniwersytecie, szczególnie w USA)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

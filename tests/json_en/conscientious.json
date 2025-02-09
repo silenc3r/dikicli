@@ -1,0 +1,27 @@
+[
+    {
+        "Entry": [
+            "conscientious"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sumienny",
+                            "skrupulatny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He was a conscientious worker, always caring for details.",
+                                "Translation": "(On był skrupulatnym pracownikiem, zawsze troszczącym się o detale.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

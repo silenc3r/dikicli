@@ -1,0 +1,39 @@
+[
+    {
+        "Entry": [
+            "folly"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "głupota (o wykonanej czynności niosącej złe skutki)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It is complete folly to do!",
+                                "Translation": "(Zrobienie tego to zupełna głupota!)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "miniaturowy model budynku służący dekoracji parku"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "szał",
+                            "szaleństwo"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

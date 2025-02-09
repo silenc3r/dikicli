@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "unequivocal"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niedwuznaczny",
+                            "jednoznaczny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,166 @@
+[
+    {
+        "Entry": [
+            "rod"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "drąg",
+                            "drążek",
+                            "laska"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He picked up a metal rod and used it as a weapon.",
+                                "Translation": "(On podniósł metalowy pręt i użył go jako broni.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pręt",
+                            "kij"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He said that the car has a rod filled with mercury inside.",
+                                "Translation": "(On powiedział, że samochód ma wewnątrz pręt napełniony rtęcią.)"
+                            },
+                            {
+                                "Sentence": "He hit his dog with a rod.",
+                                "Translation": "(On uderzył kijem swojego psa.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "różdżka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The girl drew a fairy with a magical rod.",
+                                "Translation": "(Dziewczynka narysowała wróżkę z czarodziejską różdżką.)"
+                            },
+                            {
+                                "Sentence": "My son wants to be a wizard so I bought him a rod.",
+                                "Translation": "(Mój syn chce być czarodziejem, więc kupiłem mu różdżkę.)"
+                            },
+                            {
+                                "Sentence": "He claimed that he can detect water with his rod.",
+                                "Translation": "(On twierdził, że umie wykrywać wodę przy pomocy swojej różdżki.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rózga"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My father used to beat me with a rod.",
+                                "Translation": "(Mój ojciec bił mnie rózgą.)"
+                            },
+                            {
+                                "Sentence": "She received a rod for Christmas.",
+                                "Translation": "(Ona dostała na święta rózgę.)"
+                            },
+                            {
+                                "Sentence": "He gathered rods for the fire.",
+                                "Translation": "(On zbierał rózgi na ognisko.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wacek (penis)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His rod is big.",
+                                "Translation": "(Jego wacek jest duży.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "spluwa",
+                            "gnat"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He pulled out a rod and everyone started screaming.",
+                                "Translation": "(On wyciągnął spluwę i wszyscy zaczęli krzyczeć.)"
+                            },
+                            {
+                                "Sentence": "The rod was touching his forehead.",
+                                "Translation": "(Spluwa dotykała jego czoła.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pręt (miara długości)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "rod cell",
+            "rod"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pręcik",
+                            "komórka pręcikonośna (receptor siatkówki oka)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "Roderick",
+            "Rod",
+            "Roddy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "Roderyk (imię męskie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Roderick married her because of her fortune.",
+                                "Translation": "(Roderyk ją poślubił z powodu jej fortuny.)"
+                            },
+                            {
+                                "Sentence": "Roderick lives in London.",
+                                "Translation": "(Roderyk mieszka w Londynie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "Entry": [
+            "stocky"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "krępy",
+                            "przysadzisty"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Jim was short and stocky.",
+                                "Translation": "(Jim był niski i przysadzisty.)"
+                            },
+                            {
+                                "Sentence": "He was a stocky man with a no-nonsense kind of face.",
+                                "Translation": "(On był krępym mężczyzną o poważnej twarzy.)"
+                            },
+                            {
+                                "Sentence": "As a stocky and huge man, he has a rugby player's build.",
+                                "Translation": "(Jako przysadzisty i wielki mężczyzna, on ma budowę gracza rugby.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

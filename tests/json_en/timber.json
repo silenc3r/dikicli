@@ -1,0 +1,82 @@
+[
+    {
+        "Entry": [
+            "timber",
+            "lumber"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "drewno (używane w budownictwie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Their house is made of timber.",
+                                "Translation": "(Ich dom jest zrobiony z drewna.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "timber"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "drzewa przeznaczone do wycinki produkcyjnej"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The most interesting species of tropical timber still have a market in wealthy countries.",
+                                "Translation": "(Najciekawsze gatunki drewna tropikalnego stale znajdują rynek zbytu w krajach zamożnych.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "belka drewniana"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "masywny wzwód"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "timber!"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "wykrzyknik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "uwaga, drzewo!"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

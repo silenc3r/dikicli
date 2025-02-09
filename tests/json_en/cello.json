@@ -1,0 +1,26 @@
+[
+    {
+        "Entry": [
+            "cello"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wiolonczela"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She used to play the cello when she was a teenager.",
+                                "Translation": "(Ona grała na wiolonczeli, kiedy była nastolatką.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

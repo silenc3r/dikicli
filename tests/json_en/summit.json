@@ -1,0 +1,71 @@
+[
+    {
+        "Entry": [
+            "summit"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szczyt (ważne spotkanie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "At least 38 countries from around the world came to the summit.",
+                                "Translation": "(Przynajmniej 38 państw z krajów całego świata pojawiło się na szczycie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "szczyt",
+                            "wierzchołek"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Many people have now reached the summit of Mount Everest.",
+                                "Translation": "(Wiele osób zdobyło już szczyt Mount Everest.)"
+                            },
+                            {
+                                "Sentence": "We wanted to climb up the summit of Rysy.",
+                                "Translation": "(Chcieliśmy wspiąć się na szczyt Rysów.)"
+                            },
+                            {
+                                "Sentence": "The summit of the mountain was covered with snow.",
+                                "Translation": "(Szczyt góry był pokryty śniegiem.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "summit meeting",
+            "summit"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "spotkanie na szczycie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "France didn't take part in the summit meeting.",
+                                "Translation": "(Francja nie wzięła udziału w spotkaniu na szczycie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

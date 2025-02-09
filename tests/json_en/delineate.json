@@ -1,0 +1,40 @@
+[
+    {
+        "Entry": [
+            "delineate"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nakreślać",
+                            "wytyczać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He delineated the boundaries of the state on the map.",
+                                "Translation": "(On nakreślił granice stanu na mapie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "opisywać",
+                            "przedstawiać",
+                            "reprezentować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This document delineates your responsibilities.",
+                                "Translation": "(Ten dokument opisuje twoje obowiązki.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

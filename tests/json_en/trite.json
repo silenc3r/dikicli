@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "trite"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "banalny",
+                            "oklepany",
+                            "szablonowy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "Entry": [
+            "sprain"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zwichnięcie (np. ręki)",
+                            "skręcenie (np. kostki)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zwichnąć (np. rękę)",
+                            "skręcić (np. kostkę)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

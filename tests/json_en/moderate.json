@@ -1,0 +1,111 @@
+[
+    {
+        "Entry": [
+            "moderate"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "umiarkowany",
+                            "średni"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Start your training with some moderate exercise.",
+                                "Translation": "(Rozpocznij trening od umiarkowanych ćwiczeń.)"
+                            },
+                            {
+                                "Sentence": "Cook it over a moderate heat.",
+                                "Translation": "(Gotuj to na średnim ogniu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "o umiarkowanych poglądach (np. politycznych, religijnych)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He's a member of a moderate political party.",
+                                "Translation": "(On jest członkiem partii politycznej o umiarkowanych poglądach.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "skromny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He's a very moderate person.",
+                                "Translation": "(On jest bardzo skromną osobą.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "osoba o umiarkowanych poglądach"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He used to have radical views but now he's a moderate.",
+                                "Translation": "(On miał kiedyś radykalne poglądy, ale teraz jest osobą o umiarkowanych poglądach.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "moderate"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "łagodzić",
+                            "złagodzić",
+                            "powściągać",
+                            "mitygować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He learns how to moderate his emotions.",
+                                "Translation": "(On uczy się jak powściągać swoje emocje.)"
+                            },
+                            {
+                                "Sentence": "I managed to moderate our conflict.",
+                                "Translation": "(Udało mi się złagodzić nasz konflikt.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "moderować (pełnić rolę moderatora, np. w rozmowie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'm moderating our school forum.",
+                                "Translation": "(Moderuję nasze szkolne forum.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "Entry": [
+            "tumble"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "upadek",
+                            "przewrócenie (się)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "After the tumble, it turned out that he has a broken rib.",
+                                "Translation": "(Po upadku okazało się, że ma złamane żebro.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "upadać (np. o mocarstwie)",
+                            "przewracać się (o osobie)",
+                            "runąć (o budynku)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Everybody began to tumble, one after the other, like dominoes.",
+                                "Translation": "(Wszyscy zaczęli się przewracać, jeden po drugim, jak klocki domina.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "toczyć (się)",
+                            "koziołkować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She tumbled over him and landed in his blind spot.",
+                                "Translation": "(Ona przekoziołkowała nad nim i wylądowała w jego ślepym punkcie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "spadać (o cenach)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Real estate prices have tumbled this year.",
+                                "Translation": "(Ceny nieruchomości spadły w tym roku.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "tumble to something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pojąć coś",
+                            "zrozumieć coś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "By the time I tumbled to what was going on, it was too late.",
+                                "Translation": "(Kiedy pojąłem co się działo, było już za późno.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

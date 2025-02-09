@@ -1,0 +1,33 @@
+[
+    {
+        "Entry": [
+            "dictum"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "powiedzenie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I believe in Nietzsche's dictum \"What does not kill me makes me stronger.\"",
+                                "Translation": "(Wierzę w powiedzenie Nietzschego: \"Co mnie nie zabija, to mnie wzmacnia\".)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wypowiedź",
+                            "opinia"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

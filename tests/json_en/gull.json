@@ -1,0 +1,47 @@
+[
+    {
+        "Entry": [
+            "gull"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "oszukiwać",
+                            "oszukać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "seagull",
+            "gull"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mewa"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He was sitting on the beach and feeding seagulls.",
+                                "Translation": "(On siedział na plaży i karmił mewy.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

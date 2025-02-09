@@ -1,0 +1,70 @@
+[
+    {
+        "Entry": [
+            "cull"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "odstrzał (zwierząt)",
+                            "ubój (selektywny)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "brakowanie stada"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "odrzut",
+                            "odpad (rzecz z defektem)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "niedojda",
+                            "ćwok",
+                            "ćmok",
+                            "ciołek"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "odstrzeliwać (zwierzynę)",
+                            "ubijać (selektywnie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zbierać (np. grzyby)",
+                            "zrywać (np. kwiaty)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "czerpać (informacje z różnych źródeł)",
+                            "zbierać (pomysły)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

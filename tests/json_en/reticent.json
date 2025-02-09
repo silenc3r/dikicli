@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "reticent"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "małomówny",
+                            "powściągliwy w słowach"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

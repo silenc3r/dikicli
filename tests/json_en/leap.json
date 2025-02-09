@@ -1,0 +1,69 @@
+[
+    {
+        "Entry": [
+            "leap"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przeskoczyć",
+                            "skakać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My dog leaped over the fence and ran away.",
+                                "Translation": "(Mój pies przeskoczył nad płotem i uciekł.)"
+                            },
+                            {
+                                "Sentence": "The cats were leaping around, playing with each other.",
+                                "Translation": "(Koty skakały dookoła, bawiąc się ze sobą.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "podskok",
+                            "skok",
+                            "sus"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I took a leap and caught the ball.",
+                                "Translation": "(Dałem susa i złapałem piłkę.)"
+                            },
+                            {
+                                "Sentence": "Our investment was a leap into the darkness but it was worth it.",
+                                "Translation": "(Nasza inwestycja była skokiem w nieznane, ale było warto.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "skok",
+                            "duży wzrost wartości"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There was a leap in petrol prices.",
+                                "Translation": "(Był skok w cenie benzyny.)"
+                            },
+                            {
+                                "Sentence": "There was a sudden leap in the number of the unemployed.",
+                                "Translation": "(Był nagły skok w liczbie bezrobotnych.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "Entry": [
+            "ballpark",
+            "ball park"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "boisko do baseballa"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They had their training on the ballpark.",
+                                "Translation": "(Oni mieli trening na boisku do baseballa.)"
+                            },
+                            {
+                                "Sentence": "I know when he comes to the ball park he's ready to play.",
+                                "Translation": "(Wiem, że kiedy on przychodzi na boisko jest gotów do gry.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przybliżony (np. koszt)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Ballpark shoe size... ten to 11.",
+                                "Translation": "(Przybliżony rozmiar buta... 10 do 11.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

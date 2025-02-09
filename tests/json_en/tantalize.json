@@ -1,0 +1,26 @@
+[
+    {
+        "Entry": [
+            "tantalize",
+            "tantalise"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zwodzić (kogoś)",
+                            "łudzić (kogoś czymś)",
+                            "dręczyć (kogoś)",
+                            "mamić",
+                            "rozbudzać próżne nadzieje"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

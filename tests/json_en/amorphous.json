@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "amorphous"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "amorficzny",
+                            "bezpostaciowy"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "bezkształtny (o obiekcie)",
+                            "niespójny (np. styl)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

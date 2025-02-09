@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "eminently"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nadzwyczaj",
+                            "wyjątkowo",
+                            "wysoce"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

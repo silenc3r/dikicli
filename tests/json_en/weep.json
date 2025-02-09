@@ -1,0 +1,33 @@
+[
+    {
+        "Entry": [
+            "weep"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "płakać",
+                            "szlochać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She almost wept with laughter.",
+                                "Translation": "(Ona prawie płakała ze śmiechu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "sączyć się (o ranie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

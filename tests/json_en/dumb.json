@@ -1,0 +1,64 @@
+[
+    {
+        "Entry": [
+            "dumb"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "durny",
+                            "głupi (o osobie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She is dumb, I don't like her.",
+                                "Translation": "(Ona jest durna, nie lubię jej.)"
+                            },
+                            {
+                                "Sentence": "He thinks the Kardashians are dumb.",
+                                "Translation": "(On uważa, że Kardashianki są głupie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "idiotyczny (np. o czyimś pytaniu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Stop asking me dumb questions.",
+                                "Translation": "(Przestań zadawać mi głupie pytania.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "oniemiały"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "When she saw him, she was dumb.",
+                                "Translation": "(Kiedy go zobaczyła, była oniemiała.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "niemy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My grandmother is dumb.",
+                                "Translation": "(Moja babcia jest niema.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

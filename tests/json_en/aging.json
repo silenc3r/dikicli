@@ -1,0 +1,129 @@
+[
+    {
+        "Entry": [
+            "ageing",
+            "aging"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "starzenie się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Sutton said that a stone kept him from aging.",
+                                "Translation": "(Sutton powiedział, że kamień chronił go przed starzeniem się.)"
+                            },
+                            {
+                                "Sentence": "You consider aging a disease?",
+                                "Translation": "(Uważa pan starzenie za chorobę?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dojrzewanie (np. sera)",
+                            "leżakowanie (np. wina)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wiekowanie (np. należności, zapasów w magazynie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "podstarzały"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He still looks good for an aging rockstar.",
+                                "Translation": "(On nadal wygląda nieźle, jak na podstarzałą gwiazdę rocka.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "age"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wiek"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "What age is he?",
+                                "Translation": "(W jakim on jest wieku?)"
+                            },
+                            {
+                                "Sentence": "When I was your age, I had to work.",
+                                "Translation": "(Gdy byłem w twoim wieku, musiałem pracować.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "epoka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The Ice Age ended long time ago.",
+                                "Translation": "(Epoka lodowcowa skończyła się dawno temu.)"
+                            },
+                            {
+                                "Sentence": "Stone Age was a long prehistoric period.",
+                                "Translation": "(Epoka kamienia była długim okresem w prehistorii.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "starzeć się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He aged a lot in those five years.",
+                                "Translation": "(On bardzo się postarzał w ciągu tych pięciu lat.)"
+                            },
+                            {
+                                "Sentence": "My grandmother ages really slowly because she does different sports.",
+                                "Translation": "(Moja babcia starzeje się bardzo powoli, bo uprawia różne sporty.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dojrzewać (np. wino, ser)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "Entry": [
+            "duvet",
+            "quilt",
+            "continental quilt",
+            "comforter",
+            "doona"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kołdra"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She covered him with a duvet.",
+                                "Translation": "(Ona przykryła go kołdrą.)"
+                            },
+                            {
+                                "Sentence": "I threw off the duvet and headed for the shower.",
+                                "Translation": "(Zrzuciłem kołdrę i poszedłem w kierunku prysznica.)"
+                            },
+                            {
+                                "Sentence": "She was sitting on the couch, tucked under the quilt from her bed.",
+                                "Translation": "(Ona siedziała na kanapie, otulona kołdrą ze swojego łóżka.)"
+                            },
+                            {
+                                "Sentence": "He is completely covered by a very warm comforter.",
+                                "Translation": "(On jest całkowicie przykryty bardzo ciepłą kołdrą.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

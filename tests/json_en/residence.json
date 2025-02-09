@@ -1,0 +1,72 @@
+[
+    {
+        "Entry": [
+            "residence"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rezydencja"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They live in a big residence outside the city.",
+                                "Translation": "(Oni mieszkają w dużej rezydencji poza miastem.)"
+                            },
+                            {
+                                "Sentence": "My parents bought a luxury residence.",
+                                "Translation": "(Moi rodzice kupili luksusową rezydencję.)"
+                            },
+                            {
+                                "Sentence": "He's hosting a party at his residence tonight.",
+                                "Translation": "(On organizuje dzisiaj imprezę w swojej rezydencji.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "prawo stałego pobytu (legalne mieszkanie w obcym państwie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We are not talking about safeguarding jobs or the right of residence.",
+                                "Translation": "(Nie mówimy o ochronie miejsc pracy ani o prawie stałego pobytu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zamieszkanie",
+                            "mieszkanie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It should be made possible for them to vote in their original place of residence.",
+                                "Translation": "(Należy umożliwić im głosowanie w pierwotnym miejscu zamieszkania.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "siedziba"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The company's residence is just around the corner.",
+                                "Translation": "(Siedziba firmy jest tuż za rogiem.)"
+                            },
+                            {
+                                "Sentence": "Where is the new residence of your company?",
+                                "Translation": "(Gdzie jest nowa siedziba twojej firmy?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

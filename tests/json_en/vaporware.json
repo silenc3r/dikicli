@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "vapourware",
+            "vaporware"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "vaporware (makieta programu komputerowego)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

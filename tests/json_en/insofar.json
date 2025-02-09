@@ -1,0 +1,31 @@
+[
+    {
+        "Entry": [
+            "insofar"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "o tyle",
+                            "o ile"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I plan to buy it, insofar as I can afford it.",
+                                "Translation": "(Zamierzam to kupić, o ile mnie na to stać.)"
+                            },
+                            {
+                                "Sentence": "That offer was attractive insofar as it opened many opportunities for me.",
+                                "Translation": "(Ta oferta była o tyle atrakcyjna, że otworzyła przede mną wiele możliwości.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

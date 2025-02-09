@@ -1,0 +1,51 @@
+[
+    {
+        "Entry": [
+            "triage"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "triaż",
+                            "segregacja poszkodowanych/pacjentów ze względu na skalę obrażeń/dolegliwości"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We did the triage at the scene of the accident.",
+                                "Translation": "(Dokonaliśmy triażu ofiar na miejscu wypadku.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "proces oceny najważniejszej osoby lub rzeczy spośród dużej grupy (np. rozpoznawanie sprawcy)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "selekcjonowanie zadań względem ich ważności"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "selekcjonować",
+                            "decydować o kolejności leczenia"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

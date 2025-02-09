@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "mendacity"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "skłonność do kłamstw",
+                            "zakłamanie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

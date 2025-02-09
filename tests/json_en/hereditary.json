@@ -1,0 +1,21 @@
+[
+    {
+        "Entry": [
+            "hereditary"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dziedziczny (np. choroba, tytuł arystokratyczny)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

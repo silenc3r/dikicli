@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "ineffectual"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nieudolny",
+                            "nieradzący sobie"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "nieskuteczny",
+                            "bezowocny",
+                            "bezskuteczny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

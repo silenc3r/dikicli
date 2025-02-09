@@ -1,0 +1,122 @@
+[
+    {
+        "Entry": [
+            "skirt"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "spódniczka",
+                            "spódnica"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She wore a very short skirt.",
+                                "Translation": "(Ona ubrała bardzo krótką spódniczkę.)"
+                            },
+                            {
+                                "Sentence": "You look beautiful in that skirt.",
+                                "Translation": "(Wyglądasz pięknie w tej spódniczce.)"
+                            },
+                            {
+                                "Sentence": "Do you like wearing miniskirts?",
+                                "Translation": "(Czy lubisz nosić spódniczki mini?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "spódniczka",
+                            "babeczka",
+                            "babeczki"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Look at that skirt, nice legs!",
+                                "Translation": "(Spójrz na tę babeczkę, niezłe nogi!)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "okrążać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I skirted the whole building but I didn't find a dustbin.",
+                                "Translation": "(Okrążyłam cały budynek, ale nie znalazłam kontenera na śmieci.)"
+                            },
+                            {
+                                "Sentence": "You have to skirt the park, John must be there.",
+                                "Translation": "(Musisz okrążyć park, John musi tam być.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "omijać",
+                            "unikać (np. odpowiedzi na pytanie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She skirted my questions.",
+                                "Translation": "(Ona unikała moich pytań.)"
+                            },
+                            {
+                                "Sentence": "Don't skirt this topic.",
+                                "Translation": "(Nie omijaj tego tematu.)"
+                            },
+                            {
+                                "Sentence": "He tries to skirt this conversation but I won't give up.",
+                                "Translation": "(On próbuje unikać tej rozmowy, ale ja się nie poddam.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "skirts",
+            "skirt"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "poły (np. płaszcza)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Skirts that tie on over trousers are not a must, but they show the designer is thinking.",
+                                "Translation": "(Poły, które przywiązują się nad spodniami nie są obowiązkowe, ale pokazują myśl projektanta.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "skraj",
+                            "obrzeże",
+                            "zbocze",
+                            "brzeg"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "Entry": [
+            "incense"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kadzidło (używane w kościele)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The church was filled with the smell of incense.",
+                                "Translation": "(Kościół był wypełniony zapachem kadzidła.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "incense"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozdrażnić",
+                            "rozzłościć"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

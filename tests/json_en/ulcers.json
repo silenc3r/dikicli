@@ -1,0 +1,26 @@
+[
+    {
+        "Entry": [
+            "ulcer"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wrzód"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He had a stomach ulcer when he was 23 years old.",
+                                "Translation": "(On miał wrzód żołądka, kiedy miał 23 lata.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

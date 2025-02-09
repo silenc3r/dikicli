@@ -1,0 +1,42 @@
+[
+    {
+        "Entry": [
+            "fret"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "martwić się",
+                            "gryźć się (z powodu czegoś)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "próg (na gryfie gitary)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Frets are placed on the neck of a stringed instrument, for example on a guitar.",
+                                "Translation": "(Progi są umieszczone na szyjce instrumentu strunowego, na przykład na gitarze.)"
+                            },
+                            {
+                                "Sentence": "Put your finger on the second fret.",
+                                "Translation": "(Połóż palec na drugim progu.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

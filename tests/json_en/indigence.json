@@ -1,0 +1,24 @@
+[
+    {
+        "Entry": [
+            "indigence"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nędza",
+                            "ubóstwo",
+                            "bieda",
+                            "niedostatek"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

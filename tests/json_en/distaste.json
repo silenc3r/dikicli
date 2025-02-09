@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "distaste"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niesmak",
+                            "wstręt",
+                            "obrzydzenie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

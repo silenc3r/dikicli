@@ -1,0 +1,41 @@
+[
+    {
+        "Entry": [
+            "mingle"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przyłączać (się)",
+                            "mieszać (się)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wmieszać się w tłum w celu nawiązania rozmowy (np. na bankiecie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "socjalizować się",
+                            "obracać się w towarzystwie",
+                            "integrować się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You should mingle with all the guests.",
+                                "Translation": "(Powinieneś integrować się ze wszystkimi gośćmi.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

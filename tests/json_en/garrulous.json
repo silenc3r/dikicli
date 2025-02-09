@@ -1,0 +1,27 @@
+[
+    {
+        "Entry": [
+            "garrulous"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozmowny",
+                            "gadatliwy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The shop assistant was clearly a garrulous woman who enjoyed chattering to her customers.",
+                                "Translation": "(Sprzedawczyni była wyraźnie gadatliwą kobietą, która uwielbiała paplać z klientami.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

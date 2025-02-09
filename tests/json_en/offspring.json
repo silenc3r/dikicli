@@ -1,0 +1,48 @@
+[
+    {
+        "Entry": [
+            "offspring"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "młode",
+                            "potomek",
+                            "latorośl",
+                            "potomstwo"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Your offspring will return to Earth and shape it in their image.",
+                                "Translation": "(Wasze potomstwo powróci na Ziemie i ukształtuje ją na swój obraz.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "The Offspring"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "nazwa własna",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "The Offspring"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

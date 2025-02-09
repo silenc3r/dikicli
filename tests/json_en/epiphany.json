@@ -1,0 +1,45 @@
+[
+    {
+        "Entry": [
+            "epiphany"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "epifania",
+                            "objawienie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "Epiphany",
+            "Three Kings' Day"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "nazwa własna",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "Święto Objawienia Pańskiego",
+                            "Objawienie Pańskie",
+                            "święto Trzech Króli",
+                            "Trzech Króli"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

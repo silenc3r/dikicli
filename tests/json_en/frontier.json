@@ -1,0 +1,62 @@
+[
+    {
+        "Entry": [
+            "frontier"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "granica (pomiędzy krajami)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I live in a city close to the German frontier.",
+                                "Translation": "(Mieszkam w mieście blisko niemieckiej granicy.)"
+                            },
+                            {
+                                "Sentence": "Our Spanish friends were waiting for us at the frontier.",
+                                "Translation": "(Nasi hiszpańscy przyjaciele czekali na nas na granicy.)"
+                            },
+                            {
+                                "Sentence": "In the late 1980's the frontiers were still closed.",
+                                "Translation": "(W późnych latach osiemdziesiątych granice wciąż były zamknięte.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "the frontier"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dziki zachód (obszar, gdzie nikt wcześniej nie mieszkał)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The American dream always needed the frontier.",
+                                "Translation": "(Amerykański sen zawsze potrzebował dzikiego zachodu.)"
+                            },
+                            {
+                                "Sentence": "Some say that the space is the new frontier.",
+                                "Translation": "(Niektórzy mówią, że kosmos to nowy dziki zachód.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

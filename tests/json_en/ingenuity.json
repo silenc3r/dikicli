@@ -1,0 +1,34 @@
+[
+    {
+        "Entry": [
+            "ingenuity"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pomysłowość"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Gentlemen, I am truly impressed by your effort and ingenuity.",
+                                "Translation": "(Panowie, jestem pod wrażeniem waszych wysiłków i pomysłowości.)"
+                            },
+                            {
+                                "Sentence": "The American ingenuity is famous throughout the world.",
+                                "Translation": "(Amerykańska pomysłowość jest znana na całym świecie.)"
+                            },
+                            {
+                                "Sentence": "Human ingenuity has saved us during many desperate situations.",
+                                "Translation": "(Ludzka pomysłowość ratowała nas w czasie wielu rozpaczliwych sytuacji.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

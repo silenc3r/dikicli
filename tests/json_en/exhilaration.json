@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "exhilaration"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "radość",
+                            "rozradowanie",
+                            "świetny nastrój"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

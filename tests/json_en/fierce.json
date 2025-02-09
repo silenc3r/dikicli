@@ -1,0 +1,91 @@
+[
+    {
+        "Entry": [
+            "fierce"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zażarty",
+                            "zacięty",
+                            "zajadły",
+                            "zagorzały",
+                            "gwałtowny",
+                            "ostry (bardzo mocny)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She turned a sharp, fierce look upon him.",
+                                "Translation": "(Ona rzuciła mu ostre, zażarte spojrzenie.)"
+                            },
+                            {
+                                "Sentence": "A fierce cry of pain and outrage nearly deafened him.",
+                                "Translation": "(Gwałtowny okrzyk bólu i oburzenia niemal go ogłuszył.)"
+                            },
+                            {
+                                "Sentence": "The explosion and the fierce recoil sent him reeling.",
+                                "Translation": "(Eksplozja i ostre szarpnięcie sprawiło, że się zatoczył.)"
+                            },
+                            {
+                                "Sentence": "Our competition is fierce.",
+                                "Translation": "(Nasza konkurencja jest zacięta.)"
+                            },
+                            {
+                                "Sentence": "We have only 5 fierce supporters.",
+                                "Translation": "(Mamy tylko 5 zagorzałych zwolenników.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dziki",
+                            "agresywny",
+                            "zaciekły",
+                            "zajadły",
+                            "srogi",
+                            "surowy (bardzo zły)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My anger at her was fierce.",
+                                "Translation": "(Mój gniew na nią był dziki.)"
+                            },
+                            {
+                                "Sentence": "The beast was fierce and terrifying.",
+                                "Translation": "(Bestia była agresywna i przerażająca.)"
+                            },
+                            {
+                                "Sentence": "My father has a fierce look.",
+                                "Translation": "(Mój ojciec ma surowe spojrzenie.)"
+                            },
+                            {
+                                "Sentence": "The weather in this region is very fierce.",
+                                "Translation": "(Pogoda w tym rejonie jest bardzo sroga.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "silny",
+                            "intensywny",
+                            "żarliwy",
+                            "gorący",
+                            "pełen uczucia",
+                            "pełen emocji"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Nobody has ever given me as fierce love as you.",
+                                "Translation": "(Nikt nigdy nie okazał mi tak gorącej miłości jak ty.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

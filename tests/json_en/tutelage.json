@@ -1,0 +1,33 @@
+[
+    {
+        "Entry": [
+            "tutelage"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kuratela",
+                            "opieka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Strict parental tutelage is necessary for troubled youngsters.",
+                                "Translation": "(Ścisła opieka rodzicielska jest konieczna dla problematycznej młodzieży.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nauczanie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

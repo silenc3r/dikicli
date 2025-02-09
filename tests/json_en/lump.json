@@ -1,0 +1,132 @@
+[
+    {
+        "Entry": [
+            "lump"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bryła",
+                            "gruda",
+                            "kawałek"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Put a few more lumps of coal on the fire.",
+                                "Translation": "(Dołóż kilka brył węgla do ognia.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "guz",
+                            "guzek"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She went to the doctor because she found a lump in her breast.",
+                                "Translation": "(Poszła do lekarza ponieważ znalazła guzka w piersi.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kostka (cukru)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "How many lumps of sugar would you like in your tea?",
+                                "Translation": "(Ile kostek cukru chciałbyś do swojej herbaty?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wałkoń",
+                            "leń"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You are such a lump - you're just watching TV all day.",
+                                "Translation": "(Jesteś takim leniem - tylko oglądasz TV cały dzień.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "obijać się",
+                            "nic nie robić"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wysrać się"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "grupować",
+                            "wrzucać do jednego worka"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "lump it"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zaakceptować coś, czego się nie lubi"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "połknąć coś, czego się nie lubi"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "have to lump it"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "musieć się pogodzić z czymś"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

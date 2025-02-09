@@ -1,0 +1,48 @@
+[
+    {
+        "Entry": [
+            "redundancy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zbędność (np. słów)",
+                            "nadmiar (np. informacji)",
+                            "redundancja",
+                            "rozwlekłość (wypowiedzi)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "redukcja (etatów)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Their company is facing large-scale redundancies.",
+                                "Translation": "(Ich firma mierzy się z redukcją etatów na wielką skalę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "odprawa (z tytułu zwolnienia z pracy)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "redundancja",
+                            "zdublowanie krytycznych elementów systemu"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

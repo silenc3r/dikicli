@@ -1,0 +1,39 @@
+[
+    {
+        "Entry": [
+            "coherence",
+            "coherency"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "spójność",
+                            "uspójnienie",
+                            "koherencja"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Your writing lacks coherence.",
+                                "Translation": "(Twoim tekstom brakuje spójności.)"
+                            },
+                            {
+                                "Sentence": "The first thing that will be graded in this paper is coherence.",
+                                "Translation": "(Najważniejszą rzeczą, która będzie oceniana w tej pracy jest spójność.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zborność"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

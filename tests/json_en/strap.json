@@ -1,0 +1,126 @@
+[
+    {
+        "Entry": [
+            "strap"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pasek (np. od zegarka, torebki)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My watch strap is being replaced.",
+                                "Translation": "(Mój pasek od zegarka jest wymieniany.)"
+                            },
+                            {
+                                "Sentence": "The strap of my bag is too short.",
+                                "Translation": "(Pasek od mojej torby jest za krótki.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ramiączko (np. sukienki)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The strap of her frock had slipped off her shoulder.",
+                                "Translation": "(Ramiączko od sukienki zsunęło jej się z ramienia.)"
+                            },
+                            {
+                                "Sentence": "She was wearing a top with white straps.",
+                                "Translation": "(Miała na sobie top z białymi ramiączkami.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dziwka",
+                            "szmata"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She's a strap, she sleeps with everyone.",
+                                "Translation": "(To szmata, sypia z każdym.)"
+                            },
+                            {
+                                "Sentence": "He said my girlfriend was a strap so I hit him.",
+                                "Translation": "(Powiedział, że moja dziewczyna to dziwka, więc go uderzyłem.)"
+                            },
+                            {
+                                "Sentence": "He thinks I'm a strap.",
+                                "Translation": "(On uważa, że jestem szmatą.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "trok",
+                            "troczek"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "rzemyk"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wiązać",
+                            "mocować",
+                            "zapiąć",
+                            "przypiąć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Strap him to the chair and don't let him escape.",
+                                "Translation": "(Przywiążcie go do krzesła i nie pozwólcie mu uciec.)"
+                            },
+                            {
+                                "Sentence": "You should strap your keys to your belt.",
+                                "Translation": "(Powinieneś przymocować swoje klucze do paska.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bandażować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Your knee is bleeding - you should strap it.",
+                                "Translation": "(Twoje kolano krwawi - powinieneś je zabandażować.)"
+                            },
+                            {
+                                "Sentence": "Can you help me strap my elbow?",
+                                "Translation": "(Czy pomożesz mi zabandażować łokieć?)"
+                            },
+                            {
+                                "Sentence": "Could you help me and strap his bleeding arm?",
+                                "Translation": "(Czy mógłbyś mi pomóc i zabandażować jego krwawiące ramię?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "taśmować"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

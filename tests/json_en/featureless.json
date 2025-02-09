@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "featureless"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nijaki",
+                            "niewyróżniający się",
+                            "bez charakteru"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "nieinteresujący",
+                            "nudny (np. o krajobrazie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

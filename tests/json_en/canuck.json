@@ -1,0 +1,21 @@
+[
+    {
+        "Entry": [
+            "Canuck"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "Kanadol (o Kanadyjczyku, zwłaszcza z francuskiej części Kanady)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

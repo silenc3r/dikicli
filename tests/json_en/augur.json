@@ -1,0 +1,27 @@
+[
+    {
+        "Entry": [
+            "augur"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przepowiadać",
+                            "wróżyć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It augured well for the future.",
+                                "Translation": "(To dobrze wróżyło na przyszłość.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,269 @@
+[
+    {
+        "Entry": [
+            "address"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "adres"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "What's your address?",
+                                "Translation": "(Jaki jest twój adres?)"
+                            },
+                            {
+                                "Sentence": "She gave me her address.",
+                                "Translation": "(Ona dała mi swój adres.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "adres (strony internetowej)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Do you remember the address of their website?",
+                                "Translation": "(Pamiętasz adres ich strony internetowej?)"
+                            },
+                            {
+                                "Sentence": "Give me the address of your website, please.",
+                                "Translation": "(Proszę, daj mi adres swojej strony internetowej.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przemówienie",
+                            "mowa"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His address was inspiring.",
+                                "Translation": "(Jego przemówienie było inspirujące.)"
+                            },
+                            {
+                                "Sentence": "I need to write my address.",
+                                "Translation": "(Muszę napisać moje przemówienie.)"
+                            },
+                            {
+                                "Sentence": "He gave an address about helping each other.",
+                                "Translation": "(Wygłosił mowę o wzajemnym pomaganiu sobie.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przemawiać",
+                            "wygłaszać mowę"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The president addressed the nation.",
+                                "Translation": "(Prezydent przemawiał do narodu.)"
+                            },
+                            {
+                                "Sentence": "The professor addressed all students and thanked them for cooperation.",
+                                "Translation": "(Profesor wygłosił mowę do wszystkich studentów i podziękował im za współpracę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "adresować",
+                            "zaadresować (np. kopertę, list)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The letter was addressed to me.",
+                                "Translation": "(List był zaadresowany do mnie.)"
+                            },
+                            {
+                                "Sentence": "I haven't received the letter because it wasn't addressed properly.",
+                                "Translation": "(Nie otrzymałem listu, ponieważ nie został zaadresowany właściwie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rozwiązywać (problem)",
+                            "zajmować się (jakąś sprawą)",
+                            "odnosić się (do czegoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We will address it shortly.",
+                                "Translation": "(Zajmiemy się tym wkrótce.)"
+                            },
+                            {
+                                "Sentence": "The government tries to address the issue of black economy.",
+                                "Translation": "(Rząd próbuje rozwiązać problem szarej strefy.)"
+                            },
+                            {
+                                "Sentence": "We'll address your questions after the conference.",
+                                "Translation": "(Odniesiemy się do państwa pytań po konferencji.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kierować (np. skargę do kogoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You should address the complaint to the technical support.",
+                                "Translation": "(Powinieneś skierować skargę do działu obsługi technicznej.)"
+                            },
+                            {
+                                "Sentence": "You need to address your complaints to the human resources department.",
+                                "Translation": "(Musisz skierować swoje skargi do wydziału zasobów ludzkich.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "tytułować (zwracać się do kogoś w określony sposób)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Please, address me by my maiden name.",
+                                "Translation": "(Proszę zwracać się do mnie po moim panieńskim nazwisku.)"
+                            },
+                            {
+                                "Sentence": "How should I address the Queen?",
+                                "Translation": "(Jak powinienem się zwracać do królowej?)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "adresowy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Give me an address book, I will find her number there.",
+                                "Translation": "(Podaj mi książkę adresową, znajdę tam jej numer.)"
+                            },
+                            {
+                                "Sentence": "I've lost my address notebook.",
+                                "Translation": "(Zgubiłam mój zeszyt adresowy.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "address something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "traktować o czymś",
+                            "poświęcać uwagę czemuś",
+                            "odnieść się do czegoś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We have to address this issue, we can't neglect it.",
+                                "Translation": "(Musimy poświęcić uwagę temu problemowi, nie możemy go ignorować.)"
+                            },
+                            {
+                                "Sentence": "He addressed her concerns.",
+                                "Translation": "(On poświęcił uwagę jej obawom.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "address somebody"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zwracać się do kogoś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You can address me by my first name.",
+                                "Translation": "(Możesz zwracać się do mnie po imieniu.)"
+                            },
+                            {
+                                "Sentence": "Please, address me and not my client, Mr. Specter.",
+                                "Translation": "(Proszę zwracać się do mnie, nie do mojej klientki, panie Specter.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "address something to somebody"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zaadresować coś do kogoś"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "address oneself to something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "poświęcić uwagę czemuś"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

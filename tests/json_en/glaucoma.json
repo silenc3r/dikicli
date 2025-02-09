@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "glaucoma"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "jaskra (choroba oka)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I have severe glaucoma.",
+                                "Translation": "(Mam zaawansowaną jaskrę.)"
+                            },
+                            {
+                                "Sentence": "Glaucoma can be treated surgically.",
+                                "Translation": "(Jaskra może być leczona operacyjnie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

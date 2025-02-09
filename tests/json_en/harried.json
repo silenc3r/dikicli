@@ -1,0 +1,56 @@
+[
+    {
+        "Entry": [
+            "harried"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "udręczony",
+                            "nękany"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Harried shoppers are willing to buy groceries online.",
+                                "Translation": "(Udręczeni klienci są gotowi robić zakupy w Internecie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "harry"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zadręczać",
+                            "ciągle atakować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Enemies harry villages during war.",
+                                "Translation": "(Podczas wojny wrogowie ciągle atakują wioski.)"
+                            },
+                            {
+                                "Sentence": "Some kid is harrying my son.",
+                                "Translation": "(Jakieś dziecko zadręcza mojego syna.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,116 @@
+[
+    {
+        "Entry": [
+            "crippled"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kaleki",
+                            "upośledzony (posiadający niesprawne stopy lub nogi)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "kaleki",
+                            "okaleczony"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "okaleczony",
+                            "dotknięty"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "sparaliżowany (np. gospodarka)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "niesprawny",
+                            "unieruchomiony (np. samochód)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "cripple"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "okaleczyć",
+                            "uczynić kogoś kaleką"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The car accident has crippled him for life.",
+                                "Translation": "(Ten wypadek samochodowy uczynił z niego kalekę do końca życia.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "spowodować uraz psychiczny u kogoś",
+                            "okaleczyć psychicznie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He wasn't hurt physically during the war, but the experience has crippled him.",
+                                "Translation": "(On nie został fizycznie ranny w czasie wojny, ale doświadczenie spowodowało w nim uraz psychiczny.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "sparaliżować",
+                            "unieruchomić (np. osobę, gospodarkę, ruch uliczny)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We crippled their communications, so they are helpless.",
+                                "Translation": "(Sparaliżowaliśmy ich systemy łączności, więc są bezradni.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "tandeta",
+                            "odpad",
+                            "wybrakowany towar"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There were a lot of cripples in today's shipment.",
+                                "Translation": "(Było wiele wybrakowanych towarów w dzisiejszej przesyłce.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

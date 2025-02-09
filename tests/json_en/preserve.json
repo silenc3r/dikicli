@@ -1,0 +1,133 @@
+[
+    {
+        "Entry": [
+            "preserve"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ochraniać",
+                            "zabezpieczać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We should preserve endangered species of animals.",
+                                "Translation": "(Powinniśmy ochraniać zagrożone gatunki zwierząt.)"
+                            },
+                            {
+                                "Sentence": "Our government wants to preserve national parks.",
+                                "Translation": "(Nasz rząd chce zabezpieczać parki narodowe.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "utrwalać",
+                            "zachowywać (np. wygląd, niepodległość)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We want to preserve the character of our town.",
+                                "Translation": "(Chcemy zachować charakter naszego miasta.)"
+                            },
+                            {
+                                "Sentence": "Preserve his love notes and keep them in a bottle.",
+                                "Translation": "(Zachowaj jego liściki miłosne i przechowaj je w butelce.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kultywować",
+                            "chronić (tradycję)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We have to preserve our history and traditions.",
+                                "Translation": "(Musimy chronić naszą historię i tradycje.)"
+                            },
+                            {
+                                "Sentence": "My family preserves all of the old traditions of our grandfathers.",
+                                "Translation": "(Moja rodzina kultywuje wszystkie stare tradycje naszych dziadków.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "konserwować (żywność)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Freezing is a common method of preserving fruit.",
+                                "Translation": "(Zamrażanie jest powszechną metodą przechowywania owoców.)"
+                            },
+                            {
+                                "Sentence": "My grandma always preserves cucumbers for winter.",
+                                "Translation": "(Moja babcia zawsze konserwuje ogórki na zimę.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "konserwa (np. owocowa, jarzynowa)",
+                            "przetwory (np. domowej roboty)",
+                            "dżem",
+                            "konfitura"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My favourite is an apricot preserve.",
+                                "Translation": "(Dżem morelowy jest moim ulubionym.)"
+                            },
+                            {
+                                "Sentence": "My grandma has lots of jars of preserves in her cellar.",
+                                "Translation": "(Moja babcia ma dużo słoików z przetworami w swojej piwnicy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rezerwat (przyrody)",
+                            "zwierzyniec"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I visited a beautiful preserve last week.",
+                                "Translation": "(W zeszłym tygodniu odwiedziłem piękny rezerwat przyrody.)"
+                            },
+                            {
+                                "Sentence": "You can see many endangered species of animals in this preserve.",
+                                "Translation": "(W tym zwierzyńcu możesz zobaczyć wiele zagrożonych gatunków zwierząt.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "domena",
+                            "specjalność (czyjaś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Knitting is her preserve.",
+                                "Translation": "(Robienie na drutach jest jej specjalnością.)"
+                            },
+                            {
+                                "Sentence": "Owning sports cars is the preserve of the rich.",
+                                "Translation": "(Posiadanie sportowych aut jest domeną bogaczy.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

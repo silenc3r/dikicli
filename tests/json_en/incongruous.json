@@ -1,0 +1,24 @@
+[
+    {
+        "Entry": [
+            "incongruous"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dziwny",
+                            "osobliwy",
+                            "niestosowny",
+                            "nie na miejscu"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

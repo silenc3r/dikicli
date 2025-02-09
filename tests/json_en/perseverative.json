@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "perseverative"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "związany z perseweracją",
+                            "perseweracyjny",
+                            "perseweratywny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

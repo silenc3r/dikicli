@@ -1,0 +1,24 @@
+[
+    {
+        "Entry": [
+            "affluence"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dobrobyt",
+                            "dostatek",
+                            "obfitość",
+                            "zasobność"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

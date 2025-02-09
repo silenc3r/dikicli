@@ -1,0 +1,41 @@
+[
+    {
+        "Entry": [
+            "obnoxious"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wstrętny",
+                            "okropny",
+                            "ohydny",
+                            "nieznośny",
+                            "odpychający"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His behaviour was obnoxious today!",
+                                "Translation": "(Dzisiaj jego zachowanie było okropne!)"
+                            },
+                            {
+                                "Sentence": "What an obnoxious smell!",
+                                "Translation": "(Co za wstrętny zapach!)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "narażony na nieprzyjemności",
+                            "narażony na szkodę"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

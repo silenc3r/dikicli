@@ -1,0 +1,45 @@
+[
+    {
+        "Entry": [
+            "rad"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "fajny",
+                            "superowy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You're wearing a really rad tee today.",
+                                "Translation": "(Masz dziś na sobie naprawdę fajną koszulkę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "awangardowy",
+                            "radykalny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rad (jednostka promieniowania jonizującego)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

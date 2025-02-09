@@ -1,0 +1,39 @@
+[
+    {
+        "Entry": [
+            "imbibe"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pić (alkohol)",
+                            "raczyć się",
+                            "popijać",
+                            "lubić wypić"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wdychać",
+                            "upajać się (np. świeżym powietrzem)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wchłaniać",
+                            "absorbować",
+                            "chłonąć (np. wiedzę)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

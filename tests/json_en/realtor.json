@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "estate agent",
+            "real estate agent",
+            "realtor"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "agent nieruchomości"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

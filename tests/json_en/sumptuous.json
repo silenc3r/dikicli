@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "sumptuous"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przepyszny",
+                            "okazały",
+                            "pełen przepychu (np. pałac)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wystawny",
+                            "syty (o uczcie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

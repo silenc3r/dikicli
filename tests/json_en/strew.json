@@ -1,0 +1,51 @@
+[
+    {
+        "Entry": [
+            "strew",
+            "strow"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zasypywać",
+                            "pokrywać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The beach was strewn with rocks.",
+                                "Translation": "(Plaża była pokryta kamieniami.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rozrzucać",
+                            "rozsypywać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He strewed toys all over the floor.",
+                                "Translation": "(On porozrzucał zabawki po całej podłodze.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "usiać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The meadow was strewn with flowers.",
+                                "Translation": "(Łąka była usiana kwiatami.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

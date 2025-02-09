@@ -1,0 +1,24 @@
+[
+    {
+        "Entry": [
+            "midden",
+            "kitchen midden",
+            "shell heap",
+            "shell mound"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "warstwa ziemi, która zawiera śmieci i nieczystości z gospodarstw domowych"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

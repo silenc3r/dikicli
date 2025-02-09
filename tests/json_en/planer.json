@@ -1,0 +1,109 @@
+[
+    {
+        "Entry": [
+            "planer"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "strugarka",
+                            "strug"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "heblarka"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "plane"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "płaszczyzna"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "hebel"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A plane is a carpenter's tool.",
+                                "Translation": "(Hebel jest narzędziem pracy stolarza.)"
+                            },
+                            {
+                                "Sentence": "The carpenter was dressing the desk with a plane.",
+                                "Translation": "(Stolarz obrabiał deskę za pomocą hebla.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "równia"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "heblować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A carpenter planes wood.",
+                                "Translation": "(Stolarz hebluje drewno.)"
+                            },
+                            {
+                                "Sentence": "I have to plane this board.",
+                                "Translation": "(Muszę wyheblować tę deskę.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "płaski",
+                            "równy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He learned to roller skate on a plane surface.",
+                                "Translation": "(On nauczył się jeździć na wrotkach na płaskiej powierzchni.)"
+                            },
+                            {
+                                "Sentence": "You should keep your device on a plane surface to protect it from overheating.",
+                                "Translation": "(Powinieneś trzymać swoje urządzenie na równej powierzchni, żeby chronić je przed przegrzaniem.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

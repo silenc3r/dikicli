@@ -1,0 +1,44 @@
+[
+    {
+        "Entry": [
+            "ravenous"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wygłodniały",
+                            "żarłoczny (o osobie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "After spending the whole day walking we were ravenous.",
+                                "Translation": "(Po spędzeniu całego dnia na spacerze, byliśmy wygłodniali.)"
+                            },
+                            {
+                                "Sentence": "Growing children have ravenous appetites.",
+                                "Translation": "(Dorastające dzieci mają żarłoczny apetyt.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zachłanny (pragnący czegoś)",
+                            "żądny (władzy)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "drapieżny (o zwierzęciu)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

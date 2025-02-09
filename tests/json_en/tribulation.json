@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "tribulation"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "cierpienie",
+                            "zmartwienie",
+                            "udręka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She's had a life filled with tribulations.",
+                                "Translation": "(Ona ma życie wypełnione udrękami.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

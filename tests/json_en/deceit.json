@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "deceit"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "fałsz",
+                            "oszustwo",
+                            "nieuczciwość"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

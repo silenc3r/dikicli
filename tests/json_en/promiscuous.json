@@ -1,0 +1,35 @@
+[
+    {
+        "Entry": [
+            "promiscuous"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "prowadzący bogate życie seksualne",
+                            "rozwiązły (o osobie posiadającej wielu partnerów seksualnych)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "mieszany",
+                            "różnorodny"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "przypadkowy (np. seks)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

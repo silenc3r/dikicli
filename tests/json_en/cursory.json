@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "cursory"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pobieżny (np. rzut oka)",
+                            "powierzchowny (np. o obserwacji)",
+                            "zdawkowy (o grzeczności)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

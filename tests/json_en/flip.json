@@ -1,0 +1,238 @@
+[
+    {
+        "Entry": [
+            "toss",
+            "toss up",
+            "flip"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "podrzucać do góry (monetę)",
+                            "rzucać (monetą)",
+                            "zagrać w orła i reszkę"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We tossed up to decide where to go on holidays.",
+                                "Translation": "(Zagraliśmy w orła i reszkę, żeby zdecydować, gdzie jechać na wakacje.)"
+                            },
+                            {
+                                "Sentence": "If you can't decide what to do tonight, toss the coin.",
+                                "Translation": "(Jeśli nie możesz zdecydować, co dziś robić, rzuć monetą.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "flip jump",
+            "flip"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "flip",
+                            "skok w łyżwiarstwie figurowym"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "flip"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wykonać gwałtowny ruch"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The driver flipped and hit a cyclist.",
+                                "Translation": "(Kierowca wykonał gwałtowny ruch i potrącił rowerzystę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "podrzucać (np. naleśniki)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The cook is flipping the pancakes.",
+                                "Translation": "(Kucharz podrzuca naleśniki.)"
+                            },
+                            {
+                                "Sentence": "Can you flip pancakes?",
+                                "Translation": "(Umiesz podrzucać naleśniki?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zdenerwować się",
+                            "wściec się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He flipped and drove away.",
+                                "Translation": "(On zdenerwował się i odjechał.)"
+                            },
+                            {
+                                "Sentence": "Don't tell him that, he'll flip.",
+                                "Translation": "(Nie mów mu tego, wścieknie się.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przewracać",
+                            "przerzucać (np. strony)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She flipped the pages of a magazine but found nothing interesting.",
+                                "Translation": "(Ona przerzuciła strony czasopisma, ale nie znalazła nic interesującego.)"
+                            },
+                            {
+                                "Sentence": "She was flipping the pages of the magazine.",
+                                "Translation": "(Ona przerzucała strony magazynu.)"
+                            },
+                            {
+                                "Sentence": "I flipped several pages of this book but I didn't find what I was looking for.",
+                                "Translation": "(Przerzuciłem kilka stron tej książki, ale nie znalazłem tego, czego szukałem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wykonać salto"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He flipped when he was jumping into the water.",
+                                "Translation": "(On wykonał salto kiedy wskakiwał do wody.)"
+                            },
+                            {
+                                "Sentence": "He took a run-up and flipped.",
+                                "Translation": "(Wziął rozbieg i wykonał salto.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kupować i odnowić coś po to, aby to szybko sprzedać z zyskiem (np. dom)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He flipped the car before selling it.",
+                                "Translation": "(On kupił i odnowił samochód przed sprzedaniem go.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zmieniać poprzednio zadeklarowane stanowisko, co do partii politycznej"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Georgia flipped in the presidential elections in 2020.",
+                                "Translation": "(Georgia zmieniła stanowisko, co do partii politycznej w wyborach prezydenckich w 2020 roku.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "lekceważący",
+                            "nonszalancki (o postawie, komentarzu, uwadze)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Your son's attitude is flip. You should talk to him.",
+                                "Translation": "(Postawa twojego syna jest lekceważąca. Powinieneś z nim porozmawiać.)"
+                            },
+                            {
+                                "Sentence": "Your comment was too flip. They felt insulted.",
+                                "Translation": "(Twój komentarz był zbyt nonszalancki. Poczuli się obrażeni.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "salto"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This flip got her a golden medal.",
+                                "Translation": "(To salto dało jej złoty medal.)"
+                            },
+                            {
+                                "Sentence": "He jumped into the pool doing a flip.",
+                                "Translation": "(Wskoczył do basenu robiąc salto.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pazurki (fryzura, w której końcówki włosów podwinięte są na zewnątrz lub w w stronę twarzy)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "Flip"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "Filipińczyk"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I saw her talking to some Flip.",
+                                "Translation": "(Widziałem, jak ona rozmawiała z jakimś Filipińczykiem.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

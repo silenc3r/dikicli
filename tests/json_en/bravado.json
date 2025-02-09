@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "bravado"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "brawura",
+                            "popisywanie się odwagą"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

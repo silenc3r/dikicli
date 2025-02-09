@@ -1,0 +1,26 @@
+[
+    {
+        "Entry": [
+            "infantry"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "piechota (wojsko)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Their army consisted mostly of infantry.",
+                                "Translation": "(Ich armia składała się w większości z piechoty.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

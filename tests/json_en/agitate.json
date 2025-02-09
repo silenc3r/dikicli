@@ -1,0 +1,44 @@
+[
+    {
+        "Entry": [
+            "agitate"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "agitować (za czymś)",
+                            "nawoływać (do czegoś)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "poruszać",
+                            "wzruszać",
+                            "podniecać"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "potrząsnąć",
+                            "wstrząsnąć",
+                            "mieszać (jakiś płyn)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wzbudzać (cząsteczkę)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "eminent"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wybitny",
+                            "będący znakomitością (np. dziedzinie nauki)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "nadzwyczajny",
+                            "wyjątkowy",
+                            "niewątpliwy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

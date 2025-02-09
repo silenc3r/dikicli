@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "benighted"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nieoświecony",
+                            "pogrążony w mrokach niewiedzy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

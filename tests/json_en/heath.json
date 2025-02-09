@@ -1,0 +1,53 @@
+[
+    {
+        "Entry": [
+            "heath"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "połać nieużytku",
+                            "pustkowie"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "każda roślina wrzosopodobna lub z gatunku wrzosów"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "heath",
+            "heathland"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wrzosowisko"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Their house was surrounded by heaths.",
+                                "Translation": "(Ich dom był otoczony wrzosowiskiem.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

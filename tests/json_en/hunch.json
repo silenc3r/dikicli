@@ -1,0 +1,82 @@
+[
+    {
+        "Entry": [
+            "hunch"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przeczucie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I've got a hunch that somehow today you'll finally find a job.",
+                                "Translation": "(Mam przeczucie, że dziś nareszcie znajdziesz pracę.)"
+                            },
+                            {
+                                "Sentence": "We can't just drill into our patient's brain on a hunch.",
+                                "Translation": "(Nie możemy tak po prostu wwiercić się w mózg pacjenta z powodu przeczucia.)"
+                            },
+                            {
+                                "Sentence": "I have a hunch that I'll get lucky today.",
+                                "Translation": "(Mam przeczucie, że dzisiaj mi się poszczęści.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "garb"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We are looking for a man with a hunch.",
+                                "Translation": "(Szukamy mężczyzny z garbem.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kulić (się)",
+                            "garbić (się)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He always hunched at his desk.",
+                                "Translation": "(On zawsze garbił się przy swoim biurku.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "have a hunch"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mieć przeczucie",
+                            "mieć czuja"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

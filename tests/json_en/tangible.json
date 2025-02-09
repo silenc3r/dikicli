@@ -1,0 +1,35 @@
+[
+    {
+        "Entry": [
+            "tangible"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zauważalny (o gafie, pomyłce)",
+                            "dostrzegalny (o żalu, radości)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "rzeczywisty (o korzyściach)",
+                            "materialny (o posiadłości)",
+                            "namacalny (o dowodzie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It is something that will provide tangible benefits.",
+                                "Translation": "(To jest coś, co zapewni namacalne korzyści.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "Entry": [
+            "thicket"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "gąszcz",
+                            "zarośla",
+                            "gęstwina",
+                            "gęstwa"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You will need a good machete to cut through this thicket.",
+                                "Translation": "(Będziecie potrzebowali dobrej maczety, żeby przebić się przez te zarośla.)"
+                            },
+                            {
+                                "Sentence": "It is not easy to go through the thicket of bureaucracy.",
+                                "Translation": "(Nie jest łatwo przedrzeć się przez gąszcz biurokracji.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

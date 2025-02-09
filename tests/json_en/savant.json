@@ -1,0 +1,33 @@
+[
+    {
+        "Entry": [
+            "savant"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "uczony",
+                            "erudyta"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sawant (osoba, która jest upośledzona, ale przejawia specjalne zdolności w pewnej dziedzinie, np. błyskawicznym dodawaniu liczb)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

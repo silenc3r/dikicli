@@ -1,0 +1,27 @@
+[
+    {
+        "Entry": [
+            "inexplicably"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "w sposób niewytłumaczalny",
+                            "niewytłumaczalnie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Many crucial documents disappeared inexplicably.",
+                                "Translation": "(Wiele kluczowych dokumentów niewytłumaczalnie zniknęło.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

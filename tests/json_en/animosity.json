@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "animosity"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wrogość",
+                            "niechęć",
+                            "nienawiść",
+                            "uraza"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He shows animosity towards her.",
+                                "Translation": "(On okazuje jej wrogość.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

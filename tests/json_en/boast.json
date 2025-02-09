@@ -1,0 +1,83 @@
+[
+    {
+        "Entry": [
+            "boast"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "chwalić się",
+                            "przechwalać się (mówić o sobie i swoich osiągnięciach)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Stop boasting, you're not that special.",
+                                "Translation": "(Przestań się przechwalać, nie jesteś taki wyjątkowy.)"
+                            },
+                            {
+                                "Sentence": "It's rude to boast like that.",
+                                "Translation": "(To niegrzeczne tak się przechwalać.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "chlubić się",
+                            "szczycić się (np. zabytkami, atrakcjami miejskimi)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Poland boasts its beautiful mountains.",
+                                "Translation": "(Polska szczyci się swoimi pięknymi górami.)"
+                            },
+                            {
+                                "Sentence": "The town boasts its modern gym.",
+                                "Translation": "(Miasto szczyci się swoją nowoczesną siłownią.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przechwała"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Your boast doesn't impress me.",
+                                "Translation": "(Twoja przechwała mi nie imponuje.)"
+                            },
+                            {
+                                "Sentence": "His idle boast is annoying.",
+                                "Translation": "(Jego czcza przechwałka jest denerwująca.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "duma",
+                            "chluba"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This church is the boast of our city.",
+                                "Translation": "(Ten kościół jest chlubą naszego miasta.)"
+                            },
+                            {
+                                "Sentence": "I am the boast of my family.",
+                                "Translation": "(Jestem dumą mojej rodziny.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

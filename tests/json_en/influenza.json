@@ -1,0 +1,36 @@
+[
+    {
+        "Entry": [
+            "flu",
+            "the flu",
+            "influenza"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "grypa"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I've got the flu.",
+                                "Translation": "(Mam grypę.)"
+                            },
+                            {
+                                "Sentence": "She couldn't go because she had the flu.",
+                                "Translation": "(Ona nie mogła pojechać, ponieważ miała grypę.)"
+                            },
+                            {
+                                "Sentence": "The pharmacist gave me some medicine for my flu.",
+                                "Translation": "(Aptekarz dał mi lekarstwa na grypę.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

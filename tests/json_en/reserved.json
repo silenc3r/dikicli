@@ -1,0 +1,121 @@
+[
+    {
+        "Entry": [
+            "reserved"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "powściągliwy",
+                            "skryty"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zarezerwowany"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "reserve"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rezerwa"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'm glad we've established a financial reserve.",
+                                "Translation": "(Jestem zadowolony, że zbudowaliśmy rezerwę finansową.)"
+                            },
+                            {
+                                "Sentence": "Selling our merchandise reserve was not a good idea.",
+                                "Translation": "(Sprzedaż naszej rezerwy towaru to nie był dobry pomysł.)"
+                            },
+                            {
+                                "Sentence": "They always keep some money in reserve.",
+                                "Translation": "(Oni zawsze trzymają trochę pieniędzy w rezerwie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "powściągliwość",
+                            "rezerwa"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "rezerwowy zawodnik"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He was 15 years old then, but too good to play in the reserves.",
+                                "Translation": "(On miał wtedy 15 lat, ale był za dobry, żeby grać z zawodnikami rezerwowymi.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "odwód"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "warunek",
+                            "zastrzeżenie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rezerwować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Let's reserve some time for the family.",
+                                "Translation": "(Zarezerwujmy trochę czasu dla rodziny.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zachowywać",
+                            "zastrzegać"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "odkładać",
+                            "zatrzymywać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

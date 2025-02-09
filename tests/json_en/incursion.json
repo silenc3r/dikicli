@@ -1,0 +1,35 @@
+[
+    {
+        "Entry": [
+            "incursion"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "najazd",
+                            "napad",
+                            "wtargnięcie (np. obcych wojsk)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Incursion of German discount retailers into the American market was a surprise.",
+                                "Translation": "(Wtargnięcie niemieckich dyskontów na rynek amerykański było zaskoczeniem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ingerencja",
+                            "naruszenie (np. prywatności)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

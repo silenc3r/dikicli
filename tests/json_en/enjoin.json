@@ -1,0 +1,25 @@
+[
+    {
+        "Entry": [
+            "enjoin"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wymagać",
+                            "nakazać",
+                            "nakazywać",
+                            "zalecić",
+                            "zalecać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

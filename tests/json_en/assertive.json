@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "assertive"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "stanowczy",
+                            "asertywny",
+                            "pewny siebie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

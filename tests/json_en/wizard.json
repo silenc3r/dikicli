@@ -1,0 +1,63 @@
+[
+    {
+        "Entry": [
+            "wizard"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "czarodziej",
+                            "czarnoksiężnik"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I am half blood. My father was a wizard.",
+                                "Translation": "(Jestem pół-krwi. Mój ojciec był czarodziejem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "czarodziej (osoba bardzo dobra w jakiejś dziedzinie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This kid is a pinball wizard.",
+                                "Translation": "(Ten dzieciak jest czarodziejem w pinballa.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kreator (w programie komputerowym)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Use this wizard to create a graph quickly.",
+                                "Translation": "(Użyj tego kreatora, żeby szybko stworzyć wykres.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "cudowny",
+                            "wspaniały",
+                            "doskonały",
+                            "znakomity (określenie osoby, która dokonała czegoś nadzwyczajnego)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

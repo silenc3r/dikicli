@@ -1,0 +1,57 @@
+[
+    {
+        "Entry": [
+            "glimpse"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mignięcie (kiedy ledwo coś dojrzeliśmy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I only saw a glimpse of him, but I could recognise him.",
+                                "Translation": "(Widziałam tylko jego mignięcie, ale jestem w stanie go rozpoznać.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "szybki wgląd (dający mgliste pojęcie o czymś)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mignąć"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "pojąć",
+                            "zrozumieć"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "rzucić okiem",
+                            "szybko przejrzeć"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

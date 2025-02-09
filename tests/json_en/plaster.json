@@ -1,0 +1,149 @@
+[
+    {
+        "Entry": [
+            "plaster",
+            "plaister"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "gips (używany w budownictwie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You have to wait for the plaster to dry.",
+                                "Translation": "(Musisz poczekać, aż gips wyschnie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "gładź szpachlowa"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "tynk"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "gipsować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He plastered the front yard of his house.",
+                                "Translation": "(On zagipsował podwórko przed swoim domem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "oklejać",
+                            "pokrywać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He plastered the box with plain paper, so the package would be a surprise.",
+                                "Translation": "(On okleił pudełko czystym papierem, żeby paczka była niespodzianką.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "tynkować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They will start painting as soon as they plaster the walls.",
+                                "Translation": "(Oni zaczną malować jak tylko otynkują ściany.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przyklejać",
+                            "oblepiać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They plastered the wall with posters.",
+                                "Translation": "(Oni okleili ścianę plakatami.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "plaster",
+            "plaster of Paris"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "gips modelarski",
+                            "gips sztukatorski"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It was a life-sized statue made out of plaster.",
+                                "Translation": "(To był posąg w skali 1:1 wykonany z gipsu.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "adhesive bandage",
+            "sticking plaster",
+            "Elastoplast",
+            "Band-Aid",
+            "plaster"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "plaster opatrunkowy",
+                            "plaster z opatrunkiem"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Stick an adhesive bandage to the wound.",
+                                "Translation": "(Przyklej plaster opatrunkowy na ranę.)"
+                            },
+                            {
+                                "Sentence": "She had a sticking plaster on her knee.",
+                                "Translation": "(Miała plaster na kolanie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

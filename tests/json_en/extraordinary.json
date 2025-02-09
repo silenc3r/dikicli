@@ -1,0 +1,66 @@
+[
+    {
+        "Entry": [
+            "extraordinary"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niezwykły",
+                            "zadziwiający",
+                            "zdumiewający (np. wydarzenie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The more I think about it the more extraordinary it seems.",
+                                "Translation": "(Im więcej o tym myślę, tym bardziej wydaje mi się to zadziwiające.)"
+                            },
+                            {
+                                "Sentence": "Sam did not say anything controversial or extraordinary.",
+                                "Translation": "(Sam nie powiedział nic kontrowersyjnego lub niezwykłego.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "niesłychany",
+                            "niezwykły",
+                            "nadzwyczajny",
+                            "niebanalny",
+                            "nietuzinkowy (np. uroda)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My congratulations on an extraordinary piece of research.",
+                                "Translation": "(Moje gratulacje za nadzwyczajne badania.)"
+                            },
+                            {
+                                "Sentence": "Her beauty is extraordinary.",
+                                "Translation": "(Jej uroda jest niesłychana.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wyjątkowy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He gave me an extraordinary gift.",
+                                "Translation": "(On dał mi wyjątkowy prezent.)"
+                            },
+                            {
+                                "Sentence": "You have an extraordinary gift.",
+                                "Translation": "(Masz wyjątkowy dar.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

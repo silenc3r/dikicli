@@ -1,0 +1,34 @@
+[
+    {
+        "Entry": [
+            "deprivation"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ograniczanie (dostępu do czegoś)",
+                            "brak (np. snu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Sleep deprivation may lead to health problems.",
+                                "Translation": "(Brak snu może prowadzić do problemów zdrowotnych.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "utrata (np. praw)",
+                            "pozbawienie (np. wolności)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

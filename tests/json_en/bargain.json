@@ -1,0 +1,94 @@
+[
+    {
+        "Entry": [
+            "bargain"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "okazja",
+                            "dobry interes (możliwość kupienia czegoś taniej)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It was a real bargain!",
+                                "Translation": "(To była prawdziwa okazja!)"
+                            },
+                            {
+                                "Sentence": "That wasn't much of a bargain.",
+                                "Translation": "(To nie była szczególna okazja.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "porozumienie",
+                            "układ",
+                            "umowa",
+                            "transakcja"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It sounds like you get the better part of this bargain.",
+                                "Translation": "(Wygląda na to, że ty dużo więcej zyskasz na tym porozumieniu.)"
+                            },
+                            {
+                                "Sentence": "I never want to cut myself off from a potential bargain.",
+                                "Translation": "(Nigdy nie chcę odcinać się od potencjalnego układu.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "targować się",
+                            "pertraktować",
+                            "negocjować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He came to me and wanted to bargain for his life.",
+                                "Translation": "(Przyszedł do mnie i chcial targować się o swoje życie.)"
+                            },
+                            {
+                                "Sentence": "You can't bargain like this, not when the entire world is in danger.",
+                                "Translation": "(Nie możesz się targować w ten sposób, gdy cały nasz świat jest w niebezpieczeństwie.)"
+                            },
+                            {
+                                "Sentence": "Our boss is very laid-back, you can try to bargain over position.",
+                                "Translation": "(Nasz szef jest bardzo wyluzowany, możesz próbować targować się o stanowisko.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "get a bargain"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kupić po okazyjnej cenie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

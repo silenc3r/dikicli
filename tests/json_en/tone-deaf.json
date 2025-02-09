@@ -1,0 +1,39 @@
+[
+    {
+        "Entry": [
+            "tone-deaf"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "taki, któremu słoń na ucho nadepnął, pozbawiony słuchu muzycznego"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "These are the people who think you're tone-deaf.",
+                                "Translation": "(To jest grupa ludzi, którzy uważają, że słoń ci na ucho nadepnął.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nieczuły",
+                            "niewrażliwy",
+                            "obojętny na głos opinii publicznej"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

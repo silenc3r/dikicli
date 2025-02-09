@@ -1,0 +1,37 @@
+[
+    {
+        "Entry": [
+            "vigil"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "czuwanie",
+                            "milcząca manifestacja"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It's a vigil for your father.",
+                                "Translation": "(To czuwanie dla twojego ojca.)"
+                            },
+                            {
+                                "Sentence": "They organised a vigil in front of the embassy.",
+                                "Translation": "(Oni zorganizowali milczącą manifestację przed ambasadą.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wigilia (przeddzień święta)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

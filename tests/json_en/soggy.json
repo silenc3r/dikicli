@@ -1,0 +1,35 @@
+[
+    {
+        "Entry": [
+            "soggy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mokry (grunt)",
+                            "rozmoczony (np. chleb)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I had to answer the phone and meantime my cereal went soggy.",
+                                "Translation": "(Musiałem odebrać telefon i w międzyczasie płatki się rozmoczyły.)"
+                            },
+                            {
+                                "Sentence": "Some people say that the microwave makes food soggy.",
+                                "Translation": "(Niektórzy mówią, że mikrofalówka rozmacza jedzenie.)"
+                            },
+                            {
+                                "Sentence": "The ground was too soggy to build a house on it.",
+                                "Translation": "(Grunt był zbyt mokry, aby zbudować na nim dom.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

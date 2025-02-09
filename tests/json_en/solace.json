@@ -1,0 +1,39 @@
+[
+    {
+        "Entry": [
+            "solace"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pocieszenie",
+                            "pociecha",
+                            "ulga"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I found solace in meditation.",
+                                "Translation": "(Znalazłem pociechę w medytacji.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pocieszać (kogoś)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

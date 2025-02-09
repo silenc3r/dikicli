@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "inchoate"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nieokreślony",
+                            "niesprecyzowany",
+                            "niejasny (np. plan)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I have an inchoate suspicion that he's not telling us everything.",
+                                "Translation": "(Mam niejasne podejrzenie, że on nie mówi nam wszystkiego.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

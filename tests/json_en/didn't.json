@@ -1,0 +1,31 @@
+[
+    {
+        "Entry": [
+            "didn't",
+            "didna"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "skrót od \"did not\""
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Yesterday, I didn't feel so well.",
+                                "Translation": "(Wczoraj nie czułem się za dobrze.)"
+                            },
+                            {
+                                "Sentence": "I didn't go to the store, I had no time.",
+                                "Translation": "(Nie poszedłem do sklepu, nie miałem czasu.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

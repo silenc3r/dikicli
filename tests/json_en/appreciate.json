@@ -1,0 +1,103 @@
+[
+    {
+        "Entry": [
+            "appreciate"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "doceniać (np. ważność problemu, znaczenie czegoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I appreciate your help.",
+                                "Translation": "(Doceniam twoją pomoc.)"
+                            },
+                            {
+                                "Sentence": "She appreciates your work and effort.",
+                                "Translation": "(Ona docenia twoją pracę i wysiłek.)"
+                            },
+                            {
+                                "Sentence": "I appreciate your concern, but I'm OK.",
+                                "Translation": "(Doceniam twoją troskę, ale wszystko ze mną w porządku.)"
+                            },
+                            {
+                                "Sentence": "I appreciate your concern, but I'm OK.",
+                                "Translation": "(Doceniam twoją troskę, ale wszystko ze mną w porządku.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "być wdzięcznym"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'd appreciate it if you left me alone.",
+                                "Translation": "(Byłbym wdzięczny gdybyś zostawił mnie samego.)"
+                            },
+                            {
+                                "Sentence": "I'd really appreciate that.",
+                                "Translation": "(Byłbym za to naprawdę wdzięczny.)"
+                            },
+                            {
+                                "Sentence": "I couldn't do it without you. I appreciate it.",
+                                "Translation": "(Nie mógłbym zrobić tego bez ciebie. Jestem wdzięczny za to.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "cenić sobie (np. dobre jedzenie, muzykę)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I appreciate peace.",
+                                "Translation": "(Cenię sobie spokój.)"
+                            },
+                            {
+                                "Sentence": "I appreciate good food and elegant restaurants.",
+                                "Translation": "(Cenię sobie dobre jedzenie i eleganckie restauracje.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wzrastać",
+                            "zyskiwać na wartości"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Gold has recently appreciated.",
+                                "Translation": "(Złoto ostatnio zyskało na wartości.)"
+                            },
+                            {
+                                "Sentence": "The euro appreciated last month.",
+                                "Translation": "(Euro wzrosło na wartości w zeszłym miesiącu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zdawać sobie sprawę"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He appreciated what he has done to her.",
+                                "Translation": "(On zdał sobie sprawę co jej zrobił.)"
+                            },
+                            {
+                                "Sentence": "I appreciate that you love me but I can't be with you.",
+                                "Translation": "(Zdaję sobie sprawę z tego, że mnie kochasz, ale nie mogę z tobą być.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

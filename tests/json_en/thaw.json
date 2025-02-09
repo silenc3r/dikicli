@@ -1,0 +1,97 @@
+[
+    {
+        "Entry": [
+            "thaw"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "odwilż"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The thaw may cause local flooding.",
+                                "Translation": "(Odwilż może spowodować miejscowe podtopienia.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "odwilż",
+                            "ocieplenie stosunków"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The result of the election may be a reason for a thaw in international relations.",
+                                "Translation": "(Wynik wyborów może być powodem dla ocieplenia stosunków międzynarodowych.)"
+                            },
+                            {
+                                "Sentence": "A thaw in our relations is a right step on the way to cooperation.",
+                                "Translation": "(Odwilż w naszych stosunkach jest właściwym krokiem na drodze do współpracy.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "topnieć",
+                            "tajać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "When the ice thaws, it turns into water.",
+                                "Translation": "(Kiedy lód topnieje, zamienia się w wodę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ocieplać się",
+                            "polepszać się (o relacjach)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It's good to see their relationships thaw.",
+                                "Translation": "(Dobrze widzieć, że ich stosunki się ocieplają.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "thaw",
+            "thaw out"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "odmrażać"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "roztapiać (o śniegu)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

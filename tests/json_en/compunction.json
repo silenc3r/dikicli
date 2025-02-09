@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "compunction"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "skrupuły",
+                            "wyrzuty sumienia"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

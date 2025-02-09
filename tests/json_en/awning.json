@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "awning"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zadaszenie",
+                            "zasłona",
+                            "markiza"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

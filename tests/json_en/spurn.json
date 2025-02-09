@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "spurn"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "odrzucać (pomoc)",
+                            "odtrącać (kogoś)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wzgardzać (czymś)",
+                            "odpychać z pogardą (kogoś)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

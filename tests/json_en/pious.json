@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "pious"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bogobojny",
+                            "nabożny",
+                            "pobożny (o człowieku, działaniu)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "świętoszkowaty",
+                            "obłudny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

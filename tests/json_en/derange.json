@@ -1,0 +1,34 @@
+[
+    {
+        "Entry": [
+            "derange"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zaburzać",
+                            "psuć (coś)",
+                            "wprowadzać chaos"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "doprowadzić do obłędu (kogoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This tragedy deranged him.",
+                                "Translation": "(Ta tragedia doprowadziła go do obłędu.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

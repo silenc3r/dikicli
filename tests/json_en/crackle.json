@@ -1,0 +1,39 @@
+[
+    {
+        "Entry": [
+            "crackle"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "trzaskać",
+                            "trzeszczeć (w krótkich odstępach czasu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It crackled softly like fat frying in a saucepan.",
+                                "Translation": "(To trzaskało cicho, jak tłuszcz smażący się w rondlu.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "trzask",
+                            "trzeszczenie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

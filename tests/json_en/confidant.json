@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "confidant"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "powiernik"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Jenny is my confidant. I tell her my secrets.",
+                                "Translation": "(Jenny jest moim powiernikiem. Mówię jej moje sekrety.)"
+                            },
+                            {
+                                "Sentence": "I flatter myself that I am his confidant and friend.",
+                                "Translation": "(Pochlebiam sobie, że jestem jego powiernikiem i przyjacielem.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

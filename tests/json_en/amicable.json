@@ -1,0 +1,48 @@
+[
+    {
+        "Entry": [
+            "amicable"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przyjacielski",
+                            "przyjazny",
+                            "pokojowo nastawiony (np. gest, zachowanie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I hope that we will continue to have an amicable relationship.",
+                                "Translation": "(Mam nadzieję, że będziemy wciąż mieć przyjacielską relację.)"
+                            },
+                            {
+                                "Sentence": "He is an amicable person, always with a smile on his face.",
+                                "Translation": "(Jest bardzo pokojowo nastawionym człowiekiem, zawsze z uśmiechem na twarzy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "polubowny",
+                            "pokojowy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The parting was amicable, and we are still good friends.",
+                                "Translation": "(Rozstanie było pokojowe i wciąż jesteśmy dobrymi przyjaciółmi.)"
+                            },
+                            {
+                                "Sentence": "They discussed it and came to amicable terms.",
+                                "Translation": "(Przedyskutowali to i doszli do polubownych rozwiązań.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

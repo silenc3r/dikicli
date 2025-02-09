@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "pneumonia"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zapalenie płuc"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We don't want the little girl to catch pneumonia.",
+                                "Translation": "(Nie chcemy, żeby ta mała dziewczynka nabawiła się zapalenia płuc.)"
+                            },
+                            {
+                                "Sentence": "Her father passed away from pneumonia.",
+                                "Translation": "(Jej ojciec zmarł na zapalenie płuc.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

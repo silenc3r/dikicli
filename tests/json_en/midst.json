@@ -1,0 +1,43 @@
+[
+    {
+        "Entry": [
+            "midst"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "środek"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He was in the crowd's midst.",
+                                "Translation": "(On był w środku tłumu.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przyimek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "w środku",
+                            "pośród"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Boys and girls, we have a celebrity in our midst.",
+                                "Translation": "(Chłopcy i dziewczyny, pośród nas jest gwiazda.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

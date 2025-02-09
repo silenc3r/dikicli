@@ -1,0 +1,64 @@
+[
+    {
+        "Entry": [
+            "agency"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "agencja (np. reklamowa, pracy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He worked for the Sax Sandler talent agency.",
+                                "Translation": "(On pracował dla agencji talentów Sax Sandler.)"
+                            },
+                            {
+                                "Sentence": "Do you know anybody at the National Security Agency?",
+                                "Translation": "(Czy znasz kogoś w Narodowej Agencji Bezpieczeństwa?)"
+                            },
+                            {
+                                "Sentence": "We contacted the car rental agency.",
+                                "Translation": "(Skontaktowaliśmy się z agencją wynajmującą samochody.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "agencja (rządowa)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "przedstawicielstwo",
+                            "filia",
+                            "oddział",
+                            "ekspozytura"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We have 5 agencies in Poland.",
+                                "Translation": "(Mamy w Polsce 5 oddziałów.)"
+                            },
+                            {
+                                "Sentence": "You can visit us in one of our agencies.",
+                                "Translation": "(Możesz nas odwiedzić w jednej z naszych filii.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "sprawczość (zdolność oddziaływania jednostki na inne jednostki)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

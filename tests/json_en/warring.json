@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "warring"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sprzeczny",
+                            "walczący z sobą"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

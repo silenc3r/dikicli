@@ -1,0 +1,32 @@
+[
+    {
+        "Entry": [
+            "jaded"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "znużony",
+                            "wyczerpany",
+                            "zmęczony"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zblazowany",
+                            "wybredny",
+                            "znudzony",
+                            "przesycony"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

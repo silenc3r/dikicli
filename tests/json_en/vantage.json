@@ -1,0 +1,27 @@
+[
+    {
+        "Entry": [
+            "vantage"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przewaga",
+                            "korzystna pozycja"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We have a vantage of knowing that they are coming.",
+                                "Translation": "(Mamy przewagę wiedzy o tym, że oni nadchodzą.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "Entry": [
+            "breadth"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozległość (np. wiedzy, zainteresowań)",
+                            "zakres"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Thanks to the breadth of his knowledge, I could always count on him.",
+                                "Translation": "(Dzięki rozległości jego wiedzy, zawsze mogłam na nim polegać.)"
+                            },
+                            {
+                                "Sentence": "I could not account for the breadth of your interests, so I focused on a particular problem.",
+                                "Translation": "(Nie mogłem ogarnąć rozległości twoich zainteresowań, więc skupiłem się na konkretnym problemie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "szerokość",
+                            "rozpiętość"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "What is the breadth of the river?",
+                                "Translation": "(Jaka jest szerokość rzeki?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

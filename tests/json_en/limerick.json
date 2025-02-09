@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "limerick"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wiersz żartobliwy",
+                            "fraszka",
+                            "limeryk"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

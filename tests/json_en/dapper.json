@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "dapper"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "żywy",
+                            "energiczny (np. krok)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "elegancki",
+                            "wytworny (o mężczyźnie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

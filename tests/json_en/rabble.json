@@ -1,0 +1,40 @@
+[
+    {
+        "Entry": [
+            "rabble"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "gawiedź",
+                            "tłum (ludzi)",
+                            "ciżba"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "hołota",
+                            "hałastra",
+                            "tałatajstwo",
+                            "barachło (pogardliwie o tłumie ludzi)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "chamstwo",
+                            "plugastwo",
+                            "łajdactwo (obraźliwie o najniższej klasie ludzi)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "bloke"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "facet",
+                            "gość",
+                            "koleś"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "Entry": [
+            "closure"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zamknięcie (np. pasa ruchu, fabryki)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "What can be said about the closure of the Chinese market?",
+                                "Translation": "(Co można powiedzieć na temat zamknięcia rynku chińskiego?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zamknięcie obrad"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The participants discussed the issue even after the official closure of the meeting.",
+                                "Translation": "(Uczestnicy dyskutowali o problemie nawet po oficjalnym zamknięciu obrad.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zamykanie",
+                            "zamknięcie",
+                            "wiązadło (urządzenie zamykające)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zbliżenie narządów mowy (w lingwistyce)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "poczucie, że pewien etap w życiu zakończył się (zwykle o emocjonujących lub traumatycznych przeżyciach)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

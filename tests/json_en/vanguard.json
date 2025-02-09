@@ -1,0 +1,25 @@
+[
+    {
+        "Entry": [
+            "advance guard",
+            "vanguard",
+            "van",
+            "foreguard"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "straż przednia",
+                            "awangarda (w wojsku)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

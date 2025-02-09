@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "wariness"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ostrożność",
+                            "rezerwa",
+                            "nieufność"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "Entry": [
+            "establish"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zakładać",
+                            "tworzyć",
+                            "ustanawiać",
+                            "nawiązywać (np. biznes, rząd, kontakty)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My friend plans to establish a company.",
+                                "Translation": "(Mój przyjaciel planuje załozyć spółkę.)"
+                            },
+                            {
+                                "Sentence": "If I won one million pounds, I would establish my own company.",
+                                "Translation": "(Gdybym wygrał milion funtów, założyłbym własną firmę.)"
+                            },
+                            {
+                                "Sentence": "I feel like I'm ready to establish my own family.",
+                                "Translation": "(Czuję, że jestem gotów założyć własną rodzinę.)"
+                            },
+                            {
+                                "Sentence": "The spy quickly established a wide net of contacts with corrupt politicians.",
+                                "Translation": "(Szpieg szybko stworzył szeroką sieć kontaktów ze skorumpowanymi politykami.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ugruntowywać (np. pozycję)",
+                            "wyrabiać sobie renomę"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He established his position in the company.",
+                                "Translation": "(On ugruntował swoją pozycję w firmie.)"
+                            },
+                            {
+                                "Sentence": "My work has been established in the fashion world.",
+                                "Translation": "(Moja praca w świecie mody została ugruntowana.)"
+                            },
+                            {
+                                "Sentence": "He established himself as a competent lawyer.",
+                                "Translation": "(On wyrobił sobie renomę jako kompetentny prawnik.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ustalać",
+                            "dowodzić (np. ojcostwo, niewinność)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The exact moment of the collision cannot be established.",
+                                "Translation": "(Dokładny moment zderzenia nie może zostać ustalony.)"
+                            },
+                            {
+                                "Sentence": "I want to plan a trap to establish his blame.",
+                                "Translation": "(Chcę zaplanować pułapkę, żeby dowieść jego winy.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "Entry": [
+            "humility"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pokora",
+                            "skromność",
+                            "uniżoność"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I suggest a hint of humility when you're presented to the King.",
+                                "Translation": "(Powinieneś okazać odrobinę pokory przed obliczem króla.)"
+                            },
+                            {
+                                "Sentence": "People treat you better when you act with humility.",
+                                "Translation": "(Ludzie traktują cię lepiej jeżeli działasz z pokorą.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

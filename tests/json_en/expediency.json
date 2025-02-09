@@ -1,0 +1,36 @@
+[
+    {
+        "Entry": [
+            "expedience",
+            "expediency"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "stosowność"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "oportunizm (rezygnacja z zasad dla doraźnych korzyści)",
+                            "ugodowość"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "cele doraźne",
+                            "potrzeba chwili"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

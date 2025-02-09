@@ -1,0 +1,21 @@
+[
+    {
+        "Entry": [
+            "tacit"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "milczący (o przyzwoleniu, zgodzie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

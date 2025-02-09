@@ -1,0 +1,193 @@
+[
+    {
+        "Entry": [
+            "patch"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "skrawek (np. ziemi)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He bought a patch of ground outside of town.",
+                                "Translation": "(On kupił skrawek ziemi za miastem.)"
+                            },
+                            {
+                                "Sentence": "I planted a flower on a patch of ground.",
+                                "Translation": "(Posadziłam kwiatek na skrawku ziemi.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "łata"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She sewed a patch on the shirt.",
+                                "Translation": "(Ona przyszyła łatę na koszulę.)"
+                            },
+                            {
+                                "Sentence": "This jacket has patches on elbows.",
+                                "Translation": "(Ta marynarka ma łaty na łokciach.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "plaster (np. antynikotynowy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He bought a pack of nicotine patches.",
+                                "Translation": "(On kupił paczkę plastrów antynikotynowych.)"
+                            },
+                            {
+                                "Sentence": "She wants to quit smoking, so she sticks nicotine patches.",
+                                "Translation": "(Ona chce rzucić palenie, więc przykleja plastry antynikotynowe.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "grządka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She had cabbage patches in her garden.",
+                                "Translation": "(Ona miała grządki z kapustą w swoim ogródku.)"
+                            },
+                            {
+                                "Sentence": "I planted a patch of carrots.",
+                                "Translation": "(Posadziłam grządkę marchewek.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bruzda"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "łatka",
+                            "poprawka (do programu komputerowego)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I've installed all the latest patches, but the problem still persists.",
+                                "Translation": "(Zainstalowałem najnowsze poprawki, ale problem ciągle występuje.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "łatać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She patched the fabric yesterday.",
+                                "Translation": "(Ona połatała tkaninę wczoraj.)"
+                            },
+                            {
+                                "Sentence": "I have to patch my old trousers.",
+                                "Translation": "(Muszę załatać moje stare spodnie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "badge",
+            "patch"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "naszywka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His jacket had a badge on the left shoulder.",
+                                "Translation": "(Jego kurtka miała naszywkę na lewym ramieniu.)"
+                            },
+                            {
+                                "Sentence": "I put a patch over the hole in my pants.",
+                                "Translation": "(Naszyłem naszywkę na dziurę w moich spodniach.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "patch",
+            "eyepatch",
+            "eye patch"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "opaska na oko"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Davis wore an eye patch for at least six months following the accident.",
+                                "Translation": "(Davis nosił opaskę na oko przez przynajmniej sześć miesięcy po wypadku.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "somebody's patch"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "czyjeś rejony",
+                            "czyjeś tereny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "London is my patch, I will show you around.",
+                                "Translation": "(Londyn to moje tereny, oprowadzę cię.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

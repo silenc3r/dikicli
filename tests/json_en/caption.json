@@ -1,0 +1,91 @@
+[
+    {
+        "Entry": [
+            "caption"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "podpis",
+                            "tytuł (np. pod obrazkiem)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There was a caption under the picture on the wall.",
+                                "Translation": "(Pod zdjęciem na ścianie był podpis.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "napis (np. w filmach)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Turn on the captions if you want to see the translation.",
+                                "Translation": "(Włącz napisy, jeżeli chcesz zobaczyć tłumaczenie.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "podpisać",
+                            "podpisywać",
+                            "opatrzyć podpisem"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You need to caption this photo.",
+                                "Translation": "(Musisz podpisać to zdjęcie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "opatrzyć napisami (np. film)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This film was captioned in five languages.",
+                                "Translation": "(Ten film został opatrzony napisami w pięciu językach.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "caption"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wstępna część dokumentu aktu prawnego"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His personal data was in the caption.",
+                                "Translation": "(Jego dane osobowe były w części wstępnej dokumentu.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

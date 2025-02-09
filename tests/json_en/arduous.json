@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "arduous"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "trudny",
+                            "męczący",
+                            "ciężki (np. o podróży)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "żmudny",
+                            "mozolny (np. o nauce, o ćwiczeniach)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "captivating"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zniewalający",
+                            "urzekający",
+                            "fascynujący"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "Entry": [
+            "engender"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "być źródłem czegoś",
+                            "zrodzić"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Her latest book has engendered a lot of controversy.",
+                                "Translation": "(Jej ostatnia książka zrodziła wiele kontrowersji.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "prokreować",
+                            "rozmnażać",
+                            "wydawać na świat"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

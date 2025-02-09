@@ -1,0 +1,68 @@
+[
+    {
+        "Entry": [
+            "trough"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "koryto (na pomyje)",
+                            "żłób (na paszę)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Pour that slop right in the trough there, son.",
+                                "Translation": "(Wlej te pomyje do tego koryta, synu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rynna (deszczowa)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I had to fix the leak in the trough.",
+                                "Translation": "(Musiałem naprawić przeciek w rynnie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "spadek"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We've noticed a trough of activity on the market.",
+                                "Translation": "(Zauważyliśmy spadek aktywności na rynku.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zagłębienie (między falami)",
+                            "dołek (na falistym wykresie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zatoka niskiego ciśnienia"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "dno (dolny punkt zwrotny w cyklu koniunkturalnym)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "stele",
+            "stela"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "stela (kamienna, ustawiona pionowo płyta z inskrypcją)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

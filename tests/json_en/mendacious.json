@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "mendacious"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kłamliwy",
+                            "kłamiący",
+                            "zakłamany"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

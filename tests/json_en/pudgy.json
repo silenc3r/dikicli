@@ -1,0 +1,32 @@
+[
+    {
+        "Entry": [
+            "pudgy",
+            "podgy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pełny",
+                            "pulchny",
+                            "tłusty (np. o twarzy)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "niski i gruby",
+                            "pękaty",
+                            "przysadzisty (o człowieku)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "Entry": [
+            "stout"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "tęgi",
+                            "korpulentny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She said he was short and rather stout.",
+                                "Translation": "(Ona powiedziała, że on był niski i raczej tęgi.)"
+                            },
+                            {
+                                "Sentence": "The stout boy beamed with pride.",
+                                "Translation": "(Korpulentny chłopiec rozpromienił się z dumą.)"
+                            },
+                            {
+                                "Sentence": "He was a solidly built, stout man.",
+                                "Translation": "(On był solidnie zbudowanym, tęgim mężczyzną.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "mocny",
+                            "solidny"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "dzielny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "stout",
+                            "porter (piwo)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "Entry": [
+            "nausea"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mdłości",
+                            "nudności"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She didn't feel anything except nausea.",
+                                "Translation": "(Ona nie czuła nic poza mdłościami.)"
+                            },
+                            {
+                                "Sentence": "Bill waited until the nausea had passed.",
+                                "Translation": "(Bill czekał, aż przejdą mu nudności.)"
+                            },
+                            {
+                                "Sentence": "He felt tired and the nausea had not left him.",
+                                "Translation": "(On czuł się zmęczony i nudności go nie opuściły.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

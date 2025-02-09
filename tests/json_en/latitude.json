@@ -1,0 +1,33 @@
+[
+    {
+        "Entry": [
+            "latitude"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szerokość geograficzna"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Generally, the higher the latitude, the more snow there is.",
+                                "Translation": "(Ogólnie, im wyższa szerokość geograficzna, tym więcej śniegu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "swoboda",
+                            "tolerancja"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "determinate"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sprecyzowany (np. czas, odległość)",
+                            "określony (np. porządek)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "ostateczny (o decyzji, odpowiedzi)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

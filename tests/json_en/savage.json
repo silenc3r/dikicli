@@ -1,0 +1,112 @@
+[
+    {
+        "Entry": [
+            "savage"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "brutalnie zaatakować",
+                            "poturbować",
+                            "pokiereszować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "What of the beast that savaged your son?",
+                                "Translation": "(Co z bestią, która pokiereszowała twojego syna?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zjechać",
+                            "ostro skrytykować",
+                            "nie pozostawić suchej nitki na"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "After the way you've savaged my last book in your review?",
+                                "Translation": "(Po tym, jak skrytykowałeś moją ostatnią książkę w swojej recenzji?)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dzikus",
+                            "nieokrzesaniec"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "People look at me as if I am a savage.",
+                                "Translation": "(Ludzie patrzą na mnie jak na dzikusa.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "okrutny",
+                            "brutalny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Another savage attack was reported yesterday.",
+                                "Translation": "(Wczoraj odnotowano kolejny brutalny atak.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ostry",
+                            "srogi"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His savage criticism had an impact on my future plans.",
+                                "Translation": "(Jego sroga krytyka miała wpływ na moje plany na przyszłość.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "mocny",
+                            "ostry",
+                            "hardcorowy (o czymś wyjątkowo trudnym, ryzykownym)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We can't sleep on the beach. This is too savage.",
+                                "Translation": "(Nie możemy spać na plaży. To jest zbyt hardcorowe.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dziki",
+                            "agresywny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Not every stray dog is savage.",
+                                "Translation": "(Nie każdy bezpański pies jest dziki.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

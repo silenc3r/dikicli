@@ -1,0 +1,21 @@
+[
+    {
+        "Entry": [
+            "wokeness"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zorientowanie się w sprawach dotyczących społecznej niesprawiedliwości"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

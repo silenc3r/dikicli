@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "indigent"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "biedny",
+                            "ubogi",
+                            "pogrążony w nędzy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

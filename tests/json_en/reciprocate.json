@@ -1,0 +1,35 @@
+[
+    {
+        "Entry": [
+            "reciprocate"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "odpłacać się (np. za uprzejmość)",
+                            "rewanżować się (za coś)",
+                            "oddawać (przysługę)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "odwzajemniać (uczucia)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "poruszać się w tę i z powrotem (np. zawór)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

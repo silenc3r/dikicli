@@ -1,0 +1,31 @@
+[
+    {
+        "Entry": [
+            "discrepancy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niezgodność",
+                            "rozbieżność"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There is something of a discrepancy between scientific findings and political action.",
+                                "Translation": "(Zachodzi pewna rozbieżność między ustaleniami naukowymi a działaniami politycznymi.)"
+                            },
+                            {
+                                "Sentence": "I noticed some discrepancies in the payments.",
+                                "Translation": "(Zauważyłam pewne niezgodności w płatnościach.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

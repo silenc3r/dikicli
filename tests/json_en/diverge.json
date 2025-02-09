@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "diverge"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "różnić się (np. doświadczenia, opinie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "rozejść się",
+                            "rozchodzić się",
+                            "rozwidlić się",
+                            "rozwidlać się"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "gratuitous"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bezpodstawny",
+                            "niepotrzebny (np. przemoc, wandalizm)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "bezpłatny",
+                            "nieodpłatny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

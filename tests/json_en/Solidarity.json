@@ -1,0 +1,31 @@
+[
+    {
+        "Entry": [
+            "solidarity"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "solidarność",
+                            "jedność (celu, uczuć)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We should remember that solidarity is most important during hard times.",
+                                "Translation": "(Pamiętajmy, że solidarność ma największe znaczenie w trudnych okresach.)"
+                            },
+                            {
+                                "Sentence": "We need to create a common energy policy in the spirit of solidarity.",
+                                "Translation": "(Musimy budować wspólną politykę energetyczną w duchu solidarności.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "Entry": [
+            "tail"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ogon"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The hair at the end of the tail is black.",
+                                "Translation": "(Włosie na końcu ogona jest czarne.)"
+                            },
+                            {
+                                "Sentence": "Cats have long tails.",
+                                "Translation": "(Koty mają długie ogony.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ogon",
+                            "część końcowa (np. samolotu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I went around the tail of his car, and got in.",
+                                "Translation": "(Obszedłem tył jego samochodu i dostałem się do środka.)"
+                            },
+                            {
+                                "Sentence": "The tail of the plane broke off.",
+                                "Translation": "(Ogon samolotu się oderwał.)"
+                            },
+                            {
+                                "Sentence": "I booked two seats in the tail of the plane.",
+                                "Translation": "(Zarezerwowałem dwa miejsca w ogonie samolotu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "poła (część koszuli wkładana do spodni)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He tucked the tail of his shirt into his pants.",
+                                "Translation": "(On wcisnął połę swojej koszuli do swoich spodni.)"
+                            },
+                            {
+                                "Sentence": "The tail of his shirt was sticking out of his trousers.",
+                                "Translation": "(Poły jego koszuli wystawały mu ze spodni.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ogon",
+                            "osoba śledząca kogoś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He may have thought we were right on his tail.",
+                                "Translation": "(On mógł pomyśleć, że siedzimy mu na ogonie.)"
+                            },
+                            {
+                                "Sentence": "I think you have an uninvited tail.",
+                                "Translation": "(Wydaję mi się, że masz nieproszony ogon.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "tyłek",
+                            "zadek (tylna część ciała)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Your sister has a nice tail!",
+                                "Translation": "(Twoja siostra ma niezły tyłek!)"
+                            },
+                            {
+                                "Sentence": "He sat on his tail and started eating the burger.",
+                                "Translation": "(On usiadł na tyłku i zaczął jeść burgera.)"
+                            },
+                            {
+                                "Sentence": "She fell on her tail.",
+                                "Translation": "(Ona upadła na zadek.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "cipka",
+                            "dziurka",
+                            "szparka"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "tail"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "śledzić (kogoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A guy is tailing me around for some time now.",
+                                "Translation": "(Jakiś gość mnie śledzi już od jakiegoś czasu.)"
+                            },
+                            {
+                                "Sentence": "Tail him and find out where he lives.",
+                                "Translation": "(Śledź go i dowiedz się, gdzie mieszka.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "tail",
+            "ogonek"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ogonek (np. w literach ą, ę)",
+                            "znak w kształcie odwróconego przecinka dopisywany do niektórych liter"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

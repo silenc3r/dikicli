@@ -1,0 +1,71 @@
+[
+    {
+        "Entry": [
+            "forecast"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przewidywanie",
+                            "prognoza"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Here in Alaska, you don't always go with the weather forecast.",
+                                "Translation": "(Tu, na Alasce, nie zawsze polegamy na prognozie pogody.)"
+                            },
+                            {
+                                "Sentence": "Weather forecast for today: cloudy with a chance of rain.",
+                                "Translation": "(Prognoza pogody na dziś: pochmurno, z szansą na opady deszczu.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "prognozować",
+                            "przewidywać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Property analysts forecast that house prices will continue to rise.",
+                                "Translation": "(Analitycy nieruchomości przewidują, że ceny domów będą dalej wzrastać.)"
+                            },
+                            {
+                                "Sentence": "We say that the hour of death cannot be forecast.",
+                                "Translation": "(Mówimy, że godzina śmierci nie może być przepowiedziana.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "as forecast"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "jak zapowiadano, jak przewidywano"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

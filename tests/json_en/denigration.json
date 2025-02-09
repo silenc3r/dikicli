@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "denigration"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "oczernianie (kogoś)",
+                            "uwłaczanie (komuś)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "umniejszanie (wartości lub znaczenia czegoś)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

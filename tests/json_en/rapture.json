@@ -1,0 +1,66 @@
+[
+    {
+        "Entry": [
+            "enrapture",
+            "rapture"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zachwycać",
+                            "zachwycić",
+                            "oczarować",
+                            "oczarowywać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "rapture"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "uniesienie",
+                            "zachwyt (nad czymś)",
+                            "upojenie (czymś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I went into raptures over her new album.",
+                                "Translation": "(Wpadłem w zachwyt nad jej nowym albumem.)"
+                            },
+                            {
+                                "Sentence": "\"What a lovely dress,\" she said in rapture.",
+                                "Translation": "(\"Co za cudowna sukienka\" - ona powiedziała w zachwycie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wniebowzięcie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Do you know the story of the rapture of Virgin Mary?",
+                                "Translation": "(Znasz historię wniebowzięcia Maryi Dziewicy?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

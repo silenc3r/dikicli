@@ -1,0 +1,96 @@
+[
+    {
+        "Entry": [
+            "contest"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "konkurs",
+                            "zawody"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Jane would like to take part in the Miss World contest.",
+                                "Translation": "(Jane chciałaby wziąć udział w konkursie na Miss Świata.)"
+                            },
+                            {
+                                "Sentence": "Our school holds a talent contest every year.",
+                                "Translation": "(Nasza szkoła co roku organizuje konkurs talentów.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "walka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The contest for leadership in the group is fierce between them.",
+                                "Translation": "(Walka o przywództwo w grupie jest między nimi zacięta.)"
+                            },
+                            {
+                                "Sentence": "This is the first contest in my career.",
+                                "Translation": "(To pierwsza walka w mojej karierze.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "olimpiada przedmiotowa (np. matematyczna)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "contest"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zakwestionować",
+                            "podważyć ważność"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The scientist contested his theory.",
+                                "Translation": "(Naukowiec zakwestionował jego teorię.)"
+                            },
+                            {
+                                "Sentence": "How can you contest the words of your professor?",
+                                "Translation": "(Jak możesz podważać ważność słów twojego profesora?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "walczyć o zwycięstwo (np. w zawodach sportowych, w wyborach)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Our team contested in the final of the tournament.",
+                                "Translation": "(Nasz zespół walczył o zwycięstwo w finale turnieju.)"
+                            },
+                            {
+                                "Sentence": "You can't give up, you have to contest.",
+                                "Translation": "(Nie możesz się poddać, musisz walczyć o zwycięstwo.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

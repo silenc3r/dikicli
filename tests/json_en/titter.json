@@ -1,0 +1,36 @@
+[
+    {
+        "Entry": [
+            "titter"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "chichot",
+                            "podśmiewanie się",
+                            "nerwowy śmiech"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "chichotać",
+                            "podśmiewać się",
+                            "nerwowo się śmiać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

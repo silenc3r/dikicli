@@ -1,0 +1,57 @@
+[
+    {
+        "Entry": [
+            "tether"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "łańcuch (do wiązania zwierząt)",
+                            "pęto",
+                            "uwięź",
+                            "postronek"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The dog couldn't catch us because it was on a tether.",
+                                "Translation": "(Pies nie mógł nas złapać bo był na łańcuchu.)"
+                            },
+                            {
+                                "Sentence": "He broke his tethers and ran away.",
+                                "Translation": "(On rozerwał swoje pęta i uciekł.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przywiązywać (zwierzę)",
+                            "pętać",
+                            "wiązać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They tethered the dog to its kennel and went inside the house.",
+                                "Translation": "(Oni przywiązali psa do jego budy i weszli do domu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "udostępniać internet innemu urządzeniu poprzez smartfon"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

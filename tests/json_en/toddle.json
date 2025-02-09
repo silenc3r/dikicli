@@ -1,0 +1,33 @@
+[
+    {
+        "Entry": [
+            "toddle"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "chodzić niepewnie (o dziecku)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "dreptać",
+                            "przechadzać się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The women toddled towards the lake.",
+                                "Translation": "(Kobiety podreptały w kierunku jeziora.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

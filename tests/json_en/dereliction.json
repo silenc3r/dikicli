@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "dereliction"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "opuszczenie (np. budynku)",
+                            "porzucenie (rzeczy)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

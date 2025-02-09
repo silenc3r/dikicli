@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "faze"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zmieszać",
+                            "zbić z tropu",
+                            "speszyć"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

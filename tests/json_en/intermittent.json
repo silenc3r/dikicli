@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "intermittent"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sporadyczny",
+                            "przerywany (np. sen)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

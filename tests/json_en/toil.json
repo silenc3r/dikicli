@@ -1,0 +1,84 @@
+[
+    {
+        "Entry": [
+            "toil",
+            "toil away"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ciężko pracować",
+                            "harować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I toil every day so you could have a good life.",
+                                "Translation": "(Haruję każdego dnia, żebyście mieli dobre życie.)"
+                            },
+                            {
+                                "Sentence": "I'm exhausted because I have been toiling away a whole day.",
+                                "Translation": "(Jestem wykończony, bo ciężko pracuję cały dzień.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "toil"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "harówka",
+                            "mozół",
+                            "znój",
+                            "krwawica"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Our toil in the sun is a nightmare.",
+                                "Translation": "(Nasz znój w słońcu jest koszmarem.)"
+                            },
+                            {
+                                "Sentence": "Years of toil left a mark on him.",
+                                "Translation": "(Lata harówki zostawiły na nim ślad.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wlec się (z trudem)",
+                            "mozolić się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The horses were tired and they toiled.",
+                                "Translation": "(Konie były zmęczone i się wlekły.)"
+                            },
+                            {
+                                "Sentence": "What are you toiling at?",
+                                "Translation": "(Nad czym się mozolisz?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

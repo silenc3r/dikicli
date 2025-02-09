@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "stratify"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozwarstwiać",
+                            "nawarstwiać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

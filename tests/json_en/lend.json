@@ -1,0 +1,156 @@
+[
+    {
+        "Entry": [
+            "lend"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pożyczać (coś komuś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Could you lend me some money?",
+                                "Translation": "(Czy mógłbyś mi pożyczyć trochę pieniędzy?)"
+                            },
+                            {
+                                "Sentence": "It was nice of him to lend me his camera.",
+                                "Translation": "(To było miłe z jego strony, że pożyczył mi swój aparat.)"
+                            },
+                            {
+                                "Sentence": "I won't lend you anything else.",
+                                "Translation": "(Nie pożyczę ci nic innego.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pożyczać (o banku)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Will the bank lend me the money?",
+                                "Translation": "(Czy bank pożyczy mi pieniądze?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nadawać",
+                            "dodawać czegoś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "These fancy curtains lent an interesting look to the bedroom.",
+                                "Translation": "(Te fantazyjne zasłony nadały sypialni interesujący wygląd.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "lend somebody something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pożyczać komuś coś"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "lend something to somebody"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pożyczać coś komuś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I won't lend it to you. You never give me back my stuff.",
+                                "Translation": "(Nie pożyczę ci tego. Nigdy nie oddajesz mi moich rzeczy.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "lend oneself to something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dotyczyć czegoś",
+                            "być istotnym w stosunku do czegoś"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "nadawać się do czegoś",
+                            "być odpowiednim do czegoś"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "lend itself to something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nadawać się do czegoś",
+                            "pozwalać na coś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Does your method lend itself to this particular case?",
+                                "Translation": "(Czy twoja metoda nadaje się do tego konkretnego przypadku?)"
+                            },
+                            {
+                                "Sentence": "My busy life doesn't lend itself to taking vacations.",
+                                "Translation": "(Moje zaganiane życie nie pozwala na wzięcie wakacji.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

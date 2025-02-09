@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "pernicious"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szkodliwy",
+                            "zgubny",
+                            "groźny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

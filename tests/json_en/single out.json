@@ -1,0 +1,57 @@
+[
+    {
+        "Entry": [
+            "single somebody out"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wybierać kogoś",
+                            "wyróżniać kogoś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I was singled out by the headmaster himself.",
+                                "Translation": "(Zostałem wybrany przez samego dyrektora.)"
+                            },
+                            {
+                                "Sentence": "We have to single out the best singer.",
+                                "Translation": "(Musimy wybrać najlepszego wokalistę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "traktować kogoś lub mówić do kogoś w sposób różniący się od innych"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "single something out"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wybierać coś",
+                            "wyróżniać coś"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

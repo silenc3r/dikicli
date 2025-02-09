@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "salubrious"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "porządny",
+                            "zdrowy (np. zdrowa okolica)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

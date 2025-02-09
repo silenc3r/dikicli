@@ -1,0 +1,46 @@
+[
+    {
+        "Entry": [
+            "shawl"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szal",
+                            "chusta"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Will you hand me my shawl, please?",
+                                "Translation": "(Mógłbyś mi podać mój szal?)"
+                            },
+                            {
+                                "Sentence": "She was wearing a blue shawl.",
+                                "Translation": "(Ona nosiła niebieską chustę.)"
+                            },
+                            {
+                                "Sentence": "I bought myself a new shawl.",
+                                "Translation": "(Kupiłam sobie nowy szal.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "owijać szalem"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "Entry": [
+            "fiat"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dekret",
+                            "zarządzenie",
+                            "pełnomocnictwo"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Culture cannot be created by bureaucratic fiat.",
+                                "Translation": "(Kultury nie można tworzyć biurokratycznymi zarządzeniami.)"
+                            },
+                            {
+                                "Sentence": "This fiat enabled the board to do whatever they please.",
+                                "Translation": "(Ten dekret pozwolił zarządowi na robienie cokolwiek chce.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "Fiat"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "nazwa własna",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "Fiat"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Right here you got a '53 Fiat Vignale.",
+                                "Translation": "(Tutaj masz Fiata Vignale z '53 roku.)"
+                            },
+                            {
+                                "Sentence": "He has driven a Fiat all his life.",
+                                "Translation": "(On przez całe swoje życie jeździł Fiatem.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

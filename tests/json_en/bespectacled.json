@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "bespectacled"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "noszący okulary",
+                            "w okularach"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

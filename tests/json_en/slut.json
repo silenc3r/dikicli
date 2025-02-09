@@ -1,0 +1,37 @@
+[
+    {
+        "Entry": [
+            "slut"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kopciuch",
+                            "flejtuch",
+                            "brudas (o kobiecie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zdzira",
+                            "suka",
+                            "szmata",
+                            "flądra (o kobiecie lekkich obyczajów)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Since when is being a slut a crime in this family?",
+                                "Translation": "(Od kiedy bycie dziwką w tej rodzinie to przestępstwo?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

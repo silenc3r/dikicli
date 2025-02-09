@@ -1,0 +1,57 @@
+[
+    {
+        "Entry": [
+            "convent"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "klasztor żeński"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A convent is a place where nuns live.",
+                                "Translation": "(Klasztor żeński to miejsce, w którym mieszkają zakonnice.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "konwent"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zbiegać się",
+                            "spotykać"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "służyć"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zwoływać",
+                            "zwołać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

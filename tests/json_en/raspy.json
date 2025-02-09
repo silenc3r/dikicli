@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "raspy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "chrapliwy",
+                            "szorstki (o głosie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "abound"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "być w obfitości",
+                            "być pod dostatkiem",
+                            "obfitować"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

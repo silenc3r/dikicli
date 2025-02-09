@@ -1,0 +1,35 @@
+[
+    {
+        "Entry": [
+            "deftly"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zgrabnie",
+                            "szybko",
+                            "zwinnie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He deftly climbed the fence.",
+                                "Translation": "(On zwinnie wdrapał się na płot.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wprawnie",
+                            "umiejętnie (robić coś)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

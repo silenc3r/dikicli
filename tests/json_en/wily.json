@@ -1,0 +1,24 @@
+[
+    {
+        "Entry": [
+            "wily",
+            "wiley"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "chytry",
+                            "podstępny",
+                            "przebiegły"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,174 @@
+[
+    {
+        "Entry": [
+            "arresting"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "uderzający",
+                            "wstrząsający",
+                            "przykuwający uwagę (o widoku, wykładzie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "dokonujący zatrzymania (np. policjant)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Britain's most arresting officer found his paradise in Mansfield.",
+                                "Translation": "(Policjant, który dokonuje największej ilości zatrzymań w Wielkiej Brytanii, znalazł raj w Mansfield.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "uderzający (np. o pięknie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wstrząsający"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "frapujący"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "dokonujący zatrzymania (np. oficer)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "arrest"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "aresztować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The police have arrested Tom Madison for murder.",
+                                "Translation": "(Policja aresztowała Toma Madisona za morderstwo.)"
+                            },
+                            {
+                                "Sentence": "That guy should be arrested for reckless driving!",
+                                "Translation": "(Tamten facet powinien być aresztowany za brawurową jazdę!)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "hamować",
+                            "wstrzymywać",
+                            "powstrzymywać (np. rozprzestrzenianie się choroby)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The doctor didn't know how to arrest the infection.",
+                                "Translation": "(Doktor nie wiedział, jak powstrzymać zakażenie.)"
+                            },
+                            {
+                                "Sentence": "If we don't arrest the disease, it will spread to other countries in 10 days.",
+                                "Translation": "(Jeżeli nie powstrzymamy choroby, to przedostanie się ona do innych krajów w ciągu 10 dni.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przyciągać (np. uwagę)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His queer behaviour arrested my attention.",
+                                "Translation": "(Jego dziwne zachowanie przyciągnęło moją uwagę.)"
+                            },
+                            {
+                                "Sentence": "His story arrested my interest.",
+                                "Translation": "(Jego historyjka przyciągnęła moje zainteresowanie.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "areszt"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He's under house arrest for tax fraud.",
+                                "Translation": "(On ma areszt domowy za oszustwa podatkowe.)"
+                            },
+                            {
+                                "Sentence": "They keep me under house arrest.",
+                                "Translation": "(Oni mnie trzymają w areszcie domowym.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "aresztowanie",
+                            "zatrzymanie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "When did you find out about his arrest?",
+                                "Translation": "(Kiedy dowiedziałeś się o jego aresztowaniu?)"
+                            },
+                            {
+                                "Sentence": "I don't care about credit for the arrest of the criminal.",
+                                "Translation": "(Nie zależy mi na uznaniu za zatrzymanie zbrodniarza.)"
+                            },
+                            {
+                                "Sentence": "I'm going to sue you for false arrest!",
+                                "Translation": "(Pozwę cię za niesłuszne aresztowanie!)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ustanie",
+                            "zatrzymanie akcji"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You've experienced a cardiac arrest.",
+                                "Translation": "(Doznałeś zatrzymania akcji serca.)"
+                            },
+                            {
+                                "Sentence": "The arrest of the pulse meant the man was dead.",
+                                "Translation": "(Ustanie pulsu oznaczało, że mężczyzna był nieżywy.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

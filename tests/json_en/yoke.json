@@ -1,0 +1,107 @@
+[
+    {
+        "Entry": [
+            "yoke"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "jarzmo",
+                            "kabłąk (np. dla wołów)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Our oxen wear yokes.",
+                                "Translation": "(Nasze woły noszą jarzma.)"
+                            },
+                            {
+                                "Sentence": "The yoke hangs somewhere in the stable.",
+                                "Translation": "(Kabłąk wisi gdzieś w stajni.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nosidło (do przenoszenia ładunków)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The worker is holding a yoke for the buckets with water.",
+                                "Translation": "(Pracownik trzyma nosidło do wiader z wodą.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "karczek (część koszuli zaraz pod kołnierzem lub spódnicy zaraz pod linią talii)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Can you iron the yoke? It's creasy.",
+                                "Translation": "(Możesz zaprasować karczek? Jest zmięty.)"
+                            },
+                            {
+                                "Sentence": "I need to sew up the yoke, it's ripped.",
+                                "Translation": "(Muszę zeszyć karczek, jest rozpruty.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "jarzmo",
+                            "tyrania"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They started a war against his yoke.",
+                                "Translation": "(Oni zaczęli wojnę przeciwko jego tyranii.)"
+                            },
+                            {
+                                "Sentence": "We're tired of your yoke, we'll fight!",
+                                "Translation": "(Jesteśmy zmęczeni twoją tyranią, będziemy walczyć!)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "obszar ziemi zaorany parą wołów w ciągu jednego dnia"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wolant",
+                            "kolumna sterowa",
+                            "sterownica"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ujarzmić"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He yoked this tribe many years ago.",
+                                "Translation": "(On ujarzmił to plemię wiele lat temu.)"
+                            },
+                            {
+                                "Sentence": "They plan to yoke the natives.",
+                                "Translation": "(Oni planują ujarzmić tubylców.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

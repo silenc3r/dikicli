@@ -1,0 +1,64 @@
+[
+    {
+        "Entry": [
+            "ivory"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kość słoniowa"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They tell me I can't hunt an elephant for its ivory.",
+                                "Translation": "(Oni mówią, że nie mogę polować na słonie dla ich kłów.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przedmiot z kości słoniowej"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I see you're wearing a bit of ivory yourself, sir.",
+                                "Translation": "(Widzę, że i pan nosi trochę kości słoniowej.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kolor kości słoniowej"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The walls were painted ivory.",
+                                "Translation": "(Ściany zostały pomalowane na kolor kości słoniowej.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "z kości słoniowej"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She wore an ivory necklace.",
+                                "Translation": "(Ona nosiła naszyjnik z kości słoniowej.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

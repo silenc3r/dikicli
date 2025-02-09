@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "galore"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "obfite",
+                            "w znaczącej ilości"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

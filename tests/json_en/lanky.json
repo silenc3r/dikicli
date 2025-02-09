@@ -1,0 +1,31 @@
+[
+    {
+        "Entry": [
+            "lanky"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "chudy",
+                            "tyczkowaty"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His arms, legs and torso are unrealistically long and lanky.",
+                                "Translation": "(Jego ramiona, nogi i tors są nierealistycznie długie i tyczkowate.)"
+                            },
+                            {
+                                "Sentence": "He couldn't get his lanky frame into the small car.",
+                                "Translation": "(On nie mógł wsadzić swojego tyczkowatego ciała do małego samochodu.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

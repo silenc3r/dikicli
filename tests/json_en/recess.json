@@ -1,0 +1,133 @@
+[
+    {
+        "Entry": [
+            "recess"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przerwa (np. wakacyjna)",
+                            "przerwa (w obradach sądu, parlamentu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I believe that can be done shortly after the summer recess.",
+                                "Translation": "(Uważam, że możemy to zrobić wkrótce po przerwie letniej.)"
+                            },
+                            {
+                                "Sentence": "Ladies and gentlemen, we need to take a 15-minute recess now.",
+                                "Translation": "(Panie i panowie, musimy zarządzić 15 minutową przerwę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przerwa (między lekcjami)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I can give him a message at recess.",
+                                "Translation": "(Przekażę mu wiadomość na przerwie.)"
+                            },
+                            {
+                                "Sentence": "We've all seen you playing hopscotch at recess.",
+                                "Translation": "(Wszyscy widzieliśmy jak grałeś w klasy na przerwie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "alkowa",
+                            "nisza (w ścianie)",
+                            "wgłębienie (w czymś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The chest was standing in the recess.",
+                                "Translation": "(Skrzynia stała w alkowie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zakamarek",
+                            "zacisze",
+                            "zakątek"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Search every recess of this room.",
+                                "Translation": "(Przeszukajcie każdy zakątek tego pokoju.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zatoka (przestrzeń w narządach wewnętrznych ciała)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zachyłek (zagłębienie w jamach ciała)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zrobić przerwę (w pracy, rozprawie sądowej)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "lf you're not feeling well, we can recess the hearing.",
+                                "Translation": "(Jeśli nie czuje się pan dobrze, możemy przerwać to spotkanie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "umieścić w miejscu wgłębionym",
+                            "schować w niszy"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zrobić wgłębienie (np. w ścianie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "playtime",
+            "recess"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "długa przerwa (w szkole)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

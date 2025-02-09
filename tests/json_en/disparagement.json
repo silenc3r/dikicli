@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "disparagement"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ubliżenie",
+                            "zdyskredytowanie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

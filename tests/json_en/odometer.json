@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "mileometer",
+            "milometer",
+            "odometer"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "licznik przejechanej odległości w milach",
+                            "licznik przejechanych mil"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "According to the odometer he had gone about twenty miles.",
+                                "Translation": "(Według licznika odległości on przejechał około dwudziestu mil.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

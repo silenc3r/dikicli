@@ -1,0 +1,349 @@
+[
+    {
+        "Entry": [
+            "sounder"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "stukawka",
+                            "zespół stukawkowy (morsowski)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "sound"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dźwięk"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She didn't make a sound.",
+                                "Translation": "(Ona nie wydała żadnego dźwięku.)"
+                            },
+                            {
+                                "Sentence": "The engine was making a strange sound.",
+                                "Translation": "(Silnik wydawał dziwny dźwięk.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "odgłosy",
+                            "szum (morza, fal)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I like the sound of the sea.",
+                                "Translation": "(Lubię szum morza.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dźwięk (nadawany w radio, telewizji)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The sound is very unclear, so I can't hear what they are saying.",
+                                "Translation": "(Dźwięk jest bardzo niewyraźny, więc nie słyszę co mówią.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "głośność"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Could you turn down the sound, please?",
+                                "Translation": "(Czy mogłabyś ściszyć dźwięk?)"
+                            },
+                            {
+                                "Sentence": "Is this the maximum sound?",
+                                "Translation": "(Czy to jest maksymalna głośność?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "brzmienie (np. jakiegoś zespołu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I really like the sound of their new album.",
+                                "Translation": "(Naprawdę podoba mi się brzmienie ich nowego albumu.)"
+                            },
+                            {
+                                "Sentence": "The sound of this band is really unique.",
+                                "Translation": "(Brzmienie tego zespołu jest naprawdę niepowtarzalne.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "cieśnina"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They say this sound is haunted by sailors' ghosts.",
+                                "Translation": "(Powiadają, że ta cieśnina jest nawiedzona przed duchy żeglarzy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "głoska",
+                            "dźwięk"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "How do you pronounce the \"th\" sound?",
+                                "Translation": "(Jak wymawia się dźwięk \"th\"?)"
+                            },
+                            {
+                                "Sentence": "This sound is voiced.",
+                                "Translation": "(Ten dźwięk jest dźwięczny.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "brzmieć",
+                            "wydawać się (np. o pomyśle)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "That sounds great!",
+                                "Translation": "(To brzmi świetnie!)"
+                            },
+                            {
+                                "Sentence": "She didn't sound very enthusiastic.",
+                                "Translation": "(Ona nie brzmiała zbyt entuzjastycznie.)"
+                            },
+                            {
+                                "Sentence": "It sounded almost like a sigh.",
+                                "Translation": "(To zabrzmiało prawie jak westchnienie.)"
+                            },
+                            {
+                                "Sentence": "You sound angry, what happened?",
+                                "Translation": "(Wydajesz się zły, co się stało?)"
+                            },
+                            {
+                                "Sentence": "She sounded worried when I called her.",
+                                "Translation": "(Wydawała się zmartwiona, kiedy do niej zadzwoniłem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "brzmieć (o dźwięku)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Your new song sounds great!",
+                                "Translation": "(Twoja nowa piosenka brzmi świetnie!)"
+                            },
+                            {
+                                "Sentence": "Her voice sounds like a dying cat.",
+                                "Translation": "(Jej głos brzmi jak umierający kot.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zdawać się (o kimś, wnioskując z jego głosu, np. zdawać się smutnym)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You sound very sad.",
+                                "Translation": "(Brzmisz bardzo smutno.)"
+                            },
+                            {
+                                "Sentence": "She sounded really happy, I think she's in love.",
+                                "Translation": "(Ona zdawała się bardzo szczęśliwa, myślę, że jest zakochana.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przestrzegać",
+                            "sygnalizować"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "rozlegać się",
+                            "zabrzmieć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A loud shout sounded in the forest but we couldn't see anyone.",
+                                "Translation": "(Głośny krzyk rozległ się w lesie, ale nikogo nie mogliśmy dostrzec.)"
+                            },
+                            {
+                                "Sentence": "He fell asleep as soon as the first notes sounded.",
+                                "Translation": "(On zasnął zaraz po tym, jak zabrzmiały pierwsze dźwięki.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wymówić",
+                            "wypowiedzieć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She sounded the word carefully.",
+                                "Translation": "(Ona wymówiła to słowo ostrożnie.)"
+                            },
+                            {
+                                "Sentence": "Don't be afraid to sound your wish.",
+                                "Translation": "(Nie bój się wypowiedzieć swojego życzenia.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wysondować głębokość"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He knows how to sound this lake.",
+                                "Translation": "(On wie, jak wysondować głębokość tego jeziora.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozsądny",
+                            "logiczny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The book is full of sound advice.",
+                                "Translation": "(Książka jest pełna rozsądnych rad.)"
+                            },
+                            {
+                                "Sentence": "It was a sound argument, you convinced me.",
+                                "Translation": "(To był logiczny argument, przekonałeś mnie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "solidny",
+                            "godny zaufania (np. pracownik, fachowiec)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Peter is a sound worker, you can trust him.",
+                                "Translation": "(Peter to solidny pracownik, możesz mu zaufać.)"
+                            },
+                            {
+                                "Sentence": "He's a sound worker that you can rely on.",
+                                "Translation": "(On jest solidnym pracownikiem, na którym można polegać.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "staranny",
+                            "skrupulatny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You can assign him to this task, he's very sound.",
+                                "Translation": "(Możesz wyznaczyć go do tego zadania, jest bardzo staranny.)"
+                            },
+                            {
+                                "Sentence": "He's a very sound worker, I'm really glad I hired him.",
+                                "Translation": "(On jest bardzo skrupulatnym pracownikiem, cieszę się, że go zatrudniłem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "w dobrej kondycji"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The car is sound, I think you should buy it.",
+                                "Translation": "(Samochód jest w dobrej kondycji, uważam, że powinieneś go kupić.)"
+                            },
+                            {
+                                "Sentence": "My phone is sound, I can still sell it with a profit.",
+                                "Translation": "(Mój telefon jest w dobrej kondycji, wciąż mogę go sprzedać z zyskiem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zdrowy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Yes, she is safe and sound.",
+                                "Translation": "(Tak, jest cała i zdrowa.)"
+                            },
+                            {
+                                "Sentence": "Don't worry about your son, I'm sure he's sound and happy.",
+                                "Translation": "(Nie martw się o swojego syna, jestem pewny, że jest zdrowy i szczęśliwy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "głęboki",
+                            "mocny (np. sen)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It's impossible to wake her from her sound sleep.",
+                                "Translation": "(To jest niemożliwe, aby ją wybudzić z głębokiego snu.)"
+                            },
+                            {
+                                "Sentence": "I wish I had a sound sleep.",
+                                "Translation": "(Żałuję, że nie mam głębokiego snu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "mający duże szanse powodzenia",
+                            "stabilny (finansowo)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

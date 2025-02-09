@@ -1,0 +1,44 @@
+[
+    {
+        "Entry": [
+            "lousy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "parszywy",
+                            "nędzny",
+                            "kiepski",
+                            "podły",
+                            "okropny (np. bardzo złej jakości)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The food was lousy.",
+                                "Translation": "(Jedzenie było parszywe.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kiepski",
+                            "mizerny (niezbyt dobry w czymś)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wstrętny",
+                            "zawszony"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

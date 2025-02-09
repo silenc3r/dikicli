@@ -1,0 +1,35 @@
+[
+    {
+        "Entry": [
+            "immediacy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bezpośredniość",
+                            "bliskość"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "natychmiastowość",
+                            "pilność (potrzeby)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "bezpośredniość przekazu (np. telewizyjnego, radiowego)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

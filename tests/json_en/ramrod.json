@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "ramrod",
+            "bore cleaner",
+            "cleaning rod"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "stempel (do ubijania prochu)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wycior (do czyszczenia broni)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

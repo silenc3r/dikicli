@@ -1,0 +1,137 @@
+[
+    {
+        "Entry": [
+            "conduct"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przeprowadzać",
+                            "prowadzić (np. wywiad, eksperyment)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It's not safe to conduct this experiment outside laboratory conditions.",
+                                "Translation": "(Nie jest to bezpieczne, by przeprowadzać ten eksperyment poza warunkami laboratoryjnymi.)"
+                            },
+                            {
+                                "Sentence": "We are conducting an experiment here.",
+                                "Translation": "(Przeprowadzamy tutaj eksperyment.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dyrygować (orkiestrą, chórem)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Mr. Johnson conducts the academic choir.",
+                                "Translation": "(Pan Johnson dyryguje chórem akademickim.)"
+                            },
+                            {
+                                "Sentence": "He said that he conducts an orchestra.",
+                                "Translation": "(On powiedział, że dyryguje orkiestrą.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przewodzić (np. ciepło)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Metals conduct electricity.",
+                                "Translation": "(Metale przewodzą prąd.)"
+                            },
+                            {
+                                "Sentence": "Does wood conduct heat?",
+                                "Translation": "(Czy drewno przewodzi ciepło?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kierować",
+                            "zaprowadzać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She conducted me into a white room.",
+                                "Translation": "(Ona zaprowadziła mnie do białego pokoju.)"
+                            },
+                            {
+                                "Sentence": "Can you conduct our guests to their bedrooms?",
+                                "Translation": "(Czy możesz zaprowadzić naszych gości do ich sypialni?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "conduct"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zachowanie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We don't approve of such conduct at our house.",
+                                "Translation": "(Nie aprobujemy takiego zachowania w naszym domu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "prowadzenie",
+                            "sposób, w jaki coś jest przeprowadzone"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'm not happy with the conduct of our last meeting.",
+                                "Translation": "(Nie jestem zadowolony ze sposobu, w jaki zostało przeprowadzone nasze ostatnie spotkanie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "conduct oneself"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zachowywać się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He conducts himself in a very strange manner.",
+                                "Translation": "(On zachowuje się w bardzo dziwny sposób.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

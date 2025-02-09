@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "parochialism"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "prowincjonalizm",
+                            "zaściankowość"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

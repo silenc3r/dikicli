@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "succumb"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "poddawać się (czemuś)",
+                            "ulegać (np. pokusie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "ulec (np. chorobie, obrażeniom)",
+                            "umrzeć"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Entry": [
+            "dole"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zasiłek dla bezrobotnych"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He's been on the dole for the last couple of months.",
+                                "Translation": "(On od kilku miesięcy jest na zasiłku.)"
+                            },
+                            {
+                                "Sentence": "I won't go on the dole!",
+                                "Translation": "(Nie pójdę na zasiłek dla bezrobotnych!)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "gromada",
+                            "stado",
+                            "grupa"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

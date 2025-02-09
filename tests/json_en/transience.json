@@ -1,0 +1,25 @@
+[
+    {
+        "Entry": [
+            "transience",
+            "transciency",
+            "transiency"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "krótkotrwałość",
+                            "przejściowość",
+                            "tymczasowość"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

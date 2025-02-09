@@ -1,0 +1,31 @@
+[
+    {
+        "Entry": [
+            "discontent",
+            "discontentment"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niezadowolenie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Their policy has been a cause of major discontent.",
+                                "Translation": "(Ich polityka jest powodem znacznego niezadowolenia.)"
+                            },
+                            {
+                                "Sentence": "Many customers voiced their discontent on the quality of service.",
+                                "Translation": "(Wielu klientów wyraziło swoje niezadowolenie z jakości usług.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

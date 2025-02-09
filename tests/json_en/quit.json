@@ -1,0 +1,187 @@
+[
+    {
+        "Entry": [
+            "quit"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rzucać (np. palenie)",
+                            "odchodzić (np. z pracy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You really should quit smoking!",
+                                "Translation": "(Naprawdę powinieneś rzucić palenie!)"
+                            },
+                            {
+                                "Sentence": "You should quit your job if it is so stressful.",
+                                "Translation": "(Powinieneś odejść ze swojej pracy, jeśli jest taka stresująca.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przestać (robić coś denerwującego)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You have to quit singing this song, it's stupid!",
+                                "Translation": "(Musisz przestać śpiewać tę piosenkę, jest głupia!)"
+                            },
+                            {
+                                "Sentence": "Quit doing those faces!",
+                                "Translation": "(Przestań robić te miny!)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "opuszczać (np. wynajmowany lokal)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We had to quit the building and move to another office.",
+                                "Translation": "(Musieliśmy opuścić budynek i przenieść się do innego biura.)"
+                            },
+                            {
+                                "Sentence": "We quit our apartment for the time of the redecoration.",
+                                "Translation": "(Opuściliśmy nasze mieszkanie na czas remontu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "opuszczać (jakieś miejsce)",
+                            "wyjeżdżać (skądś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I will quit this city as soon as possible.",
+                                "Translation": "(Wyjadę z tego miasto najszybciej jak to możliwe.)"
+                            },
+                            {
+                                "Sentence": "He decided to quit the country when he became famous.",
+                                "Translation": "(Postanowił opuścić kraj, kiedy stał się sławny.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "opuszczać",
+                            "rzucać (szkołę, pracę)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I quit my job, I didn't like it.",
+                                "Translation": "(Rzuciłem pracę, nie podobała mi się.)"
+                            },
+                            {
+                                "Sentence": "You can't quit school at the age of sixteen, you're too young to work.",
+                                "Translation": "(Nie możesz opuścić szkoły w wieku szesnastu lat, jesteś za młody, żeby pracować.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zaniechać",
+                            "rezygnować",
+                            "przestać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You have to quit smoking, it's not healthy.",
+                                "Translation": "(Musisz przestać palić, to nie jest zdrowe.)"
+                            },
+                            {
+                                "Sentence": "Why did you quit running? You were really good at it!",
+                                "Translation": "(Dlaczego zrezygnowałeś z biegania? Byłeś w tym naprawdę dobry!)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "opuszczać (mieszkanie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I had to quit my apartment after the fire.",
+                                "Translation": "(Po pożarze musiałem opuścić moje mieszkanie.)"
+                            },
+                            {
+                                "Sentence": "She asked me to quit the apartment after the divorce.",
+                                "Translation": "(Poprosiła mnie, żebym po rozwodzie opuścił mieszkanie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "odjechać",
+                            "wyjechać",
+                            "wyjść"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He quit the room without a word.",
+                                "Translation": "(On wyszedł z pokoju bez słowa.)"
+                            },
+                            {
+                                "Sentence": "Why did you quit this town?",
+                                "Translation": "(Dlaczego wyjechałeś z tego miasta?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wychodzić (z programu komputerowego)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He quit the program without saving the file.",
+                                "Translation": "(On wyszedł z programu bez zapisania pliku.)"
+                            },
+                            {
+                                "Sentence": "Click on the cross to quit the program.",
+                                "Translation": "(Kliknij w krzyżyk, aby wyjść z programu.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "quit something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rzucić coś",
+                            "przestać coś robić",
+                            "zaprzestać czegoś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I want to quit smoking but you have to support me.",
+                                "Translation": "(Chcę rzucić palenie, ale musisz mnie wspierać.)"
+                            },
+                            {
+                                "Sentence": "You should quit biting your nails - it's disgusting.",
+                                "Translation": "(Powinieneś przestać obgryzać paznokcie - to obrzydliwe.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

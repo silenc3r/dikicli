@@ -1,0 +1,33 @@
+[
+    {
+        "Entry": [
+            "ravine",
+            "goyle",
+            "goyal"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "jar",
+                            "wąwóz o wąskim dnie i stromych zboczach"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'm headed east along the main road by the ravine.",
+                                "Translation": "(Jestem skierowany na wschód, wzdłuż głównej drogi przy jarze.)"
+                            },
+                            {
+                                "Sentence": "The stag went into the woods and led us to the deep ravine.",
+                                "Translation": "(Jeleń wbiegł do lasu i zaprowadził nas do głębokiego jaru.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

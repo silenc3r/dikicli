@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "grungy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "brudny",
+                            "wstrętny",
+                            "obrzydliwy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

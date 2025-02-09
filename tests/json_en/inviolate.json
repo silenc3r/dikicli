@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "inviolate"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nietknięty",
+                            "nienaruszalny",
+                            "niezmienny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

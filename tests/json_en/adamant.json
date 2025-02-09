@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "adamant"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "twardy",
+                            "stanowczy",
+                            "niewzruszony"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

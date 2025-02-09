@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "hoggish"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wieprzowaty",
+                            "niechlujny",
+                            "żarłoczny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

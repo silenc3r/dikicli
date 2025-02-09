@@ -1,0 +1,31 @@
+[
+    {
+        "Entry": [
+            "conceal"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ukrywać",
+                            "skrywać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The path was concealed by long grass.",
+                                "Translation": "(Ścieżka była ukryta przez długą trawę.)"
+                            },
+                            {
+                                "Sentence": "The money was so cleverly concealed that the police couldn't find it.",
+                                "Translation": "(Pieniądze były tak sprytnie ukryte, że policja nie mogła ich znaleźć.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

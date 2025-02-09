@@ -1,0 +1,72 @@
+[
+    {
+        "Entry": [
+            "mar"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niszczyć",
+                            "psuć",
+                            "zniekształcać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "March",
+            "Mar."
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "marzec"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I was born in March.",
+                                "Translation": "(Urodziłem się w marcu.)"
+                            },
+                            {
+                                "Sentence": "My father died in March.",
+                                "Translation": "(Mój ojciec umarł w marcu.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "marcowy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "March weather is very variable.",
+                                "Translation": "(Marcowa pogoda jest bardzo zmienna.)"
+                            },
+                            {
+                                "Sentence": "I will never forget that March day when I proposed to her.",
+                                "Translation": "(Nigdy nie zapomnę tamtego marcowego dnia, gdy się jej oświadczyłem.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

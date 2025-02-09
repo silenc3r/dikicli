@@ -1,0 +1,24 @@
+[
+    {
+        "Entry": [
+            "brawler"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "awanturnik",
+                            "uczestnik bójki",
+                            "mąciwoda",
+                            "warchoł"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

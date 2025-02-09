@@ -1,0 +1,71 @@
+[
+    {
+        "Entry": [
+            "savoury",
+            "savory"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wytrawny"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "słonawy",
+                            "słony"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Have you got any savoury refreshments?",
+                                "Translation": "(Masz jakieś słone przekąski?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dobry",
+                            "akceptowalny (moralnie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This place doesn't have a very savoury reputation.",
+                                "Translation": "(To miejsce nie ma zbyt dobrej reputacji.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pikantny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "savory"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "cząber"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

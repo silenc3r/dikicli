@@ -1,0 +1,26 @@
+[
+    {
+        "Entry": [
+            "hernia"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przepuklina"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Carl is recovering from a hernia operation.",
+                                "Translation": "(Carl wraca do zdrowia po operacji przepukliny.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

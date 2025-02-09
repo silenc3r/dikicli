@@ -1,0 +1,156 @@
+[
+    {
+        "Entry": [
+            "pet"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zwierzątko domowe",
+                            "zwierzę domowe"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Do you have any pets?",
+                                "Translation": "(Czy masz jakieś zwierzęta domowe?)"
+                            },
+                            {
+                                "Sentence": "I feed my pet once a day.",
+                                "Translation": "(Karmię moje zwierzątko domowe raz dziennie.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "wykrzyknik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kochanie",
+                            "skarbie (sposób zwracania się do bliskiej osoby, zwłaszcza kobiety lub dziecka)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Would you pass the salt, pet?",
+                                "Translation": "(Podasz mi sól, kochanie?)"
+                            },
+                            {
+                                "Sentence": "Good day to you, pet.",
+                                "Translation": "(Życzę ci dobrego dnia, skarbie.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pieścić",
+                            "głaskać (np. kota)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I petted my cat.",
+                                "Translation": "(Głaskałem mojego kota.)"
+                            },
+                            {
+                                "Sentence": "How often do you pet your dog?",
+                                "Translation": "(Jak często głaskasz swojego psa?)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ulubiony",
+                            "ukochany"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Matthew is my pet student.",
+                                "Translation": "(Matthew jest moim ulubionym uczniem.)"
+                            },
+                            {
+                                "Sentence": "Animals is his pet subject.",
+                                "Translation": "(Zwierzęta to jego ulubiony temat.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "positron emission tomography",
+            "PET"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pozytonowa tomografia emisyjna",
+                            "PET"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "polyethylene terephthalate",
+            "PET"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "politereftalan etylenowy (polimer używany przy produkcji butelek PET)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "pentaerythritol tetranitrate",
+            "PET"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "tetraazotan pentaerytrytolu",
+                            "pentryt (organiczny związek chemiczny)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

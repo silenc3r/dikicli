@@ -1,0 +1,40 @@
+[
+    {
+        "Entry": [
+            "savour",
+            "savor"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "smakować",
+                            "rozkoszować się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You are free to savour these doughnuts.",
+                                "Translation": "(Możesz delektować się tymi pączkami.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "smak",
+                            "posmak"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

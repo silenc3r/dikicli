@@ -1,0 +1,359 @@
+[
+    {
+        "Entry": [
+            "binding"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "oprawa",
+                            "okładka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This book was missing the binding.",
+                                "Translation": "(Ta książka nie miała okładki.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "oblamowanie",
+                            "obszycie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The carpet has a golden binding.",
+                                "Translation": "(Ten dywan ma złote obszycie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wiązanie (do nart)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He can't ski with broken bindings.",
+                                "Translation": "(On nie może jeździć na nartach z zepsutymi wiązaniami.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nudzenie",
+                            "przynudzanie",
+                            "zanudzanie"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "skarżenie się",
+                            "narzekanie"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "oblamowanie (np. krawędzi materiału)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "oprawianie (np. książki)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "łączenie (np. składników potrawy)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zobowiązywanie się (np. do przestrzegania umowy)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "łączenie",
+                            "jednoczenie (np. rodziny)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wiązanie",
+                            "krępowanie (np. rąk)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wiążący",
+                            "obowiązujący"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Signing this contract will make it binding.",
+                                "Translation": "(Podpisanie tej umowy uczyni ją wiążącą.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "bind"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "związywać",
+                            "zawiązywać",
+                            "krępować (np. ręce)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She bound my hands with her scarf.",
+                                "Translation": "(Ona skrępowała mi ręce swoim szalikiem.)"
+                            },
+                            {
+                                "Sentence": "He bound my hands behind my back.",
+                                "Translation": "(On związał mi ręce za moimi plecami.)"
+                            },
+                            {
+                                "Sentence": "The kidnappers bound the girl and left her in the cellar.",
+                                "Translation": "(Porywacze związali dziewczynkę i zostawili ją w piwnicy.)"
+                            },
+                            {
+                                "Sentence": "The thief bound me in the living room.",
+                                "Translation": "(Złodziej skrępował mnie w salonie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "łączyć",
+                            "złączać",
+                            "jednoczyć (np. rodzinę, wspólnotę)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This dinner has bound our families.",
+                                "Translation": "(Ten obiad połączył nasze rodziny.)"
+                            },
+                            {
+                                "Sentence": "Prayer binds us together.",
+                                "Translation": "(Modlitwa nas jednoczy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zobowiązywać (np. do przestrzegania umowy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I bound him to abide by the rules.",
+                                "Translation": "(Zobowiązałem go do przestrzegania zasad.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "łączyć (np. składniki potrawy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Bind egg whites and sugar.",
+                                "Translation": "(Połącz białka jajek i cukier.)"
+                            },
+                            {
+                                "Sentence": "Bind the ingredients with a mixer.",
+                                "Translation": "(Połącz składniki mikserem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "oprawiać (np. książkę)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A bookbinder binds books.",
+                                "Translation": "(Introligator oprawia książki.)"
+                            },
+                            {
+                                "Sentence": "I like to bind my books in colourful paper.",
+                                "Translation": "(Lubię oprawiać moje książki kolorowym papierem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "oblamować",
+                            "obszywać lamówką (np. krawędź materiału)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She bound a piece of the material for her dress.",
+                                "Translation": "(Ona obszyła lamówką kawałek materiału na swoją sukienkę.)"
+                            },
+                            {
+                                "Sentence": "If you don't bind the sleeves, they will fray.",
+                                "Translation": "(Jeżeli nie oblamujesz rękawów, postrzępią się.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "skarżyć się",
+                            "narzekać",
+                            "utyskiwać",
+                            "marudzić"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Don't bind, it's not so bad.",
+                                "Translation": "(Nie marudź, nie jest aż tak źle.)"
+                            },
+                            {
+                                "Sentence": "My mother-in-law is always binding.",
+                                "Translation": "(Moja teściowa zawsze marudzi.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nudzić",
+                            "przynudzać",
+                            "zanudzać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "If you're gonna bind, get out of here.",
+                                "Translation": "(Jeśli zamierzasz przynudzać, wynoś się stąd.)"
+                            },
+                            {
+                                "Sentence": "He bound me with his twitter.",
+                                "Translation": "(On mnie zanudzał swoją paplaniną.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zmora",
+                            "udręka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My biggest bind is a thought that my children would be unhappy.",
+                                "Translation": "(Największą moją zmorą jest myśl, że moje dzieci mogłyby być nieszczęśliwe.)"
+                            },
+                            {
+                                "Sentence": "School was my biggest bind.",
+                                "Translation": "(Szkoła była moją największą zmorą.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "tarapaty",
+                            "kłopoty",
+                            "problematyczna sytuacja"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I don't care about his bind, he's not my friend.",
+                                "Translation": "(Nie obchodzą mnie jego kłopoty, nie jest moim przyjacielem.)"
+                            },
+                            {
+                                "Sentence": "You have to deal with your bind yourself.",
+                                "Translation": "(Musisz sam poradzić sobie ze swoimi tarapatami.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "bind",
+            "bind up"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "związać razem (np. plik gazet)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I bound her mail and left it on her desk.",
+                                "Translation": "(Związałem razem jej korespondencję i zostawiłem ją na jej biurku.)"
+                            },
+                            {
+                                "Sentence": "Can you bind these newspapers?",
+                                "Translation": "(Czy możesz związać razem te gazety?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "be binding"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "być obowiązującym",
+                            "być wiążącym"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Present verdict is binding and cannot be appealed from.",
+                                "Translation": "(Niniejszy wyrok jest obowiązujący i nie można się od niego odwołać.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "benignly"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "łaskawie",
+                            "dobrotliwie",
+                            "łagodnie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

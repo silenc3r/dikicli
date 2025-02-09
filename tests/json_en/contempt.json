@@ -1,0 +1,34 @@
+[
+    {
+        "Entry": [
+            "contempt"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pogarda"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He looked at them with contempt.",
+                                "Translation": "(On popatrzył na nich z pogardą.)"
+                            },
+                            {
+                                "Sentence": "I could hear the contempt in her voice.",
+                                "Translation": "(Mogłem usłyszeć pogardę w jej głosie.)"
+                            },
+                            {
+                                "Sentence": "Cindy did not bother to attempt to disguise her contempt.",
+                                "Translation": "(Cindy nie starała się ukryć pogardy w swoim głosie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

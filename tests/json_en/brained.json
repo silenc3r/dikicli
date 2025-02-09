@@ -1,0 +1,108 @@
+[
+    {
+        "Entry": [
+            "brain"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mózg"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The human brain is very powerful.",
+                                "Translation": "(Ludzki mózg ma bardzo duże możliwości.)"
+                            },
+                            {
+                                "Sentence": "Dr Tancredi is a top brain specialist.",
+                                "Translation": "(Dr Tancredi jest czołowym specjalistą od mózgu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "umysł",
+                            "inteligencja"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Now you have to use your brains to figure out what she meant by saying that.",
+                                "Translation": "(Teraz musisz wytężyć umysł, aby rozgryźć, co miała przez to na myśli.)"
+                            },
+                            {
+                                "Sentence": "I love her for her brain.",
+                                "Translation": "(Kocham ją za jej inteligencję.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "tęga głowa",
+                            "tęgi umysł"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It seems that in this business we need the best brains.",
+                                "Translation": "(Zdaje się, że w tym interesie potrzebujemy najbardziej tęgich głów.)"
+                            },
+                            {
+                                "Sentence": "Many brains tried to solve this mystery.",
+                                "Translation": "(Wiele tęgich głów próbowało rozwiązać tę tajemnicę.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozwalić (komuś) głowę",
+                            "roztrzaskać (komuś) głowę",
+                            "zdzielić (kogoś) w łeb"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "When he approached me, I brained him with the bucket.",
+                                "Translation": "(Kiedy on do mnie podszedł, zdzieliłem go wiadrem w łeb.)"
+                            },
+                            {
+                                "Sentence": "Somebody had brained him before he fell down the stairs.",
+                                "Translation": "(Ktoś rozwalił mu głowę, zanim on spadł ze schodów.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "-brained"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "suffiks",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "posiadający dany typ mózgu"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "These animals belong to a large-brained species.",
+                                "Translation": "(Te zwierzęta należą do gatunku o dużych mózgach.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

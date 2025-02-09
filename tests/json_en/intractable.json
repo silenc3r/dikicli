@@ -1,0 +1,25 @@
+[
+    {
+        "Entry": [
+            "intractable"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nieustępliwy",
+                            "krnąbrny",
+                            "trudny do rozwiązania",
+                            "trudny w leczeniu",
+                            "trudny w obróbce"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

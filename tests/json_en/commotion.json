@@ -1,0 +1,49 @@
+[
+    {
+        "Entry": [
+            "commotion"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "hałas",
+                            "tumult",
+                            "zgiełk",
+                            "zamieszanie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There was a huge commotion in front of the city hall.",
+                                "Translation": "(Przed budynkiem ratusza było wielkie zamieszanie.)"
+                            },
+                            {
+                                "Sentence": "The prime minister's declaration caused a commotion in the Parliament.",
+                                "Translation": "(Deklaracja premiera spowodowała zgiełk w parlamencie.)"
+                            },
+                            {
+                                "Sentence": "I can't think because of all this commotion.",
+                                "Translation": "(Nie mogę myśleć przez cały ten hałas.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zamieszki",
+                            "rozruchy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Police handled the commotion at the parade.",
+                                "Translation": "(Policja zajęła się zamieszkami na paradzie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

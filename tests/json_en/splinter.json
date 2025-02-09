@@ -1,0 +1,57 @@
+[
+    {
+        "Entry": [
+            "splinter"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "drzazga",
+                            "odprysk (metalu)",
+                            "odłamek (szkła)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I've got a splinter in my finger.",
+                                "Translation": "(Mam drzazgę w palcu.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozłupywać (coś)",
+                            "rozszczepiać się (o drewnie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The wooden leg suddenly cracked and splintered.",
+                                "Translation": "(Drewniana noga nagle pękła i rozszczepiła się.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "odłączać się",
+                            "rozpadać się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The party splintered into two opposing camps.",
+                                "Translation": "(Partia rozpadła się na dwa przeciwstawne obozy.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

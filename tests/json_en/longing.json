@@ -1,0 +1,44 @@
+[
+    {
+        "Entry": [
+            "longing"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "tęsknota",
+                            "pragnienie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My longing for her cannot be described in words.",
+                                "Translation": "(Moja tęsknota do niej nie może być opisana słowami.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "stęskniony",
+                            "utęskniony"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A longing dog was sitting at the front porch of his house.",
+                                "Translation": "(Na ganku jego domu siedział stęskniony pies.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

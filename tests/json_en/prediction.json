@@ -1,0 +1,47 @@
+[
+    {
+        "Entry": [
+            "prediction"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przepowiadanie",
+                            "proroctwo",
+                            "wróżba",
+                            "prognoza",
+                            "przepowiednia"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I hope this prediction is not a lie.",
+                                "Translation": "(Mam nadzieje, że ta przepowiednia nie jest kłamstwem.)"
+                            },
+                            {
+                                "Sentence": "Unfortunately, that prediction is now coming true.",
+                                "Translation": "(Niestety, ta prognoza staje się teraz prawdą.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przewidywanie",
+                            "prognozowanie"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "predykcja (przewidywanie przyszłych procesów lub zdarzeń)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

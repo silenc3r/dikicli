@@ -1,0 +1,21 @@
+[
+    {
+        "Entry": [
+            "amygdala"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ciało migdałowate (ośrodek mózgowy, część układu limbicznego)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

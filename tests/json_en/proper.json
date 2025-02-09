@@ -1,0 +1,127 @@
+[
+    {
+        "Entry": [
+            "proper"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "właściwy",
+                            "odpowiedni"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I don't know the proper name for this disease.",
+                                "Translation": "(Nie znam prawidłowej nazwy dla tej choroby.)"
+                            },
+                            {
+                                "Sentence": "Here is your money. Make proper use of it.",
+                                "Translation": "(Tu są twoje pieniądze. Zrób z nich właściwy użytek.)"
+                            },
+                            {
+                                "Sentence": "Your daughter will receive proper care in our hospital.",
+                                "Translation": "(Twoja córka otrzyma odpowiednią opiekę w naszym szpitalu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "odpowiedni",
+                            "stosowny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Using proper language is important.",
+                                "Translation": "(Używanie odpowiedniego języka jest ważne.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "prawdziwy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We use proper gold in our makings.",
+                                "Translation": "(Używamy prawdziwego złota w naszych wyrobach.)"
+                            },
+                            {
+                                "Sentence": "Is this a proper diamond?",
+                                "Translation": "(Czy to prawdziwy diament?)"
+                            },
+                            {
+                                "Sentence": "You should eat a proper meal.",
+                                "Translation": "(Powinieneś zjeść prawdziwy posiłek.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "sam",
+                            "ścisły",
+                            "właściwy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We used to live in Huston proper.",
+                                "Translation": "(Mieszkaliśmy kiedyś w samym Huston.)"
+                            },
+                            {
+                                "Sentence": "The championships proper will start on Monday.",
+                                "Translation": "(Właściwe zawody rozpoczną się w poniedziałek.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "proper to somebody"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "właściwy komuś"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "proper to something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "należący do czegoś"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "właściwy czemuś"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "asinine"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niemądry",
+                            "głupi",
+                            "głupkowaty",
+                            "idiotyczny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "What an asinine remark!",
+                                "Translation": "(Co za niemądra uwaga!)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

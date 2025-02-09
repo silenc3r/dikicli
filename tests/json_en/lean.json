@@ -1,0 +1,140 @@
+[
+    {
+        "Entry": [
+            "lean"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przechylać się",
+                            "odchylać się",
+                            "pochylać się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He leaned towards her.",
+                                "Translation": "(On pochylił się w jej kierunku.)"
+                            },
+                            {
+                                "Sentence": "She leaned towards Jack and said something to him.",
+                                "Translation": "(Ona pochyliła się w kierunku Jacka i powiedziała coś do niego.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pochylać się",
+                            "chylić się (na wietrze)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The trees leaned in the wind.",
+                                "Translation": "(Drzewa chyliły się na wietrze.)"
+                            },
+                            {
+                                "Sentence": "I was looking at plants which were leaning in the wind.",
+                                "Translation": "(Patrzyłem na rośliny, które chyliły się na wietrze.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "chudy (o mięsie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Chicken meat is very lean.",
+                                "Translation": "(Mięso z kurczaka jest bardzo chude.)"
+                            },
+                            {
+                                "Sentence": "I'm on a diet and I can eat only lean meat.",
+                                "Translation": "(Jestem na diecie i mogę jeść tylko chude mięso.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "szczupły",
+                            "chudy (w atrakcyjny sposób)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My girlfriend is very lean because she eats healthy.",
+                                "Translation": "(Moja dziewczyna jest bardzo szczupła, bo odżywia się zdrowo.)"
+                            },
+                            {
+                                "Sentence": "That lean girl works as a model.",
+                                "Translation": "(Tamta szczupła dziewczyna pracuje jako modelka.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "chudy",
+                            "kiepski (np. rok)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I lost my job and someone stole my car, it was a lean month.",
+                                "Translation": "(Straciłem pracę i ktoś ukradł mi samochód, to był kiepski miesiąc.)"
+                            },
+                            {
+                                "Sentence": "It was a lean year because of drought.",
+                                "Translation": "(To był kiepski rok z powodu suszy.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "lean",
+            "purple drink",
+            "purp"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "fioletowa mieszanka syropu na kaszel i Sprite'a (narkotyk)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "lean-to"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przybudówka"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

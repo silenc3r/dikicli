@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "vassalage"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wasalstwo",
+                            "lennictwo",
+                            "podległość lenna"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

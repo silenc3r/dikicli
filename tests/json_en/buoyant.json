@@ -1,0 +1,41 @@
+[
+    {
+        "Entry": [
+            "buoyant"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pływający",
+                            "utrzymujący się na powierzchni",
+                            "nośny"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "pełen życia",
+                            "pogodny",
+                            "lekki",
+                            "sprężysty",
+                            "napawający optymizmem"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zwyżkujący",
+                            "rosnący",
+                            "prężny (np. zyski, gospodarka)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

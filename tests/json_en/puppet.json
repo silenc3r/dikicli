@@ -1,0 +1,39 @@
+[
+    {
+        "Entry": [
+            "puppet",
+            "string puppet"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kukiełka",
+                            "marionetka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Now put down the puppet and come sit on my lap.",
+                                "Translation": "(Teraz odłóż tę kukiełkę i chodź siąść mi na kolanach.)"
+                            },
+                            {
+                                "Sentence": "Here - would you like to try using a puppet?",
+                                "Translation": "(Proszę - chciałbyś pobawić się kukiełką?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "marionetka",
+                            "osoba, którą można łatwo kierować"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

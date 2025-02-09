@@ -1,0 +1,27 @@
+[
+    {
+        "Entry": [
+            "meadow",
+            "mead"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "łąka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The meadow was covered with flowers.",
+                                "Translation": "(Łąka pokryta była kwiatami.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

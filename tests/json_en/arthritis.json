@@ -1,0 +1,47 @@
+[
+    {
+        "Entry": [
+            "arthritis"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "artretyzm",
+                            "zapalenie stawów"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My father has arthritis in his left knee.",
+                                "Translation": "(Mój ojciec ma artretyzm w lewym kolanie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "soft tissue rheumatoid disease",
+            "arthritis"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "gościec tkanek miękkich"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

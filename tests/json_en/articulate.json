@@ -1,0 +1,92 @@
+[
+    {
+        "Entry": [
+            "articulate"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "artykułować",
+                            "wyrażać (np. myśli, poglądy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Stop making faces and articulate your thoughts!",
+                                "Translation": "(Przestań robić miny i wyraź swoje poglądy!)"
+                            },
+                            {
+                                "Sentence": "Can you articulate your opinion on my new haircut?",
+                                "Translation": "(Czy możesz wyrazić swoją opinię o mojej nowej fryzurze?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wymawiać wyraźnie",
+                            "wypowiadać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He articulated his last name.",
+                                "Translation": "(On wyraźnie wypowiedział swoje nazwisko.)"
+                            },
+                            {
+                                "Sentence": "You have to articulate this sound, otherwise they won't understand you.",
+                                "Translation": "(Musisz wyraźnie wymówić ten dźwięk, inaczej cię nie zrozumieją.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "połączyć przegubowo",
+                            "połączyć stawowo"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "łączyć się z sobą"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A new course is designed to articulate with the current degree course.",
+                                "Translation": "(Nowy przedmiot zaprojektowano tak, aby łączył się z aktualnym kierunkiem studiów.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "articulate"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "jasno wysławiający się",
+                            "elokwentny"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "klarowny",
+                            "jasny (np. treść pisma, tekst)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

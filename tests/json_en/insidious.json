@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "insidious"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "podstępny",
+                            "pozornie niewinny (np. wróg, choroba)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

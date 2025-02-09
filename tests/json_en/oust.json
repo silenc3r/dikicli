@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "oust"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wypierać",
+                            "usuwać",
+                            "zmuszać do dymisji",
+                            "odsuwać od władzy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The opposition ousted the dictator from power.",
+                                "Translation": "(Opozycja odsunęła dyktatora od władzy.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

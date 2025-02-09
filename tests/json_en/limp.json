@@ -1,0 +1,132 @@
+[
+    {
+        "Entry": [
+            "limp"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "chromać",
+                            "kuleć",
+                            "kuśtykać",
+                            "utykać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He limps because one of his legs is shorter.",
+                                "Translation": "(On kuśtyka, bo jedna z jego nóg jest krótsza.)"
+                            },
+                            {
+                                "Sentence": "Our business is limping these days.",
+                                "Translation": "(Ostatnimi czasy nasz biznes kuleje.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "powoli dopłynąć (o uszkodzonym statku)",
+                            "powoli dolecieć (o uszkodzonym statku powietrznym)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "słaby",
+                            "wiotki"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Her skin looks limp.",
+                                "Translation": "(Jej skóra wygląda na słabą.)"
+                            },
+                            {
+                                "Sentence": "His handshake was limp.",
+                                "Translation": "(Jego uścisk dłoni był słaby.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bezwładny",
+                            "przywiędły"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Your flower is limp. Water it.",
+                                "Translation": "(Twój kwiat jest przywiędły. Podlej go.)"
+                            },
+                            {
+                                "Sentence": "I took her limp hand into mine.",
+                                "Translation": "(Wziąłem jej bezwładną rękę w swoją.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "chromy",
+                            "kulawy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My limp leg sometimes hurts me.",
+                                "Translation": "(Moja chroma noga czasem mnie boli.)"
+                            },
+                            {
+                                "Sentence": "I helped a limp man to cross the street.",
+                                "Translation": "(Pomogłem kulawemu człowiekowi przejść przez ulicę.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "utykanie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His limp is quite visible.",
+                                "Translation": "(Jego utykanie jest dość widoczne.)"
+                            },
+                            {
+                                "Sentence": "Her limp was caused by an accident.",
+                                "Translation": "(Jej utykanie było spowodowane wypadkiem.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "have a limp"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "utykać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

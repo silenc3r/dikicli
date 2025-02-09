@@ -1,0 +1,48 @@
+[
+    {
+        "Entry": [
+            "deterrent"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "czynnik powstrzymujący",
+                            "środek odstraszający",
+                            "odstraszacz"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Fines must deter those who infringe the rules but also act as a general deterrent for all operators.",
+                                "Translation": "(Grzywny muszą być odstraszające dla tych, którzy naruszają przepisy, jak też muszą stanowić ogólny czynnik odstraszający dla wszystkich podmiotów.)"
+                            },
+                            {
+                                "Sentence": "The punishment for this crime is enough of a deterrent for people not to commit it.",
+                                "Translation": "(Kara za to przestępstwo jest wystarczającym środkiem odstraszającym, żeby powstrzymać ludzi przed popełnianiem go.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "odstraszający (np. efekt)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The Alliance has decided to retain nuclear weapons as the ultimate deterrent power.",
+                                "Translation": "(Sojusz zdecydował się utrzymać broń jądrową jako ostateczny czynnik odstraszający.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "pithy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zwięzły",
+                            "treściwy",
+                            "trafny (np. o komentarzu, spostrzeżeniu)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "jędrny",
+                            "soczysty (np. owoc)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

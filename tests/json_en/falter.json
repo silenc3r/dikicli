@@ -1,0 +1,108 @@
+[
+    {
+        "Entry": [
+            "falter"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "słabnąć",
+                            "opadać (np. o głosie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I was so tired that my voice faltered.",
+                                "Translation": "(Byłem tak zmęczony, że mój głos osłabł.)"
+                            },
+                            {
+                                "Sentence": "Because of the emotion, her voice seemed to falter.",
+                                "Translation": "(Jej głos wydawał się słabnąć z powodu wzruszenia.)"
+                            },
+                            {
+                                "Sentence": "His courage will never falter.",
+                                "Translation": "(Jego odwaga nigdy nie osłabnie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "jąkać się",
+                            "dukać (w mowie)",
+                            "zacinać się (o silniku)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My best friend always falters.",
+                                "Translation": "(Mój najlepszy przyjaciel zawsze się jąka.)"
+                            },
+                            {
+                                "Sentence": "The engine falters, I have to fix it.",
+                                "Translation": "(Silnik się zacina, muszę go naprawić.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "chwiać się",
+                            "zataczać się",
+                            "potykać się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A man was faltering on the road and we almost knocked him down.",
+                                "Translation": "(Mężczyzna zataczał się na drodze i prawie go potrąciliśmy.)"
+                            },
+                            {
+                                "Sentence": "\"She's faltering. Is she okay?\" \"I don't know.\"",
+                                "Translation": "(\"Ona się chwieje. Nic jej nie jest?\" \"Nie wiem.\")"
+                            },
+                            {
+                                "Sentence": "I faltered because everything was spinning around me.",
+                                "Translation": "(Zachwiałem się, bo wszystko kręciło się dookoła mnie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wahać się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He never falters when he has to make a decision.",
+                                "Translation": "(On się nigdy nie waha, kiedy musi podjąć decyzję.)"
+                            },
+                            {
+                                "Sentence": "He didn't falter in a very important moment.",
+                                "Translation": "(On się nie zawahał w bardzo ważnym momencie.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zająknięcie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His falter made them laugh. That was rude.",
+                                "Translation": "(Jego zająknięcie ich rozśmieszyło. To było niegrzeczne.)"
+                            },
+                            {
+                                "Sentence": "He thinks her falter was sweet.",
+                                "Translation": "(On uważa, że jej zająknięcie było słodkie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

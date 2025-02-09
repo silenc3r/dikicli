@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "rarefaction"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozrzedzenie (np. atmosfery)",
+                            "rozcieńczenie (gazu)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wysubtelnienie (np. poczucia humoru)",
+                            "uszlachetnienie (np. stylu)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

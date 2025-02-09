@@ -1,0 +1,24 @@
+[
+    {
+        "Entry": [
+            "subpar",
+            "sub-par"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "odstający jakościowo",
+                            "o niższej jakości",
+                            "poniżej normy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

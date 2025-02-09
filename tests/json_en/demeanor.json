@@ -1,0 +1,25 @@
+[
+    {
+        "Entry": [
+            "demeanour",
+            "demeanor"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "postawa",
+                            "postępowanie",
+                            "zachowanie (się)",
+                            "aparycja"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

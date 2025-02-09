@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "unencumbered"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nieskrępowany",
+                            "nieobciążony"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

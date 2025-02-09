@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "ensconce"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozlokować się",
+                            "rozlokowywać się",
+                            "usadowić się",
+                            "usadawiać się",
+                            "rozsiąść się",
+                            "rozsiadać się",
+                            "ulokować się wygodnie",
+                            "zaszyć się"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

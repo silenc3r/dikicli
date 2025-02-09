@@ -1,0 +1,48 @@
+[
+    {
+        "Entry": [
+            "backlash"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "gwałtowna reakcja (przeciwko czemuś)",
+                            "ostry sprzeciw"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It could cause a popular backlash in Russia and bring down the government.",
+                                "Translation": "(To może wywołać powszechną reakcję w Rosji i obalić rząd.)"
+                            },
+                            {
+                                "Sentence": "Their decision created a backlash in the community.",
+                                "Translation": "(Ich decyzja spowodowała ostry sprzeciw w społeczności.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "luz (między częściami maszyny)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I have to adjust the backlash in the engine.",
+                                "Translation": "(Muszę dostosować luz w silniku.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "supeł na sieci wędkarskiej"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

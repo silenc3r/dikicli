@@ -1,0 +1,41 @@
+[
+    {
+        "Entry": [
+            "allegiance"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "poddaństwo",
+                            "posłuszeństwo",
+                            "oddanie (np. wobec kraju, przekonania)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Never in my whole life did I swear allegiance to him.",
+                                "Translation": "(Nigdy w całym moim życiu nie przysięgałem mu posłuszeństwa.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "lojalność",
+                            "wierność",
+                            "przywiązanie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Your allegiance to the law is well known.",
+                                "Translation": "(Twoja wierność względem prawa jest dobrze znana.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

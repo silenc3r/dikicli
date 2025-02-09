@@ -1,0 +1,82 @@
+[
+    {
+        "Entry": [
+            "crater"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "lej (wgłębienie w ziemi, np. po wybuchu bomby)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The ground here was full of craters.",
+                                "Translation": "(Ziemia w tym miejscu była pełna lejów.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "krater (szczyt wulkanu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We have to evacuate the village before lava flows out of the crater.",
+                                "Translation": "(Musimy ewakuować wioskę zanim lawa wypłynie z krateru.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "tworzyć leje w ziemi (np. wysadzając bombę)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "odwołać",
+                            "porzucić (np. plany, projekt)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zniszczyć",
+                            "zepsuć"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "krater",
+            "crater"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "krater (rodzaj naczynia ze starożytnej Grecji)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

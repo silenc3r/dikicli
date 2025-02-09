@@ -1,0 +1,41 @@
+[
+    {
+        "Entry": [
+            "nutmeg"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "gałka muszkatołowa (jądro)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You just need two sprigs of rosemary and a pinch of nutmeg.",
+                                "Translation": "(Potrzebujesz dwie gałązki rozmarynu i szczyptę gałki muszkatołowej.)"
+                            },
+                            {
+                                "Sentence": "I always have some nutmeg in the kitchen.",
+                                "Translation": "(Zawsze mam gałkę muszkatołową w kuchni.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "założyć siatkę (przeturlać piłkę między nogami przeciwnika w piłce nożnej)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

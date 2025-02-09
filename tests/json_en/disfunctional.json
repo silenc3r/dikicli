@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "dysfunctional",
+            "disfunctional"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dysfunkcjonalny (np. rodzina z problemami społecznymi)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zaburzony (np. praca maszyny)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

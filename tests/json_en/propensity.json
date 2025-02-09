@@ -1,0 +1,33 @@
+[
+    {
+        "Entry": [
+            "propensity",
+            "propension"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "inklinacja",
+                            "skłonność",
+                            "tendencja"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He has the propensity to be a bit gregarious when he shouldn't be.",
+                                "Translation": "(On ma skłonność do bycia towarzyskim wtedy, gdy nie powinien.)"
+                            },
+                            {
+                                "Sentence": "I have a propensity to insult people even when I don't intend to.",
+                                "Translation": "(Mam skłonność do obrażania ludzi, nawet jeżeli nie mam takiego zamiaru.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

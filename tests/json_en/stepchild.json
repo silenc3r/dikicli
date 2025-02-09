@@ -1,0 +1,24 @@
+[
+    {
+        "Entry": [
+            "stepchild",
+            "step-kid",
+            "stepkid"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pasierb",
+                            "pasierbica"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

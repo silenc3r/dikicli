@@ -1,0 +1,80 @@
+[
+    {
+        "Entry": [
+            "coarse"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szorstki",
+                            "chropowaty"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He's got coarse hands.",
+                                "Translation": "(On ma bardzo szorskie dłonie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "gruboziarnisty"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "nieokrzesany",
+                            "wulgarny"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "chropowaty",
+                            "szorstki (o materiale, skórze)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "gruboziarnisty (np. piasek, sól)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "ordynarny",
+                            "grubo ciosany (np. o rysach twarzy)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "ordynarny (np. język, słowa)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "lichy",
+                            "pośledni (np. wino, pożywienie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zgrzebny",
+                            "parciany"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

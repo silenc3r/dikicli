@@ -1,0 +1,34 @@
+[
+    {
+        "Entry": [
+            "inept"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nieudolny",
+                            "niezręczny",
+                            "niezaradny",
+                            "nieporadny",
+                            "niezdarny",
+                            "niekompetentny"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "niestosowny",
+                            "niezręczny",
+                            "pozbawiony taktu"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

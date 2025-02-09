@@ -1,0 +1,33 @@
+[
+    {
+        "Entry": [
+            "conspicuous"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "widoczny",
+                            "rzucający się w oczy",
+                            "zwracający uwagę",
+                            "bijący po oczach"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "niezwykły",
+                            "wyjątkowy",
+                            "rażący",
+                            "spektakularny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

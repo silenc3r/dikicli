@@ -1,0 +1,39 @@
+[
+    {
+        "Entry": [
+            "defector"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dezerter (wojskowy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "An American defector was captured and sent to prison.",
+                                "Translation": "(Amerykański dezerter został schwytany i zesłany do więzienia.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "odstępca (od zasad)",
+                            "zdrajca (np. lojalności)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zbieg"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

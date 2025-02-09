@@ -1,0 +1,39 @@
+[
+    {
+        "Entry": [
+            "chiefly"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zwłaszcza",
+                            "głównie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My dad is fond of Italian dishes, chiefly spaghetti.",
+                                "Translation": "(Mój tata bardzo lubi włoskie dania, zwłaszcza spaghetti.)"
+                            },
+                            {
+                                "Sentence": "Fruit consist chiefly of water.",
+                                "Translation": "(Owoce składają się głównie z wody.)"
+                            },
+                            {
+                                "Sentence": "The majority of the group, chiefly boys, disagreed with the idea to go to a museum.",
+                                "Translation": "(Większość grupy, zwłaszcza chłopcy, nie zgodzili się z pomysłem, żeby pójść do muzeum.)"
+                            },
+                            {
+                                "Sentence": "These articles are chiefly on current events.",
+                                "Translation": "(Te artykuły są głównie o obecnych wydarzeniach.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

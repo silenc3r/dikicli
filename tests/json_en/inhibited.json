@@ -1,0 +1,81 @@
+[
+    {
+        "Entry": [
+            "inhibited"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "skrępowany",
+                            "pełen zahamowań (o osobie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Due to all this criticism, he felt inhibited.",
+                                "Translation": "(Z powodu tego całego krytycyzmu, czuł się skrępowany.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zahamowany",
+                            "spowolniony (np. rozwój)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "inhibit"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "hamować",
+                            "powstrzymywać",
+                            "utrudniać (np. rozwój, proces)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "hamować (np. impuls, pożądanie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "blokować",
+                            "spowalniać"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zakazywać",
+                            "zabraniać"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "powstrzymywać (zatrzymać proces lub wyłączyć obwód z działania)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

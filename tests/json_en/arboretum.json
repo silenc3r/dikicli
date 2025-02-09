@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "arboretum"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "arboretum",
+                            "drzewozbiór"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

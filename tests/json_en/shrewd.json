@@ -1,0 +1,43 @@
+[
+    {
+        "Entry": [
+            "shrewd"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bystry",
+                            "sprytny",
+                            "przebiegły"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "trafny (o decyzji, spostrzeżeniu)",
+                            "słuszny (o domyśle)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "przenikliwy (o spojrzeniu)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "ostry (np. mróz)",
+                            "dotkliwy (np. wiatr)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "Entry": [
+            "neurotic"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nerwicowy",
+                            "znerwicowany"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Maybe if you pet him once in a while, he wouldn't be so neurotic.",
+                                "Translation": "(Może gdybyś go popieścił to nie byłby taki znerwicowany.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "neurotyczny",
+                            "nerwowo chory (dotknięty nerwicą)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "człowiek nerwowo chory"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "neurotyk"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

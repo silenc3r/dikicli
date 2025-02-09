@@ -1,0 +1,35 @@
+[
+    {
+        "Entry": [
+            "incarceration"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wtrącenie do więzienia",
+                            "uwięzienie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Riots occurred following his incarceration.",
+                                "Translation": "(Zamieszki wybuchły po jego uwięzieniu.)"
+                            },
+                            {
+                                "Sentence": "After a two-week incarceration, he stood trial for his crimes.",
+                                "Translation": "(Po dwutygodniowym uwięzieniu czekał go proces za jego zbrodnie.)"
+                            },
+                            {
+                                "Sentence": "His incarceration's a crime against this community.",
+                                "Translation": "(Jego uwięzienie jest zbrodnią przeciwko tej społeczności.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

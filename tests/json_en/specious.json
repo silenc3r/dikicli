@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "specious"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bałamutny",
+                            "pokrętny",
+                            "zwodniczy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

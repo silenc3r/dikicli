@@ -1,0 +1,27 @@
+[
+    {
+        "Entry": [
+            "vivisection"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wiwisekcja (operacja chirurgiczna na żywym zwierzęciu, najczęściej w celach badawczych)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wiwisekcja (szczegółowa analiza czyjejś osobowości)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

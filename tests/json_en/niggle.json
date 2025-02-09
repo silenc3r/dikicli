@@ -1,0 +1,115 @@
+[
+    {
+        "Entry": [
+            "niggle"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "męczyć",
+                            "nie dawać spokoju (np. zmartwienia)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The thought that he may not recover niggles me.",
+                                "Translation": "(Myśl, że on może nie wyzdrowieć, nie daje mi spokoju.)"
+                            },
+                            {
+                                "Sentence": "Their suspicions niggled me.",
+                                "Translation": "(Ich podejrzenia nie dawały mi spokoju.)"
+                            },
+                            {
+                                "Sentence": "Don't let your worries niggle you.",
+                                "Translation": "(Nie pozwól, aby męczyły cię twoje zmartwienia.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "czepiać się",
+                            "przyczepiać się (np. do szczegółów)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Don't niggle over the details.",
+                                "Translation": "(Nie czepiaj się szczegółów.)"
+                            },
+                            {
+                                "Sentence": "My mother always niggles about my clothes.",
+                                "Translation": "(Moja matka zawsze czepia się moich ciuchów.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przeczucie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It's just a niggle but something bad is going to happen.",
+                                "Translation": "(To tylko przeczucie, ale coś złego się wydarzy.)"
+                            },
+                            {
+                                "Sentence": "She had a niggle that they will meet again.",
+                                "Translation": "(Ona miała przeczucie, że oni znów się spotkają.)"
+                            },
+                            {
+                                "Sentence": "I have a strange niggle that this will fail.",
+                                "Translation": "(Mam dziwne przeczucie, że to się nie uda.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "drobne uwagi",
+                            "drobne komentarze"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Her niggles were very annoying.",
+                                "Translation": "(Jej drobne uwagi były denerwujące.)"
+                            },
+                            {
+                                "Sentence": "I've got a few niggles about your article but it's great.",
+                                "Translation": "(Mam kilka uwag do twojego artykułu, ale jest świetny.)"
+                            },
+                            {
+                                "Sentence": "Your essay was generally very good, but I have a few niggles.",
+                                "Translation": "(Twój esej był generalnie bardzo dobry, ale mam kilka drobnych komentarzy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ból",
+                            "pobolewanie (np. w kolanie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I've got a niggle in my knee.",
+                                "Translation": "(Mam ból w moim kolanie.)"
+                            },
+                            {
+                                "Sentence": "This niggle in my arm doesn't want to go away.",
+                                "Translation": "(To pobolewanie w ramieniu nie chce zniknąć.)"
+                            },
+                            {
+                                "Sentence": "I can't sleep because of the niggle in my elbow.",
+                                "Translation": "(Nie mogę spać przez ten ból w łokciu.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

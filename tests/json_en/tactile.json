@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "tactile"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "odnoszący się do zmysłu dotyku",
+                            "dotykowy"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "namacalny",
+                            "realny",
+                            "dotykalny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

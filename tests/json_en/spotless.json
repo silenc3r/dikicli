@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "spotless"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "idealnie czysty (o pomieszczeniu)",
+                            "nieskazitelnie czysty (o ubraniu)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "nieskalany",
+                            "bez skazy (np. o reputacji)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

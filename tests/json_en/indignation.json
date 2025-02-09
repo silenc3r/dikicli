@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "indignation",
+            "indignance"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "oburzenie (na kogoś lub coś)",
+                            "wzburzenie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

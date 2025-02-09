@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "staid"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "poważny",
+                            "staromodny",
+                            "stateczny (o osobie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

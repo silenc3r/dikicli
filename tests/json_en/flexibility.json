@@ -1,0 +1,39 @@
+[
+    {
+        "Entry": [
+            "flexibility"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "elastyczność",
+                            "umiejętność dostosowania się do danej sytuacji"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There is a lack of flexibility in the adult education system.",
+                                "Translation": "(Brak jest elastyczności w systemie kształcenia dorosłych.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "gibkość",
+                            "giętkość"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This material has high flexibility.",
+                                "Translation": "(Ten materiał ma wysoką giętkość.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

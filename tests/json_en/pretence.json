@@ -1,0 +1,33 @@
+[
+    {
+        "Entry": [
+            "pretence",
+            "pretense"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pretekst",
+                            "pozór",
+                            "udawanie",
+                            "symulowanie",
+                            "obłuda"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "pretensja",
+                            "roszczenie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

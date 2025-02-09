@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "epitomize",
+            "epitomise"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "być uosobieniem",
+                            "być typowym przykładem",
+                            "stanowić przejaw"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "streszczać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

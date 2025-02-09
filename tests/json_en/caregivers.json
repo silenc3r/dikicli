@@ -1,0 +1,34 @@
+[
+    {
+        "Entry": [
+            "carer",
+            "caregiver",
+            "caretaker"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "opiekun osoby starszej lub niepełnosprawnej"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She's the primary caregiver for her grandmother.",
+                                "Translation": "(Ona jest główną opiekunką swojej babci.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "opiekun dziecka"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

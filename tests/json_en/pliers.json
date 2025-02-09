@@ -1,0 +1,31 @@
+[
+    {
+        "Entry": [
+            "pliers"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szczypce",
+                            "kombinerki"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I keep my pliers in the toolbox.",
+                                "Translation": "(Trzymam moje kombinerki w skrzynce na narzędzia.)"
+                            },
+                            {
+                                "Sentence": "You'll find the pliers in the shed.",
+                                "Translation": "(Szczypce znajdziesz w szopie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "Entry": [
+            "nervous",
+            "neural"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nerwowy (odnoszący się do systemu nerwowego)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Her nervous system is damaged by the drugs.",
+                                "Translation": "(Jej system nerwowy jest zniszczony przez narkotyki.)"
+                            },
+                            {
+                                "Sentence": "She's dealing with a nervous disorder.",
+                                "Translation": "(Ona zmaga się z zaburzeniem nerwowym.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

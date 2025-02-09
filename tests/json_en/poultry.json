@@ -1,0 +1,41 @@
+[
+    {
+        "Entry": [
+            "poultry"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "drób"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I know people who don't eat poultry at all.",
+                                "Translation": "(Znam ludzi, którzy w ogóle nie jedzą drobiu.)"
+                            },
+                            {
+                                "Sentence": "I used to work at a poultry farm.",
+                                "Translation": "(Kiedyś pracowałem na fermie drobiu.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "drobiowy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

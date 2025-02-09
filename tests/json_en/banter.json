@@ -1,0 +1,41 @@
+[
+    {
+        "Entry": [
+            "banter"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "droczyć się",
+                            "przekomarzać",
+                            "drażnić się (z kimś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The CEO bantered with the director of engineering, who ran the project.",
+                                "Translation": "(Dyrektor generalny przekomarzał się z szefem inżynierów, który prowadził projekt.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "prześmiechy",
+                            "żarty",
+                            "żarciki"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

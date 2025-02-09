@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "brusque",
+            "brusk"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "obcesowy",
+                            "opryskliwy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

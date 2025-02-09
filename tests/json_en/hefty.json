@@ -1,0 +1,55 @@
+[
+    {
+        "Entry": [
+            "hefty"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "masywny",
+                            "zwalisty"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He is a big and hefty man.",
+                                "Translation": "(On jest dużym i zwalistym mężczyzną.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ciężki",
+                            "obfity"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There's a hefty book containing a lot of information.",
+                                "Translation": "(Tu jest ciężka książka zawierająca dużo informacji.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wysoki",
+                            "duży (o cenie, rachunku, grzywnie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The hefty price scared me away.",
+                                "Translation": "(Wysoka cena mnie odstraszyła.)"
+                            },
+                            {
+                                "Sentence": "They could face hefty fines.",
+                                "Translation": "(Oni mogą zmagać się z wysokimi karami pieniężnymi.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

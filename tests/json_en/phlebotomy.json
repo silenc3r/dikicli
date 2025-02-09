@@ -1,0 +1,21 @@
+[
+    {
+        "Entry": [
+            "phlebotomy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "otwarcie żył (w celu pobrania lub upuszczenia krwi)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

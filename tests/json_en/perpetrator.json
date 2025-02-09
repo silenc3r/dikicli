@@ -1,0 +1,32 @@
+[
+    {
+        "Entry": [
+            "perpetrator",
+            "perp"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przestępca",
+                            "sprawca przestępstwa"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The alleged perpetrator has turned himself in to the police and is awaiting trial.",
+                                "Translation": "(Domniemany sprawca sam wydał się policji i oczekuje na proces.)"
+                            },
+                            {
+                                "Sentence": "The perpetrator of that crime is behind bars.",
+                                "Translation": "(Sprawca tego przestępstwa jest już za kratkami.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

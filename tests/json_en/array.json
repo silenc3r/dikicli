@@ -1,0 +1,124 @@
+[
+    {
+        "Entry": [
+            "array"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szeroki wybór (czegoś)",
+                            "grupa",
+                            "szereg"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We have an array of possibilities.",
+                                "Translation": "(Mamy szeroki wybór możliwości.)"
+                            },
+                            {
+                                "Sentence": "We offer an array of garden tools.",
+                                "Translation": "(Oferujemy szeroki wybór narzędzi ogrodowych.)"
+                            },
+                            {
+                                "Sentence": "You can choose from our array of watches.",
+                                "Translation": "(Może pan wybierać z naszego szerokiego wyboru zegarków.)"
+                            },
+                            {
+                                "Sentence": "I've had to take care of a whole array of paperwork to get here.",
+                                "Translation": "(Musiałem się zająć całym szeregiem dokumentów, żeby się tutaj dostać.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "tablica (w programie komputerowym)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You can see all the data in this array.",
+                                "Translation": "(Wszystkie dane są widoczne na tej tablicy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "szaty",
+                            "odzienie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His array was made of pure silk.",
+                                "Translation": "(Jego odzienie było wykonane z czystego jedwabiu.)"
+                            },
+                            {
+                                "Sentence": "He was wearing a silk array.",
+                                "Translation": "(On miał na sobie jedwabne odzienie.)"
+                            },
+                            {
+                                "Sentence": "You should wear a more formal array to this banquet.",
+                                "Translation": "(Na ten bankiet powinieneś założyć bardziej formalne odzienie.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ustawiać",
+                            "układać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Can you array these books on the shelf?",
+                                "Translation": "(Czy możesz ustawić te książki na półce?)"
+                            },
+                            {
+                                "Sentence": "She arrayed the flowers in the vase.",
+                                "Translation": "(Ona ułożyła kwiaty w wazonie.)"
+                            },
+                            {
+                                "Sentence": "It took me hours to array all my movies in alphabetical order.",
+                                "Translation": "(Ustawienie wszystkich moich filmów w porządku alfabetycznym zajęło mi kilka godzin.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ustawiać w szyku bojowym",
+                            "ustawiać w szeregi"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They had been arrayed on a line and were ready to move out.",
+                                "Translation": "(Oni zostali uszeregowani i byli gotowi do wymarszu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "odziewać (kogoś w coś)",
+                            "przywdziewać (coś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She was arrayed in a beautiful ballgown.",
+                                "Translation": "(Ona była odziana w piękną suknię balową.)"
+                            },
+                            {
+                                "Sentence": "She arrayed her daughter in a beautiful dress.",
+                                "Translation": "(Ona odziała swoją córkę w piękną sukienkę.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

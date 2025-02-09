@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "supposition"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "domysł",
+                            "przypuszczenie",
+                            "domniemanie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

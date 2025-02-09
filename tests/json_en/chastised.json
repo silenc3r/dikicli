@@ -1,0 +1,41 @@
+[
+    {
+        "Entry": [
+            "chastise",
+            "chastize"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wychłostać",
+                            "złoić skórę",
+                            "karać fizycznie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You shouldn't chastise your children.",
+                                "Translation": "(Nie powinieneś karać fizycznie swoich dzieci.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "udzielić ostrej nagany",
+                            "udzielać ostrej reprymendy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The teacher chastised students for their exam results.",
+                                "Translation": "(Nauczyciel udzielił uczniom ostrej reprymendy za ich wyniki z egzaminu.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "parlance"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "język",
+                            "mowa",
+                            "sposób mówienia"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

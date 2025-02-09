@@ -1,0 +1,24 @@
+[
+    {
+        "Entry": [
+            "quixotic",
+            "quixotical"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "donkiszotowski",
+                            "idealistyczny",
+                            "naiwny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

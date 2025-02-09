@@ -1,0 +1,31 @@
+[
+    {
+        "Entry": [
+            "dusk"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zmierzch",
+                            "zmrok"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Dusk was falling as we drove home.",
+                                "Translation": "(Zmrok zapadał podczas gdy jechaliśmy do domu.)"
+                            },
+                            {
+                                "Sentence": "The lamps twinkled in the gathering dusk.",
+                                "Translation": "(Lampy migotały w zapadającym zmroku.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

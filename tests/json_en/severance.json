@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "severance"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zerwanie (np. więzów dyplomatycznych)",
+                            "odłączenie (od czegoś)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

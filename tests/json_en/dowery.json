@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "dowry",
+            "dowery"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "posag",
+                            "wiano"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

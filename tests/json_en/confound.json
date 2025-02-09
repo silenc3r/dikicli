@@ -1,0 +1,80 @@
+[
+    {
+        "Entry": [
+            "confound"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wprawić w zakłopotanie",
+                            "skonfundować"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "pomylić"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I always confound these two terms.",
+                                "Translation": "(Zawsze mylę te dwa pojęcia.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "udowodnić nieprawdziwość",
+                            "udowadniać nieprawdziwość",
+                            "zadawać kłam",
+                            "zdyskredytować"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "pomieszać szyki",
+                            "pokrzyżować",
+                            "udaremnić"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niespodziewane wydarzenie, które skutkuje w problemach"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "confound it!"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "a niech to diabli"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

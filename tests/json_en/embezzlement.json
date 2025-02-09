@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "embezzlement"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "defraudacja",
+                            "sprzeniewierzenie",
+                            "malwersacja"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A theft of assets is a form of embezzlement.",
+                                "Translation": "(Kradzież aktywów jest formą defraudacji.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

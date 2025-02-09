@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "feral",
+            "ferine"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dziki",
+                            "powtórnie zdziczały"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

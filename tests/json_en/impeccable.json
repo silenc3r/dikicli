@@ -1,0 +1,35 @@
+[
+    {
+        "Entry": [
+            "impeccable"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nienaganny (o zachowaniu, manierach, guście)",
+                            "bez zarzutu",
+                            "bezgrzeszny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The service at the restaurant was impeccable.",
+                                "Translation": "(Obsługa w restauracji była bez zarzutu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nieskazitelny (o wyglądzie, porządku)",
+                            "bez zarzutu"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "stilted"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nienaturalny (o zachowaniu)",
+                            "wymuszony (o swobodzie)",
+                            "sztuczny (np. uśmiech)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

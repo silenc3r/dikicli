@@ -1,0 +1,49 @@
+[
+    {
+        "Entry": [
+            "entrust"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "powierzać",
+                            "powierzyć",
+                            "poruczyć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Many people entrusted the bank with their savings.",
+                                "Translation": "(Wielu ludzi powierzyło bankowi swoje oszczędności.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "entrust something to somebody",
+            "entrust somebody with something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "powierzyć komuś zrobienie czegoś",
+                            "powierzyć coś komuś"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

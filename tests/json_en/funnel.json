@@ -1,0 +1,65 @@
+[
+    {
+        "Entry": [
+            "funnel"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "lejek (do nalewania płynów)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Use the funnel not to spill the water everywhere.",
+                                "Translation": "(Użyj lejka, żeby nie porozlewać wody wszędzie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "komin (silnika)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The funnel is clogged, and that's why the engine doesn't work.",
+                                "Translation": "(Komin jest zatkany, i dlatego silnik nie działa.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wlewać",
+                            "wsypywać przez lejek"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We can funnel all the liquid into a seperate container.",
+                                "Translation": "(Możemy wlać całą ciecz do osobnego pojemnika.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kierować (np. fundusze)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I made them funnel all the money into my account.",
+                                "Translation": "(Sprawiłem, że oni przekierowują wszystkie pieniądze na moje konto.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

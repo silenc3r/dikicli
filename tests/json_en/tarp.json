@@ -1,0 +1,27 @@
+[
+    {
+        "Entry": [
+            "tarpaulin",
+            "tarp",
+            "hooch",
+            "hootch"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "brezent",
+                            "wodoodporna plandeka",
+                            "tarp",
+                            "płachta biwakowa"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

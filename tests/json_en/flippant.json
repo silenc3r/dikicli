@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "flippant"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "impertynencki",
+                            "nonszalancki (o uwadze, osobie, zachowaniu)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "niepoważny",
+                            "żartobliwy (o tonie wypowiedzi, odpowiedzi, uwadze)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

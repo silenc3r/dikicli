@@ -1,0 +1,92 @@
+[
+    {
+        "Entry": [
+            "chisel"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dłuto"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A sculptor uses a chisel to create monuments.",
+                                "Translation": "(Rzeźbiarz używa dłuta do tworzenia posągów.)"
+                            },
+                            {
+                                "Sentence": "My father has many different chisels in his studio.",
+                                "Translation": "(Mój tata ma wiele różnych dłut w swojej pracowni.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przecinak"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A chisel is used for carving or cutting wood.",
+                                "Translation": "(Przecinak służy do drążenia lub cięcia drewna.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wydłubać",
+                            "wyrzeźbić (za pomocą dłuta)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He chiseled a statue for me.",
+                                "Translation": "(On wyrzeźbił dla mnie posąg.)"
+                            },
+                            {
+                                "Sentence": "Will you chisel a figurine for me?",
+                                "Translation": "(Wyrzeźbisz dla mnie figurkę?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "chisell",
+            "chisel"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "naciągać",
+                            "kantować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I swear, he chiseled me! I'll get even with him.",
+                                "Translation": "(Przysięgam, on mnie okantował! Policzę się z nim.)"
+                            },
+                            {
+                                "Sentence": "She's not stupid, you won't chisell her.",
+                                "Translation": "(Ona nie jest głupia, nie naciągniesz jej.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,149 @@
+[
+    {
+        "Entry": [
+            "drawing pin",
+            "pin",
+            "thumbtack",
+            "thumb tack",
+            "tack",
+            "pushpin",
+            "push pin"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pinezka",
+                            "pineska"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Use blue drawing pins for this ad.",
+                                "Translation": "(Użyj niebieskich pinezek do tego ogłoszenia.)"
+                            },
+                            {
+                                "Sentence": "He pinched himself with a drawing pin.",
+                                "Translation": "(On ukłuł się pinezką.)"
+                            },
+                            {
+                                "Sentence": "Stick this ad to the board with some thumbtacks.",
+                                "Translation": "(Przyczep to ogłoszenie do tablicy pinezkami.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "tack"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "gwóźdź z dużą główką"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He nailed a tack on the board.",
+                                "Translation": "(On przybił gwóźdź z dużą główką do deski.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "taktyka",
+                            "sposób",
+                            "kierunek"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We need a tack to handle this situation.",
+                                "Translation": "(Potrzebujemy jakiejś taktyki, żeby poradzić sobie z tą sytuacją.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "hals (w żeglarstwie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "sprzęt do osiodłania konia"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "fastryga"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "żarcie",
+                            "żarełko"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "róg halsowy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "tandetne ozdoby"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przyczepiać",
+                            "przybić"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He tacked the announcement to the wall.",
+                                "Translation": "(On przyczepił ogłoszenie do ściany.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "halsować (w żeglarstwie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "fastrygować"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

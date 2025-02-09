@@ -1,0 +1,24 @@
+[
+    {
+        "Entry": [
+            "limpid"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "czysty",
+                            "klarowny",
+                            "przejrzysty",
+                            "przezroczysty"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

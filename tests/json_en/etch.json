@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "etch"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wyryć",
+                            "wytrawić",
+                            "wytrawiać (np. szkło, metal, wzór)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wykonać kwasoryt albo akwafortę"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

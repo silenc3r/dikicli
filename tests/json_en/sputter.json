@@ -1,0 +1,64 @@
+[
+    {
+        "Entry": [
+            "sputter"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "warkot (silnika)",
+                            "bełkot"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The sputter his car's engine is easily recognizable.",
+                                "Translation": "(Warkot silnika jego samochodu jest łatwy do rozpoznania.)"
+                            },
+                            {
+                                "Sentence": "I can't understand his sputter.",
+                                "Translation": "(Nie mogę zrozumieć jego bełkotu.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dławić się (o silniku)",
+                            "bełkotać (o osobie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The engine sputtered, but the car was still running.",
+                                "Translation": "(Silnik się zadławił, ale samochód nadal działał.)"
+                            },
+                            {
+                                "Sentence": "He usually sputtered in a stressful situation.",
+                                "Translation": "(On zwykle bełkotał w nerwowych sytuacjach.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pryskać (o tłuszczu)",
+                            "bulgotać (o wodzie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Don't pour water onto hot oil, or it will sputter.",
+                                "Translation": "(Nie wlewaj wody do gorącego oleju, bo będzie pryskał.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

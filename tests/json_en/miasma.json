@@ -1,0 +1,35 @@
+[
+    {
+        "Entry": [
+            "miasma"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "miazmat",
+                            "wyziew (o nieprzyjemnej woni pochodzący np. z roślinnego lub zwierzęcego rozkładu)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zły wpływ",
+                            "zła atmosfera"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "morowe powietrze (dawniej domniemana przyczyna wybuchu epidemii)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

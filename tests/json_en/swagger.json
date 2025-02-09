@@ -1,0 +1,72 @@
+[
+    {
+        "Entry": [
+            "swagger"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pyszałek"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zarozumiałość",
+                            "puszenie się"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "dumny krok",
+                            "pyszny krok"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'd recognize his swagger everywhere.",
+                                "Translation": "(Wszędzie rozpoznałbym jego dumny krok.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przechwalać (się)",
+                            "pysznić (się)",
+                            "kozaczyć"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "iść dumnym krokiem"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szykowny",
+                            "wyrafinowany",
+                            "elegancki"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

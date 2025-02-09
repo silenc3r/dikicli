@@ -1,0 +1,104 @@
+[
+    {
+        "Entry": [
+            "contain"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zawierać (mieścić w sobie, składać się z)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The box contained some old clothes.",
+                                "Translation": "(Pudełko zawierało trochę starych ubrań.)"
+                            },
+                            {
+                                "Sentence": "Does it contain proteins?",
+                                "Translation": "(Czy to zawiera białka?)"
+                            },
+                            {
+                                "Sentence": "Did it contain any information that you didn't tell me?",
+                                "Translation": "(Czy to zawierało jakieś informacje, o których mi nie powiedziałeś?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kontrolować",
+                            "powstrzymać",
+                            "opanować (np. przed rozprzestrzenianiem się czegoś)",
+                            "hamować (rozprzestrzenianie się czegoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We're preparing a campaign to contain the violence in our city.",
+                                "Translation": "(Przygotowujemy kampanię, aby powstrzymać przemoc w naszym mieście.)"
+                            },
+                            {
+                                "Sentence": "We've contained the virus from spreading.",
+                                "Translation": "(Powstrzymaliśmy wirus przed rozprzestrzenianiem się.)"
+                            },
+                            {
+                                "Sentence": "We should be able to contain them in this area.",
+                                "Translation": "(Powinno nam się udać powstrzymać je w tej części.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kontenerować",
+                            "opanować",
+                            "pomieścić (emocje)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Contain your emotions, Jane.",
+                                "Translation": "(Powstrzymaj swoje emocje, Jane.)"
+                            },
+                            {
+                                "Sentence": "I couldn't contain my happiness.",
+                                "Translation": "(Nie mogłem pomieścić swojej radości.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "collect oneself",
+            "contain oneself"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "opanować się",
+                            "panować nad sobą",
+                            "nie okazywać emocji"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The kids were so excited they could hardly contain themselves.",
+                                "Translation": "(Dzieci były tak podekscytowane, że ledwo mogły panować nad sobą.)"
+                            },
+                            {
+                                "Sentence": "When he heard the news, he just couldn't contain himself.",
+                                "Translation": "(Gdy usłyszał wiadomości, po prostu nie mógł się opanować.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

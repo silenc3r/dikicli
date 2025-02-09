@@ -1,0 +1,27 @@
+[
+    {
+        "Entry": [
+            "nitwit"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przygłup",
+                            "głupek"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "With his stupid laughter, Jim is usually taken for a nitwit.",
+                                "Translation": "(Z jego głupim śmiechem, Jim jest zazwyczaj brany za przygłupa.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

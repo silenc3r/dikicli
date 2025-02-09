@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "sagacity",
+            "sagaciousness"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przenikliwość",
+                            "rozum"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

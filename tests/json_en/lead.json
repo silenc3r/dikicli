@@ -1,0 +1,500 @@
+[
+    {
+        "Entry": [
+            "lead",
+            "leadeth"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "prowadzić (pokazywać komuś drogę)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I followed her to see if she would lead me to you.",
+                                "Translation": "(Śledziłem ją, żeby sprawdzić, czy doprowadzi mnie do ciebie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "prowadzić",
+                            "prowadzić z",
+                            "wygrywać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She was leading just for some time.",
+                                "Translation": "(Ona prowadziła tylko przez pewien czas.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przewodzić (być najlepszym)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "kierować",
+                            "prowadzić",
+                            "przewodniczyć (np. na spotkaniu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Do you want to lead the staff meeting this week?",
+                                "Translation": "(Czy chcesz przewodniczyć zebraniu personelu w tym tygodniu?)"
+                            },
+                            {
+                                "Sentence": "I think we've chosen the right person to lead the expedition.",
+                                "Translation": "(Myślę, że wybraliśmy odpowiednią osobę do prowadzenia wyprawy.)"
+                            },
+                            {
+                                "Sentence": "I like to lead a conversation.",
+                                "Translation": "(Lubię prowadzić rozmowę.)"
+                            },
+                            {
+                                "Sentence": "The teacher led a discussion about healthy lifestyle.",
+                                "Translation": "(Nauczyciel poprowadził dyskusję na temat zdrowego stylu życia.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "doprowadzać",
+                            "powodować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The brochure led me to believe that the price included home delivery.",
+                                "Translation": "(Broszurka spowodowała, że uwierzyłam, że w cenę wliczony jest dowóz do domu.)"
+                            },
+                            {
+                                "Sentence": "His actions led to a disaster.",
+                                "Translation": "(Jego działania doprowadziły do katastrofy.)"
+                            },
+                            {
+                                "Sentence": "Her promises lead me to believe her.",
+                                "Translation": "(Jej obietnice powodują, że jej wierzę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "prowadzić",
+                            "wieść (np. styl życia)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He leads an interesting life.",
+                                "Translation": "(On wiedzie interesujące życie.)"
+                            },
+                            {
+                                "Sentence": "After retiring he led a quiet life.",
+                                "Translation": "(Po przejściu na emeryturę prowadził spokojne życie.)"
+                            },
+                            {
+                                "Sentence": "We hardly lead a life of luxury but we're not poor either.",
+                                "Translation": "(Nie prowadzimy luksusowego życia, ale też nie jesteśmy biedni.)"
+                            },
+                            {
+                                "Sentence": "I would like to lead my life like you led yours.",
+                                "Translation": "(Chciałbym prowadzić moje życie tak, jak ty prowadziłeś swoje.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wodzić"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She was leading me for a long time.",
+                                "Translation": "(Ona mną wodziła przez długi czas.)"
+                            },
+                            {
+                                "Sentence": "She was leading me for months, only to say \"no\".",
+                                "Translation": "(Ona wodziła mnie miesiącami, tylko po to aby powiedzieć \"nie\".)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "celować z wyprzedzeniem (do ruszającego się celu)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "prowadzenie (mierzone w minutach lub punktach, np. pięciopunktowe w grze, dwuminutowe w wyścigu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "After 20 minutes of game he had a lead of 10 points.",
+                                "Translation": "(Po 20 minutach gry miał dziesięciopunktowe prowadzenie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "postępowanie, które można naśladować, wyznaczanie trendów"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We'll go through the dance routine again - follow my lead.",
+                                "Translation": "(Jeszcze raz powtórzmy taniec - rób to, co ja.)"
+                            },
+                            {
+                                "Sentence": "Follow my lead!",
+                                "Translation": "(Podążajcie za mną!)"
+                            },
+                            {
+                                "Sentence": "We follow his lead in protecting the environment.",
+                                "Translation": "(Postępujemy za jego przykładem, chroniąc środowisko.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "trop",
+                            "wskazówka (informacja, która może pomóc w rozwiązaniu problemu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A lead from an informer enabled the police to catch a few criminals.",
+                                "Translation": "(Trop od informatora umożliwił policji złapanie kilku przestępców.)"
+                            },
+                            {
+                                "Sentence": "Give me a lead to solve this problem.",
+                                "Translation": "(Daj mi wskazówkę do rozwiązania tego problemu.)"
+                            },
+                            {
+                                "Sentence": "Don't leave any lead.",
+                                "Translation": "(Nie zostawcie żadnego tropu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "główna rola (w filmie, sztuce)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Surprisingly, he got a lead in this film.",
+                                "Translation": "(Zaskakująco, on dostał główną rolę w tym filmie.)"
+                            },
+                            {
+                                "Sentence": "He plays a lead role in this movie.",
+                                "Translation": "(On gra główną rolę w tym filmie.)"
+                            },
+                            {
+                                "Sentence": "I got a lead in a school play!",
+                                "Translation": "(Dostałem główną rolę w szkolnym przedstawieniu!)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kabel"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She tripped over the television lead.",
+                                "Translation": "(Ona potknęłą się o kabel od telewizora.)"
+                            },
+                            {
+                                "Sentence": "Circuit elements are electrically connected by a lead.",
+                                "Translation": "(Elementy obwodu są połączone za pomocą kabla.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wist",
+                            "wyjście kartą (w brydżu)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "skok gwintu"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "lead (informacja, która może prowadzić do zamknięcia sprzedaży)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "lead (sprzedażowy)",
+                            "potencjalny klient"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You have to pick up our leads.",
+                                "Translation": "(Musisz wyłapywać naszych potencjalnych klientów.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "lead",
+            "lead to something",
+            "lead to somewhere"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "prowadzić do",
+                            "prowadzić gdzieś",
+                            "prowadzić w jakieś miejsce (o ścieżce, drodze)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "These windows lead onto a wide shady terrace.",
+                                "Translation": "(Te okna prowadzą na szeroki, zacieniony taras.)"
+                            },
+                            {
+                                "Sentence": "This road leads straight to the park.",
+                                "Translation": "(Ta droga prowadzi prosto do parku.)"
+                            },
+                            {
+                                "Sentence": "These narrow steps lead to the kitchen.",
+                                "Translation": "(Te wąskie ślady prowadzą do kuchni.)"
+                            },
+                            {
+                                "Sentence": "This path leads to an old hut.",
+                                "Translation": "(Ta ścieżka prowadzi do starej chaty.)"
+                            },
+                            {
+                                "Sentence": "Where does this road lead to?",
+                                "Translation": "(Dokąd prowadzi ta droga?)"
+                            },
+                            {
+                                "Sentence": "That road led us farther north.",
+                                "Translation": "(Ta droga prowadziła nas dalej na północ.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "lead",
+            "leash"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "smycz"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Please keep your dog on a lead.",
+                                "Translation": "(Proszę trzymać swojego psa na smyczy.)"
+                            },
+                            {
+                                "Sentence": "Kids often put the keys on a leash.",
+                                "Translation": "(Dzieci często zakładają klucze na smycz.)"
+                            },
+                            {
+                                "Sentence": "Yesterday I saw a cat on a lead!",
+                                "Translation": "(Wczoraj widziałem kota na smyczy!)"
+                            },
+                            {
+                                "Sentence": "I need a new lead for my dog.",
+                                "Translation": "(Potrzebuję nową smycz dla mojego psa.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "lead"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ołów (pierwiastek)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Lead can be used to produce ammunition.",
+                                "Translation": "(Ołów może być używany do produkcji amunicji.)"
+                            },
+                            {
+                                "Sentence": "It is obvious that lead is toxic to people and animals.",
+                                "Translation": "(To oczywiste, że ołów jest toksyczny dla ludzi i zwierząt.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "grafit (w ołówku)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Jack is wondering how lead is put in a pencil.",
+                                "Translation": "(Jack zastanawia się, jak grafit jest wkładany do ołówka.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ołów (o nabojach, np. napakować kogoś ołowiem)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "lead paragraph",
+            "lead",
+            "lede"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "lid",
+                            "pierwszy akapit tekstu (np. w gazecie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "lead to something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "prowadzić do czegoś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Obesity may lead to some serious health problems.",
+                                "Translation": "(Otyłość może prowadzić do poważnych problemów ze zdrowiem.)"
+                            },
+                            {
+                                "Sentence": "Your behaviour led to another fight.",
+                                "Translation": "(Twoje zachowanie doprowadziło do kolejnej kłótni.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "the lead"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "prowadzenie",
+                            "pierwsze miejsce"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Now they have an opportunity to take the lead.",
+                                "Translation": "(Teraz oni mają okazję przejąć prowadzenie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "be the lead"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "prowadzić"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "as the lead"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "w roli głównej",
+                            "w głównej roli"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

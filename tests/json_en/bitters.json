@@ -1,0 +1,167 @@
+[
+    {
+        "Entry": [
+            "bitters"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "gorzka nalewka",
+                            "krople żołądkowe (gorzki płyn dodawany do napojów alkoholowych)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "bitter"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozgoryczony (np. z powodu porażki)",
+                            "zgorzkniały (np. o starszej osobie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He feels very bitter about it.",
+                                "Translation": "(On czuje się bardzo rozgoryczony z tego powodu.)"
+                            },
+                            {
+                                "Sentence": "My grandmother is a bitter old lady.",
+                                "Translation": "(Moja babcia jest zgorzkniałą starszą panią.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "gorzki (o gorzkim smaku)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It has a very bitter flavour.",
+                                "Translation": "(To ma bardzo gorzki smak.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "gorzki",
+                            "dotkliwy (np. porażka, cios)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We all know that from bitter experience.",
+                                "Translation": "(Wszyscy wiemy to z gorzkich doświadczeń.)"
+                            },
+                            {
+                                "Sentence": "It was a bitter failure but you shouldn't give up.",
+                                "Translation": "(To była gorzka porażka, ale nie powinnaś się poddawać.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przenikliwy",
+                            "przejmujący",
+                            "nieprzyjemny (np. wiatr, chłód)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Take your coat, the wind is very cold and bitter today.",
+                                "Translation": "(Weź płaszcz, wiatr jest dziś bardzo zimny i nieprzyjemny.)"
+                            },
+                            {
+                                "Sentence": "I'm scared of the bitter cold in her voice.",
+                                "Translation": "(Boję się przejmującego chłodu w jej głosie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zacięty",
+                            "zawzięty",
+                            "zaciekły (np. o walce, dyskusji, wrogu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "To this day they are bitter enemies.",
+                                "Translation": "(Do dnia dzisiejszego oni są zaciętymi wrogami.)"
+                            },
+                            {
+                                "Sentence": "It was a bitter fight but I won.",
+                                "Translation": "(To była zaciekła walka, ale wygrałem.)"
+                            },
+                            {
+                                "Sentence": "We're not speaking to each other after our bitter discussion.",
+                                "Translation": "(Nie odzywamy się do siebie po naszej zaciętej dyskusji.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "gorzkie piwo (sprzedawane głównie w Anglii)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'll have a pint of bitter.",
+                                "Translation": "(Napiję się pinty gorzkiego piwa.)"
+                            },
+                            {
+                                "Sentence": "Do you like bitter?",
+                                "Translation": "(Lubisz gorzkie piwo?)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "czynić zgorzkniałym (kogoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Years of being married to him has bittered me.",
+                                "Translation": "(Lata bycia jego małżonką uczyniły mnie zgorzkniałą.)"
+                            },
+                            {
+                                "Sentence": "All her problems bittered her.",
+                                "Translation": "(Wszystkie jej problemy uczyniły ją zgorzkniałą.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "czynić gorzkim (np. o jedzeniu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I don't like sweet cakes, can you bitter it a little?",
+                                "Translation": "(Nie lubię słodkich ciast, czy możesz go uczynić trochę gorzkim?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

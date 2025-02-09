@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "obviate"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zażegnać",
+                            "zażegnywać",
+                            "likwidować"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "Entry": [
+            "forfeit"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "fant"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "grzywna"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "strata (na drodze konfiskaty)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "przepadek"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Forfeit of property is a penalty for illegal conduct.",
+                                "Translation": "(Przepadek mienia jest karą za niezgodne z prawem zachowanie.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "stracić",
+                            "zaprzepaścić"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "przedkładać (uważać coś za ważniejsze od czegoś innego)",
+                            "poświęcić coś (na rzecz czegoś innego)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "be forfeit"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "podlegać konfiskacie",
+                            "ulec przepadkowi"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

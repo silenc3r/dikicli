@@ -1,0 +1,161 @@
+[
+    {
+        "Entry": [
+            "timber",
+            "lumber"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "drewno (używane w budownictwie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Their house is made of timber.",
+                                "Translation": "(Ich dom jest zrobiony z drewna.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "lumber"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "drewno",
+                            "materiał drzewny",
+                            "budulec"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There are ample resources of lumber and mines in the mountains.",
+                                "Translation": "(W górach są kopalnie i obfite zasoby drewna.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "stare meble",
+                            "graty",
+                            "rupiecie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I have to throw away all this lumber.",
+                                "Translation": "(Muszę wyrzucić te wszystkie rupiecie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "fiut",
+                            "faja",
+                            "fujara",
+                            "penis"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "łup (poderwany chłopak, poderwana dziewczyna)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "prowadzić wyrąb lasu"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This area is being lumbered.",
+                                "Translation": "(Na tym obszarze przeprowadzany jest wyrąb lasu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "człapać",
+                            "ciężko stąpać",
+                            "niezgrabnie się poruszać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He lumbered into the pub.",
+                                "Translation": "(On wszedł do pubu, ciężko stąpając.)"
+                            },
+                            {
+                                "Sentence": "He often lumbers off when he is tired.",
+                                "Translation": "(On często człapie, gdy jest zmęczony.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zgarnąć",
+                            "zawinąć",
+                            "przyskrzynić"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zrzucać na stos"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zastawiać",
+                            "zagracać (np. pokój)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "dudnić",
+                            "huczeć"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "lumber somebody"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "obciążyć kogoś dodatkowymi obowiązkami"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

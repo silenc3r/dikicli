@@ -1,0 +1,152 @@
+[
+    {
+        "Entry": [
+            "pig",
+            "hog"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "świnia"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He eats like a pig.",
+                                "Translation": "(On je jak świnia.)"
+                            },
+                            {
+                                "Sentence": "She keeps a few pigs on her farm.",
+                                "Translation": "(Ona hoduje kilka świń na swojej farmie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "hog"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wieprz"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His hog got in my corn again.",
+                                "Translation": "(Jego wieprz znów wszedł w moją kukurydzę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "żarłok"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Don't let him into the kitchen by himself. He's a hog.",
+                                "Translation": "(Nie wpuszczaj go samego do kuchni. Jest żarłokiem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "skąpiradło"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This hog won't spare me a penny.",
+                                "Translation": "(Ten skąpiec nie da mi złamanego grosza.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pożeracz benzyny",
+                            "samochód, który dużo pali"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She's driving a hog, I don't know where she gets the money for gas from.",
+                                "Translation": "(Ona jeździ potworem, nie wiem, skąd bierze pieniądze na benzynę.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "blokować",
+                            "okupować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Everyone will expect you to hog the ball.",
+                                "Translation": "(Wszyscy oczekują, że będziesz blokował piłkę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zdominować (np. dyskusję)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zajmować",
+                            "zabierać",
+                            "zagarniąć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Am I the one to hog your land?",
+                                "Translation": "(Czy to ja zająłem twoją ziemię?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "hog",
+            "hogg",
+            "hogget"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "młoda owca przed pierwszym strzyżeniem"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "mięso z owcy przed pierwszym strzyżeniem"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

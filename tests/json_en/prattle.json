@@ -1,0 +1,101 @@
+[
+    {
+        "Entry": [
+            "prattle"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "paplać",
+                            "mleć językiem",
+                            "plotkować",
+                            "pogawędzić sobie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Why are you always prattling?",
+                                "Translation": "(Dlaczego ty zawsze plotkujesz?)"
+                            },
+                            {
+                                "Sentence": "Mary and Anna prattled and drank some tea.",
+                                "Translation": "(Mary i Anna pogawędziły i wypiły trochę herbaty.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "szczebiotać",
+                            "gaworzyć (o dzieciach)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My son prattles when he wakes up.",
+                                "Translation": "(Mój syn gaworzy, gdy się obudzi.)"
+                            },
+                            {
+                                "Sentence": "Children prattle sweetly, don't you think?",
+                                "Translation": "(Dzieci słodko szczebioczą, nie sądzisz?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "świergotać (o ptakach)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Birds prattle every morning outside my window.",
+                                "Translation": "(Ptaki świergoczą każdego ranka za moim oknem.)"
+                            },
+                            {
+                                "Sentence": "The birds were prattling and our children were playing in the garden.",
+                                "Translation": "(Ptaki świergotały i nasze dzieci bawiły się w ogrodzie.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "paplanina",
+                            "gadanie",
+                            "plotki"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Their prattle is rude.",
+                                "Translation": "(Ich gadanie jest nieuprzejme.)"
+                            },
+                            {
+                                "Sentence": "I couldn't stand her prattle so I left the room.",
+                                "Translation": "(Nie mogłem znieść jej paplaniny, więc wyszedłem z pokoju.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "szczebiot (np. ptaków)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The prattle of birds was quite loud.",
+                                "Translation": "(Szczebiot ptaków był dość głośny.)"
+                            },
+                            {
+                                "Sentence": "She likes listening to the birds' prattle.",
+                                "Translation": "(Ona lubi słuchać szczebiotu ptaków.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

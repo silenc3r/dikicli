@@ -1,0 +1,42 @@
+[
+    {
+        "Entry": [
+            "peregrination"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wędrówka",
+                            "podróżowanie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I hope my peregrination will take me to Asia.",
+                                "Translation": "(Mam nadzieję, że moja wędrówka zabierze mnie do Azji.)"
+                            },
+                            {
+                                "Sentence": "She told me about her peregrination to Libya.",
+                                "Translation": "(Ona opowiedziała mi o swojej wędrówce do Libii.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "peregrynacja (pielgrzymka do świętego miejsca)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Peregrination is a journey to the sacred place.",
+                                "Translation": "(Peregrynacja to podróż do świętego miejsca.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

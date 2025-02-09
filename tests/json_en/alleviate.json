@@ -1,0 +1,32 @@
+[
+    {
+        "Entry": [
+            "alleviate"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "złagodzić",
+                            "łagodzić",
+                            "ulżyć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This will alleviate the pain.",
+                                "Translation": "(To złagodzi ból.)"
+                            },
+                            {
+                                "Sentence": "What can you do to alleviate stress at work?",
+                                "Translation": "(Co można zrobić, by złagodzić stres w pracy?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "transgression"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "naruszenie (prawa)",
+                            "wykroczenie",
+                            "przestępstwo"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "transgresja (zalanie obszarów lądowych przez morze)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

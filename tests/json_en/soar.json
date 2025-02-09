@@ -1,0 +1,89 @@
+[
+    {
+        "Entry": [
+            "soar"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rosnąć"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "gwałtownie wzrastać (o temperaturze)",
+                            "natężać się (o hałasie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Our hopes for victory soared.",
+                                "Translation": "(Nasze nadzieje na wygraną gwałtownie wzrosły.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zwyżkować (o akcjach)",
+                            "gwałtownie wzrastać",
+                            "iść szybko do góry (o cenach, inflacji)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Renting prices soared a further thirty percent.",
+                                "Translation": "(Koszty wynajmu gwałtownie wzrosły o kolejne trzydzieści procent.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "unosić się do góry (np. o balonie)",
+                            "poszybować do góry (np. o piłce)",
+                            "wzlatywać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "All night long fireworks soared into the sky.",
+                                "Translation": "(Przez cała noc fajerwerki unosiły się do nieba.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "szybować wysoko (np. o ptaku)",
+                            "latać wysoko (o szybowcu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We watched a soaring eagle with awe.",
+                                "Translation": "(Z podziwem oglądaliśmy szybującego orła.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wznosić się (o wysokim budynku)",
+                            "wystawać ponad resztę (o drzewie, szczycie górskim)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This new building soars 80 meters into the sky.",
+                                "Translation": "(Ten nowy budynek wznosi się na 80 metrów wysokości.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "osiągać wyżyny (szczęścia, sławy)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

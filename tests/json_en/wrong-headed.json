@@ -1,0 +1,24 @@
+[
+    {
+        "Entry": [
+            "wrongheaded",
+            "wrong-headed"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "uporczywy",
+                            "przekorny",
+                            "przewrotny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

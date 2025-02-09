@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "tumultuous"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "burzliwy (np. okres)",
+                            "gromki (o oklaskach)",
+                            "hałaśliwy (np. tłum)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

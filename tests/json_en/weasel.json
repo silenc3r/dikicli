@@ -1,0 +1,83 @@
+[
+    {
+        "Entry": [
+            "weasel"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "łasica"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A small weasel lives in the shed in our garden.",
+                                "Translation": "(Mała łasica żyje w szopie w naszym ogródku.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "gnida",
+                            "krętacz (o osobie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I don't want to know this man. He's a common weasel.",
+                                "Translation": "(Nie chcę znać tego mężczyzny. Jest pospolitą gnidą.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "szpicel",
+                            "kabel",
+                            "kapuś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Don't say anything about your boss when Steve's around. He's such a weasel!",
+                                "Translation": "(Nie mów nic o swoim szefie kiedy Steve jest w pobliżu. Jest takim kablem!)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "glina",
+                            "pies"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "pała",
+                            "pyta (penis)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wykręcać się (np. od obowiązków)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "manipulować",
+                            "kombinować (żeby coś osiągnąć)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

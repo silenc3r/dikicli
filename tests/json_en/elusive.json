@@ -1,0 +1,65 @@
+[
+    {
+        "Entry": [
+            "elusive"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nieuchwytny",
+                            "nieosiągalny",
+                            "trudno osiągalny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Success remains elusive for lazy people.",
+                                "Translation": "(Sukces pozostaje nieuchwytny dla leniwych ludzi.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "trudny do zdefiniowania",
+                            "trudny do opisania",
+                            "trudny do zrozumienia"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The definition of love is elusive for me.",
+                                "Translation": "(Definicja miłości jest dla mnie trudna do opisania.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "trudny do zapamiętania"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I find names of your friends elusive.",
+                                "Translation": "(Uważam nazwiska twoich przyjaciół za trudne do zapamiętania.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ulotny",
+                            "chwilowy",
+                            "szybko przemijający"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "All I have are elusive memories from my childhood.",
+                                "Translation": "(Mam tylko ulotne wspomnienia z dzieciństwa.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

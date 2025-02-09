@@ -1,0 +1,89 @@
+[
+    {
+        "Entry": [
+            "chant",
+            "chaunt"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "monotonny śpiew, śpiewna i monotonna intonacja"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He's singing a death chant.",
+                                "Translation": "(On śpiewa pieśń śmierci.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "śpiew kościelny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You could hear a chant from the church.",
+                                "Translation": "(Z kościoła można było usłyszeć śpiew.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "skandowany slogan"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "That was our chant before the games, before we came out.",
+                                "Translation": "(To była nasza przyśpiewka przed meczem, zanim wyszliśmy na boisko.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "śpiewać",
+                            "intonować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They have to chant certain spells, certain words.",
+                                "Translation": "(Musieli zaintonować określone zaklęcia, określone słowa.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "skandować (np. imię, slogan)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The audience was chanting the winner's name.",
+                                "Translation": "(Widownia skandowała imię zwycięzcy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "monotonnie śpiewać",
+                            "śpiewnie recytować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Before you die, chant this Mantra.",
+                                "Translation": "(Zanim umrzesz, wyrecytuj tę Mantrę.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

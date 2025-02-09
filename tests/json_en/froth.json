@@ -1,0 +1,56 @@
+[
+    {
+        "Entry": [
+            "froth"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "piana",
+                            "pianka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I love drinking froth from my coffee.",
+                                "Translation": "(Uwielbiam pić piankę z mojej kawy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "spieniona ślina"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "lanie wody",
+                            "gadanie bzdur"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pienić"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I found it quite easy to froth milk for cappuccino.",
+                                "Translation": "(Całkiem łatwo poszło mi spienienie mleka na cappuccino.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

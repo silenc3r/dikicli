@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "attaboy",
+            "atta boy",
+            "thattaboy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "wykrzyknik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "brawo!"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "Entry": [
+            "facilitate"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "udostępniać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We facilitated our studies to the society.",
+                                "Translation": "(Udostępniliśmy nasze badania społeczeństwu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ułatwiać",
+                            "umożliwiać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "All of this must facilitate growth and the ability to create jobs.",
+                                "Translation": "(Wszystko to musi ułatwiać wzrost i możliwość tworzenia nowych miejsc pracy.)"
+                            },
+                            {
+                                "Sentence": "Schools should facilitate and promote physical activity for students.",
+                                "Translation": "(Szkoły powinny ułatwiać i promować wśród uczniów aktywność fizyczną.)"
+                            },
+                            {
+                                "Sentence": "In order to get ourselves out of recession, we should facilitate trade.",
+                                "Translation": "(Aby wyjść z recesji, powinniśmy ułatwiać handel.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

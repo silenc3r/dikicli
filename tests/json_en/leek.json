@@ -1,0 +1,31 @@
+[
+    {
+        "Entry": [
+            "leek",
+            "leke"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "por"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Cut the leek into cubes.",
+                                "Translation": "(Pokrój pora w kostkę.)"
+                            },
+                            {
+                                "Sentence": "We have got cabbages, a leek, and three medium carrots.",
+                                "Translation": "(Mamy kapustę, por, i trzy średnie marchewki.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

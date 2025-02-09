@@ -1,0 +1,62 @@
+[
+    {
+        "Entry": [
+            "clumsy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niezgrabny",
+                            "niezdarny (np. sposób poruszania się lub osoba)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She made a clumsy attempt to apologize.",
+                                "Translation": "(Ona podjęła niezdarną próbę przeprosin.)"
+                            },
+                            {
+                                "Sentence": "He is so clumsy - he has just smashed another plate.",
+                                "Translation": "(On jest taki niezdarny - właśnie stłukł kolejny talerz.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nieporęczny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This bag is very clumsy. How do you carry it?",
+                                "Translation": "(Ta torba jest bardzo nieporęczna. Jak ty ją nosisz?)"
+                            },
+                            {
+                                "Sentence": "This hammer is too clumsy to use it.",
+                                "Translation": "(Ten młotek jest zbyt nieporęczny, żeby go użyć.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nietaktowny",
+                            "niezręczny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Her comment was very clumsy.",
+                                "Translation": "(Jej komentarz był bardzo niezręczny.)"
+                            },
+                            {
+                                "Sentence": "I was fed up with his clumsy remarks so I left the room.",
+                                "Translation": "(Miałem dość jego nietaktownych uwag, więc wyszedłem z pokoju.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

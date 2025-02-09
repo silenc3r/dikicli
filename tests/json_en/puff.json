@@ -1,0 +1,215 @@
+[
+    {
+        "Entry": [
+            "puff"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dyszeć",
+                            "sapać"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wypuszczać dym (np. o kominie)",
+                            "buchać (dymem, parą)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "rozpływać się nad czymś",
+                            "cmokać z zachwytu nad czymś"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "pierdnąć"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zaciągnięcie się",
+                            "sztachnięcie sie"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "podmuch (wiatru)",
+                            "dmuchnięcie"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "obłok",
+                            "obłoczek",
+                            "kłąb (chmur, dymu)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "ptyś"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "oddech"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "pedał"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "pochlebny artykuł w prasie na temat klienta lub produktu"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "puff",
+            "puff away",
+            "puff on"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pykać (fajką)",
+                            "zaciągać się",
+                            "kurzyć (papierosa, fajkę)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "puff",
+            "puff piece"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "laurka (przesadna pochwała, np. produktu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "So how'd you end up writing puff pieces for the local news?",
+                                "Translation": "(Więc jak skończyłaś pisząc laurki dla lokalnych wiadomości?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "puff",
+            "powder puff"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "puszek do pudru"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Have you seen my puff? I need to fix my make up.",
+                                "Translation": "(Widziałaś gdzieś mój puszek do pudru? Muszę poprawić makijaż.)"
+                            },
+                            {
+                                "Sentence": "I think powder puff is better than powder brush.",
+                                "Translation": "(Myślę, że puszek do pudru jest lepszy od pędzla do pudru.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "puff",
+            "puff sleeve"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bufa",
+                            "bufka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He wore a shirt with puff sleeves.",
+                                "Translation": "(On miał na sobie koszulę z bufami.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "have a puff"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wziąć bucha"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

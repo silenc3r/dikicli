@@ -1,0 +1,96 @@
+[
+    {
+        "Entry": [
+            "clamp",
+            "clamper"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zacisk",
+                            "klamra"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Now we want to place a partial occluding clamp on the aorta.",
+                                "Translation": "(Teraz zakładamy na aortę zacisk częściowo blokujący.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zamocowywać",
+                            "przytwierdzać",
+                            "mocować",
+                            "zaciskać",
+                            "unieruchamiać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "clamp",
+            "boot"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "założyć blokadę na koła"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Her car had been clamped and she couldn't move it.",
+                                "Translation": "(Założono blokadę na koła jej samochodu i nie mogła go ruszyć.)"
+                            },
+                            {
+                                "Sentence": "My car was booted several times, especially next to the city hall.",
+                                "Translation": "(Mój samochód miał wielokrotnie zakładaną blokadę na koła, szczególnie obok ratusza.)"
+                            },
+                            {
+                                "Sentence": "I parked my car wrong so the police booted it.",
+                                "Translation": "(Źle zaparkowałem samochód, więc policja założyła blokadę na koła.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "clamp something to something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przymocować coś do czegoś",
+                            "przytwierdzić coś do czegoś"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,61 @@
+[
+    {
+        "Entry": [
+            "urge"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pragnienie (zrobienia czegoś)",
+                            "popęd (seksualny)",
+                            "pragnienie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I couldn't resist the urge to steal that video camera from the shop.",
+                                "Translation": "(Nie mogłem oprzeć się pragnieniu, aby ukraść tamtą kamerę wideo ze sklepu.)"
+                            },
+                            {
+                                "Sentence": "He felt a strong urge to go out of his office.",
+                                "Translation": "(On poczuł silne pragnienie, aby wyjść ze swojego biura.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "popędzać",
+                            "zaganiać",
+                            "naglić"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The boss urged the workers to finish the project that day.",
+                                "Translation": "(Szef ponaglał swoich pracowników, aby skończyli ten projekt tamtego dnia.)"
+                            },
+                            {
+                                "Sentence": "Don't urge me, I'll do it when I'm ready.",
+                                "Translation": "(Nie popędzaj mnie, zrobię to, kiedy będę gotowy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nawoływać do",
+                            "zalecać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

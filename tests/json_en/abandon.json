@@ -1,0 +1,150 @@
+[
+    {
+        "Entry": [
+            "abandon"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "porzucać",
+                            "opuszczać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "When Jack abandoned his family, the police went looking for him.",
+                                "Translation": "(Kiedy Jack porzucił swoją rodzinę, policja zaczęła go szukać.)"
+                            },
+                            {
+                                "Sentence": "She had to abandon her idea of going to college because she was too poor.",
+                                "Translation": "(Ona musiała porzucić swój pomysł pójścia do szkoły wyższej, bo była zbyt biedna.)"
+                            },
+                            {
+                                "Sentence": "Her grandparents abandoned Poland in the 1950s.",
+                                "Translation": "(Jej dziadkowie opuścili Polskę w latach 50.)"
+                            },
+                            {
+                                "Sentence": "All young people abandoned this city.",
+                                "Translation": "(Wszyscy młodzi ludzie opuścili to miasto.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "porzucać (kogoś lub coś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He abandoned his wife and children.",
+                                "Translation": "(On porzucił swoją żonę i dzieci.)"
+                            },
+                            {
+                                "Sentence": "She abandoned the bad habit of smoking.",
+                                "Translation": "(Ona porzuciła zły nawyk palenia papierosów.)"
+                            },
+                            {
+                                "Sentence": "A doe abandoned her babies to save her own life.",
+                                "Translation": "(Łania porzuciła swoje młode, aby ratować swoje własne życie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rezygnować",
+                            "zaniechać (przestać coś robić z powodu problemów)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I abandoned swimming after the accident.",
+                                "Translation": "(Po wypadku zrezygnowałem z pływania.)"
+                            },
+                            {
+                                "Sentence": "My brother abandoned his studies after he failed an exam.",
+                                "Translation": "(Mój brat zrezygnował ze studiów po tym, jak nie zdał egzaminu.)"
+                            },
+                            {
+                                "Sentence": "He abandoned his job after two weeks.",
+                                "Translation": "(On zrezygnował z pracy po dwóch tygodniach.)"
+                            },
+                            {
+                                "Sentence": "She abandoned dancing when she became a mother.",
+                                "Translation": "(Ona porzuciła taniec, kiedy została matką.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pasja",
+                            "zapamiętanie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He beat her in abandon.",
+                                "Translation": "(On bił ją w zapamiętaniu.)"
+                            },
+                            {
+                                "Sentence": "She slapped her daughter with abandon.",
+                                "Translation": "(Ona spoliczkowała swoją córkę w pasji.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "żywiołowość",
+                            "zapał",
+                            "brak powściągliwości"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "abandon something to somebody"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zrzec się czegoś na rzecz kogoś",
+                            "rzucić coś na pastwę kogoś"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "abandon oneself to something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "oddawać się czemuś"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

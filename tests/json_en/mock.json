@@ -1,0 +1,85 @@
+[
+    {
+        "Entry": [
+            "mock"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "drwić",
+                            "kpić",
+                            "przedrzeźniać",
+                            "szydzić",
+                            "żartować sobie",
+                            "naigrawać się",
+                            "nabijać się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Mom, he is mocking me!",
+                                "Translation": "(Mamo, on mnie przedrzeźnia!)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szyderstwo",
+                            "przedmiot szyderstwa"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sztuczny",
+                            "podrobiony",
+                            "pozorny",
+                            "udawany"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "próbny",
+                            "przykładowy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "mock-"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "prefiks",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "oznacza \"udawany\"",
+                            "\"imitowany\""
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

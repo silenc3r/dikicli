@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "proselyte"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "prozelita",
+                            "neofita (nowy wyznawca)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

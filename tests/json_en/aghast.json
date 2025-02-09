@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "aghast",
+            "agast"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przerażony",
+                            "osłupiały (np. na widok czegoś)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

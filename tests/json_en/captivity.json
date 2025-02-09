@@ -1,0 +1,31 @@
+[
+    {
+        "Entry": [
+            "captivity"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niewola",
+                            "jasyr"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "After 18 months in captivity, the father and son were freed yesterday.",
+                                "Translation": "(Po 18 miesiącach w niewoli, ojciec i syn zostali wczoraj uwolnieni.)"
+                            },
+                            {
+                                "Sentence": "This animal can't survive in captivity.",
+                                "Translation": "(To zwierzę nie może żyć w niewoli.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

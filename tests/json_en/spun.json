@@ -1,0 +1,350 @@
+[
+    {
+        "Entry": [
+            "spun"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bomba",
+                            "rewelacja",
+                            "odjazd",
+                            "czad"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "span"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "okres (czas trwania czegoś)",
+                            "przedział"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We distinguish long term and short term memory span.",
+                                "Translation": "(Wyróżniamy pamięć długo i krótko terminową.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "trwałość (uwagi, koncentracji)",
+                            "długość (życia)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zakres (np. pamięci)",
+                            "zasięg (np. kontroli)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "rozpiętość (np. skrzydeł)",
+                            "rozstawienie (np. palców)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "przęsło (część konstrukcji między podporami)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "piędź"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "trwać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His presidency spanned 8 years.",
+                                "Translation": "(Jego prezydentura trwała 8 lat.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "obejmować",
+                            "sięgać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Her research spanned much of the continent.",
+                                "Translation": "(Jej badania objęły dużą część kontynentu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "łączyć brzegi (o moście)",
+                            "rozciągać się (nad czymś)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "spin"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "obracać się",
+                            "kręcić się",
+                            "wirować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I felt dizzy and the whole world was spinning.",
+                                "Translation": "(Poczułem zawroty głowy i cały świat kręcił się wokół.)"
+                            },
+                            {
+                                "Sentence": "My head was spinning, I was sure I ate some bad food.",
+                                "Translation": "(Kręciło mi się w głowie, wiedziałem, że zatrułem się jedzeniem.)"
+                            },
+                            {
+                                "Sentence": "She was spinning on the ice like an Olympic champion.",
+                                "Translation": "(Ona wirowała na lodzie jak mistrzyni olimpijska.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "obrócić (np. informację na swoją korzyść)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He spinned that rumour for his own benefit.",
+                                "Translation": "(Obrócił tę plotkę na swoją korzyść.)"
+                            },
+                            {
+                                "Sentence": "Don't spin my own argument against me!",
+                                "Translation": "(Nie obracaj mojego własnego argumentu przeciwko mnie!)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zakręcić (czymś)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "uprząść",
+                            "prząść (nitkę)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My grandma spins a golden thread.",
+                                "Translation": "(Moja babcia przędzie złotą nitkę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "szybko jechać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He was spinning and he got a ticket.",
+                                "Translation": "(On jechał szybko i dostał mandat.)"
+                            },
+                            {
+                                "Sentence": "I had to spin because I didn't want to be late.",
+                                "Translation": "(Musiałem jechać szybko, bo nie chciałem się spóźnić.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wirować",
+                            "odwirować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Our washing machine doesn't spin so it must be broken.",
+                                "Translation": "(Nasza pralka nie wiruje, więc musi być zepsuta.)"
+                            },
+                            {
+                                "Sentence": "Did you spin the laundry?",
+                                "Translation": "(Odwirowałeś pranie?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "snuć",
+                            "usnuć (np. opowieść)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My grandpa was spinning a tale on a winter evening.",
+                                "Translation": "(Mój dziadek snuł opowieść w zimowy wieczór.)"
+                            },
+                            {
+                                "Sentence": "He could spin this story for the whole evening.",
+                                "Translation": "(On mógłby snuć tę historyjkę przez cały wieczór.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "buksować (o kołach pojazdu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My wheels spun and I got stuck.",
+                                "Translation": "(Moje koła zabuksowały i utknąłem.)"
+                            },
+                            {
+                                "Sentence": "Wheels of my car are spinning in snow.",
+                                "Translation": "(Koła mojego samochodu buksują w śniegu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wylecieć z egzaminu",
+                            "oblać egzamin"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I can't spin, my mother will kill me.",
+                                "Translation": "(Nie mogę oblać egzaminu, matka mnie zabije.)"
+                            },
+                            {
+                                "Sentence": "If you don't study, you will spin.",
+                                "Translation": "(Jeżeli nie będziesz się uczyć, to oblejesz egzamin.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "piruet",
+                            "obrót"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His spin was amazing, he's a great ice skater!",
+                                "Translation": "(Jego piruet był niesamowity, jest świetnym łyżwiarzem!)"
+                            },
+                            {
+                                "Sentence": "I was enchanted by your spin, it was spectacular!",
+                                "Translation": "(Byłem zachwycony twoim piruetem, był widowiskowy!)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "szybka przejażdżka samochodem"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Are you ready for a spin?",
+                                "Translation": "(Jesteś gotowy na szybką przejażdżkę samochodem?)"
+                            },
+                            {
+                                "Sentence": "We went for a spin because Peter bought a new car.",
+                                "Translation": "(Wybraliśmy się na szybką przejażdżkę, bo Peter kupił nowy samochód.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "podkręcenie piłki"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I should practice my spin, we have to win this match!",
+                                "Translation": "(Powinienem poćwiczyć podkręcenie piłki, musimy wygrać ten mecz!)"
+                            },
+                            {
+                                "Sentence": "I've been practising that spin for two weeks.",
+                                "Translation": "(Ćwiczyłem podkręcenie piłki przez dwa tygodnie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ujęcie",
+                            "interpretacja (np. jakiejś informacji)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Your spin of that information is interesting.",
+                                "Translation": "(Twoja interpretacja tej informacji jest ciekawa.)"
+                            },
+                            {
+                                "Sentence": "This is a different spin of the poem.",
+                                "Translation": "(To jest inna interpretacja tego wiersza.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "korkociąg (figura akrobacji lotniczej)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The plane went into a spin.",
+                                "Translation": "(Samolot wpadł w korkociąg.)"
+                            },
+                            {
+                                "Sentence": "That spin looked really dangerous!",
+                                "Translation": "(Ten korkociąg wyglądał bardzo niebezpiecznie!)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "spin (moment pędu cząstki elementarnej w fizyce kwantowej)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

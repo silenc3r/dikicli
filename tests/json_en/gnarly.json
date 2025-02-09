@@ -1,0 +1,46 @@
+[
+    {
+        "Entry": [
+            "gnarly",
+            "knarly"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sękaty",
+                            "chropowaty"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "odjebany",
+                            "na grubym wypasie",
+                            "wycacany"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "niesmaczny",
+                            "sprośny",
+                            "ofensywny"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "niebezpieczny",
+                            "trudny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

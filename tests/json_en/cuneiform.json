@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "cuneiform",
+            "cuneatic"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "klinowy",
+                            "w kształcie klina"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

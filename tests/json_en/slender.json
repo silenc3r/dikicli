@@ -1,0 +1,61 @@
+[
+    {
+        "Entry": [
+            "slender"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "smukły",
+                            "szczupły"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "As always, the strength in his slender body surprised me.",
+                                "Translation": "(Jak zwykle, siła w jego smukłym ciele mnie zaskoczyła.)"
+                            },
+                            {
+                                "Sentence": "She has a slender waist.",
+                                "Translation": "(Ona ma smukłą talię.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "skromny",
+                            "szczupły (np. dochody, zapasy)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "get slim",
+            "become smaller",
+            "get thinner",
+            "get slender",
+            "become lean"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wyszczupleć"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

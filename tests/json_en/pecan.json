@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "pecan",
+            "carya illinoensis"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "orzesznik jadalny",
+                            "pekan",
+                            "orzesznik pekanowy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There is a lot of pecan in the park.",
+                                "Translation": "(W parku jest dużo orzeszników pekan.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

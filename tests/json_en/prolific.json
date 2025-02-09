@@ -1,0 +1,36 @@
+[
+    {
+        "Entry": [
+            "prolific"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "płodny (o artyście, pisarzu)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wyborowy",
+                            "doskonały (o strzelcu, np. piłkarzu)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "płodny",
+                            "plenny",
+                            "bujny (o roślinności, zwierzętach)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

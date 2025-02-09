@@ -1,0 +1,35 @@
+[
+    {
+        "Entry": [
+            "genuinely"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "autentycznie",
+                            "rzeczywiście"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I think she's genuinely concerned.",
+                                "Translation": "(Myślę, że ona jest autentycznie zmartwiona.)"
+                            },
+                            {
+                                "Sentence": "She seems to be genuinely honest.",
+                                "Translation": "(Ona wydaje się być autentycznie szczera.)"
+                            },
+                            {
+                                "Sentence": "We genuinely believed in him.",
+                                "Translation": "(My autentycznie w niego wierzyliśmy.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

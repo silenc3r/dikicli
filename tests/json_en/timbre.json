@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "timbre"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "barwa (dźwięku)",
+                            "brzmienie (instrumentu, głosu)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "cecha charakterystyczna kogoś lub czegoś"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

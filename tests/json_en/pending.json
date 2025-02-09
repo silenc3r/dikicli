@@ -1,0 +1,84 @@
+[
+    {
+        "Entry": [
+            "pending"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przyimek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "aż do",
+                            "do czasu",
+                            "do momentu"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Pending their decision, we can do nothing.",
+                                "Translation": "(Nie możemy nic zrobić, aż oni podejmą decyzję.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "podczas",
+                            "w trakcie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He had many arguments pending the negotiations.",
+                                "Translation": "(On miał dużo argumentów w trakcie negocjacji.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nierozstrzygnięty",
+                            "w toku",
+                            "trwający"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zbliżający się"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "oczekujący"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "be pending"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "być w toku"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

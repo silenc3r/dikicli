@@ -1,0 +1,24 @@
+[
+    {
+        "Entry": [
+            "gruelling",
+            "grueling"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wyczerpujący",
+                            "wymagający wysiłku",
+                            "ponad siły"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

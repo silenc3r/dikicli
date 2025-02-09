@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "utilitarian"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "utylitarny",
+                            "związany z filozofią utylitarną"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "użytkowy",
+                            "praktyczny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "Entry": [
+            "beset"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dręczyć",
+                            "nękać",
+                            "osaczyć",
+                            "osaczać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

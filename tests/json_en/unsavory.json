@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "unsavoury",
+            "unsavory"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "podejrzany (np. interes)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "nieprzyjemny",
+                            "nieapetyczny",
+                            "niesmaczny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

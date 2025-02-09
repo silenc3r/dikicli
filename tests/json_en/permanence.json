@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "permanence"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "trwałość",
+                            "ciągłość",
+                            "niezmienność"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

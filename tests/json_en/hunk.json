@@ -1,0 +1,35 @@
+[
+    {
+        "Entry": [
+            "hunk"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bryła",
+                            "kawałek",
+                            "kęs"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "byczek",
+                            "atrakcyjny mężczyzna"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I need to chat with this hunk for a bit.",
+                                "Translation": "(Muszę porozmawiać z tym byczkiem przez chwilę.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

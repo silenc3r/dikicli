@@ -1,0 +1,50 @@
+[
+    {
+        "Entry": [
+            "restless"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niespokojny",
+                            "nerwowy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It was a restless night, I couldn't sleep at all.",
+                                "Translation": "(To była niespokojna noc, nie zmrużyłem oka.)"
+                            },
+                            {
+                                "Sentence": "The children always get restless when we are travelling.",
+                                "Translation": "(Dzieci zawsze są nerwowe, kiedy podróżujemy.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "get restless"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zacząć się niecierpliwić"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

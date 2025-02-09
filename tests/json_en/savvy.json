@@ -1,0 +1,70 @@
+[
+    {
+        "Entry": [
+            "savvy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zmysł",
+                            "obycie",
+                            "wyczucie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My street savvy should not be taken lightly.",
+                                "Translation": "(Moje obycie z ulicą nie powinno być lekceważone.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kumaty",
+                            "rozumny",
+                            "bystry",
+                            "obyty",
+                            "obeznany",
+                            "świadomy (na jakiś temat)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'm glad we have a savvy guy like you on our payroll.",
+                                "Translation": "(Cieszę się, że mamy tak kumatego gościa jak ty na liście płac.)"
+                            },
+                            {
+                                "Sentence": "My parents are truly eco savvy.",
+                                "Translation": "(Moi rodzice są naprawdę świadomi ekologicznie.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zrozumieć",
+                            "pojąć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He would savvy what I mean.",
+                                "Translation": "(On by zrozumiał, co mam na myśli.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

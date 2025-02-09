@@ -1,0 +1,59 @@
+[
+    {
+        "Entry": [
+            "contort"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wykręcać",
+                            "powykręcać",
+                            "wykrzywiać",
+                            "powykrzywiać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A spasm of pain contorted his face.",
+                                "Translation": "(Spazm bólu wykrzywiła mu twarz.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wypaczyć",
+                            "wypaczać",
+                            "przeinaczyć",
+                            "przeinaczać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He didn't intend to contort the truth.",
+                                "Translation": "(On nie miał zamiaru przeinaczać prawdy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wykrzywiać się",
+                            "wykrzywić się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Her face contorted with anger.",
+                                "Translation": "(Jej twarz wykrzywiła się w złości.)"
+                            },
+                            {
+                                "Sentence": "He felt his face contort with shock.",
+                                "Translation": "(Poczuł, że jego twarz wykrzywia się w szoku.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

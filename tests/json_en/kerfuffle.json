@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "kerfuffle",
+            "kurfuffle"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "głośna sprzeczka",
+                            "awantura",
+                            "zamieszanie",
+                            "zamęt"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "What is this kurfuffle about?",
+                                "Translation": "(O co jest ta awantura?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

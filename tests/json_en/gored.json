@@ -1,0 +1,105 @@
+[
+    {
+        "Entry": [
+            "gored"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "z klinów (np. spódnica)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "gore"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozlana krew"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There was plenty of gore at the demonstration.",
+                                "Translation": "(Na demonstracji było mnóstwo rozlanej krwi.)"
+                            },
+                            {
+                                "Sentence": "At that night in front of the club there was gore.",
+                                "Translation": "(Tamtej nocy przed klubem rozlała się krew.)"
+                            },
+                            {
+                                "Sentence": "We sidestepped the puddles of gore.",
+                                "Translation": "(Omijaliśmy kałuże rozlanej krwi.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "klin",
+                            "róg"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "posoka (krew przelana w wyniku przemocy)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przebijać",
+                            "bóść",
+                            "dźgać",
+                            "wziąć na rogi"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The elephant gored his arm with a tusk.",
+                                "Translation": "(Słoń przebił jego ramię kłem.)"
+                            },
+                            {
+                                "Sentence": "The goat gored me with horns.",
+                                "Translation": "(Kozioł ubódł mnie rogami.)"
+                            },
+                            {
+                                "Sentence": "My boyfriend gored an innocent woman.",
+                                "Translation": "(Mój chłopak zadźgał niewinną kobietę.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zaskrzepła krew",
+                            "skrzepła krew"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

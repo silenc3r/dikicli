@@ -1,0 +1,62 @@
+[
+    {
+        "Entry": [
+            "clutter"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rupiecie"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zakłócenia radiolokacyjne (na radarze)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zagracić",
+                            "zagracać",
+                            "zaśmiecić",
+                            "zaśmiecać (zaburzyć porządek)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Do not clutter our shared space.",
+                                "Translation": "(Nie zagracaj naszej wspólnej przestrzeni.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "tarasować",
+                            "zatarasować (powodować zagęszczenie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zaśmiecić",
+                            "zaśmiecać",
+                            "przeładowywać",
+                            "przeładować (np. zbędnymi informacjami)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

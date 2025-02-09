@@ -1,0 +1,83 @@
+[
+    {
+        "Entry": [
+            "loaf"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bochenek (chleba)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Can I have a loaf of bread?",
+                                "Translation": "(Czy mogę prosić bochenek chleba?)"
+                            },
+                            {
+                                "Sentence": "He bought two loaves of bread.",
+                                "Translation": "(On kupił dwa bochenki chleba.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "podłużny kawałek czegoś do jedzenia (który można ciąć w plastry)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I like the skin on this meat loaf, it's so crispy.",
+                                "Translation": "(Smakuje mi skórka na tym podłużnym kawałku mięsa, jest taka chrupiąca.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "strucla"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "obijać się"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "loaf"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "łeb",
+                            "mózgownica"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "How many times do I have to repeat myself before you get it in your loaf?",
+                                "Translation": "(Ile razy będę musiał się powtarzać zanim wbijesz sobie to do mózgownicy?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

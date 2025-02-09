@@ -1,0 +1,77 @@
+[
+    {
+        "Entry": [
+            "conclude"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wywnioskować",
+                            "konkludować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They concluded that this issue is irrelevant.",
+                                "Translation": "(Oni wywnioskowali, że ten problem nie ma znaczenia.)"
+                            },
+                            {
+                                "Sentence": "Haven't you concluded anything from your last mistake?",
+                                "Translation": "(Czy nic nie wywnioskowałeś z ostatniego błędu?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zakończyć",
+                            "zamknąć (np. śledztwo)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The police concluded the investigation.",
+                                "Translation": "(Policja zamknęła śledztwo.)"
+                            },
+                            {
+                                "Sentence": "We won't find any evidence - I'm afraid we have to conclude this case.",
+                                "Translation": "(Nie znajdziemy żadnego dowodu - obawiam się, że musimy zakończyć tę sprawę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zawierać (np. umowę)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We concluded a contract yesterday.",
+                                "Translation": "(My zawarliśmy wczoraj umowę.)"
+                            },
+                            {
+                                "Sentence": "Everything is ready - we only have to conclude the deal.",
+                                "Translation": "(Wszystko jest gotowe - musimy tylko zawrzeć umowę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dochodzić do wniosku"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I concluded that you were right all along.",
+                                "Translation": "(Doszedłem do wniosku, że miałeś rację cały ten czas.)"
+                            },
+                            {
+                                "Sentence": "She concluded that he might be mentally ill.",
+                                "Translation": "(Ona doszła do wniosku, że on może być chory umysłowo.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

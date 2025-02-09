@@ -1,0 +1,68 @@
+[
+    {
+        "Entry": [
+            "dairy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nabiał"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I don't eat much dairy.",
+                                "Translation": "(Nie jem dużo nabiału.)"
+                            },
+                            {
+                                "Sentence": "I'm allergic to dairy.",
+                                "Translation": "(Jestem uczulony na nabiał.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "mleczarnia",
+                            "gospodarstwo mleczne"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My wife runs the dairy.",
+                                "Translation": "(Moja żona prowadzi mleczarnię.)"
+                            },
+                            {
+                                "Sentence": "Our dairy works fine.",
+                                "Translation": "(Nasza mleczarnia działa dobrze.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mleczarski (o zakładzie)",
+                            "dający mleko (o zwierzęciu)",
+                            "mleczny (o produkcie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The dairy industry in this region is developing.",
+                                "Translation": "(Przemysł mleczarski w tym rejonie się rozwija.)"
+                            },
+                            {
+                                "Sentence": "We breed dairy cattle.",
+                                "Translation": "(Hodujemy bydło mleczne.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

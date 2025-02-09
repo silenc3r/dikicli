@@ -1,0 +1,90 @@
+[
+    {
+        "Entry": [
+            "cricket"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "krykiet (gra zespołowa)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There was a playground here for children to play cricket.",
+                                "Translation": "(Tam było boisko dla dzieci do gry w krykieta.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "świerszcz"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It's not a grasshopper, it's a cricket.",
+                                "Translation": "(To nie jest konik polny, to jest świerszcz.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "grać w krykieta"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "uczciwe zachowanie",
+                            "gra fair",
+                            "honorowe zachowanie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This is very cricket of you, thanks.",
+                                "Translation": "(To bardzo uczciwe z twojej strony, dzięki.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "not cricket"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nieuczciwy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It's not cricket, don't do that.",
+                                "Translation": "(To nieuczciwe, nie rób tak.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "Entry": [
+            "gloomy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ponury",
+                            "posępny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He is a gloomy sort of person who never smiles.",
+                                "Translation": "(On jest posępnym typem osoby, która nigdy się nie uśmiecha.)"
+                            },
+                            {
+                                "Sentence": "For the rest of the evening we were nervous and gloomy.",
+                                "Translation": "(Przez resztę wieczoru byliśmy podenerwowani i posępni.)"
+                            },
+                            {
+                                "Sentence": "It was a gloomy night: foggy and cold.",
+                                "Translation": "(To była ponura noc: mglista i zimna.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "smutny",
+                            "przygnębiony"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "ciemny",
+                            "mroczny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

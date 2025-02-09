@@ -1,0 +1,66 @@
+[
+    {
+        "Entry": [
+            "mellow"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "łagodny (smak, ton, charakter)",
+                            "aksamitny",
+                            "miły w dotyku (materiał)",
+                            "stonowany (kolor)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "soczysty",
+                            "rozpływający się w ustach (o jedzeniu)",
+                            "dojrzały (o winie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "odprężony",
+                            "na rauszu (o osobie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "pokryty patyną czasu (kamień, budynek)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "łagodnieć",
+                            "zmiękczać",
+                            "mięknąć",
+                            "odprężać się"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "dojrzewać",
+                            "nabierać soczystości"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

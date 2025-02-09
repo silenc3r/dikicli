@@ -1,0 +1,33 @@
+[
+    {
+        "Entry": [
+            "locus"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "miejsce",
+                            "położenie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We require the precise locus of the facility.",
+                                "Translation": "(Potrzebujemy dokładnego położenia tej placówki.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "położenie (w geometrii i w biologii)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

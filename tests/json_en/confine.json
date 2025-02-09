@@ -1,0 +1,62 @@
+[
+    {
+        "Entry": [
+            "confine"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "obręb",
+                            "rama",
+                            "granica (obszar ograniczony czymś)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "confine"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zamykać (np. w pokoju, w celi, w getcie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The fugitive was caught and confined to jail.",
+                                "Translation": "(Uciekinier został złapany i zamknięty w więzieniu.)"
+                            },
+                            {
+                                "Sentence": "The illness confined him to his bed.",
+                                "Translation": "(Choroba przykuła go do łóżka.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ograniczać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "In the previous job I was confined to doing only one thing.",
+                                "Translation": "(W poprzedniej pracy byłem ograniczony do robienia tylko jednej rzeczy.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

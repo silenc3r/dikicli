@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "carnal"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "cielesny",
+                            "seksualny",
+                            "zmysłowy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

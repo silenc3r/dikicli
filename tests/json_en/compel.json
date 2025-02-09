@@ -1,0 +1,41 @@
+[
+    {
+        "Entry": [
+            "compel"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zmuszać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I felt compelled to tell her the truth.",
+                                "Translation": "(Czułem się zmuszony, by powiedzieć jej prawdę.)"
+                            },
+                            {
+                                "Sentence": "She didn't want to help them but conscience compelled her to.",
+                                "Translation": "(Ona nie chciała im pomóc, ale sumienie ją zmusiło.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wzbudzać (np. szacunek, uwagę)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Your father compels respect.",
+                                "Translation": "(Twój ojciec wzbudza szacunek.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

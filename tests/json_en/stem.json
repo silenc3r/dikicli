@@ -1,0 +1,172 @@
+[
+    {
+        "Entry": [
+            "stem"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nóżka (np. kieliszka)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You should always hold the wine glass by the stem.",
+                                "Translation": "(Powinno się zawsze trzymać kieliszek za nóżkę.)"
+                            },
+                            {
+                                "Sentence": "The glass has broken at the stem.",
+                                "Translation": "(Kieliszek rozbił się na nóżce.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "cybuch (do palenia tytoniu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He held his pipe by the stem.",
+                                "Translation": "(On trzymał swoją fajkę za cybuch.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "temat wyrazu (część wyrazu, która nie podlega odmianie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This structure has a verb stem.",
+                                "Translation": "(To złożenie ma temat czasownikowy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dziobnica (na statku)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The stem of the ship is the only thing that remained intact from the wreck.",
+                                "Translation": "(Dziobnica statku była jedyną nienaruszoną częścią wraku.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "mostek (w rowerze)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "powstrzymywać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He stemmed me from saying that.",
+                                "Translation": "(On powstrzymał mnie od powiedzenia tego.)"
+                            },
+                            {
+                                "Sentence": "We have to stem him, he can't do this!",
+                                "Translation": "(Musimy go powstrzymać, nie może tego zrobić!)"
+                            },
+                            {
+                                "Sentence": "This government is consciously stemming progress.",
+                                "Translation": "(Ten rząd świadomie powstrzymuje postęp.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "tamować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Move your car, you are stemming the traffic!",
+                                "Translation": "(Przeparkuj swój samochód, tamujesz ruch!)"
+                            },
+                            {
+                                "Sentence": "We need to stem the blood flow from the wound.",
+                                "Translation": "(Musimy zatamować przepływ krwi z rany.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pochodzić",
+                            "wynikać",
+                            "pojawiać się (np. o problemie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This problem stems from your lack of trust.",
+                                "Translation": "(Ten problem wynika z twojego braku zaufania.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "odszypułkować"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "stem",
+            "stalk"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "łodyga"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Cut a centimetre off the bottom of the stems before you put the roses in water.",
+                                "Translation": "(Odetnij centymetr łodygi zanim włożysz róże do wody.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "Science, Technology, Engineering, Mathematics",
+            "STEM"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "STEM (nauka, technologia, inżynieria i matematyka)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

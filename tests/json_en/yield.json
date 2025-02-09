@@ -1,0 +1,222 @@
+[
+    {
+        "Entry": [
+            "yield"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dać",
+                            "dawać",
+                            "skutkować (np. wynik, odpowiedź)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We hope that this latest improvement will help us yield better results.",
+                                "Translation": "(Mamy nadzieję, że ostatnie udoskonalenie pozwoli nam dawać lepsze wyniki.)"
+                            },
+                            {
+                                "Sentence": "The experiment yielded an answer the scientists have been looking for.",
+                                "Translation": "(Eksperyment dał odpowiedź, której szukali naukowcy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dawać",
+                            "rodzić",
+                            "dostarczać (np. plony, profity)",
+                            "przynosić (rezultaty)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My fields yielded high this year.",
+                                "Translation": "(Moje pola dały wysokie plony w tym roku.)"
+                            },
+                            {
+                                "Sentence": "My company yields a lot of profit.",
+                                "Translation": "(Moja firma daje dużo zysku.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ustąpić",
+                            "ustępować (dać się przekonać lub zmusić)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I yielded under her influence.",
+                                "Translation": "(Ustąpiłem pod jej wpływem.)"
+                            },
+                            {
+                                "Sentence": "She is stubborn, she never yields.",
+                                "Translation": "(Ona jest uparta, nigdy nie ustępuje.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ustąpić",
+                            "ustępować (pod fizycznym naporem)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Do not yield until our every enemy has fallen!",
+                                "Translation": "(Nie ustępujcie dopóki nie polegną wszyscy nasi wrogowie!)"
+                            },
+                            {
+                                "Sentence": "The metal yielded under his fist.",
+                                "Translation": "(Metal ustąpił pod jego pięścią.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "poddawać się (np. po walce)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I will fight to the end, I won't yield.",
+                                "Translation": "(Będę walczył do końca, nie poddam się.)"
+                            },
+                            {
+                                "Sentence": "I had no chance to win, I had to yield.",
+                                "Translation": "(Nie miałem szans wygrać, musiałem się poddać.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zwracać się (np. inwestycja)",
+                            "procentować czymś",
+                            "przynosić (dochód)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "produkcja",
+                            "uzysk"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The yield of fruit was the highest in the last 10 years.",
+                                "Translation": "(Produkcja owoców była najwyższa w ostatnich 10 latach.)"
+                            },
+                            {
+                                "Sentence": "The yield of this car has stopped in 1975.",
+                                "Translation": "(Produkcja tego samochodu ustała w roku 1975.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "korzyść",
+                            "zysk",
+                            "rentowność"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The yield of our company is lower than last year.",
+                                "Translation": "(Zysk naszej firmy jest niższy niż w tamtym roku.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "give way",
+            "yield"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ustępować pierwszeństwa (na drodze)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You have to give way at this junction.",
+                                "Translation": "(Musisz ustąpić pierwszeństwa przejazdu na tym skrzyżowaniu.)"
+                            },
+                            {
+                                "Sentence": "You have to give way to this car.",
+                                "Translation": "(Musisz ustąpić pierwszeństwa temu samochodowi.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "yield to something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ustąpić czemuś"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ustąpić miejsca czemuś (np. płacz śmiechowi)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "yield to someone",
+            "yield something to someone"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ustępować coś komuś (np. pierwszeństwa przejazdu)",
+                            "przepuszczać kogoś",
+                            "poddawać się",
+                            "ulegiwać",
+                            "odstępować coś komuś"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

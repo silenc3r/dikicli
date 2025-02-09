@@ -1,0 +1,58 @@
+[
+    {
+        "Entry": [
+            "scrutiny"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szczegółowe badanie (np. dokumentu)",
+                            "analiza (czegoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This essay could use some professional scrutiny.",
+                                "Translation": "(Temu esejowi przydałaby się profesjonalna analiza.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przypatrywanie się (czemuś)",
+                            "obserwacja (czegoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There is scarcely any scrutiny of their activities or operation.",
+                                "Translation": "(Ich działalność bądź funkcjonowanie nie podlega prawie żadnej obserwacji.)"
+                            },
+                            {
+                                "Sentence": "I would suggest closer scrutiny of these documents.",
+                                "Translation": "(Sugerowałbym dokładniejsze przypatrzenie się tym dokumentom.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nadzór (np. policyjny)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You could say that the region is now under closer scrutiny.",
+                                "Translation": "(Można powiedzieć, że ten region znajduje się teraz pod wzmożonym nadzorem.)"
+                            },
+                            {
+                                "Sentence": "This case needs to be put under public scrutiny.",
+                                "Translation": "(Ta sprawa musi być poddana nadzorowi publicznemu.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

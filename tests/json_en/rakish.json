@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "rakish"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "chwacki",
+                            "dziarski",
+                            "obrotny (o mężczyźnie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "hulaszczy (o stylu życia)",
+                            "rozpustny (o zachowaniu)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

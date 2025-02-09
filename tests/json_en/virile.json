@@ -1,0 +1,24 @@
+[
+    {
+        "Entry": [
+            "virile"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "krzepki",
+                            "męski",
+                            "tęgi",
+                            "zdrowy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

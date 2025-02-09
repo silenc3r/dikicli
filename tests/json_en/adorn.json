@@ -1,0 +1,68 @@
+[
+    {
+        "Entry": [
+            "adorn"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dekorować",
+                            "ozdabiać",
+                            "zdobić"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She adorned her hair with a ribbon.",
+                                "Translation": "(Ona ozdobiła swoje włosy wstążką.)"
+                            },
+                            {
+                                "Sentence": "They decided to adorn the house with lights.",
+                                "Translation": "(Oni zdecydowali się udekorować dom światełkami.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "upiększać",
+                            "przystrajać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I will adorn you with this beautiful necklace.",
+                                "Translation": "(Przystroję cię tym pięknym naszyjnikiem.)"
+                            },
+                            {
+                                "Sentence": "She adorned herself with cosmetics.",
+                                "Translation": "(Ona upiększyła się kosmetykami.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "adorn oneself"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przystroić się",
+                            "przystrajać się"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

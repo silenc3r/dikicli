@@ -1,0 +1,33 @@
+[
+    {
+        "Entry": [
+            "teeter"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "chwiać (się)",
+                            "zataczać (się)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "balansować (na krawędzi, granicy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The company teetered on the brink of collapse.",
+                                "Translation": "(Przedsiębiorstwo balansowało na krawędzi upadku.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

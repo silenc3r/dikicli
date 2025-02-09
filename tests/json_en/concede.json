@@ -1,0 +1,78 @@
+[
+    {
+        "Entry": [
+            "concede"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przyznawać się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A police officer asked him many questions and finally he conceded.",
+                                "Translation": "(Policjant zadał mu wiele pytań i w końcu się przyznał.)"
+                            },
+                            {
+                                "Sentence": "Did your brother concede to taking my money?",
+                                "Translation": "(Czy twój brat przyznał się do zabrania moich pieniędzy?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przyznawać",
+                            "oddawać (np. słuszność)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "oddawać (np. punkt w meczu)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "ustępować",
+                            "dawać za wygraną"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She is very stubborn, she will never concede.",
+                                "Translation": "(Ona jest bardzo uparta, nigdy nie ustąpi.)"
+                            },
+                            {
+                                "Sentence": "Don't even try to convince her, she won't concede.",
+                                "Translation": "(Nawet nie próbuj jej przekonać, ona nie da za wygraną.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "concede something to somebody"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przyznać coś komuś"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

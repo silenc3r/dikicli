@@ -1,0 +1,27 @@
+[
+    {
+        "Entry": [
+            "cole",
+            "colewort"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "roślina z rodziny Brassica (np. kapusta warzywna, jarmuż, rzepak)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You shouldn't grow any of the cole crops on this soil.",
+                                "Translation": "(Nie powinno się hodować żadnych roślin z rodziny Brassica na tej glebie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

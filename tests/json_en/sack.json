@@ -1,0 +1,209 @@
+[
+    {
+        "Entry": [
+            "sack"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "worek"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'll put everything into this sack.",
+                                "Translation": "(Włożę wszystko do tego worka.)"
+                            },
+                            {
+                                "Sentence": "We bought a sack of potatoes.",
+                                "Translation": "(Kupiliśmy worek ziemniaków.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wór",
+                            "worek"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Put all these clothes in a sack and throw it out.",
+                                "Translation": "(Włóż te wszystkie ubrania do worka i wyrzuć go.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wyro",
+                            "bety",
+                            "barłóg"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This sack doesn't look comfortable.",
+                                "Translation": "(To wyro nie wygląda na wygodne.)"
+                            },
+                            {
+                                "Sentence": "Do you really want to sleep in this sack?",
+                                "Translation": "(Naprawdę chcesz spać w tym barłogu?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "grabież"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wór (jądra)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He kicked me in the sack!",
+                                "Translation": "(On kopnął mnie w jądra!)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "sakiewka"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "białe wytrawne wino importowane do Anglii z południowo-wschodniej Europy"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "powalenie rozgrywającego (w futbolu amerykańskim)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wyrzucić z pracy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I got sacked last month, so I don't have much money.",
+                                "Translation": "(Zostałem wyrzucony z pracy w zeszłym miesiącu, więc nie mam zbyt dużo pieniędzy.)"
+                            },
+                            {
+                                "Sentence": "I have to sack my secretary, she's lazy.",
+                                "Translation": "(Muszę wyrzucić z pracy moją sekretarkę, jest leniwa.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "powalić rozgrywającego (w futbolu amerykańskim)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "ograbić",
+                            "złupić (np. miasto)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Robbers sacked his house while he was at work.",
+                                "Translation": "(Włamywacze ograbili jego dom, kiedy on był w pracy.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "fire",
+            "sack"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zwalniać (z pracy)",
+                            "wyrzucać (z pracy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My boss fired me for being late.",
+                                "Translation": "(Mój szef zwolnił mnie z powodu spóźnienia.)"
+                            },
+                            {
+                                "Sentence": "He was sacked again.",
+                                "Translation": "(On znów został wyrzucony z pracy.)"
+                            },
+                            {
+                                "Sentence": "The company fired him for being drunk.",
+                                "Translation": "(Wyrzucono go z firmy za to, że był pijany.)"
+                            },
+                            {
+                                "Sentence": "You can't fire somebody because of orientation.",
+                                "Translation": "(Nie można zwolnić kogoś z powodu orientacji.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "the sack"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wyrzucenie z pracy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "get the sack"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zostać zwolnionym",
+                            "wyrzuconym z pracy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

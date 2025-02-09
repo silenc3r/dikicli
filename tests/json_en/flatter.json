@@ -1,0 +1,395 @@
+[
+    {
+        "Entry": [
+            "flat"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "płaski"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I don't like houses with flat roofs.",
+                                "Translation": "(Nie podobają mi się domy z płaskimi dachami.)"
+                            },
+                            {
+                                "Sentence": "The floor was perfectly flat.",
+                                "Translation": "(Podłoga była idealnie płaska.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "równinny",
+                            "płaski (o terenie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The countryside where I grew up was very flat.",
+                                "Translation": "(Wiejska okolica, w której dorastałam, była bardzo płaska.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "jednakowy",
+                            "stały",
+                            "zryczałtowany (np. rata, opłata)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The loan will be paid off in flat instalments.",
+                                "Translation": "(Pożyczka będzie spłacana w jednakowych ratach.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bez powietrza",
+                            "sflaczały (np. opona, piłka)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Your tyre is flat. You should replace it.",
+                                "Translation": "(Twoja opona jest bez powietrza. Powinieneś ją wymienić.)"
+                            },
+                            {
+                                "Sentence": "The tyres in your bike are flat.",
+                                "Translation": "(Opony w twoim rowerze są bez powietrza.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "płaski",
+                            "niski",
+                            "cienki (np. o cieście)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The cake came out completely flat.",
+                                "Translation": "(Ciasto wyszło zupełnie płaskie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "równy",
+                            "gładki (o powierzchni, np. wody)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The lake was flat and lifeless.",
+                                "Translation": "(Jezioro było gładkie i bez śladów życia.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bez gazu (napój)",
+                            "wygazowany",
+                            "zwietrzały"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Flat coke is disgusting.",
+                                "Translation": "(Wygazowana cola jest obrzydliwa.)"
+                            },
+                            {
+                                "Sentence": "The drink is flat because someone left the bottle open.",
+                                "Translation": "(Napój jest bez gazu, bo ktoś zostawił otwartą butelkę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nudny",
+                            "nieciekawy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "What a flat film, can we watch something else?",
+                                "Translation": "(Co za nudny film, możemy obejrzeć coś innego?)"
+                            },
+                            {
+                                "Sentence": "I can lend you this book but it's flat, I'm warning you.",
+                                "Translation": "(Mogę pożyczyć ci tę książkę, ale jest nudna, ostrzegam.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "za niski",
+                            "zbyt niski (nieczysty, o dźwięku)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The last note was a bit flat.",
+                                "Translation": "(Ostatni dźwięk był trochę za niski.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "obniżony o półton (o dźwięku)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The guitar was tuned to E-flat.",
+                                "Translation": "(Gitara została nastrojona do E obniżonego o pół tonu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "stała",
+                            "bez poprawy (np. o cenie, warunkach ekonomicznych)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The prices have been flat for the last two months.",
+                                "Translation": "(Ceny pozostawały bez poprawy w ostatnich dwóch miesiącach.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "stała",
+                            "jednolita (np. stawka)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The rate is flat, take it or leave it.",
+                                "Translation": "(Stawka jest stała, decydujesz się czy nie?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bez emocji",
+                            "beznamiętny",
+                            "matowy (o tonie głosu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He said it all in a flat voice.",
+                                "Translation": "(On powiedział to wszystko głosem bez emocji.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "płaski",
+                            "na niskim obcasie (but)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She wears flat shoes because she's very tall.",
+                                "Translation": "(Ona nosi płaskie buty, bo jest bardzo wysoka.)"
+                            },
+                            {
+                                "Sentence": "She has only one pair of flat shoes.",
+                                "Translation": "(Ona ma tylko jedną parę butów na niskim obcasie.)"
+                            },
+                            {
+                                "Sentence": "She is very short, so she never wears flat shoes.",
+                                "Translation": "(Ona jest bardzo niska, więc nigdy nie nosi płaskich butów.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "płaska (o kobiecie z małym biustem)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He said he would never date a flat girl.",
+                                "Translation": "(On powiedział, że nigdy by nie chodził z płaską dziewczyną.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "oklapnięte (włosy)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bemol (znak chromatyczny obniżający dźwięk o pół tonu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Do you know how many flats are in this key?",
+                                "Translation": "(Wiesz ile bemoli jest w tej tonacji?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dźwięk obniżony o pół tonu"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Most of the notes in this melody are flats, which sounds unnatural.",
+                                "Translation": "(Większość dźwięków w tej melodii jest obniżona o pół tonu, co brzmi nienaturalnie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przybrzeżne niziny",
+                            "przybrzeżne równiny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You can often come upon mud flats in this region.",
+                                "Translation": "(Można często napotkać przybrzeżne równiny błotne w tym rejonie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "buty na płaskim obcasie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I prefer wearing flats during the day.",
+                                "Translation": "(Wolę nosić buty na płaskim obcasie w ciągu dnia.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "równo",
+                            "płasko"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Put this shirt flat on the bed, I've just ironed it.",
+                                "Translation": "(Połóż tę koszulę równo na łóżku, właśnie ją uprasowałem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zbyt nisko",
+                            "za nisko",
+                            "płasko (nieczysto, o dźwięku)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You can't join our choir, you sing flat.",
+                                "Translation": "(Nie możesz dołączyć do naszego chóru, śpiewasz za nisko.)"
+                            },
+                            {
+                                "Sentence": "He sings flat.",
+                                "Translation": "(On śpiewa zat nisko.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "totalnie",
+                            "kompletnie",
+                            "absolutnie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I can't go to the concert, I'm flat broke.",
+                                "Translation": "(Nie mogę pójść na koncert, jestem totalnie spłukana.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "flat",
+            "dead"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wyładowany",
+                            "rozładowany (o baterii, akumulatorze)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The battery in my mobile phone is completely flat.",
+                                "Translation": "(Bateria w mojej komórce jest kompletnie rozładowana.)"
+                            },
+                            {
+                                "Sentence": "The car won't start - I think the battery is dead.",
+                                "Translation": "(Samochód nie chce zapalić - myślę, że akumulator jest rozładowany.)"
+                            },
+                            {
+                                "Sentence": "If one of the batteries is flat, you should replace them both.",
+                                "Translation": "(Jeśli jedna z baterii jest zużyta, powinieneś wymienić obydwie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "flatter somebody"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pochlebiać komuś"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "flatter oneself"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pochlebiać sobie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

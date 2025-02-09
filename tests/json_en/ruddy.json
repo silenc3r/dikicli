@@ -1,0 +1,62 @@
+[
+    {
+        "Entry": [
+            "ruddy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "różowy",
+                            "rumiany (policzki)",
+                            "czerwonawy (liście)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I sat under the tree on the ruddy leaves.",
+                                "Translation": "(Usiadłem pod drzewem na czerwonawych liściach.)"
+                            },
+                            {
+                                "Sentence": "Her ruddy cheeks were a delightful sight.",
+                                "Translation": "(Jej rumiane policzki były rozkosznym widokiem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "świeży (o cerze)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I envy your ruddy complexion.",
+                                "Translation": "(Zazdroszczę ci twojej świeżej cery.)"
+                            },
+                            {
+                                "Sentence": "How do you take care of your ruddy complexion?",
+                                "Translation": "(Jak pielęgnujesz swoją świeżą cerę?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "cholerny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This ruddy dog bit me!",
+                                "Translation": "(Ten cholerny pies mnie ugryzł!)"
+                            },
+                            {
+                                "Sentence": "The ruddy cat! It ate the meat!",
+                                "Translation": "(Cholerny kot! On zjadł mięso!)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

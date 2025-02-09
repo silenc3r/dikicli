@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "discernment"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "umiejętność rozróżniania",
+                            "zdolność rozróżniania"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

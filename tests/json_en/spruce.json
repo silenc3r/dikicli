@@ -1,0 +1,38 @@
+[
+    {
+        "Entry": [
+            "spruce"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "świerk"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Our Christmas tree this year was a spruce.",
+                                "Translation": "(Naszą choinką w tym roku był świerk.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "elegancki",
+                            "wymuskany"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

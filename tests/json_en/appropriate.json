@@ -1,0 +1,87 @@
+[
+    {
+        "Entry": [
+            "appropriate"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "odpowiedni",
+                            "stosowny",
+                            "właściwy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I didn't really think that'd be appropriate, though.",
+                                "Translation": "(Naprawdę nie uważałem, żeby to było stosowne.)"
+                            },
+                            {
+                                "Sentence": "Your behaviour wasn't appropriate for the situation.",
+                                "Translation": "(Twoje zachowanie nie było stosowne do sytuacji.)"
+                            },
+                            {
+                                "Sentence": "That film is not appropriate for children.",
+                                "Translation": "(Ten film nie jest odpowiedni dla dzieci.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "appropriate"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przywłaszczać",
+                            "kraść"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She appropriated public funds.",
+                                "Translation": "(Ona przywłaszczyła sobie środki publiczne.)"
+                            },
+                            {
+                                "Sentence": "He tried to appropriate his neighbour's property.",
+                                "Translation": "(On próbował przywłaszczyć sobie mienie sąsiada.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zawłaszczać"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "przeznaczać",
+                            "przydzielać (środki na jakiś cel)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A lot of money has been appropriated for this project.",
+                                "Translation": "(Na ten projekt przeznaczono dużo pieniędzy.)"
+                            },
+                            {
+                                "Sentence": "Everything will move forward once they appropriate necessary funds.",
+                                "Translation": "(Wszystko ruszy do przodu kiedy oni przydzielą potrzebne środki.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

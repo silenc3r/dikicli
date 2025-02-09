@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "ludicrous"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "absurdalny",
+                            "śmieszny",
+                            "niedorzeczny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

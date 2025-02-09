@@ -1,0 +1,61 @@
+[
+    {
+        "Entry": [
+            "equity"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "słuszność",
+                            "sprawiedliwość"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "If there is to be any equity in the world, we have to enforce it ourselves.",
+                                "Translation": "(Jeżeli ma być na świecie jakakolwiek sprawiedliwość, musimy sami o nią zadbać.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wartość majątku netto"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We need you to provide your equity in order to proceed.",
+                                "Translation": "(Aby kontynuować, konieczne jest podanie wartości majątku netto.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "system prawny stosowany w krajach anglosaskich jako uzupełnienie norm ustawowych i prawa zwyczajowego"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "związek zawodowy aktorów (w Wielkiej Brytanii, USA i Kanadzie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "kapitał własny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You need to have an equity to start a new business.",
+                                "Translation": "(Musisz mieć kapitał własny, aby zacząć nowy biznes.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

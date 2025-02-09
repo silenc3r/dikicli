@@ -1,0 +1,74 @@
+[
+    {
+        "Entry": [
+            "varnish"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "werniks",
+                            "pokost",
+                            "glazura",
+                            "lakier",
+                            "politura"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He applied the varnish over the whole surface.",
+                                "Translation": "(On nałożył glazurę na całej powierzchni.)"
+                            },
+                            {
+                                "Sentence": "I removed a coat of varnish.",
+                                "Translation": "(Usunąłem warstwę lakieru.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "lakierować",
+                            "pokryć lakierem (glazurą)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He varnished the floor.",
+                                "Translation": "(On polakierował podłogę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zatuszować",
+                            "ukryć (np. prawdę)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They wanted to varnish the truth about you.",
+                                "Translation": "(Oni chcieli ukryć prawdę o tobie.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "lakierniczy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

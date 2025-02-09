@@ -1,0 +1,34 @@
+[
+    {
+        "Entry": [
+            "aperture"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przysłona",
+                            "szerokość przysłony (w aparacie fotograficznym)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He adjusted the aperture.",
+                                "Translation": "(On dostosował szerokość przesłony.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "otwór",
+                            "szczelina"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

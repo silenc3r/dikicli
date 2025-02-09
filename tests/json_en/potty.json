@@ -1,0 +1,42 @@
+[
+    {
+        "Entry": [
+            "potty"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nocnik"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I asked, \"Where's your potty?\"",
+                                "Translation": "(Spytałem, \"Gdzie jest twój nocnik?\")"
+                            },
+                            {
+                                "Sentence": "I'm afraid she's about to use my backpack for a potty.",
+                                "Translation": "(Obawiam się, że ona zamierza użyć mojego plecaka jako nocnika.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "stuknięty",
+                            "idiotyczny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

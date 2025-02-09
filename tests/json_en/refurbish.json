@@ -1,0 +1,37 @@
+[
+    {
+        "Entry": [
+            "refurbish",
+            "refurb"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zmieniać (zamiar)",
+                            "odnawiać (plan)",
+                            "odświeżyć (umiejętność)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "odrestaurować (np. dom)",
+                            "odnawiać",
+                            "odrabiać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It is more ecological to buy a refurbished product than a brand new one.",
+                                "Translation": "(To bardziej ekologiczne kupić naprawiony produkt niż zupełnie nowy.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

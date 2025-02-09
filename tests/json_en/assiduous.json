@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "assiduous"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wytrwały (w dążeniach)",
+                            "gorliwy",
+                            "sumienny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

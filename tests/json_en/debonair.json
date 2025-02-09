@@ -1,0 +1,25 @@
+[
+    {
+        "Entry": [
+            "debonair",
+            "debonaire",
+            "debonnaire"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "uprzejmy",
+                            "elegancki",
+                            "wytworny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

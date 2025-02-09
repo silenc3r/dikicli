@@ -1,0 +1,134 @@
+[
+    {
+        "Entry": [
+            "shaft"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szyb",
+                            "szacht (np. windowy, wentylacyjny, kopalniany, budowlany)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He proposed to dump nuclear waste down the shaft.",
+                                "Translation": "(On zaproponował, aby zrzucić odpady nuklearne do szybu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "trzonek (młotka)",
+                            "uchwyt (noża)",
+                            "drzewiec (strzały, włóczni)",
+                            "stylisko (topora)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The shaft of a hammer was bigger than my palm.",
+                                "Translation": "(Trzonek młotka był większy niż moja dłoń.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "trzon (prącia)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "snop",
+                            "promień (światła)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A shaft of sunlight came through the open window.",
+                                "Translation": "(Promień światła dostał się przez otwarte okno.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wał (napędowy, rozrządczy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We have to check whether the shaft diameter meets the requirements.",
+                                "Translation": "(Musimy sprawdzić, czy średnica wału spełnia wymagania.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dyszel (część wozu)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "strzała"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "kutas",
+                            "fiut",
+                            "pała"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "rura sterowa widelca"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zrobić w balona",
+                            "wycyckać",
+                            "oszukać"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zerżnąć (uprawiać seks)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "get the shaft"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zostać źle potraktowanym"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "defenestration"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "defenestracja",
+                            "wyrzucenie przez okno"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "usuwanie kogoś ze stanowiska"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

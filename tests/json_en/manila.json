@@ -1,0 +1,27 @@
+[
+    {
+        "Entry": [
+            "manila",
+            "manilla"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szary papier"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There is a package wrapped in manilla waiting for you.",
+                                "Translation": "(Czeka na ciebie paczka owinięta w szary papier.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

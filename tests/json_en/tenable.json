@@ -1,0 +1,41 @@
+[
+    {
+        "Entry": [
+            "tenable"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nadawany na określony czas (np. stypendium, członkowstwo w stowarzyszeniu)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "nadawany na określony czas (o stanowisku)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "możliwy do podtrzymania (o teorii)",
+                            "dający się obronić (o argumencie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "na określony czas",
+                            "czasowy (o pracy, stanowisku)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

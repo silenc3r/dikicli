@@ -1,0 +1,25 @@
+[
+    {
+        "Entry": [
+            "vainglory"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "chełpliwość",
+                            "próżność",
+                            "pycha",
+                            "zadufanie",
+                            "zarozumiałość"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

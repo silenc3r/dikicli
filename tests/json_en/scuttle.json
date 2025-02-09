@@ -1,0 +1,83 @@
+[
+    {
+        "Entry": [
+            "scuttle"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wiadro (na węgiel)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "szeroki kosz (na warzywa)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "właz (otwór zamykany pokrywą)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "truchtać",
+                            "biec (małymi kroczkami)",
+                            "umykać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A crab scuttled under a rock as we passed.",
+                                "Translation": "(Krab umknął pod kamień, gdy przechodziliśmy obok.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "samozatapiać (statek)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "scupper",
+            "scuttle"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rujnować (szanse na coś)",
+                            "niweczyć (czyjeś plany)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The chance has been scuttled.",
+                                "Translation": "(Szansa została zaprzepaszczona.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

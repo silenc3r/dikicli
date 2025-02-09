@@ -1,0 +1,24 @@
+[
+    {
+        "Entry": [
+            "rescind"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "odwoływać",
+                            "uchylać",
+                            "unieważniać",
+                            "anulować (np. decyzję)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

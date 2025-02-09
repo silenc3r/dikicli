@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "pompous"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pompatyczny",
+                            "nadęty",
+                            "paradny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

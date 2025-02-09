@@ -1,0 +1,32 @@
+[
+    {
+        "Entry": [
+            "ordeal"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "męka",
+                            "gehenna",
+                            "droga przez mękę"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This month was an ordeal for me.",
+                                "Translation": "(Ten miesiąc był dla mnie męką.)"
+                            },
+                            {
+                                "Sentence": "They managed to escape, but their ordeal was far from over.",
+                                "Translation": "(Udało im się uciec, ale ich gehenna jeszcze się nie skończyła.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "Entry": [
+            "eminence"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sława",
+                            "renoma"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "znakomitość",
+                            "eminencja"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "Eminencja (tytuł kardynalski)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wyniosłość",
+                            "wzniesienie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "eminence of bone",
+            "eminence"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wyniosłość kości"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "His Eminence"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "Jego Eminencja"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His Eminence will see you tomorrow at the Vatican.",
+                                "Translation": "(Jego Eminencja zobaczy się z panem jutro w Watykanie.)"
+                            },
+                            {
+                                "Sentence": "His Eminence will preach today.",
+                                "Translation": "(Jego Eminencja będzie dzisiaj wygłaszać kazanie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

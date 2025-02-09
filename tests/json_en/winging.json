@@ -1,0 +1,147 @@
+[
+    {
+        "Entry": [
+            "winging"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "polecenie",
+                            "poszybowanie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "wing"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "skrzydło (ptaka, owada)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The swallow had a broken wing.",
+                                "Translation": "(Jaskółka miała złamane skrzydło.)"
+                            },
+                            {
+                                "Sentence": "The butterfly spread its wings.",
+                                "Translation": "(Motyl rozpostarł skrzydła.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "skrzydełko (mięso, np. z kurczaka)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I love chicken wings at KFC.",
+                                "Translation": "(Uwielbiam skrzydełka z kurczaka w KFC.)"
+                            },
+                            {
+                                "Sentence": "Would you like these wings mild or spicy?",
+                                "Translation": "(Chcielibyście Państwo te skrzydełka łagodne czy na ostro?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "skrzydło (samolotu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The wing came out and the plane crashed.",
+                                "Translation": "(Skrzydło się oderwało i samolot się rozbił.)"
+                            },
+                            {
+                                "Sentence": "In this movie two men fight on a wing during the flight.",
+                                "Translation": "(W tym filmie dwóch mężczyzn walczy na skrzydle podczas lotu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "skrzydło (część budynku)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "In order to speak to the dean, you need to go to the wing A.",
+                                "Translation": "(W celu porozmawiania z dziekanem, musi się Pani udać do skrzydła A.)"
+                            },
+                            {
+                                "Sentence": "You can find his office in the east wing of the building.",
+                                "Translation": "(Możesz znaleźć jego biuro we wschodnim skrzydle budynku.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "odłam",
+                            "skrzydło (np. w partii)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He belongs to the right wing of the liberal party.",
+                                "Translation": "(On należy do prawego skrzydła partii liberalnej.)"
+                            },
+                            {
+                                "Sentence": "He is the member of the newly found wing.",
+                                "Translation": "(On jest członkiem nowo powstałego odłamu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "skrzydło (odległa prawa lub lewa część boiska)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Ronaldo passed the ball to the left wing of the pitch.",
+                                "Translation": "(Ronaldo podał piłkę do lewego skrzydła boiska.)"
+                            },
+                            {
+                                "Sentence": "He usually plays on the right wing.",
+                                "Translation": "(On zazwyczaj gra na prawym skrzydle.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "polecieć",
+                            "poszybować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My family lived next to an airport, so we saw planes winging very often.",
+                                "Translation": "(Moja rodzina mieszkała obok lotniska, więc bardzo często widzieliśmy jak samoloty szybowały.)"
+                            },
+                            {
+                                "Sentence": "He pointed to the sky where a lone raven was winging over the field.",
+                                "Translation": "(On wskazał na niebo, gdzie samotny kruk szybował nad polem.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

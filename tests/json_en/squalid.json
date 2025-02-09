@@ -1,0 +1,31 @@
+[
+    {
+        "Entry": [
+            "squalid"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "brudny (dom)",
+                            "nędzny",
+                            "obskurny (budynek)",
+                            "zapyziały"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "podły (zamiar)",
+                            "plugawy (czyn)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

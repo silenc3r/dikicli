@@ -1,0 +1,110 @@
+[
+    {
+        "Entry": [
+            "blistering"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "skwarny",
+                            "upalny",
+                            "prażący",
+                            "piekący",
+                            "piekielny"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zawrotny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "powstawanie pęcherzyków na oponie",
+                            "pęcherzykowanie (opony)",
+                            "blistering"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "blister"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bąbel",
+                            "odcisk",
+                            "pęcherz (na skórze)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I've got blisters on my fingers.",
+                                "Translation": "(Mam pęcherze na palcach.)"
+                            },
+                            {
+                                "Sentence": "I walked so much yesterday that I have blisters on my feet today.",
+                                "Translation": "(Chodziłem wczoraj tak dużo, że dzisiaj mam odciski na stopach.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pęcherzyk",
+                            "pęcherz (pofalowanie np. na pomalowanej nawierzchni)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Make sure there are no blisters under the foil.",
+                                "Translation": "(Upewnij się, że pod folią nie ma żadnych pęcherzyków.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nudziarz",
+                            "maruda",
+                            "gbur"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He is a bit of a blister, but we like him anyway.",
+                                "Translation": "(Trochę z niego nudziarz, ale i tak go lubimy.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "powodować powstawanie pęcherzyków"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

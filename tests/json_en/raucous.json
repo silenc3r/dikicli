@@ -1,0 +1,47 @@
+[
+    {
+        "Entry": [
+            "raucous"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szorstki (glos)",
+                            "ochrypły (śmiech)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I heard raucous laughter coming from the next room.",
+                                "Translation": "(Usłyszałem ochrypły śmiech z pokoju obok.)"
+                            },
+                            {
+                                "Sentence": "The raucous call of the crows woke me up.",
+                                "Translation": "(Szorstkie krakanie wron obudziło mnie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "hałaśliwy (o miejscu)",
+                            "rozkrzyczany (np. tłum)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I think their music is rather raucous.",
+                                "Translation": "(Uważam, że ich muzyka jest raczej hałaśliwa.)"
+                            },
+                            {
+                                "Sentence": "The match was played before a raucous crowd.",
+                                "Translation": "(Mecz był grany przed rozkrzyczanym tłumem.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "Entry": [
+            "den"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "legowisko",
+                            "nora (np. lisia)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The polar bear cubs emerge from the den in which they were born.",
+                                "Translation": "(Małe niedźwiedzie polarne wynurzają się z nory, w której się urodziły.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "melina",
+                            "kryjówka (np. pijacka)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The place was known as a den for all the lowlifes in the city.",
+                                "Translation": "(To miejsce było znane jako melina dla wszystkich szumowin tego miasta.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kryjówka",
+                            "skrytka (miejsce, gdzie bawią się dzieci)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The children had their special den, but they wouldn't tell anyone where it is.",
+                                "Translation": "(Dzieci miały swoją wyjątkową skrytkę, ale nie powiedziały nikomu, gdzie ona jest.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pokój"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "gabinet (np. pana domu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I shall meet you in my den.",
+                                "Translation": "(Spotkam sie z panem w moim gabinecie.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "żyć w norze (o zwierzętach)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

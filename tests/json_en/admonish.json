@@ -1,0 +1,33 @@
+[
+    {
+        "Entry": [
+            "admonish",
+            "monish"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "karcić",
+                            "napominać",
+                            "strofować",
+                            "upominać"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "ostrzegać",
+                            "przestrzegać",
+                            "doradzać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

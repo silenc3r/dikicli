@@ -1,0 +1,40 @@
+[
+    {
+        "Entry": [
+            "hectic",
+            "hectical"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nerwowy",
+                            "gorączkowy",
+                            "napięty",
+                            "hektyczny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Tomorrow might be hectic.",
+                                "Translation": "(Jutrzejszy dzień może być nerwowy.)"
+                            },
+                            {
+                                "Sentence": "She had a hectic day at the office.",
+                                "Translation": "(Ona miała gorączkowy dzień w biurze.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zaczerwieniony (twarz osoby w pośpiechu)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

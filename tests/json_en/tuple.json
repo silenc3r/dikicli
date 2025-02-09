@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "tuple"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "n-tka",
+                            "para uporządkowana",
+                            "krotka (struktura danych)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

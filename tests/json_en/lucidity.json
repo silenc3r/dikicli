@@ -1,0 +1,38 @@
+[
+    {
+        "Entry": [
+            "lucidity",
+            "lucidness"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "jasność",
+                            "przezroczystość",
+                            "klarowność"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "jasność umysłu",
+                            "przytomność umysłu"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "blask",
+                            "świetlistość"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

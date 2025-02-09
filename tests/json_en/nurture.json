@@ -1,0 +1,57 @@
+[
+    {
+        "Entry": [
+            "nurture"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pielęgnowanie",
+                            "wychowywanie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "So, in your opinion, doctor, were my actions triggered by nature or nurture?",
+                                "Translation": "(Według twojej opinii, doktorze, co należy winić za moje czyny: naturę czy wychowanie?)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wychowywać",
+                            "pielęgnować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'm not quite sure how to nurture this particular plant.",
+                                "Translation": "(Nie jestem do końca pewna jak pielęgnować tę roślinkę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pielęgnować",
+                            "żywić",
+                            "czuwać nad czymś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Let us nurture the inherent power of our economy to keep it renewing itself.",
+                                "Translation": "(Czuwajmy nad wewnętrzną siłą naszej gospodarki, aby ona sama mogła się odnawiać.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

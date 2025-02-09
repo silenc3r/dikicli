@@ -1,0 +1,27 @@
+[
+    {
+        "Entry": [
+            "estranged"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "odseparowany",
+                            "pozostający w separacji (żyjący osobno)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They have been estranged for some years.",
+                                "Translation": "(Oni byli odseparowani przez kilka lat.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

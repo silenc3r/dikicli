@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "sedulity"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "skrzętność",
+                            "gorliwość",
+                            "pilność"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

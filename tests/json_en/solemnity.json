@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "solemnity"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "powaga (sytuacji)",
+                            "podniosłość (wydarzenia)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

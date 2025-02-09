@@ -1,0 +1,93 @@
+[
+    {
+        "Entry": [
+            "batter"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zbić",
+                            "walić",
+                            "tłuc",
+                            "uderzać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He battered the punching bag for an hour.",
+                                "Translation": "(On tłukł worek treningowy przez godzinę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "uderzyć",
+                            "doświadczyć",
+                            "poszkodować (np. przez silny wiatr)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The city was battered by Hurricane Irma.",
+                                "Translation": "(Miasto zostało poszkodowane przez Huragan Irma.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rzadkie ciasto (np. na naleśniki)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I've prepared pancake batter for breakfast.",
+                                "Translation": "(Przygotowałem rzadkie ciasto na naleśniki na śniadanie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "panierka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I love when my deep fried fish has a crispy batter.",
+                                "Translation": "(Uwielbiam kiedy smażona ryba ma chrupiącą panierkę.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "batter"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pałkarz (w baseballu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He was the best batter on the team.",
+                                "Translation": "(On był najlepszym pałkarzem w drużynie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

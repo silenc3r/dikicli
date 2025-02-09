@@ -1,0 +1,34 @@
+[
+    {
+        "Entry": [
+            "listener"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "słuchacz"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This young woman has found the ideal listener in you.",
+                                "Translation": "(A ta młoda kobieta znalazła w panu idealnego słuchacza.)"
+                            },
+                            {
+                                "Sentence": "It makes it more interesting for the listener.",
+                                "Translation": "(To czyni to bardziej interesującym dla słuchacza.)"
+                            },
+                            {
+                                "Sentence": "People say I'm a good listener.",
+                                "Translation": "(Ludzie mówią że jestem świetnym słuchaczem.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "Entry": [
+            "attrition"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wyniszczanie",
+                            "wyniszczenie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The immensely hot weather resulted in the attrition of the forests.",
+                                "Translation": "(Bardzo gorąca pogoda skutkowała wyniszczeniem lasów.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zmniejszanie się składu osobowego w firmie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The recent attrition has left us understaffed.",
+                                "Translation": "(Niedawna redukcja personelu sprawiła, że nie mamy dość pracowników by poprawnie funkcjonować.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "tarcie",
+                            "ścieranie się",
+                            "zdarcie",
+                            "otarcie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This fabric is prone to attrition.",
+                                "Translation": "(Ten materiał jest podatny na ścieranie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "skrucha"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There is no attrition in him for what he has done.",
+                                "Translation": "(Nie ma w nim skruchy za to, co zrobił.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "spadek lojalności klientów (np. z powodu znudzenia produktem)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

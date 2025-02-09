@@ -1,0 +1,56 @@
+[
+    {
+        "Entry": [
+            "fracture"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "złamanie",
+                            "pęknięcie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Is the fracture recent?",
+                                "Translation": "(Czy złamanie jest świeże?)"
+                            },
+                            {
+                                "Sentence": "I guess you've got a fracture.",
+                                "Translation": "(Wydaje mi się, że masz złamanie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "podział",
+                            "rozłam"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "złamać (się)",
+                            "pęknąć"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "rozłamywać się (na kawałki)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

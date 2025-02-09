@@ -1,0 +1,46 @@
+[
+    {
+        "Entry": [
+            "tenacious"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "uporczywy",
+                            "nieustępliwy",
+                            "zawzięty (o osobie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "mocny (chwyt, uścisk)",
+                            "trwały (o pamięci)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "lepki (o substancji)",
+                            "przylepny (o powierzchni)",
+                            "czepliwy"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wytrzymały",
+                            "ciągliwy (materiał)",
+                            "spoisty (metal)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

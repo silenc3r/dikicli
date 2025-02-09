@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "guile"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "oszustwo",
+                            "podstęp",
+                            "przebiegłość"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

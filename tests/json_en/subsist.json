@@ -1,0 +1,41 @@
+[
+    {
+        "Entry": [
+            "subsist"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "istnieć",
+                            "być",
+                            "egzystować"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wyżyć (z czegoś)",
+                            "przetrwać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We have to subsist on one income.",
+                                "Translation": "(Musimy wyżyć z jednej wypłaty.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pozostawać w mocy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

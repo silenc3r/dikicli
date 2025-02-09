@@ -1,0 +1,39 @@
+[
+    {
+        "Entry": [
+            "kif",
+            "kie",
+            "kief",
+            "keef",
+            "kef",
+            "kaif"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "marihuana w postaci proszku"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "narkotyk o działaniu podobnym do marihuany"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "haj",
+                            "odlot po uzyciu marihuany w proszku"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

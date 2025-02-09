@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "patrimony"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dziedzictwo",
+                            "ojcowizna"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "Entry": [
+            "posit"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zakładać",
+                            "postulować",
+                            "sugerować",
+                            "przypuszczać",
+                            "przyjmować (coś za fakt)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "verboten"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zakazany",
+                            "niedozwolony (z języka niemieckiego)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

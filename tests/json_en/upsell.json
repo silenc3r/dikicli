@@ -1,0 +1,47 @@
+[
+    {
+        "Entry": [
+            "upsell"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sprzedać coś po wyższej cenie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "up-sell",
+            "upsell"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "namawiać na droższy produkt",
+                            "sprzedawać droższy artykuł"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Shops often try to up-sell by offering more high quality products.",
+                                "Translation": "(Sklepy często próbują namówić na droższy produkt, oferując więcej artykułów o wysokiej jakości.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

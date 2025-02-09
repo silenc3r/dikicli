@@ -1,0 +1,98 @@
+[
+    {
+        "Entry": [
+            "substitute"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rezerwowy (gracz)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There are 10 substitute players in our team.",
+                                "Translation": "(Mamy 10 rezerwowych graczy w drużynie.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zamiennik",
+                            "substytut (produkt odbiegający nieco cenowo i jakościowo od tego powszechnie rozpoznawalnego)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I bought a cheaper substitute for my pills.",
+                                "Translation": "(Kupiłem tańszy zamiennik moich tabletek.)"
+                            },
+                            {
+                                "Sentence": "It is not the original application, it is only its substitute.",
+                                "Translation": "(To nie jest oryginalna aplikacja, to tylko jej zamiennik.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rezerwowy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zastępować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She substitutes for our math teacher.",
+                                "Translation": "(Ona zastępuje naszą nauczycielkę matematyki.)"
+                            },
+                            {
+                                "Sentence": "You can substitute water with milk, your pancakes will be better.",
+                                "Translation": "(Możesz zastąpić wodę mlekiem, twoje naleśniki będą lepsze.)"
+                            },
+                            {
+                                "Sentence": "She substituted for our teacher for one year.",
+                                "Translation": "(Ona zastępowała naszego nauczyciela przez rok.)"
+                            },
+                            {
+                                "Sentence": "I'm substituting for your English teacher this week.",
+                                "Translation": "(Zastępuję w tym tygodniu waszą nauczycielkę angielskiego.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pełnić funkcję w zastępstwie"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "podstawiać (np. liczbę)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The teacher asked his students to substitute the numbers into a formula.",
+                                "Translation": "(Nauczyciel poprosił swoich uczniów, aby podstawili liczby do wzoru.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

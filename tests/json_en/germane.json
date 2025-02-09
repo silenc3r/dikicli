@@ -1,0 +1,26 @@
+[
+    {
+        "Entry": [
+            "germane to something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "istotny dla czegoś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His remarks are germane to our discussion.",
+                                "Translation": "(Jego uwagi są istotne dla naszej dyskusji.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

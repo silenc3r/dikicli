@@ -1,0 +1,42 @@
+[
+    {
+        "Entry": [
+            "unwind"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozluźniać (się)",
+                            "odprężać się",
+                            "relaksować się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Let's unwind after a long day.",
+                                "Translation": "(Zrelaksujmy się po długim dniu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "odwijać",
+                            "odkręcać (np. bandaż, szalik)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "rozkręcać się",
+                            "rozwijać (się)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

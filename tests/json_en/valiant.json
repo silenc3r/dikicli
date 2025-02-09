@@ -1,0 +1,24 @@
+[
+    {
+        "Entry": [
+            "valiant"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bitny",
+                            "chrobry",
+                            "dzielny",
+                            "odważny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

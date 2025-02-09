@@ -1,0 +1,51 @@
+[
+    {
+        "Entry": [
+            "atrocious"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ohydny (np. obraz)",
+                            "okropny (o zachowaniu)",
+                            "wstrętny (o pogodzie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Do not hang this atrocious picture.",
+                                "Translation": "(Nie wieszaj tego ohydnego obrazu.)"
+                            },
+                            {
+                                "Sentence": "We won't go outside, the weather is atrocious.",
+                                "Translation": "(Nie wyjdziemy na zewnątrz, pogoda jest wstrętna.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "okrutny (o zbrodni)",
+                            "nieludzki (czyn)",
+                            "potworny (występek)",
+                            "przerażający",
+                            "bezecny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He confessed to committing this atrocious crime.",
+                                "Translation": "(On przyznał się do popełnienia tej okrutnej zbrodni.)"
+                            },
+                            {
+                                "Sentence": "This accident was atrocious. There were many injured.",
+                                "Translation": "(Ten wypadek był potworny. Było wielu rannych.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

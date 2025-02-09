@@ -1,0 +1,35 @@
+[
+    {
+        "Entry": [
+            "shimmer"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "migotanie (np. tafli wody)",
+                            "blask (złota, srebra)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "migotać (o gwiazdach)",
+                            "błyszczeć (o tafli wody)",
+                            "lśnić (o złocie, srebrze)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

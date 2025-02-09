@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "kismet",
+            "kismat"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "los",
+                            "przeznaczenie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

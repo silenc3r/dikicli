@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "dissemination"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozpowszechnianie",
+                            "szerzenie",
+                            "propagowanie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

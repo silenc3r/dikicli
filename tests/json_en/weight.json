@@ -1,0 +1,209 @@
+[
+    {
+        "Entry": [
+            "weight",
+            "Wt",
+            "wt.",
+            "wt"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "waga",
+                            "ciężar (miara tego, ile coś waży)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "These sweets are sold by weight.",
+                                "Translation": "(Te cukierki są sprzedawane na wagę.)"
+                            },
+                            {
+                                "Sentence": "What is the weight of this cheese? I want only 40 grams.",
+                                "Translation": "(Jaka jest waga tego sera? Chcę tylko 40 gram.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "waga (człowieka)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "What is your height and weight?",
+                                "Translation": "(Jaki jest twój wzrost i waga?)"
+                            },
+                            {
+                                "Sentence": "Her weight was dangerously low.",
+                                "Translation": "(Jej waga była niebezpiecznie niska.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ciężar (bycie ciężkim)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My knees buckled under the weight.",
+                                "Translation": "(Kolana ugięły mi się pod wpływem ciężaru.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ciężar (coś ciężkiego)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She won't be able to lift these weights herself.",
+                                "Translation": "(Ona nie będzie w stanie unieść sama tych ciężarów.)"
+                            },
+                            {
+                                "Sentence": "These bags are such a weight, let me help you.",
+                                "Translation": "(Te torby to taki ciężar, pozwól, że ci pomogę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "obciążenie",
+                            "zmartwienie",
+                            "ciężar"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Raising a child is a huge weight for inexperienced people.",
+                                "Translation": "(Wychowywanie dziecka jest dużym obciążeniem dla niedoświadczonych osób.)"
+                            },
+                            {
+                                "Sentence": "Her son causes her a lot of weight.",
+                                "Translation": "(Jej syn przysparza jej wiele zmartwień.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "waga",
+                            "znaczenie",
+                            "ranga"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I didn't realise weight of the meeting.",
+                                "Translation": "(Nie zdawałem sobie sprawy z wagi tego spotkania.)"
+                            },
+                            {
+                                "Sentence": "She attaches too much weight to petty problems.",
+                                "Translation": "(Ona przywiązuje zbyt dużo wagi do błahych problemów.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "duża ilość (czegoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I have a weight of apples in my garden.",
+                                "Translation": "(Mam dużą ilość jabłek w moim ogrodzie.)"
+                            },
+                            {
+                                "Sentence": "My mother bought a weight of food because the shops are closed tomorrow.",
+                                "Translation": "(Moja mama kupiła dużą ilość jedzenia, bo jutro sklepy są zamknięte.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "odważnik",
+                            "ciężarek"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This weight is too heavy for me, I can't lift it.",
+                                "Translation": "(Ten odważnik jest dla mnie za ciężki, nie mogę go unieść.)"
+                            },
+                            {
+                                "Sentence": "I do all exercises with weights - it helps me shape my body.",
+                                "Translation": "(Robię wszystkie ćwiczenia z ciężarkami - to pomaga mi wymodelować ciało.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ciężar",
+                            "ciężarek",
+                            "obciążnik (używany do ćwiczeń)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Lifting weights can be a good exercise for building muscles.",
+                                "Translation": "(Podnoszenie ciężarów może być dobrym ćwiczeniem na budowę mięśni.)"
+                            },
+                            {
+                                "Sentence": "A weight fell on my foot.",
+                                "Translation": "(Ciężarek spadł mi na nogę.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przemawiać",
+                            "przeważać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wagowy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "weight",
+            "weight down"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "obciążać (np. sieć rybacką, łódź)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We can't take this box, it will weight our boat too much.",
+                                "Translation": "(Nie możemy zabrać tego pudła, za bardzo obciąży naszą łódź.)"
+                            },
+                            {
+                                "Sentence": "Too many passengers may weight the ship too much.",
+                                "Translation": "(Zbyt wielu pasażerów może za bardzo obciążyć statek.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

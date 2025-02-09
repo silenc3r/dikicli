@@ -1,0 +1,56 @@
+[
+    {
+        "Entry": [
+            "concord"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zgoda",
+                            "ugoda"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The warring countries have signed a concord.",
+                                "Translation": "(Zwaśnione państwa podpisały ugodę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "konsonans"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "agreement",
+            "agr",
+            "concord"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "związek zgody",
+                            "zgodność",
+                            "kongruencja (np. między podmiotem a orzeczeniem)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

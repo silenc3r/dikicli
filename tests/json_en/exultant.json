@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "exultant"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozradowany",
+                            "przepełniony radością",
+                            "radosny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

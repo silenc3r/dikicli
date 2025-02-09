@@ -1,0 +1,72 @@
+[
+    {
+        "Entry": [
+            "shambles"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bałagan",
+                            "zamieszanie",
+                            "chaos"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This battle was a real shambles.",
+                                "Translation": "(Ta walka to był prawdziwy chaos.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nieporządek",
+                            "bałagan"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "sklep rzeźniczy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "shamble"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "powłóczyć nogami",
+                            "wlec się"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "powłóczenie nogami"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

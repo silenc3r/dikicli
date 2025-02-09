@@ -1,0 +1,67 @@
+[
+    {
+        "Entry": [
+            "ebony"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "heban (drewno)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Ebony is very expensive.",
+                                "Translation": "(Heban jest bardzo drogi.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "heban",
+                            "hebanowiec",
+                            "hurma (drzewo)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Ebony can be found in Africa.",
+                                "Translation": "(Hebanowiec rośnie w Afryce.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kolor hebanowy",
+                            "heban"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "ebony",
+            "ebon"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "hebanowy",
+                            "czarny jak heban"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

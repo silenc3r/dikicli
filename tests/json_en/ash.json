@@ -1,0 +1,72 @@
+[
+    {
+        "Entry": [
+            "ash"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "popiół"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She found her ring in the ashes of the fire.",
+                                "Translation": "(Ona znalazła swój pierścionek w popiele po pożarze.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "jesion"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The cuckoo was perched among the branches of a tall ash.",
+                                "Translation": "(Kukułka była usadowiona wśród gałęzi wysokiego jesionu.)"
+                            },
+                            {
+                                "Sentence": "She sat in the shade of an ash.",
+                                "Translation": "(Ona usiadła w cieniu jesionu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nazwa samogłoski w języku angielskim zapisywanej jako æ (przypomina dźwięk pomiędzy polskim \"a\" oraz \"e\")"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Is there an ash in a word 'cat'?",
+                                "Translation": "(Czy w słowie 'cat' jest samogłoska ash?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "American Shorthair",
+            "ASH"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kot amerykański krótkowłosy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

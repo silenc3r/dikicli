@@ -1,0 +1,26 @@
+[
+    {
+        "Entry": [
+            "tortoise"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "żółw lądowy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Tortoises have hard shells.",
+                                "Translation": "(Żółwie lądowe mają twarde skorupy.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

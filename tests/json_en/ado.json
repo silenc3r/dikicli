@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "ado"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "hałas",
+                            "wrzawa",
+                            "zamieszanie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "Entry": [
+            "lacklustre",
+            "lackluster"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nijaki",
+                            "bez wyrazu",
+                            "bez życia",
+                            "przygasły",
+                            "bez blasku",
+                            "bezbarwny (np. występ, oczy, włosy)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "nudny jak flaki z olejem"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

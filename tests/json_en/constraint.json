@@ -1,0 +1,38 @@
+[
+    {
+        "Entry": [
+            "constraint"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ograniczenie",
+                            "przymus"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The difference between our legal systems, including their procedures, is clearly still a constraint.",
+                                "Translation": "(Wyraźnym ograniczeniem jest nadal różnica między naszymi systemami prawnymi, w tym między stosowanymi w ich ramach procedurami.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "skrępowanie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The constraint we are in disables any further actions.",
+                                "Translation": "(Nasze obecne skrępowanie odbiera nam możliwość działania.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

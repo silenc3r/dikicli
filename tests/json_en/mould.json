@@ -1,0 +1,80 @@
+[
+    {
+        "Entry": [
+            "mould",
+            "mold"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "forma",
+                            "foremka"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "typ (np. osobowości)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "pleśń"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There's mould all over the wall.",
+                                "Translation": "(Pleśń jest na całej ścianie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ziemia próchnicza"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "odlew"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "formować",
+                            "uformować",
+                            "odlewać (np. z gliny, z ciasta, z brązu)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "kształtować",
+                            "ukształtować",
+                            "uformować (np. charakter)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "dopasować",
+                            "dopasowywać się"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "Entry": [
+            "artisan"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rzemieślnik"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I bought this decorative vase from a skilled artisan back in the 80s.",
+                                "Translation": "(Kupiłem tę wazę dekoracyjną od uzdolnionego rzemieślnika w latach 80.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

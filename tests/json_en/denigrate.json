@@ -1,0 +1,38 @@
+[
+    {
+        "Entry": [
+            "denigrate"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "oczerniać (kogoś)",
+                            "uwłaczać (komuś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Nobody should denigrate their own family.",
+                                "Translation": "(Nikt nie powinien oczerniać swojej własnej rodziny.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "umniejszać (wartość lub znaczenie czegoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He denigrated my contribution to this project.",
+                                "Translation": "(On umniejszył mój udział w tym projekcie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

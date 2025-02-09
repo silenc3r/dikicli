@@ -1,0 +1,81 @@
+[
+    {
+        "Entry": [
+            "invalid"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nieprawidłowy",
+                            "nieważny (np. o bilecie, dokumencie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Without this stamp your passport is invalid.",
+                                "Translation": "(Bez tej pieczątki twój paszport jest nieważny.)"
+                            },
+                            {
+                                "Sentence": "He paid a fine for having an invalid ticket.",
+                                "Translation": "(Zapłacił mandat za posiadanie nieważnego biletu.)"
+                            },
+                            {
+                                "Sentence": "The password is invalid.",
+                                "Translation": "(Hasło jest nieprawidłowe.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "niepoprawny",
+                            "niewłaściwy"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "niepełnosprawny (o osobie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "inwalidzki (np. wózek)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "invalid"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "oparty na błędnych przesłankach"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "inwalida",
+                            "chory",
+                            "kaleka"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

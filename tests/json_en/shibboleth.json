@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "shibboleth"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zarzucona idea",
+                            "dawny zwyczaj"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "szybolet",
+                            "łamaniec językowy",
+                            "językołamacz"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

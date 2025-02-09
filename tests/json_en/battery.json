@@ -1,0 +1,90 @@
+[
+    {
+        "Entry": [
+            "battery",
+            "btry"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bateria",
+                            "akumulatorek"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I need to replace the batteries in the remote control.",
+                                "Translation": "(Muszę wymienić baterie w pilocie.)"
+                            },
+                            {
+                                "Sentence": "Her flashlight's batteries were dying.",
+                                "Translation": "(Baterie w jej latarce się wyczerpywały.)"
+                            },
+                            {
+                                "Sentence": "She changed the batteries in her MP3 player.",
+                                "Translation": "(Ona wymieniła baterie w swoim odtwarzaczu MP3.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "akumulator (w samochodzie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My car's got a flat battery.",
+                                "Translation": "(Mój samochód ma rozładowany akumulator.)"
+                            },
+                            {
+                                "Sentence": "I need to replace the battery in my car.",
+                                "Translation": "(Muszę wymienić akumulator w moim aucie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bateria (pododdział artylerii)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "battery",
+            "criminal battery"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pobicie (naruszenie nietykalności cielesnej)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He was arrested for battery.",
+                                "Translation": "(On został aresztowany za pobicie.)"
+                            },
+                            {
+                                "Sentence": "He went to jail for battery.",
+                                "Translation": "(On poszedł do więzienia za pobicie.)"
+                            },
+                            {
+                                "Sentence": "You'd be accused of battery if you hit her.",
+                                "Translation": "(Zostałbyś oskarżony o pobicie jeżeli ją uderzysz.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

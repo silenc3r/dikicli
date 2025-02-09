@@ -1,0 +1,71 @@
+[
+    {
+        "Entry": [
+            "berth"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przystań",
+                            "miejsce postoju statku"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The ship has docked in its berth.",
+                                "Translation": "(Statek zadokował w przystani.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "koja",
+                            "kuszetka (np. na statku)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The captain is in his berth right now.",
+                                "Translation": "(Kapitan jest w tej chwili w swojej koi.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zaokrętowanie",
+                            "synekura"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dobijać do brzegu",
+                            "przycumowywać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We are ready to berth.",
+                                "Translation": "(Jesteśmy gotowi do dobicia do brzegu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przycumować",
+                            "zacumować",
+                            "zakotwiczyć"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

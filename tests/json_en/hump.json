@@ -1,0 +1,150 @@
+[
+    {
+        "Entry": [
+            "hump"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wybrzuszenie",
+                            "garb"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The car slowed down as there were a few humps on the road.",
+                                "Translation": "(Samochód zwolnił, ponieważ na drodze było kilka wybrzuszeń.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "garb (u wielbłąda)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Some camels have two humps, and some only have one.",
+                                "Translation": "(Niektóre wielbłądy mają dwa garby, a niektóre mają tylko jeden.)"
+                            },
+                            {
+                                "Sentence": "It was very uncomfortable to sit on a camel's hump.",
+                                "Translation": "(Bardzo niewygodnie było siedzieć na garbie wielbłąda.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "garb (na czyichś plecach)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Sooner or later you'll get a big hump!",
+                                "Translation": "(Wcześniej czy później dostaniesz wielkiego garba!)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "chandra",
+                            "zły humor"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She's got the hump since you told her she looked fat.",
+                                "Translation": "(Ona ma zły humor od kiedy powiedziałeś jej, że wygląda grubo.)"
+                            },
+                            {
+                                "Sentence": "You really have the hump tonight, haven't you?!",
+                                "Translation": "(Ty naprawdę masz dzisiaj chandrę, prawda?!)"
+                            },
+                            {
+                                "Sentence": "When the weather is so awful I often get humps.",
+                                "Translation": "(Kiedy pogoda jest taka okropna, ja często dostaję chandry.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ruchanie się (uprawianie seksu)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przenosić coś (z trudnością)",
+                            "wysilać się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He's trying to hump those animals again.",
+                                "Translation": "(On znowu próbuje przenieść te zwierzęta.)"
+                            },
+                            {
+                                "Sentence": "My back really hurts after humping all these boxes.",
+                                "Translation": "(Moje plecy naprawdę bolą po noszeniu tych wszystkich pudełek.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ruchać (uprawiać z kimś seks)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The whole school knew he was humping her.",
+                                "Translation": "(Cała szkoła wiedziała, że on z nią sypiał.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "shunting hump",
+            "hump"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "górka rozrządowa"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "get the hump"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wkurzyć się"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

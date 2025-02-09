@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "dimwit",
+            "dim bulb"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "gamoń",
+                            "głupek"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Do you understand what I'm saying, dimwit?",
+                                "Translation": "(Rozumiesz, co mówię, gamoniu?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

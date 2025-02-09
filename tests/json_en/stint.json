@@ -1,0 +1,69 @@
+[
+    {
+        "Entry": [
+            "stint"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "służba (w wojsku)",
+                            "kadencja (na urzędzie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He did a stint in the army.",
+                                "Translation": "(On odbył służbę w wojsku.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "posada",
+                            "praca (czas spędzony na danej czynności)",
+                            "epizod"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She enjoyed her stint as a secretary.",
+                                "Translation": "(Ona lubiła swoją posadę jako sekretarka.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "żałować",
+                            "skąpić (czegoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He never stints on alcohol at his parties.",
+                                "Translation": "(On nigdy nie skąpi alkoholu na swoich przyjęciach.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ograniczać",
+                            "limitować (coś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He doesn't stint himself in spending money.",
+                                "Translation": "(Nie ogranicza się w wydawaniu pieniędzy.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

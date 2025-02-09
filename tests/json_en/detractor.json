@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "detractor"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "krytyk",
+                            "krytykant (osoba wyrażająca nie zawsze uzasadnioną krytykę)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

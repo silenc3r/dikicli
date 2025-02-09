@@ -1,0 +1,145 @@
+[
+    {
+        "Entry": [
+            "hip"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "biodro"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His mother stood with her hands on her hips.",
+                                "Translation": "(Jego matka stała z rękami na biodrach.)"
+                            },
+                            {
+                                "Sentence": "You must swing your hips when you dance salsa.",
+                                "Translation": "(Musisz kołysać biodrami, kiedy tańczysz salsę.)"
+                            },
+                            {
+                                "Sentence": "She moves her hips a lot when she walks.",
+                                "Translation": "(Ona bardzo rusza biodrami, kiedy chodzi.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "modny",
+                            "wypasiony",
+                            "fajny",
+                            "na czasie",
+                            "spoko"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "uszkodzić lub wybić biodro (zwłaszcza zwierzętom hodowlanym)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "hip",
+            "rose hip",
+            "rosehip"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "owoc dzikiej róży"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "historically informed performance",
+            "HIP",
+            "period performance",
+            "authentic performance"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wykonawstwo historyczne",
+                            "autentyzm (kierunek w muzyce)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "Heroic Imagination Project",
+            "HIP"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "Projekt bohaterskiej wyobraźni"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "get hip to something",
+            "be hip to something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "poznawać nowy produkt",
+                            "poznawać nowe zjawisko"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

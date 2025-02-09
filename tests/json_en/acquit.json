@@ -1,0 +1,42 @@
+[
+    {
+        "Entry": [
+            "acquit"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "uniewinniać",
+                            "uniewinnić"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Clinton was acquitted in his impeachment trial.",
+                                "Translation": "(Clinton został uniewinniony w procesie o usunięcie go z urzędu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "uwolnić",
+                            "uwalniać",
+                            "zwolnić",
+                            "zwalniać"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zachowywać się (w określony sposób)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

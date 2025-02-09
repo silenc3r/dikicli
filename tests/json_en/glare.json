@@ -1,0 +1,69 @@
+[
+    {
+        "Entry": [
+            "glare"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "gniewne spojrzenie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She gave us a glare and left.",
+                                "Translation": "(Ona rzuciła nam gniewne spojrzenie i wyszła.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "blask",
+                            "oślepiające światło",
+                            "olśnienie",
+                            "rażenie światłem"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I was blinded by a glare of light.",
+                                "Translation": "(Oślepił mnie blask światła.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wpatrywać się (w kogoś)",
+                            "piorunować wzrokiem"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He glared at her.",
+                                "Translation": "(On spiorunował ją wzrokiem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "razić w oczy",
+                            "oślepiać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The sun constantly glares down on us.",
+                                "Translation": "(Słońce nieustannie nas oślepia.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

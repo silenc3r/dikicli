@@ -1,0 +1,26 @@
+[
+    {
+        "Entry": [
+            "bronchitis"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zapalenie oskrzeli"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He suffered from chronic bronchitis because of smoking.",
+                                "Translation": "(Z powodu palenia on cierpiał na chroniczne zapalenie oskrzeli.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

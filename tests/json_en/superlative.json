@@ -1,0 +1,45 @@
+[
+    {
+        "Entry": [
+            "superlative"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "stopień najwyższy (przymiotnika)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wyraz największego uznania"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His knowledge deserves superlatives.",
+                                "Translation": "(Jego wiedza zasługuje na wyrazy największego uznania.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "doskonały",
+                            "znakomity",
+                            "nieprześcigniony"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

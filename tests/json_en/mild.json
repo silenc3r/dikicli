@@ -1,0 +1,87 @@
+[
+    {
+        "Entry": [
+            "mild"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "łagodny (np. pogoda)",
+                            "umiarkowany (np. klimat)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The winter was very mild this year.",
+                                "Translation": "(W tym roku zima była bardzo łagodna.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "łagodny",
+                            "delikatny (np. o smaku, zapachu, detergencie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I like this mild taste of lemon in your cake.",
+                                "Translation": "(Podoba mi się ten delikatny smak cytryny w twoim cieście.)"
+                            },
+                            {
+                                "Sentence": "Italian coffee has a mild flavour.",
+                                "Translation": "(Włoska kawa ma łagodny smak.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "miły",
+                            "łagodny",
+                            "spokojny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He's always so mild, that's why I like him.",
+                                "Translation": "(Zawsze jest taki miły, to dlatego go lubię.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "łagodny (niepoważny, o chorobie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It was nothing serious, just a mild form of flu.",
+                                "Translation": "(To nie było nic poważnego, tylko łagodna postać grypy.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ciemne piwo"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Do you like drinking mild?",
+                                "Translation": "(Lubisz pić ciemne piwo?)"
+                            },
+                            {
+                                "Sentence": "Can you buy me a bottle of mild?",
+                                "Translation": "(Czy możesz kupić mi butelkę ciemnego piwa?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

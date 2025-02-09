@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "vitriol"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "witriol (związek chemiczny)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "jad",
+                            "zjadliwość",
+                            "uszczypliwość",
+                            "złośliwość"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

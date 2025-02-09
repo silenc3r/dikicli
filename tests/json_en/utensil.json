@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "utensil"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "naczynie",
+                            "narzędzie",
+                            "przyrząd"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

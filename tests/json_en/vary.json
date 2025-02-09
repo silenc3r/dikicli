@@ -1,0 +1,57 @@
+[
+    {
+        "Entry": [
+            "vary"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "różnić się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The hotel rooms vary in size.",
+                                "Translation": "(Pokoje hotelowe różnią się wielkością.)"
+                            },
+                            {
+                                "Sentence": "These lipsticks vary in shade and price.",
+                                "Translation": "(Te szminki różnią się odcieniami i ceną.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zmieniać się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The bus fare varies depending on the time of the day.",
+                                "Translation": "(Opłata za przejazd autobusem zmienia się w zależności od pory dnia.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zmieniać",
+                            "urozmaicać (np. dietę)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You have to vary your diet, you can't eat chicken every day.",
+                                "Translation": "(Musisz urozmaicać swoją dietę, nie możesz jeść kurczaka każdego dnia.)"
+                            },
+                            {
+                                "Sentence": "You should vary your exercises at the gym.",
+                                "Translation": "(Powinieneś urozmaicić swoje ćwiczenia na siłowni.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

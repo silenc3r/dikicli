@@ -1,0 +1,49 @@
+[
+    {
+        "Entry": [
+            "umpire",
+            "umpie",
+            "umpy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sędzia (w sporcie)",
+                            "arbiter (w sprawach prawnych)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The third umpire will make the final decision.",
+                                "Translation": "(Trzeci arbiter podejmie ostateczną decyzję.)"
+                            },
+                            {
+                                "Sentence": "It's not good to argue with umpire.",
+                                "Translation": "(Nie jest dobrze spierać się z sędzią.)"
+                            },
+                            {
+                                "Sentence": "You're the worst umpire in this whole league!",
+                                "Translation": "(Jesteś najgorszym sędzią w całej lidze!)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sędziować (w sporcie)",
+                            "rozstrzygać (sprawy prawne)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

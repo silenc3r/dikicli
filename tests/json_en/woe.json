@@ -1,0 +1,51 @@
+[
+    {
+        "Entry": [
+            "woe"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "cierpienie",
+                            "żałość",
+                            "rozpacz"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He was the cause of my woe.",
+                                "Translation": "(On był powodem mojej rozpaczy.)"
+                            },
+                            {
+                                "Sentence": "I suffer from an unspeakable woe.",
+                                "Translation": "(Cierpię z powodu niewypowiedzianej żałości.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "woe!"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "wykrzyknik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "biada!"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

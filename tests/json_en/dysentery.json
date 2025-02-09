@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "dysentery",
+            "bloody flux"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "czerwonka",
+                            "dyzenteria"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

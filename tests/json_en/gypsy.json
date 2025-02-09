@@ -1,0 +1,53 @@
+[
+    {
+        "Entry": [
+            "Romani",
+            "Romany",
+            "Roma",
+            "Gypsy",
+            "Gipsy",
+            "gipsy",
+            "gypsy",
+            "gypo"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "Rom",
+                            "Romka",
+                            "Cygan",
+                            "Cyganka (osoba pochodzenia romskiego)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "In the past, many Romani lived in this area.",
+                                "Translation": "(W przeszłości wielu Cyganów żyło na tych terenach.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "cygański",
+                            "romski"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Do you know the Romany language?",
+                                "Translation": "(Czy znasz język romski?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

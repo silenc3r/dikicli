@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "malaise"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "apatia",
+                            "niemoc",
+                            "marazm"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

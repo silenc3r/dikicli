@@ -1,0 +1,205 @@
+[
+    {
+        "Entry": [
+            "now",
+            "noo"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "teraz"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I can't talk to you right now.",
+                                "Translation": "(Nie mogę z tobą teraz rozmawiać.)"
+                            },
+                            {
+                                "Sentence": "Where are you now?",
+                                "Translation": "(Gdzie teraz jesteś?)"
+                            },
+                            {
+                                "Sentence": "We have to go now.",
+                                "Translation": "(Musimy teraz iść.)"
+                            },
+                            {
+                                "Sentence": "I'm reading a book now.",
+                                "Translation": "(Czytam teraz książkę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "natychmiast"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I want it done now!",
+                                "Translation": "(Chcę mieć to zrobione natychmiast!)"
+                            },
+                            {
+                                "Sentence": "You have to do it now!",
+                                "Translation": "(Musisz to zrobić natychmiast!)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wreszcie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Now I have some time for myself.",
+                                "Translation": "(Wreszcie mam trochę czasu dla siebie.)"
+                            },
+                            {
+                                "Sentence": "Now he can rest in peace.",
+                                "Translation": "(Wreszcie może spoczywać w pokoju.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "to teraz (używane by przyciągnąć uwagę przed przejściem do kolejnego tematu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Now let's cut to the chase.",
+                                "Translation": "(To teraz przejdźmy do sedna sprawy.)"
+                            },
+                            {
+                                "Sentence": "Now we will talk about something different.",
+                                "Translation": "(To teraz porozmawiamy o czymś innym.)"
+                            },
+                            {
+                                "Sentence": "Now let's look at our results.",
+                                "Translation": "(To teraz spójrzmy na nasze wyniki.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "a więc (używane na początku pytania o informację)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Now, where can I find a post office?",
+                                "Translation": "(A więc gdzie mogę znaleźć pocztę?)"
+                            },
+                            {
+                                "Sentence": "Now, what's the time?",
+                                "Translation": "(A więc która godzina?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zatem (używane jako pauza)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Now, let's take a look at the last month's charts.",
+                                "Translation": "(Zatem, przyjrzyjmy się wykresom z ostatniego miesiąca.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "gdyby (używane by powiedzieć, że gdyby sytuacja była inna, coś innego by się stało)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Now if he was here, we could've asked him.",
+                                "Translation": "(Gdyby on tutaj był, moglibyśmy go zapytać.)"
+                            },
+                            {
+                                "Sentence": "Now if I were younger, I would have been able to dance like this.",
+                                "Translation": "(Gdybym był młodszy, byłbym w stanie tak zatańczyć.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "no już",
+                            "już (używane by kogoś pocieszyć, uspokoić)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Now, don't cry. I am not mad at you.",
+                                "Translation": "(No już, nie płacz. Nie gniewam się na ciebie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "no już (używane, by komuś przypomnieć o czymś albo pospieszyć go)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Go and do your homework, now!",
+                                "Translation": "(Idź i zrób zadanie domowe, no już!)"
+                            },
+                            {
+                                "Sentence": "Why are you still here? You should be in bed, now!",
+                                "Translation": "(Czemu nadal tu jesteś? Powinieneś być w łóżku, no już!)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "now",
+            "now that"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "spójnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ponieważ",
+                            "w wyniku czegoś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I cannot drink now that I'm pregnant.",
+                                "Translation": "(Nie mogę pić ponieważ jestem w ciąży.)"
+                            },
+                            {
+                                "Sentence": "She doesn't hang out with us anymore now that she has a boyfriend.",
+                                "Translation": "(Ona już się z nami nie spotyka, ponieważ ma chłopaka.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "not now"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nie teraz"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,97 @@
+[
+    {
+        "Entry": [
+            "swamped"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bardzo zajęty",
+                            "zawalony robotą",
+                            "po uszy w robocie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I can't help you today. I'm swamped.",
+                                "Translation": "(Nie mogę ci dzisiaj pomóc. Jestem zawalony robotą.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zawiany",
+                            "zaprawiony",
+                            "pijany"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "swamp"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zalewać (okolicę)",
+                            "zatapiać (np. statek)",
+                            "zanurzać (się w wodzie, bagnie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zasypywać (coś śmieciami)",
+                            "zasypywać (kogoś prośbami)",
+                            "zasypywać (spamem)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The streets were swamped with trash.",
+                                "Translation": "(Ulice były zasypane śmieciami.)"
+                            },
+                            {
+                                "Sentence": "My inbox was completely swamped with spam within two days.",
+                                "Translation": "(Moja skrzynka odbiorcza została całkowicie zasypana spamem w ciągu dwóch dni.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zawalić (kogoś pracą, obowiązkami)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'm swamped with work.",
+                                "Translation": "(Jestem zawalony pracą.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "trudna sytuacja",
+                            "kłopotliwa sytuacja"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

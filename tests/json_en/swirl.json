@@ -1,0 +1,64 @@
+[
+    {
+        "Entry": [
+            "swirl"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kłębowisko (np. dymu)",
+                            "kłąb (np. kurzu)",
+                            "wir (wydarzeń)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The smoke was rising up in a swirl.",
+                                "Translation": "(Dym wznosił się w kłębowisku.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zawijas"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He was just drawing some swirls out of boredom.",
+                                "Translation": "(On z nudów po prostu rysował zawijasy.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wirować (o wodzie)",
+                            "kłębić się (o śniegu, dymie)",
+                            "kotłować się (o myślach, emocjach)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The liquid swirled in the cauldron.",
+                                "Translation": "(Ciecz zawirowała w kotle.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "obracać (się)",
+                            "obracać (coś)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

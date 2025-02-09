@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "ointment"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "maść"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She put some herbal ointment on my hand.",
+                                "Translation": "(Ona nałożyła mi trochę ziołowej maści na rękę.)"
+                            },
+                            {
+                                "Sentence": "After rubbing ointment, you'll feel better.",
+                                "Translation": "(Po wtarciu maści poczujesz się lepiej.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

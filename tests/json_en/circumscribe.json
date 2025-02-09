@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "circumscribe"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "określać",
+                            "ograniczać",
+                            "definiować (np. granice, role, władzę)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

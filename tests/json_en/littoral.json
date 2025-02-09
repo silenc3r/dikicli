@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "littoral",
+            "litoral"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nadbrzeżny",
+                            "przymorski"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

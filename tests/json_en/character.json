@@ -1,0 +1,176 @@
+[
+    {
+        "Entry": [
+            "character"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "charakter",
+                            "usposobienie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Your handwriting can tell a lot about your character.",
+                                "Translation": "(Twoje pismo może wiele powiedzieć o twoim charakterze.)"
+                            },
+                            {
+                                "Sentence": "What is the character of this relationship?",
+                                "Translation": "(Jaki jest charakter tej znajomości?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "postać (w książce, filmie, sztuce)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The main character in the film is a girl who runs away from home.",
+                                "Translation": "(Główną postacią w filmie jest dziewczyna, która ucieka z domu.)"
+                            },
+                            {
+                                "Sentence": "Harry Potter is a fictional character.",
+                                "Translation": "(Harry Potter jest postacią fikcyjną.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "natura (np. jakiegoś przedmiotu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The character of war has changed over the last decades.",
+                                "Translation": "(Natura wojny zmieniła się na przestrzeni ostatnich dekad.)"
+                            },
+                            {
+                                "Sentence": "The character of our job is not specific.",
+                                "Translation": "(Natura naszej pracy nie jest doprecyzowana.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "charakter",
+                            "siła charakteru"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Partaking in team sports helps develop character.",
+                                "Translation": "(Uczestnictwo w grach zespołowych pomaga rozwijać charakter.)"
+                            },
+                            {
+                                "Sentence": "She has no character.",
+                                "Translation": "(Ona nie ma siły charakteru.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "specyfika (np. smaku, zapachu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The character of this job is easy to understand.",
+                                "Translation": "(Specyfika tej pracy jest prosta w zrozumieniu.)"
+                            },
+                            {
+                                "Sentence": "The character of this meal doesn't suit me.",
+                                "Translation": "(Nie pasuje mi specyfika tego posiłku.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "reputacja (opinia o kimś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She takes care of her character.",
+                                "Translation": "(Ona dba o swoją reputację.)"
+                            },
+                            {
+                                "Sentence": "This boy has a bad character.",
+                                "Translation": "(Ten chłopiec ma złą reputację.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "znak (na komputerze)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "What does that character mean?",
+                                "Translation": "(Co oznacza ten znak?)"
+                            },
+                            {
+                                "Sentence": "My computer writes characters on its own. I need to get it fixed.",
+                                "Translation": "(Mój komputer sam pisze znaki. Muszę go dać do naprawy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "typ",
+                            "osobnik (zwykle osoba obca, nieszczera)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He's a suspicious character.",
+                                "Translation": "(On jest podejrzanym typem.)"
+                            },
+                            {
+                                "Sentence": "Some character changed my password.",
+                                "Translation": "(Jakiś typ zmienił moje hasło.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pisać",
+                            "wyryć",
+                            "wygrawerować (np. napis)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He charactered her name on the bracelet.",
+                                "Translation": "(On wygrawerował jej imię na bransoletce.)"
+                            },
+                            {
+                                "Sentence": "I asked him to character \"I love you\".",
+                                "Translation": "(Poprosiłem go o wygrawerowanie napisu \"Kocham Cię\".)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przedstawiać",
+                            "opisywać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I want you to character yourself.",
+                                "Translation": "(Chcę, abyś opisał swoją osobę.)"
+                            },
+                            {
+                                "Sentence": "Can you character that picture?",
+                                "Translation": "(Czy możesz opisać ten obrazek?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

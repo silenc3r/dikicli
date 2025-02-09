@@ -1,0 +1,21 @@
+[
+    {
+        "Entry": [
+            "garum"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sos rybny ze sfermentowanych ryb (używany w kuchni starożytnego Rzymu)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

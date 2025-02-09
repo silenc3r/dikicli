@@ -1,0 +1,86 @@
+[
+    {
+        "Entry": [
+            "trifling"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "błahy",
+                            "mało znaczący",
+                            "nieistotny (np. problem)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "trifle"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "lekceważyć",
+                            "żartować",
+                            "igrać (z czymś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Don't trifle with her feelings.",
+                                "Translation": "(Nie igraj z jej uczuciami.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bawić się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He was trifling with his phone the whole time.",
+                                "Translation": "(On cały czas bawił się swoim telefonem.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "deser m.in. z ciasta biszkoptowego, galaretki i owoców (popularny w Anglii)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "stop cyny i ołowiu"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "bagatela",
+                            "drobiazg",
+                            "drobnostka",
+                            "błahostka"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

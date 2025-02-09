@@ -1,0 +1,154 @@
+[
+    {
+        "Entry": [
+            "trump card",
+            "trump"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "atut",
+                            "karta atutowa (kolor będący w stanie przebić inne kolory, np. w brydżu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He saved his trump card for later.",
+                                "Translation": "(On zachował swoją kartę atutową na później.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "trump"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "trąbić (grać na trąbce)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The whole street could hear him trump.",
+                                "Translation": "(Cała ulica słyszała, jak on gra na trąbce.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przebijać atutem (w kartach)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He needs to trump if he wants to win the set.",
+                                "Translation": "(On musi przebić atutem, jeżeli chce wygrać to rozdanie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "górować nad kimś",
+                            "prześcigać",
+                            "przezwyciężać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She trumps over all of them, and is perfectly aware of that.",
+                                "Translation": "(Ona góruje nad nimi wszystkimi, i jest tego w pełni świadoma.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pierdzieć",
+                            "puszczać bąki"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ktoś niezawodny",
+                            "osoba, na której można polegać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "trumpet",
+            "trump"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "trąbka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She plays the trumpet.",
+                                "Translation": "(Ona gra na trąbce.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pojedynczy kwiat w kształcie wydłużonej trąbki (np. pojedynczy żonkil)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozgłaszać",
+                            "odtrąbić (np. zwycięstwo)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Their victory was trumpeted all over the country.",
+                                "Translation": "(Ich zwycięstwo było rozgłaszane w całym kraju.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "trąbić (np. o słoniu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The elephant trumpeted loudly.",
+                                "Translation": "(Słoń głośno zatrąbił.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

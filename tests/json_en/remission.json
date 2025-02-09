@@ -1,0 +1,43 @@
+[
+    {
+        "Entry": [
+            "remission"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "remisja (nowotworu)",
+                            "ustąpienie objawów (choroby)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "złagodzenie (wyroku)",
+                            "zmniejszenie (kary)",
+                            "wcześniejsze zwolnienie (z więzienia)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "umorzenie (długu)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "odpuszczenie (grzechów)",
+                            "darowanie (win)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

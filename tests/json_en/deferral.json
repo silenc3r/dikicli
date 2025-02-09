@@ -1,0 +1,33 @@
+[
+    {
+        "Entry": [
+            "deferment",
+            "deferral"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "odroczenie (służby wojskowej, płatności)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You need to meet certain conditions to apply for a deferral of the payment.",
+                                "Translation": "(Musisz spełnić pewne warunki, żeby ubiegać się o odroczenie płatności.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zawieszenie (wyroku)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

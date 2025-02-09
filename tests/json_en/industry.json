@@ -1,0 +1,69 @@
+[
+    {
+        "Entry": [
+            "industry"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przemysł"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Globally, the tobacco industry is worth US$400 billion.",
+                                "Translation": "(Globalnie, przemysł tytoniowy jest warty 400 miliardów dolarów amerykańskich.)"
+                            },
+                            {
+                                "Sentence": "The publishing industry is still growing.",
+                                "Translation": "(Przemysł wydawniczy wciąż się rozwija.)"
+                            },
+                            {
+                                "Sentence": "The pharmaceutical industry is one of the three most lucrative industries.",
+                                "Translation": "(Przemysł farmaceutyczny jest jedną z trzech najbardziej dochodowych branż.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "branża"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It's a normal thing in our industry.",
+                                "Translation": "(To normalna rzecz w naszej branży.)"
+                            },
+                            {
+                                "Sentence": "I've got lots of experience in the film industry.",
+                                "Translation": "(Mam mnóstwo doświadczenia w branży filmowej.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "branżowy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The industry meeting ran long.",
+                                "Translation": "(Branżowe spotkanie przedłużyło się.)"
+                            },
+                            {
+                                "Sentence": "My company's held an industry party.",
+                                "Translation": "(Moja firma zorganizowała imprezę branżową.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

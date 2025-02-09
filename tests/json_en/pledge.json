@@ -1,0 +1,142 @@
+[
+    {
+        "Entry": [
+            "pledge"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przyrzeczenie",
+                            "obietnica",
+                            "ślubowanie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We shall need no pledge on paper, you and I.",
+                                "Translation": "(My nie potrzebujemy obietnic na papierze.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "deklaracja wsparcia finansowego (dana organizacji)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He gave our company a pledge, but hasn't fulfilled it properly.",
+                                "Translation": "(On złożył deklarację wsparcia finansowego naszej firmie, ale nie wypełnił jej należycie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "gwarancja",
+                            "zastaw",
+                            "zabezpieczenie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She offered her house as a pledge.",
+                                "Translation": "(Ona zaoferowała swój dom jako zabezpieczenie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kandydat na członka korporacji studenckiej (w USA)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "toast"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Let this pledge to partnership be reflected in practice.",
+                                "Translation": "(Niech ten toast za partnerstwo znajdzie swoje odzwierciedlenie w praktyce.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dowód",
+                            "znak czegoś (np. miłości, lojalności)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Accept this as a pledge of my friendship.",
+                                "Translation": "(Przyjmij to w dowód mojej przyjaźni.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przyrzekać",
+                            "ślubować",
+                            "zobowiązywać się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I pledge him my allegiance and offer my services as his second.",
+                                "Translation": "(Przysięgam mu swoją posłuszność i oferuję moje usługi jako jego zastępca.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zastawiać",
+                            "dawać w zastaw"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He tried to pledge our house three years ago.",
+                                "Translation": "(On próbował zastawić nasz dom trzy lata temu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kandydować na członka korporacji studenckiej"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wypić toast za czyjeś zdrowie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "pledge somebody to something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zobowiązywać kogoś do czegoś"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "repugnance"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "odraza",
+                            "wstręt",
+                            "niechęć"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

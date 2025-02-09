@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "extortion"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wymuszenie",
+                            "szantaż",
+                            "wyłudzenie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

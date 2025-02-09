@@ -1,0 +1,97 @@
+[
+    {
+        "Entry": [
+            "vicious"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "narowisty (koń)",
+                            "zły (pies)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Be careful, this horse is vicious.",
+                                "Translation": "(Bądź ostrożny, ten koń jest narowisty.)"
+                            },
+                            {
+                                "Sentence": "The dog was vicious when it saw a burglar.",
+                                "Translation": "(Pies był zły, gdy zobaczył włamywacza.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bezwzględny (np. walka)",
+                            "krwawy (np. zbrodnia)",
+                            "wściekły (np. atak)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This crime was vicious. The victim was tortured.",
+                                "Translation": "(Ta zbrodnia była krwawa. Ofiara była torturowana.)"
+                            },
+                            {
+                                "Sentence": "The crowd was observing the vicious fight between the fighters.",
+                                "Translation": "(Tłum obserwował bezwzględną walkę między wojownikami.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "podły",
+                            "złośliwy",
+                            "nikczemny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Their words were so vicious that she cried.",
+                                "Translation": "(Ich słowa były tak złośliwe, że się popłakała.)"
+                            },
+                            {
+                                "Sentence": "These vicious rumours aren't true!",
+                                "Translation": "(Te podłe plotki nie są prawdziwe!)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zepsuty",
+                            "zdeprawowany"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Your husband is vicious and you don't see it.",
+                                "Translation": "(Twój mąż jest zdeprawowany, a ty tego nie widzisz.)"
+                            },
+                            {
+                                "Sentence": "Their vicious children do what they want!",
+                                "Translation": "(Ich zepsute dzieci robią, co chcą!)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "agresywny",
+                            "brutalny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The criminal was vicious and he hit her many times.",
+                                "Translation": "(Przestępca był brutalny i uderzył ją wiele razy.)"
+                            },
+                            {
+                                "Sentence": "Their vicious father was locked away.",
+                                "Translation": "(Ich agresywny ojciec został zamknięty w więzieniu.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

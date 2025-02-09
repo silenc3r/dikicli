@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "portly"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "tęgi",
+                            "korpulentny",
+                            "postawny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He loves food, which is the reason for his portly figure.",
+                                "Translation": "(On kocha jedzenie, co jest powodem jego tęgiej sylwetki.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

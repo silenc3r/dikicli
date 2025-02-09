@@ -1,0 +1,45 @@
+[
+    {
+        "Entry": [
+            "commence"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozpoczynać",
+                            "rozpocząć",
+                            "wszczynać",
+                            "wszcząć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I hesitated before commencing my speech.",
+                                "Translation": "(Zawahałem się przed rozpoczęciem mojej mowy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rozpoczynać się",
+                            "rozpocząć się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The ceremony will commence at 11 o'clock.",
+                                "Translation": "(Uroczystość rozpocznie się o godzinie 11.)"
+                            },
+                            {
+                                "Sentence": "The exam hasn't commenced yet.",
+                                "Translation": "(Egzamin się jeszcze nie rozpoczął.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

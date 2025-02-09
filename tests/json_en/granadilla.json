@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "granadilla"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pasiflora",
+                            "męczennica jadalna",
+                            "męczennica olbrzymia"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

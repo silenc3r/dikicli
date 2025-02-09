@@ -1,0 +1,92 @@
+[
+    {
+        "Entry": [
+            "tally"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "lista",
+                            "zestawienie (wydatków, przychodów)",
+                            "zapis (np. wydarzeń)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "According to our tally, we spent less money than last month.",
+                                "Translation": "(Zgodnie z naszym zestawieniem, wydaliśmy mniej pieniędzy niż w zeszłym miesiącu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "etykietka",
+                            "nalepka (znakująca)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There was no price on the tally.",
+                                "Translation": "(Nie było ceny na etykietce.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "tabliczka znamionowa (z charakterystyką maszyny, urządzenia)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You will find all the technical data on the tally.",
+                                "Translation": "(Wszystkie dane techniczne można znaleźć na tabliczce znamionowej.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "liczyć (np. głosy)",
+                            "zestawiać (wydatki, przychody)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The votes are still being tallied.",
+                                "Translation": "(Głosy nadal są liczone.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "oznaczać",
+                            "nakładać etykiety"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His main responsibility was to tally the cargo.",
+                                "Translation": "(Jego głównym zadaniem było oznaczanie towaru.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zgadzać się",
+                            "odpowiadać (sobie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His version of events doesn't tally with mine.",
+                                "Translation": "(Jego wersja wypadków nie zgadza się z moją.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "heartburn"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zgaga"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'm getting heartburn just thinking about it.",
+                                "Translation": "(Dostaję zgagi na samą myśl o tym.)"
+                            },
+                            {
+                                "Sentence": "I asked them if they had any heartburn, and they said no.",
+                                "Translation": "(Zapytałem ich czy mieli zgagę i oni powiedzieli, że nie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

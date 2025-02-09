@@ -1,0 +1,196 @@
+[
+    {
+        "Entry": [
+            "swell"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mistrz",
+                            "as",
+                            "macher"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This guy is a swell at what he does.",
+                                "Translation": "(Ten gość to mistrz w tym, co robi.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "elegancik",
+                            "fircyk",
+                            "goguś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I didn't expect a swell like him to behave like that.",
+                                "Translation": "(Nie spodziewałam się, że taki goguś jak on zachowa się w taki sposób.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "swell"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "spuchnąć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "If your knee continues to swell, try putting ice on it.",
+                                "Translation": "(Jeżeli twoje kolano będzie nadal puchło, spróbuj przyłożyć do niego lód.)"
+                            },
+                            {
+                                "Sentence": "His ankle started to swell after he fell down.",
+                                "Translation": "(Jego kostka zaczęła puchnąć, po tym jak upadł.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wzrastać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The population is swelling constantly.",
+                                "Translation": "(Populacja stale wzrasta.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nabrzmiewać",
+                            "nadymać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The blowfish swells when threatened.",
+                                "Translation": "(Ryba rozdymka nabrzmiewa, kiedy jest w zagrożeniu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wzmagać się",
+                            "potęgować się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The wind starts to swell, the storm is coming.",
+                                "Translation": "(Wiatr wzmaga się, nadchodzi burza.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wezbrać (np. o morzu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The sea swelled, we have to go back to the harbor.",
+                                "Translation": "(Morze wezbrało, musimy wracać do portu.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "fala (na morzu)",
+                            "wzburzone morze"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The swell is too big, we cannot go swimming.",
+                                "Translation": "(Fala jest zbyt duża, nie możemy iść popływać.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wzbieranie",
+                            "przyrost",
+                            "narastanie",
+                            "wzrost"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The swell of gas prices has annoyed a lot of drivers.",
+                                "Translation": "(Wzrost cen paliwa zdenerwował wielu kierowców.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "krągłość",
+                            "wypukłość",
+                            "spęcznienie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This swell on my knee worries me.",
+                                "Translation": "(Ta wypukłość na moim kolanie mnie martwi.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "elegancki",
+                            "modny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I wore a swell suit.",
+                                "Translation": "(Miałem na sobie modny garnitur.)"
+                            },
+                            {
+                                "Sentence": "My wife bought a swell dress.",
+                                "Translation": "(Moja żona kupiła elegancką sukienkę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "fajny",
+                            "pierwszorzędny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It was a swell party.",
+                                "Translation": "(To była fajna impreza.)"
+                            },
+                            {
+                                "Sentence": "She prepared a swell dinner for me.",
+                                "Translation": "(Przygotowała dla mnie pierwszorzędny obiad.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

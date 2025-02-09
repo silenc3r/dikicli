@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "restitution"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zwrot mienia",
+                            "rekompensata",
+                            "restytucja"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

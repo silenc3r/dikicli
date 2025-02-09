@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "crass"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "prostacki",
+                            "chamski (np. osoba, zachowanie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "rażący",
+                            "bezdenny (np. ignorancja, głupota)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

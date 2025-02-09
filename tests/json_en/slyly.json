@@ -1,0 +1,24 @@
+[
+    {
+        "Entry": [
+            "slyly",
+            "slily"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przebiegle",
+                            "sprytnie",
+                            "chytrze"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

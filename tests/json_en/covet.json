@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "covet"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pragnąć",
+                            "patrzeć z zazdrością"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

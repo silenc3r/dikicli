@@ -1,0 +1,132 @@
+[
+    {
+        "Entry": [
+            "distress"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ból",
+                            "cierpienie",
+                            "rozpacz"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I didn't mean to cause you distress.",
+                                "Translation": "(Nie chciałem sprawić ci bólu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nędza",
+                            "życie w nędzy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They live in utter distress.",
+                                "Translation": "(Oni żyją w skończonej nędzy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "niebezpieczeństwo"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She was a lady in distress and I helped her.",
+                                "Translation": "(Była kobietą w niebezpieczeństwie, a ja jej pomogłem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ciężki stan",
+                            "wyczerpanie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You shouldn't move, being in such distress.",
+                                "Translation": "(W takim ciężkim stanie nie powinieneś się ruszać.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dystres",
+                            "szkodliwy stres"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zmartwić",
+                            "sprawić ból",
+                            "przygnębić",
+                            "przygnębiać",
+                            "doskwierać",
+                            "trapić"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I don't think you should distress yourself too much, Miss Morland.",
+                                "Translation": "(Proszę się nie zamartwiać za bardzo, panno Morland.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "distrainment",
+            "distraint",
+            "distress"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zajęcie sądowe",
+                            "obłożenie aresztem"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "distress oneself"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zamartwiać się"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

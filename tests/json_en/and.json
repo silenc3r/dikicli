@@ -1,0 +1,114 @@
+[
+    {
+        "Entry": [
+            "and",
+            "'n'"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "spójnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "i (np. w \"on i ona\")",
+                            "oraz"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Tom yawned and smiled.",
+                                "Translation": "(Tom ziewnął i uśmiechnął się.)"
+                            },
+                            {
+                                "Sentence": "And what did she say?",
+                                "Translation": "(I co ona powiedziała?)"
+                            },
+                            {
+                                "Sentence": "I like both cats and dogs.",
+                                "Translation": "(Lubię i koty, i psy.)"
+                            },
+                            {
+                                "Sentence": "She is a good wife and a mother.",
+                                "Translation": "(Jest dobrą żoną oraz matką.)"
+                            },
+                            {
+                                "Sentence": "I bought apples, bananas and oranges.",
+                                "Translation": "(Kupiłam jabłka, banany oraz pomarańcze.)"
+                            },
+                            {
+                                "Sentence": "He speaks Swedish and Norwegian.",
+                                "Translation": "(On umie mówić po Szwedzku oraz Norwesku.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "And you?"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "A ty?"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "\"Hello, Mike, how are you?\" \"Fine, thank you. And you?\"",
+                                "Translation": "(\"Cześć, Mike, jak się masz?\" \"W porządku, dziękuję. A ty?\")"
+                            },
+                            {
+                                "Sentence": "I'll have a steak. And you?",
+                                "Translation": "(Ja zjem stek. A ty?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "them and us"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "oni i my (używane, by określić konflikty lub nieporozumienia, często między grupami społecznymi)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "you and yours"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ty i twoi najbliżsi"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,188 @@
+[
+    {
+        "Entry": [
+            "Fang",
+            "Fan"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "nazwa własna",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "Fangowie",
+                            "Fang",
+                            "Fan",
+                            "Pahuin",
+                            "Pangwe (afrykańska grupa etniczna z grupy językowej Bantu)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "język fang",
+                            "pahouin"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "fan",
+            "supporter"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kibic"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The stadium was full of fans.",
+                                "Translation": "(Stadion był pełen kibiców.)"
+                            },
+                            {
+                                "Sentence": "The team supporters were hoping for a win.",
+                                "Translation": "(Kibice zespołu mieli nadzieję na wygraną.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "fan",
+                            "miłośnik"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'm a big fan of pop music.",
+                                "Translation": "(Jestem wielką fanką muzyki pop.)"
+                            },
+                            {
+                                "Sentence": "I bought this book for my father - he's a fan of that writer.",
+                                "Translation": "(Kupiłem tę książkę mojemu ojcu - jest fanem tego pisarza.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "fan"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wentylator"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He turned on the fan.",
+                                "Translation": "(On włączył wentylator.)"
+                            },
+                            {
+                                "Sentence": "It was so hot that we had to buy a fan.",
+                                "Translation": "(Było tak gorąco, że musieliśmy kupić wentylator.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wiatrak (do chłodzenia komputera)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This fan is too loud - I need to replace it.",
+                                "Translation": "(Ten wiatrak jest zbyt głośny - muszę go wymienić.)"
+                            },
+                            {
+                                "Sentence": "The fan in my computer broke down and the CPU burned.",
+                                "Translation": "(Wiatrak w moim komputerze się zepsuł i procesor się spalił.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wachlarz"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I used my road map as a fan.",
+                                "Translation": "(Użyłem mojej mapy drogowej jako wachlarza.)"
+                            },
+                            {
+                                "Sentence": "Japanese fans are very stylish.",
+                                "Translation": "(Japońskie wachlarze są bardzo stylowe.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wachlować",
+                            "dmuchać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She fanned herself with a newspaper.",
+                                "Translation": "(Ona wachlowała się gazetą.)"
+                            },
+                            {
+                                "Sentence": "It was so hot I started fanning myself.",
+                                "Translation": "(Było tak gorąco, że zacząłem się wachlować.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "podsycać (np. emocje, ogień)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The wind fanned the flames.",
+                                "Translation": "(Wiatr podsycił ogień.)"
+                            },
+                            {
+                                "Sentence": "That argument only fanned our emotions.",
+                                "Translation": "(Ta kłótnia tylko podsyciła nasze emocje.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przeszukać podejrzanego",
+                            "zrobić podejrzanemu rewizję"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I have to fan the suspect.",
+                                "Translation": "(Muszę przeszukać podejrzanego.)"
+                            },
+                            {
+                                "Sentence": "He acts strangely, fan him.",
+                                "Translation": "(On dziwnie się zachowuje, zróbcie mu rewizję.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

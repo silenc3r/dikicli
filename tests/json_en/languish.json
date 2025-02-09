@@ -1,0 +1,40 @@
+[
+    {
+        "Entry": [
+            "languish"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "stracić animusz",
+                            "werwę",
+                            "podupaść",
+                            "podupadać"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "marnieć",
+                            "gnić",
+                            "popaść w zapomnienie",
+                            "poniewierać się (np. osoba, przedmiot)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "tęsknić",
+                            "usychać z tęsknoty za kimś"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

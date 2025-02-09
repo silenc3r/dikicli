@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "musty"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pachnący stęchlizną",
+                            "zatęchły",
+                            "stęchły"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "przestarzały",
+                            "trącący myszką"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

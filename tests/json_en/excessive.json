@@ -1,0 +1,43 @@
+[
+    {
+        "Entry": [
+            "excessive"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nadmierny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The police used excessive violence.",
+                                "Translation": "(Policja użyła nadmiernej przemocy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wygórowany"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The price was too excessive.",
+                                "Translation": "(Cena była zbyt wygórowana.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ponadnormatywny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

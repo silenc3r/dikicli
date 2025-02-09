@@ -1,0 +1,78 @@
+[
+    {
+        "Entry": [
+            "slim"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szczupły"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She's very slim.",
+                                "Translation": "(Ona jest bardzo szczupła.)"
+                            },
+                            {
+                                "Sentence": "I simply love slim girls!",
+                                "Translation": "(Po prostu uwielbiam szczupłe dziewczyny!)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nikły",
+                            "niewielki (np. zapasy, dochody)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "cienki",
+                            "płaski (np. książka)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "odchudzać się"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "get slim",
+            "become smaller",
+            "get thinner",
+            "get slender",
+            "become lean"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wyszczupleć"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

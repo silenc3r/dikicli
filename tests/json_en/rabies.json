@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "rabies"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wścieklizna"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Rabies can be fatal if it isn't detected early.",
+                                "Translation": "(Wścieklizna może być śmiertelna, jeśli nie zostanie wcześnie wykryta.)"
+                            },
+                            {
+                                "Sentence": "Rabies is still a significant problem in many countries of the world.",
+                                "Translation": "(Wścieklizna jest wciąż istotnym problemem w wielu państwach na świecie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

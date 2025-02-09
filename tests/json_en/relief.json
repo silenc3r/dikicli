@@ -1,0 +1,91 @@
+[
+    {
+        "Entry": [
+            "relief"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ulga"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She breathed a sigh of relief.",
+                                "Translation": "(Ona odetchnęła z ulgą.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ulga",
+                            "ukojenie",
+                            "złagodzenie (bólu)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wsparcie",
+                            "pomoc",
+                            "pomoc humanitarna",
+                            "zapomoga (udzielona potrzebującym, np. w postaci ubrań)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zmiana (pracownicy zastępujący poprzednią zmianę)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "relief",
+            "relievo"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "płaskorzeźba",
+                            "relief"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "topographical relief",
+            "terrain",
+            "relief"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rzeźba terenu"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

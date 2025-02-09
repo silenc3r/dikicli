@@ -1,0 +1,67 @@
+[
+    {
+        "Entry": [
+            "weld"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "spajać",
+                            "spawać",
+                            "zgrzać"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zespolić",
+                            "zjednoczyć (np. narody, grupy społeczne)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "spawanie",
+                            "spoina",
+                            "zgrzeina"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "dyer's rocket",
+            "dyer's weed",
+            "weld",
+            "woold",
+            "yellow weed",
+            "reseda luteola"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rezeda żółtawa (gatunek rośliny)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

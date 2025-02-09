@@ -1,0 +1,128 @@
+[
+    {
+        "Entry": [
+            "court"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sąd"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I will see you in court.",
+                                "Translation": "(Zobaczymy się w sądzie.)"
+                            },
+                            {
+                                "Sentence": "I'm always stressed when I'm in court.",
+                                "Translation": "(Zawsze się stresuję, kiedy jestem w sądzie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kort (np. tenisowy)",
+                            "boisko (np. do siatkówki)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They were all on the court at the end of the game.",
+                                "Translation": "(Oni wszyscy byli na korcie na końcu meczu.)"
+                            },
+                            {
+                                "Sentence": "I booked a tennis court for us.",
+                                "Translation": "(Zarezerwowałem dla nas kort tenisowy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dwór (królewski)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Those dresses were very popular at the royal court.",
+                                "Translation": "(Tamte sukienki były bardzo popularne na królewskim dworze.)"
+                            },
+                            {
+                                "Sentence": "I worked at the royal court for 3 years.",
+                                "Translation": "(Pracowałam na dworze królewskim przez 3 lata.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dziedziniec"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There's a beautiful garden in the court.",
+                                "Translation": "(Na dziedzińcu jest piękny ogród.)"
+                            },
+                            {
+                                "Sentence": "I met him at the court in front of the school.",
+                                "Translation": "(Spotkałem go na dziedzińcu przed szkołą.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "czółenko (rodzaj buta)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "No one wears courts these days.",
+                                "Translation": "(Nikt już nie nosi czółenek.)"
+                            },
+                            {
+                                "Sentence": "These black courts are nice.",
+                                "Translation": "(Te czarne czółenka są ładne.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zabiegać (o coś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He's been courting fame since he was a child.",
+                                "Translation": "(On zabiegał o sławę od dziecka.)"
+                            },
+                            {
+                                "Sentence": "Mark is courting the teacher's respect.",
+                                "Translation": "(Mark zabiega o szacunek swojego nauczyciela.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zalecać się do",
+                            "umizgiwać się do",
+                            "smalić cholewki do"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He was shamelessly courting her.",
+                                "Translation": "(On bezwstydnie się do niej zalecał.)"
+                            },
+                            {
+                                "Sentence": "He always courts every girl he meets.",
+                                "Translation": "(On zawsze zaleca się do każdej dziewczyny, którą pozna.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

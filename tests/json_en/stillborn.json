@@ -1,0 +1,34 @@
+[
+    {
+        "Entry": [
+            "stillborn"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "martwo urodzony (o noworodku)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "nieskuteczny",
+                            "niepostępujący",
+                            "bezowocny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It was a stillborn effort.",
+                                "Translation": "(To był bezowocny wysiłek.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

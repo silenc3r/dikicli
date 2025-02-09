@@ -1,0 +1,36 @@
+[
+    {
+        "Entry": [
+            "conscience"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sumienie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Very few guys could actually live with that on their conscience.",
+                                "Translation": "(Niewielu ludzi mogłoby właściwie żyć z czymś takim na sumieniu.)"
+                            },
+                            {
+                                "Sentence": "Everyone has the right to freedom of religion, conscience and thought.",
+                                "Translation": "(Każdy ma prawo do wolności wyznania, sumienia i myśli.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "świadomość"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

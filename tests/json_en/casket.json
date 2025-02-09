@@ -1,0 +1,85 @@
+[
+    {
+        "Entry": [
+            "coffin",
+            "casket"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "trumna"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Why would someone put a music box in a coffin?",
+                                "Translation": "(Czemu ktoś miałby umieścić pozytywkę w trumnie?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "casket"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szkatułka (np. na biżuterię)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She keeps her jewellry in a casket in her bedroom.",
+                                "Translation": "(Ona trzyma swoją biżuterię w szkatułce w swojej sypialni.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "urna (na prochy zmarłego)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They put his ashes in a casket.",
+                                "Translation": "(Jego prochy zostały wsypane do urny.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "umieszczać w trumnie (np. ciało)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "umieszczać w szkatułce (np. biżuterię)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "umieszczać w urnie (np. prochy zmarłego)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

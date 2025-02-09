@@ -1,0 +1,35 @@
+[
+    {
+        "Entry": [
+            "Jacob",
+            "Jake"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "nazwa własna",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "Jakub (imię męskie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Jacob and his family are going south in the morning.",
+                                "Translation": "(Jakub wraz z rodziną wyruszają z rana na południe.)"
+                            },
+                            {
+                                "Sentence": "Jacob, I know you have something to say to me.",
+                                "Translation": "(Jakub, wiem, że chcesz mi coś powiedzieć.)"
+                            },
+                            {
+                                "Sentence": "My boss's name is Jacob.",
+                                "Translation": "(Mój szef ma na imię Jakub.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "Entry": [
+            "incumbent"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "osoba piastująca urząd"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "In order to be a good mayor, the incumbent should care about their citizens.",
+                                "Translation": "(Żeby być dobrym burmistrzem, osoba piastująca urząd powinna dbać o swoich obywateli.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "beneficjent"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "obowiązujący (kogoś)",
+                            "ciążący (na kimś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We believe that it is incumbent on us to improve the market for our citizens.",
+                                "Translation": "(Uważamy, że spoczywa na nas obowiązek usprawnienia rynku dla dobra obywateli.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

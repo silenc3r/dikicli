@@ -1,0 +1,33 @@
+[
+    {
+        "Entry": [
+            "turmoil"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "hałas",
+                            "wrzawa",
+                            "zamieszanie",
+                            "chaos"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He got lost in the turmoil of the attack.",
+                                "Translation": "(On zgubił się w chaosie natarcia.)"
+                            },
+                            {
+                                "Sentence": "I heard some turmoil through the window.",
+                                "Translation": "(Uslyszałem przez okno jakiś hałas.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

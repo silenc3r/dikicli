@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "femur",
+            "thighbone",
+            "thigh bone"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kość udowa"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He has a femur fracture.",
+                                "Translation": "(On ma złamanie kości udowej.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

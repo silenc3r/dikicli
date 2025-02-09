@@ -1,0 +1,26 @@
+[
+    {
+        "Entry": [
+            "aphasia"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "afazja (ograniczenie lub utrata zdolności mówienia lub rozumienia mowy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She suffers from aphasia since the car accident.",
+                                "Translation": "(Ona cierpi na afazję od czasu wypadku samochodowego.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

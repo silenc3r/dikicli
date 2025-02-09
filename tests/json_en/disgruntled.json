@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "disgruntled"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "gderliwy",
+                            "malkontencki"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "niezadowolony",
+                            "rozczarowany",
+                            "zawiedziony"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

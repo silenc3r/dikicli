@@ -1,0 +1,61 @@
+[
+    {
+        "Entry": [
+            "sucker"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "naiwniak",
+                            "frajer",
+                            "głupek",
+                            "głąb"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Shut up, you sucker!",
+                                "Translation": "(Zamknij się, ty głupku!)"
+                            },
+                            {
+                                "Sentence": "You really sold it for 10 bucks? Sucker!",
+                                "Translation": "(Naprawdę sprzedałeś to za 10 dolców? Frajer!)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przyssawka (u insektów)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "lizak"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "pęd",
+                            "odrośl",
+                            "kiełek (u roślin)",
+                            "boczny pęd",
+                            "wilk"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "przyssawka (gumowa)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

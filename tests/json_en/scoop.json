@@ -1,0 +1,142 @@
+[
+    {
+        "Entry": [
+            "scoop",
+            "scoopful"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "gałka",
+                            "łyżka (miara; ilość czegoś, co mieści się w łyżce lub gałkownicy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I got you a large scoop of chocolate ice cream.",
+                                "Translation": "(Kupiłem ci dużą gałkę lodów czekoladowych.)"
+                            },
+                            {
+                                "Sentence": "One scoop of mashed potatoes for me, please.",
+                                "Translation": "(Dla mnie poproszę jedną gałkę tłuczonych ziemniaków.)"
+                            },
+                            {
+                                "Sentence": "I'll have two scoops of strawberry ice cream.",
+                                "Translation": "(Poproszę dwie gałki lodów truskawkowych.)"
+                            },
+                            {
+                                "Sentence": "I'll have two scoops of chocolate ice cream, please.",
+                                "Translation": "(Poproszę dwie łyżki lodów czekoladowych.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "scoop"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "łyżka do lodów",
+                            "gałkownica"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "bomba",
+                            "sensacyjny materiał"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This is the scoop that will get me promoted.",
+                                "Translation": "(To jest ten sensacyjny materiał, który zapewni mi awans.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "informacje"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "szybki zysk"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "duży zysk osiągnięty szybko"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "opublikować wcześniej niż inni (np. sensacyjny materiał)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "nabierać (np. łyżką, dłonią)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He scooped the ice cream and put it in a cone.",
+                                "Translation": "(On nabrał lody i nałożył je do rożka.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zgarnąć (np. nagrodę)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She scooped up the main prize.",
+                                "Translation": "(Ona zgarnęła główną nagrodę.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "get a scoop"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zdobyć sensacyjny materiał"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

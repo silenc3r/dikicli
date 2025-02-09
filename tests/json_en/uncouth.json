@@ -1,0 +1,36 @@
+[
+    {
+        "Entry": [
+            "uncouth"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nieokrzesany"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He's an uncouth but talented man.",
+                                "Translation": "(On jest nieokrzesanym, ale inteligentnym człowiekiem.)"
+                            },
+                            {
+                                "Sentence": "Why do you behave in such an uncouth way?",
+                                "Translation": "(Dlaczego zachowujesz się w taki nieokrzesany sposób?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nieznany"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

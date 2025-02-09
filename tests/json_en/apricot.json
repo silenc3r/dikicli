@@ -1,0 +1,46 @@
+[
+    {
+        "Entry": [
+            "apricot"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "morela"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She always eats an apricot after breakfast.",
+                                "Translation": "(Ona zawsze je morelę po śniadaniu.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "morelowy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I love apricot ice cream.",
+                                "Translation": "(Uwielbiam morelowe lody.)"
+                            },
+                            {
+                                "Sentence": "Have you just eaten an apricot yogurt?",
+                                "Translation": "(Czy ty właśnie zjadłeś morelowy jogurt?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

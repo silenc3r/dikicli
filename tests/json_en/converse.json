@@ -1,0 +1,104 @@
+[
+    {
+        "Entry": [
+            "converse"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozmawiać",
+                            "porozmawiać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He was conversing with another man.",
+                                "Translation": "(On rozmawiał z innym mężczyzną.)"
+                            },
+                            {
+                                "Sentence": "Can you converse a little quieter?",
+                                "Translation": "(Czy możecie rozmawiać trochę ciszej?)"
+                            },
+                            {
+                                "Sentence": "I would rather we converse privately.",
+                                "Translation": "(Chciałbym, abyśmy porozmawiali na osobności.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "converse"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "odwrotność"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "No matter what you ask of him, he will always do the converse.",
+                                "Translation": "(Bez względu na to, czego od niego oczekujesz, on zawsze postąpi odwrotnie.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przeciwny",
+                            "odwrotny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "No matter what I say, he always takes a converse position.",
+                                "Translation": "(Bez względu na to co powiem, on zawsze zajmuje przeciwne stanowisko.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "Converse"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "nazwa własna",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "Converse (producent butów)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Converse sells sneakers.",
+                                "Translation": "(Converse sprzedaje trampki.)"
+                            },
+                            {
+                                "Sentence": "He bought new shoes made by Converse.",
+                                "Translation": "(On kupił nowe buty zrobione przez Converse.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

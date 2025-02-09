@@ -1,0 +1,24 @@
+[
+    {
+        "Entry": [
+            "exacerbate"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pogarszać",
+                            "zaostrzać",
+                            "powodować nasilenie",
+                            "powodować pogorszenie (np. samopoczucia)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "Entry": [
+            "vicinity"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bliskość"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His vicinity doesn't make me feel safe.",
+                                "Translation": "(Jego bliskość sprawia, że nie czuję się bezpieczna.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "otoczenie",
+                            "pobliże",
+                            "sąsiedztwo",
+                            "okolica"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I believe we should first deal with the situation in our immediate vicinity.",
+                                "Translation": "(Uważam, że najpierw trzeba zadbać o to, co dzieje się w naszym najbliższym otoczeniu.)"
+                            },
+                            {
+                                "Sentence": "There should be a bus stop in this vicinity.",
+                                "Translation": "(Gdzieś w tej okolicy powinien znajdować się przystanek autobusowy.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

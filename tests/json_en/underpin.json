@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "underpin"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wspierać",
+                            "podpierać (konstrukcję)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wzmacniać (czyjąś pozycję)",
+                            "podtrzymywać (rozwój czegoś)",
+                            "popierać (coś dowodami)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

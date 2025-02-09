@@ -1,0 +1,344 @@
+[
+    {
+        "Entry": [
+            "are"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "są (forma czasownika \"be\")"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "are"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ar (jednostka powierzchni)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "be"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "być",
+                            "bywać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I am Tom.",
+                                "Translation": "(Jestem Tom.)"
+                            },
+                            {
+                                "Sentence": "This is a dog.",
+                                "Translation": "(To jest pies.)"
+                            },
+                            {
+                                "Sentence": "Where are you?",
+                                "Translation": "(Gdzie jesteś?)"
+                            },
+                            {
+                                "Sentence": "I am a student.",
+                                "Translation": "(Jestem studentem.)"
+                            },
+                            {
+                                "Sentence": "He is young.",
+                                "Translation": "(On jest młody.)"
+                            },
+                            {
+                                "Sentence": "She is smart.",
+                                "Translation": "(Ona jest mądra.)"
+                            },
+                            {
+                                "Sentence": "It is a car.",
+                                "Translation": "(To jest samochód.)"
+                            },
+                            {
+                                "Sentence": "She can be sad.",
+                                "Translation": "(Bywa smutna.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "is"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "jest (forma czasownika \"be\")"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He is a doctor.",
+                                "Translation": "(On jest lekarzem.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "am"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "jestem"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I am John.",
+                                "Translation": "(Jestem John.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "being"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "istnienie",
+                            "byt",
+                            "jestestwo"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "What's the point of being?",
+                                "Translation": "(Jaki jest cel istnienia?)"
+                            },
+                            {
+                                "Sentence": "I sometimes question my being.",
+                                "Translation": "(Czasami kwestionuję swoje jestestwo.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "istota",
+                            "stworzenie",
+                            "jestestwo"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A human is a thinking being.",
+                                "Translation": "(Człowiek jest istotą myślącą.)"
+                            },
+                            {
+                                "Sentence": "Every human being has a conscience.",
+                                "Translation": "(Każda istota ludzka posiada sumienie.)"
+                            },
+                            {
+                                "Sentence": "Every human being has a right to live.",
+                                "Translation": "(Każda ludzka istota ma prawo do życia.)"
+                            },
+                            {
+                                "Sentence": "People are mortal beings.",
+                                "Translation": "(Ludzie są śmiertelnymi istotami.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bycie",
+                            "będąc (forma imiesłowu czasu teraźniejszego czasownika \"be\", używane, by pokazać powód czegoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Being a quiet sort of person, I didn't want to get involved.",
+                                "Translation": "(Będąc spokojnym człowiekiem nie chciałem się angażować.)"
+                            },
+                            {
+                                "Sentence": "Being at work, she couldn't pick up her child from school.",
+                                "Translation": "(Będąc w pracy, ona nie mogła odebrać swojego dziecka ze szkoły.)"
+                            },
+                            {
+                                "Sentence": "Being a short woman, she always wears high heels.",
+                                "Translation": "(Będąc niską kobietą, ona zawsze nosi szpilki.)"
+                            },
+                            {
+                                "Sentence": "Being here has taught me a lot of things.",
+                                "Translation": "(Bycie tutaj nauczyło mnie wielu rzeczy.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "they are",
+            "they're"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "oni są"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "one są"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "we are",
+            "we're"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "my jesteśmy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "you are",
+            "you're",
+            "yer",
+            "ur"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ty jesteś"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wy jesteście"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "'re"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "skrót od 'are'"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "advance copy",
+            "advance reading copy",
+            "advance review copy",
+            "advance reader's edition",
+            "reader's edition",
+            "ARE",
+            "ARC"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "egzemplarz sygnalny",
+                            "egzemplarz okazowy (książki)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

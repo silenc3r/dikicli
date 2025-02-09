@@ -1,0 +1,73 @@
+[
+    {
+        "Entry": [
+            "singular"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wybitny",
+                            "szczególny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It was a singular achievement.",
+                                "Translation": "(To było niezwykle osiągnięcie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dziwny (o osobie)",
+                            "niezwykły (o wydarzeniu)",
+                            "osobliwy (o zachowaniu)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "singular",
+            "sg",
+            "SG"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pojedynczy",
+                            "w liczbie pojedynczej (np. rzeczownik)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "liczba pojedyncza (rzeczownika)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "What is the singular form of the word \"mice\"?",
+                                "Translation": "(Jaka jest pojedyncza forma słowa \"myszy\"?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "Entry": [
+            "indulgence",
+            "indulgement"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pobłażanie",
+                            "folgowanie",
+                            "folga",
+                            "uleganie",
+                            "dogadzanie sobie"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zaspokojenie",
+                            "oddawanie się (namiętności)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "pobłażliwość",
+                            "wyrozumiałość"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "odpust"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

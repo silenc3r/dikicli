@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "laryngitis"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zapalenie krtani"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Four hours of singing practice every day and now I have laryngitis!",
+                                "Translation": "(Cztery godziny ćwiczeń śpiewu każdego dnia, a teraz mam zapalenie krtani!)"
+                            },
+                            {
+                                "Sentence": "Her laryngitis turned into pneumonia.",
+                                "Translation": "(Jej zapalenie krtani zamieniło się w zapalenie płuc.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

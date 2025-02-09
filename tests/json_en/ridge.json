@@ -1,0 +1,83 @@
+[
+    {
+        "Entry": [
+            "ridge"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "krawędź",
+                            "brzeg"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She saw the ridge road going off to the right.",
+                                "Translation": "(Ona widziała, że droga na brzegu skręcała w prawo.)"
+                            },
+                            {
+                                "Sentence": "I cut my finger with a ridge of glass.",
+                                "Translation": "(Skaleczyłam palec krawędzią szkła.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "grzbiet (górski)",
+                            "grań",
+                            "kalenica"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My parents' house is on the other side of the ridge.",
+                                "Translation": "(Dom moich rodziców stoi po drugiej stronie grani.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pas gleby"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "klin wysokiego ciśnienia"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "radlina",
+                            "redlina (niezbyt wysoki wał między dwiema bruzdami)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "ridge",
+            "region of increased gene expression"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rejon wzmożonej ekspresji genów"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

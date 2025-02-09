@@ -1,0 +1,24 @@
+[
+    {
+        "Entry": [
+            "languid"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "omdlewający",
+                            "powolny",
+                            "ospały",
+                            "rozwlekły (np. ruch, głos, gest)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

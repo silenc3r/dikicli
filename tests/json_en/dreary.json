@@ -1,0 +1,62 @@
+[
+    {
+        "Entry": [
+            "dreary",
+            "drear"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nudny",
+                            "drętwy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The party was dreary so I left early.",
+                                "Translation": "(Impreza była drętwa, więc wcześnie wyszedłem.)"
+                            },
+                            {
+                                "Sentence": "My life is so dreary these days.",
+                                "Translation": "(Ostatnimi czasy moje życie jest takie nudne.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ponury (pogoda, krajobraz)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This dreary landscape makes me sad.",
+                                "Translation": "(Ten ponury krajobraz mnie zasmuca.)"
+                            },
+                            {
+                                "Sentence": "Today's weather is dreary and depressing.",
+                                "Translation": "(Dzisiejsza pogoda jest ponura i przygnębiająca.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "posępny (osoba)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "No one likes dreary people.",
+                                "Translation": "(Nikt nie lubi posępnych osób.)"
+                            },
+                            {
+                                "Sentence": "Nick was so dreary that he spoiled my mood.",
+                                "Translation": "(Nick był tak posępny, że zepsuł mi humor.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

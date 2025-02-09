@@ -1,0 +1,24 @@
+[
+    {
+        "Entry": [
+            "fidgety"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nerwowy",
+                            "niespokojny",
+                            "niecierpliwy",
+                            "ruchliwy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

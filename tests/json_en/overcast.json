@@ -1,0 +1,58 @@
+[
+    {
+        "Entry": [
+            "overcast"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zachmurzony"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The night was dark and overcast.",
+                                "Translation": "(Noc była ciemna i pochmurna.)"
+                            },
+                            {
+                                "Sentence": "The sky had suddenly become overcast.",
+                                "Translation": "(Niebo się nagle zachmurzyło.)"
+                            },
+                            {
+                                "Sentence": "The rain had stopped, but it was still overcast.",
+                                "Translation": "(Deszcz przestał padać, ale ciągle było pochmurno.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zachmurzyć się",
+                            "pociemnieć",
+                            "zacieniać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zachmurzenie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

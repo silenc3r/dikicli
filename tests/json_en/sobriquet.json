@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "sobriquet",
+            "soubriquet"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przydomek",
+                            "przezwisko"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

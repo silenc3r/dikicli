@@ -1,0 +1,71 @@
+[
+    {
+        "Entry": [
+            "nudge",
+            "nug"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szturchaniec",
+                            "kuksaniec"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "All I did was give your uncle a little nudge out of the door.",
+                                "Translation": "(Wszystko, co zrobiłem, to dałem twojemu wujowi drobnego szturchańca u drzwi.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zachęta"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "trącić",
+                            "trącać",
+                            "potrącić",
+                            "potrącać",
+                            "szturchnąć",
+                            "szturchać",
+                            "otrzeć",
+                            "ocierać",
+                            "dawać kuksańca"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'll nudge them with the car.",
+                                "Translation": "(Szturchnę ich samochodem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pokierować",
+                            "popchnąć",
+                            "popychać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You just need to nudge her to do the right thing.",
+                                "Translation": "(Po prostu trzeba ją popchnąć do zrobienia właściwej rzeczy.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

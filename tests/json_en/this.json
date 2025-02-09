@@ -1,0 +1,171 @@
+[
+    {
+        "Entry": [
+            "this"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "zaimek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ten (zwykle o przedmiocie w zasięgu naszych rąk)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Can I borrow this CD?",
+                                "Translation": "(Czy mogę pożyczyć tę płytę CD?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "to (używane w odniesieniu do osoby, przedmiotu, wydarzenia, które już zostało wspomniane)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This is the magazine I was talking about.",
+                                "Translation": "(To jest to czasopismo, o którym mówiłem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "w tym (używane w odniesieniu do czasu teraźniejszego lub bliskiej przyszłości)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "to",
+                            "teraz (używane w odniesieniu do teraźniejszej sytuacji)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "to",
+                            "tego (w odniesieniu do czegoś, co będzie powiedziane, np. \"słuchaj tego\")"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Listen to this: I've got a new job.",
+                                "Translation": "(Słuchaj tego: dostałem nową pracę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ten (używane w historyjkach i żartach, aby wspomnieć o jakiejś osobie po raz pierwszy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This girlfriend of yours - how old is she?",
+                                "Translation": "(Ta twoja dziewczyna, ile ona ma lat?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "tu (używane przy przedstawianiu się przez telefon)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Hello, this is doctor Black.",
+                                "Translation": "(Dzień dobry, tu doktor Black.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "to (używane przy przedstawianiu osób)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Is this your husband?",
+                                "Translation": "(Czy to twój mąż?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "tak",
+                            "taki (np. duży, długi)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "That snake was this long!",
+                                "Translation": "(Tamten wąż był taki długi!)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "aż tak (np. źle, zwykle używane w pytaniach i przeczeniach)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Is it this bad?",
+                                "Translation": "(Czy jest aż tak źle?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "get this"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "tylko popatrz"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He bought a new car. Get this!",
+                                "Translation": "(On kupił nowy samochód. Tylko popatrz!)"
+                            },
+                            {
+                                "Sentence": "Get this, they look so happy.",
+                                "Translation": "(Tylko popatrz, oni wyglądają na takich szczęśliwych.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "posłuchaj tego"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Get this: Anna is getting married!",
+                                "Translation": "(Posłuchaj tego: Anna wychodzi za mąż!)"
+                            },
+                            {
+                                "Sentence": "Get this: I got a raise.",
+                                "Translation": "(Posłuchaj tego: dostałem podwyżkę.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

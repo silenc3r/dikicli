@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "conceited"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zarozumiały"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I don't want to sound conceited, but we are the experts here.",
+                                "Translation": "(Nie chcę brzmieć zbyt zarozumiale, ale my tu jesteśmy ekspertami.)"
+                            },
+                            {
+                                "Sentence": "It was a panel full of conceited and arrogant scholars.",
+                                "Translation": "(To była dyskusja pełna zarozumiałych i aroganckich uczonych.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

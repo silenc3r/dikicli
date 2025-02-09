@@ -1,0 +1,127 @@
+[
+    {
+        "Entry": [
+            "stud"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ogier rozpłodowy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He had to buy a new stud.",
+                                "Translation": "(On musiał kupić nowego ogiera rozpłodowego.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ogier",
+                            "podrywacz (o mężczyźnie często uprawiającym seks)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Girls, look at that stud!",
+                                "Translation": "(Dziewczyny, patrzcie na tego ogiera!)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "stadnina (koni)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There were five horses at the stud.",
+                                "Translation": "(W stadninie było pięć koni.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kolec",
+                            "korek (na podeszwie buta)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The studs on these boots help with climbing.",
+                                "Translation": "(Kolce na tych butach pomagają przy wspinaczce.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kolczyk"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She had pretty diamond studs in her ears.",
+                                "Translation": "(Ona miała w uszach ładne diamentowe kolczyki.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "sztyft (element kolczyka)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "spinka (do kołnierzyka, mankietów)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He wore a suit with golden studs.",
+                                "Translation": "(On miał na sobie garnitur ze złotymi spinkami.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "gwóźdź",
+                            "ćwiek"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There were studs on his jacket.",
+                                "Translation": "(Na jego kurtce były ćwieki.)"
+                            },
+                            {
+                                "Sentence": "A stud was sticking out from the club.",
+                                "Translation": "(Z pałki wystawał gwóźdź.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ozdabiać (klejnotami)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The necklace was studded with diamonds.",
+                                "Translation": "(Naszyjnik był ozdobiony diamentami.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nabijać (gwoździami, ćwiekami)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

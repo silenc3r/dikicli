@@ -1,0 +1,25 @@
+[
+    {
+        "Entry": [
+            "inauspicious"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niepomyślny",
+                            "niezbyt obiecujący",
+                            "złowieszczy",
+                            "złowróżbny",
+                            "niefortunny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

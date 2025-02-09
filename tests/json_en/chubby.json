@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "chubby"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pucołowaty",
+                            "pulchny",
+                            "pyzaty"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

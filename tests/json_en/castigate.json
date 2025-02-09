@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "castigate"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "surowo zganić",
+                            "poddać surowej krytyce",
+                            "skarcić"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

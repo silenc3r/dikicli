@@ -1,0 +1,138 @@
+[
+    {
+        "Entry": [
+            "guest"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "gość (np. w domu, w hotelu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I have guests coming over tonight.",
+                                "Translation": "(Dzisiaj wieczorem przychodzą do mnie goście.)"
+                            },
+                            {
+                                "Sentence": "How many guests have you invited?",
+                                "Translation": "(Ilu zaprosiłeś gości?)"
+                            },
+                            {
+                                "Sentence": "Guests are asked to leave their rooms by 11am.",
+                                "Translation": "(Goście proszeni są o opuszczenie pokoi przed 11 rano.)"
+                            },
+                            {
+                                "Sentence": "How many guests do you want to invite to your party?",
+                                "Translation": "(Ilu gości chcesz zaprosić na swoje przyjęcie?)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "gościnny (dla użytku gości)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We have a guest house where you can sleep.",
+                                "Translation": "(Mamy domek gościnny, w którym możecie spać.)"
+                            },
+                            {
+                                "Sentence": "You can sleep in the guest room.",
+                                "Translation": "(Możesz spać w pokoju gościnnym.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "gościnny (goszczący gdzieś na chwilę, np. występ)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This group is on guest performance.",
+                                "Translation": "(Ta grupa jest na występach gościnnych.)"
+                            },
+                            {
+                                "Sentence": "He has a guest concert in Warsaw.",
+                                "Translation": "(On ma gościnny koncert w Warszawie.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wystąpić gościnnie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He guests on a TV program.",
+                                "Translation": "(On występuje gościnnie w programie telewizyjnym.)"
+                            },
+                            {
+                                "Sentence": "Would you like to guest on our radio program?",
+                                "Translation": "(Chciałbyś wystąpić gościnnie w naszym programie radiowym?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "as somebody's guest"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "jako czyjś gość"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "Be my guest."
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "Czuj się jak u siebie w domu."
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "Proszę bardzo.",
+                            "Nie krępuj się. (dosł. \"Bądź moim gościem.\" - używane jako pozwolenie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

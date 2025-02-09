@@ -1,0 +1,63 @@
+[
+    {
+        "Entry": [
+            "serene"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pogodny (np. dzień)",
+                            "bezchmurny (o niebie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I looked at the serene sky and saw two birds.",
+                                "Translation": "(Popatrzyłem na bezchmurne niebo i zobaczyłem dwa ptaki.)"
+                            },
+                            {
+                                "Sentence": "Such a serene day is ideal for a walk.",
+                                "Translation": "(Taki pogodny dzień jest idealny na spacer.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "niezmącony (spokój)",
+                            "błogi (np. uśmiech)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Her serene smile was beautiful.",
+                                "Translation": "(Jej błogi uśmiech był piękny.)"
+                            },
+                            {
+                                "Sentence": "I need serene silence to write.",
+                                "Translation": "(Potrzebuję niezmąconej ciszy, żeby pisać.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "łagodny",
+                            "spokojny (o osobie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Your daughter is so serene!",
+                                "Translation": "(Twoja córka jest taka spokojna!)"
+                            },
+                            {
+                                "Sentence": "I think that such a serene person cannot be dangerous.",
+                                "Translation": "(Myślę, że taka łagodna osoba nie może być niebezpieczna.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

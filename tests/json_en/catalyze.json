@@ -1,0 +1,24 @@
+[
+    {
+        "Entry": [
+            "catalyse",
+            "catalyze"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "katalizować",
+                            "przyspieszać",
+                            "przyśpieszać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

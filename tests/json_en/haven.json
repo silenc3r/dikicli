@@ -1,0 +1,56 @@
+[
+    {
+        "Entry": [
+            "haven"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przystań",
+                            "port"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Visitors flock to this haven from all over our planet.",
+                                "Translation": "(Goście z naszej całej planety gromadzą się w tej przystani.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "schronienie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My kingdom will be the only safe haven for you and your people.",
+                                "Translation": "(Moje królestwo będzie jedynym schronieniem dla ciebie i twoich ludzi.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "Haven (imię żeńskie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ochraniać",
+                            "chronić"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

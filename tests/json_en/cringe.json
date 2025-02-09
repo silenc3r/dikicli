@@ -1,0 +1,91 @@
+[
+    {
+        "Entry": [
+            "cringe"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wzdrygać się (przed czymś)",
+                            "odsunąć się (od czegoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Dennie cringed back from the screen with disgust.",
+                                "Translation": "(Dennie odsunęła się od ekranu z obrzydzeniem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "poczuć zażenowanie (z powodu czegoś)",
+                            "zażenować (kogoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I knew he was being fair, but inside I cringed.",
+                                "Translation": "(Wiedziałem, że on był fair, ale w środku czułem zażenowanie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "skulić się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He cringed as if he'd been struck.",
+                                "Translation": "(On skulił się, jakby został uderzony.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "płaszczyć się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I hate the way he cringes whenever we talk.",
+                                "Translation": "(Nienawidzę sposobu, w jaki on się płaszczy ilekroć rozmawiamy.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wzdrygnięcie"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "płaszczenie",
+                            "slużalczość",
+                            "czołobitność"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "żenujący"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

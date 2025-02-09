@@ -1,0 +1,60 @@
+[
+    {
+        "Entry": [
+            "relenting"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "łagodnienie (o gniewie)",
+                            "mięknięcie",
+                            "ustępowanie (komuś)",
+                            "danie się ubłagać"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "uspokajanie się (o pogodzie)",
+                            "słabnięcie (o wietrze)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "relent"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "łagodnieć (o gniewie)",
+                            "mięknąć",
+                            "ustępować (komuś)",
+                            "dać się ubłagać"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "uspokajać się (o pogodzie)",
+                            "słabnąć (o wietrze)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

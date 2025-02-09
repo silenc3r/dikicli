@@ -1,0 +1,155 @@
+[
+    {
+        "Entry": [
+            "frank"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szczery"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "To be frank, I don't think you have much chance of winning.",
+                                "Translation": "(Szczerze mówiąc, nie wydaje mi się, abyś miał wielkie szanse na wygraną.)"
+                            },
+                            {
+                                "Sentence": "His frank words surprised me.",
+                                "Translation": "(Jego szczere słowa zaskoczyły mnie.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "frankować (list)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "When one franks a letter, one pays in advance.",
+                                "Translation": "(Kiedy frankuje się list, płaci się z góry.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "frankfurterka (kiełbaska)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I like a frank with mustard.",
+                                "Translation": "(Lubię frankfurterkę z musztardą.)"
+                            },
+                            {
+                                "Sentence": "Whenever we are in Germany, we eat German franks.",
+                                "Translation": "(Kiedy tylko jesteśmy w Niemczech, jemy niemieckie frankfuterki.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "Francis",
+            "Frank",
+            "Francesco",
+            "Frankie"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "nazwa własna",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "Franciszek",
+                            "Franek"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Frank owes me money.",
+                                "Translation": "(Franciszek jest mi dłużny pieniądze.)"
+                            },
+                            {
+                                "Sentence": "Francesco sells different wines.",
+                                "Translation": "(Franciszek sprzedaje różne wina.)"
+                            },
+                            {
+                                "Sentence": "I came over here to talk to my friend Francis.",
+                                "Translation": "(Przyszedłem tutaj porozmawiać z moim przyjacielem Franciszkiem.)"
+                            },
+                            {
+                                "Sentence": "This is my brother, Francis.",
+                                "Translation": "(To mój brat, Franciszek.)"
+                            },
+                            {
+                                "Sentence": "Pope Francis has met with the pilgrims.",
+                                "Translation": "(Papież Franciszek spotkał się z pielgrzymami.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "Franklin",
+            "Frank",
+            "Frankie"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "Franklin (imię męskie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I haven't heard from Franklin in weeks.",
+                                "Translation": "(Od kilku tygodni Franklin się do mnie nie odzywał.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "to be frank"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szczerze mówiąc"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

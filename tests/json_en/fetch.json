@@ -1,0 +1,65 @@
+[
+    {
+        "Entry": [
+            "fetch"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przynieść (pójść po coś lub kogoś i wrócić)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He fetched the dictionary.",
+                                "Translation": "(On poszedł i przyniósł słownik.)"
+                            },
+                            {
+                                "Sentence": "I'll fetch a chair.",
+                                "Translation": "(Pójdę po krzesło.)"
+                            },
+                            {
+                                "Sentence": "We can fetch it later.",
+                                "Translation": "(Możemy pójść po to później.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "być wartym",
+                            "osiągać wartość (np. obraz na aukcji)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "powodować"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "przynosić",
+                            "aportować"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sobowtór"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

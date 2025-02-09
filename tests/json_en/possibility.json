@@ -1,0 +1,42 @@
+[
+    {
+        "Entry": [
+            "possibility"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "możliwość",
+                            "opcja"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It's one of the possibilities.",
+                                "Translation": "(To jest jedna z możliwości.)"
+                            },
+                            {
+                                "Sentence": "The possibility of losing her scared John.",
+                                "Translation": "(Możliwość stracenia jej przeraziła Johna.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "prawdopodobieństwo (coś, co może się wydarzyć)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It seems like an unlikely possibility.",
+                                "Translation": "(To wydaje się być mało prawdopodobna opcja.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

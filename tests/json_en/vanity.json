@@ -1,0 +1,82 @@
+[
+    {
+        "Entry": [
+            "vanity"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "próżność"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He said it was vanity to force other men to our religion.",
+                                "Translation": "(Mówił, że to jest próżność, aby zmuszać innych do nawrócenia.)"
+                            },
+                            {
+                                "Sentence": "We ought to lead the way and should not allow European vanity to take hold.",
+                                "Translation": "(Musimy być liderami i nie pozwolić zwyciężyć próżności europejskiej.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "marność"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "dressing table",
+            "vanity table",
+            "vanity"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "toaletka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My lipstick is on the dressing table.",
+                                "Translation": "(Moja pomadka jest na toaletce.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "vanity unit",
+            "vanity"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "umywalka obudowana szafką"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

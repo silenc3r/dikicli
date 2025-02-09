@@ -1,0 +1,31 @@
+[
+    {
+        "Entry": [
+            "relent"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "łagodnieć (o gniewie)",
+                            "mięknąć",
+                            "ustępować (komuś)",
+                            "dać się ubłagać"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "uspokajać się (o pogodzie)",
+                            "słabnąć (o wietrze)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

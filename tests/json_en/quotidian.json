@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "quotidian"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "codzienny",
+                            "zwykły",
+                            "powszechny"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "codzienny",
+                            "nawracający codziennie (np. o gorączce)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "tranquillity",
+            "tranquility"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "cisza",
+                            "spokój"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "turtle"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "żółw wodny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Turtles can live more than 100 years.",
+                                "Translation": "(Żółwie wodne mogą żyć dłużej niż 100 lat.)"
+                            },
+                            {
+                                "Sentence": "I have a small turtle.",
+                                "Translation": "(Mam małego żółwia wodnego.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

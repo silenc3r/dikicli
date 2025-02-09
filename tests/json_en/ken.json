@@ -1,0 +1,193 @@
+[
+    {
+        "Entry": [
+            "ken"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "percepcja",
+                            "zrozumienie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "know",
+            "ken"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wiedzieć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I don't know what's going on.",
+                                "Translation": "(Nie wiem, co się dzieje.)"
+                            },
+                            {
+                                "Sentence": "No one knew where Jackie was.",
+                                "Translation": "(Nikt nie wiedział, gdzie była Jackie.)"
+                            },
+                            {
+                                "Sentence": "I was the only person who didn't know.",
+                                "Translation": "(Byłem jedyną osobą, która nie wiedziała.)"
+                            },
+                            {
+                                "Sentence": "How long have you known about it?",
+                                "Translation": "(Od jak dawna o tym wiesz?)"
+                            },
+                            {
+                                "Sentence": "I know nothing about you.",
+                                "Translation": "(Nic o tobie nie wiem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "znać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Do you know him?",
+                                "Translation": "(Czy znasz go?)"
+                            },
+                            {
+                                "Sentence": "I don't know her very well.",
+                                "Translation": "(Nie znam jej zbyt dobrze.)"
+                            },
+                            {
+                                "Sentence": "We've known each other for years.",
+                                "Translation": "(Znamy się od lat.)"
+                            },
+                            {
+                                "Sentence": "He knows your husband.",
+                                "Translation": "(On zna twojego męża.)"
+                            },
+                            {
+                                "Sentence": "I know English very well.",
+                                "Translation": "(Znam angielski bardzo dobrze.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "umieć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I don't know how to dance salsa.",
+                                "Translation": "(Nie umiem tańczyć salsy.)"
+                            },
+                            {
+                                "Sentence": "I know how to dance.",
+                                "Translation": "(Umiem tańczyć.)"
+                            },
+                            {
+                                "Sentence": "They never knew how to use that software.",
+                                "Translation": "(Oni nigdy nie potrafili obsługiwać tego programu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "poznawać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Your hair is so characteristic that I'd know you even from the distance or at night!",
+                                "Translation": "(Twoje włosy są tak charakterystyczne, że poznałbym cię nawet z daleka czy w nocy!)"
+                            },
+                            {
+                                "Sentence": "He says he wants to know me.",
+                                "Translation": "(On powiedział, że chce mnie poznać.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "doświadczać",
+                            "zaznawać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I knew a lot of poverty in my life.",
+                                "Translation": "(Doświadczyłem wiele biedy w swoim życiu.)"
+                            },
+                            {
+                                "Sentence": "I have never known love.",
+                                "Translation": "(Nigdy nie zaznałem miłości.)"
+                            },
+                            {
+                                "Sentence": "The poor child has never known family.",
+                                "Translation": "(To biedne dziecko nigdy nie doświadczyło rodziny.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "odróżniać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You're old enough to know love from lust.",
+                                "Translation": "(Jesteś wystarczająco dorosły, by odróżnić miłość od pożądania.)"
+                            },
+                            {
+                                "Sentence": "How am I supposed to know right from wrong?",
+                                "Translation": "(Jak mam odróżniać dobro od zła?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "Kenneth",
+            "Ken",
+            "Kenny"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "nazwa własna",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "Kenneth (imię męskie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Kenneth, why would you want to do something like that?",
+                                "Translation": "(Kenneth, dlaczego chciałbyś zrobić coś takiego?)"
+                            },
+                            {
+                                "Sentence": "Kenneth, you have something in your teeth.",
+                                "Translation": "(Kenneth, masz coś między zębami.)"
+                            },
+                            {
+                                "Sentence": "The latest sniper victim was a 53-year-old man, Kenneth Bridges.",
+                                "Translation": "(Ostatnią ofiarą snajpera był 53 letni mężczyzna, Kenneth Bridges.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

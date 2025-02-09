@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "deride"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wyśmiewać",
+                            "wyszydzać",
+                            "drwić"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

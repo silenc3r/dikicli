@@ -1,0 +1,32 @@
+[
+    {
+        "Entry": [
+            "tenet"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dogmat",
+                            "doktryna",
+                            "zasada"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The basic tenet of the approved report seems to go in the right direction.",
+                                "Translation": "(Wydaje się, że podstawowe założenie zatwierdzonego sprawozdania przyjęło słuszny kierunek.)"
+                            },
+                            {
+                                "Sentence": "It is a myth that transcends race, it is an abiding tenet of humanity.",
+                                "Translation": "(To mit prześcigający ludzką rasę, to nieprzemijający dogmat ludzkości.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

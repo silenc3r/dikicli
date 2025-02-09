@@ -1,0 +1,179 @@
+[
+    {
+        "Entry": [
+            "tough",
+            "teugh"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "trudny",
+                            "wymagający"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This is a tough decision.",
+                                "Translation": "(To jest trudna decyzja.)"
+                            },
+                            {
+                                "Sentence": "It was a tough time for her.",
+                                "Translation": "(To był dla niej trudny okres.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "twardy",
+                            "nieustępliwy",
+                            "silny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Don't be so tough with her.",
+                                "Translation": "(Nie bądź dla niej taki twardy.)"
+                            },
+                            {
+                                "Sentence": "Our manager is always tough when negotiating contracts.",
+                                "Translation": "(Nasz szef jest zawsze nieustępliwy podczas negocjacji kontraktów.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wytrzymały",
+                            "trwały (np. materiał)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My phone is tough, it won't break.",
+                                "Translation": "(Mój telefon jest wytrzymały, nie zepsuje się.)"
+                            },
+                            {
+                                "Sentence": "Oak wood is very tough.",
+                                "Translation": "(Drewno dębowe jest bardzo trwałe.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nieustępliwy",
+                            "nieubłagany (np. materiał)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Our doors are made of a tough material.",
+                                "Translation": "(Nasze drzwi są wykonane z nieustępliwego materiału.)"
+                            },
+                            {
+                                "Sentence": "We've invented a new type of a tough material.",
+                                "Translation": "(Wynaleźliśmy nowy rodzaj nieustępliwego materiału.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "niebezpieczny",
+                            "trudny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This competition is really tough, but I will enter anyway.",
+                                "Translation": "(Ten konkurs jest bardzo niebezpieczny, ale wezmę w nim udział tak czy inaczej.)"
+                            },
+                            {
+                                "Sentence": "Our team will face a tough opponent tonight.",
+                                "Translation": "(Nasza drużyna zmierzy się z niebezpiecznym przeciwnikiem dziś wieczorem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "twardy (o jedzeniu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I have a toothache, so I can't eat tough food.",
+                                "Translation": "(Boli mnie ząb, więc nie mogę jeść twardego jedzenia.)"
+                            },
+                            {
+                                "Sentence": "This tough meat is difficult to chew.",
+                                "Translation": "(To twarde mięso jest trudne do pogryzienia.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "oprych"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Some tough tried to break into my house but he got scared of the dog.",
+                                "Translation": "(Jakiś oprych próbował włamać się do mojego domu, ale przestraszył się psa.)"
+                            },
+                            {
+                                "Sentence": "These toughs should leave our country.",
+                                "Translation": "(Te oprychy powinny opuścić nasze państwo.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "awanturnik"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Her husband is a tough and a drunk.",
+                                "Translation": "(Jej mąż to awanturnik i pijak.)"
+                            },
+                            {
+                                "Sentence": "These toughs annoy young girls.",
+                                "Translation": "(Ci awanturnicy naprzykrzają się młodym dziewczętom.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nieustępliwie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "that's tough!",
+            "tough!"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "wykrzyknik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mówi się trudno!",
+                            "trudno!"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

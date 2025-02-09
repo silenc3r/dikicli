@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "lectern",
+            "lecturn"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pulpit",
+                            "mównica"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

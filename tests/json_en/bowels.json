@@ -1,0 +1,93 @@
+[
+    {
+        "Entry": [
+            "bowels"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "trzewia",
+                            "wnętrzności (układ pokarmowy i trawienny człowieka)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "jelita (fragment układu trawiennego)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "bowel"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "jelito"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We need to monitor his bowel movement for any irregularities.",
+                                "Translation": "(Musimy nadzorować jego ruch jelit pod kątem jakichkolwiek nieregularności.)"
+                            },
+                            {
+                                "Sentence": "I think my bowels don't like what I ate for dinner.",
+                                "Translation": "(Wydaje mi się, że moje jelita nie lubią tego, co zjadłem na obiad.)"
+                            },
+                            {
+                                "Sentence": "Human bowels are surprisingly long.",
+                                "Translation": "(Ludzkie jelita są zaskakująco długie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wnętrze (wewnętrzna, najgłębsza część czegoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It was hidden deep in the bowels of the Earth.",
+                                "Translation": "(To było ukryte w głębokich czeluściach Ziemi.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "jelitowy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wypatroszyć"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

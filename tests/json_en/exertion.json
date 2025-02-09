@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "exertion"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wysiłek",
+                            "natężenie (np. fizyczne, umysłowe)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "neuroticism"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nerwicowość",
+                            "neurotyczność",
+                            "neurotyzm"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "Entry": [
+            "incisive"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "trafny",
+                            "przenikliwy",
+                            "celny",
+                            "wnikliwy (o uwagach, spostrzeżeniach)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "cięty",
+                            "zjadliwy",
+                            "ostry",
+                            "kategoryczny (np. o języku, tonie, odpowiedzi)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "tnący (o narzędziach)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

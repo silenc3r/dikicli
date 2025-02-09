@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "sander",
+            "sanding machine"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "piaskownica (urządzenie do usuwania powłok lakierniczych)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

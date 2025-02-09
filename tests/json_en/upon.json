@@ -1,0 +1,72 @@
+[
+    {
+        "Entry": [
+            "upon",
+            "upo"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przyimek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "od"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We are dependent upon your help.",
+                                "Translation": "(Jesteśmy uzależnieni od twojej pomocy.)"
+                            },
+                            {
+                                "Sentence": "I have received a letter upon my husband.",
+                                "Translation": "(Otrzymałam list od mojego męża.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "na"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Brandon threw him upon the ground.",
+                                "Translation": "(Brandon rzucił go na ziemię.)"
+                            },
+                            {
+                                "Sentence": "This responsibility rests upon you.",
+                                "Translation": "(Ta odpowiedzialność spoczywa na tobie.)"
+                            },
+                            {
+                                "Sentence": "She spat upon the ground.",
+                                "Translation": "(Ona napluła na podłogę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przed (granica czasowa)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Winter is upon us.",
+                                "Translation": "(Nadchodzi zima.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "po (jakimś czasie, wydarzeniu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "These are the consequences for the country upon leaving the EU.",
+                                "Translation": "(To konsekwencje dla kraju po wyjściu z UE.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

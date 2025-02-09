@@ -1,0 +1,32 @@
+[
+    {
+        "Entry": [
+            "efficacy",
+            "efficacity"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "skuteczność",
+                            "efektywność"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I have no idea what the efficacy of these cures is.",
+                                "Translation": "(Nie mam pojęcia, na ile skuteczne są te środki.)"
+                            },
+                            {
+                                "Sentence": "There is always criticism of the efficacy of development aid.",
+                                "Translation": "(Skuteczność pomocy rozwojowej jest zawsze przedmiotem krytyki.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

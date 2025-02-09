@@ -1,0 +1,32 @@
+[
+    {
+        "Entry": [
+            "measles",
+            "rubeola",
+            "morbilli"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "odra (choroba zakaźna)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Measles is a highly contagious disease.",
+                                "Translation": "(Odra to wysoce zakaźna choroba.)"
+                            },
+                            {
+                                "Sentence": "I had measles as a child.",
+                                "Translation": "(W dzieciństwie miałem odrę.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

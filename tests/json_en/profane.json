@@ -1,0 +1,90 @@
+[
+    {
+        "Entry": [
+            "profane"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bluźnierczy",
+                            "nieczysty",
+                            "wulgarny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I won't stand your profane language.",
+                                "Translation": "(Nie będę znosić twojego wulgarnego języka.)"
+                            },
+                            {
+                                "Sentence": "All his jokes are profane.",
+                                "Translation": "(Wszystkie jego żarty są bluźniercze.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "świecki"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She is only interested in the profane literature.",
+                                "Translation": "(Ona jest zainteresowana tylko świecką literaturą.)"
+                            },
+                            {
+                                "Sentence": "They study profane art in London.",
+                                "Translation": "(Oni studiują świecką sztukę w Londynie.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bezcześcić",
+                            "profanować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Somebody profaned this holy place.",
+                                "Translation": "(Ktoś zbezcześcił to święte miejsce.)"
+                            },
+                            {
+                                "Sentence": "They are planning to profane our tradition.",
+                                "Translation": "(Oni planują sprofanować naszą tradycję.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "splamić (np. honor)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You cannot be a knight if you profaned your honour.",
+                                "Translation": "(Nie możesz być rycerzem, jeśli splamiłeś swój honor.)"
+                            },
+                            {
+                                "Sentence": "He profaned the honor of the family!",
+                                "Translation": "(On splamił honor rodziny!)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zbezcześcić",
+                            "sprofanować"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

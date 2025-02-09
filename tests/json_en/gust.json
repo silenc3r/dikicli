@@ -1,0 +1,39 @@
+[
+    {
+        "Entry": [
+            "gust"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "poryw",
+                            "podmuch (wiatru)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A gust of wind nearly knocked her off her feet.",
+                                "Translation": "(Podmuch wiatru prawie zwalił ją z nóg.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wiać",
+                            "dmuchać (np. wiatr)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

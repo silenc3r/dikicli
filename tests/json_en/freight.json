@@ -1,0 +1,114 @@
+[
+    {
+        "Entry": [
+            "freight"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "towarowy (np. transport)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "freight",
+            "fraught"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "fracht (koszt przewozu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "What is the freight for this cargo?",
+                                "Translation": "(Ile wynosi fracht za ten ładunek?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ładunek",
+                            "przewóz",
+                            "towar"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He paid me a lot of money for this freight.",
+                                "Translation": "(On zapłacił mi sporo kasy za ten przewóz.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ładować",
+                            "frachtować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He spent whole day freighting the cargo onto the ship.",
+                                "Translation": "(On spędził cały dzień ładując towar na statek.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przewozić",
+                            "wysyłać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He freighted goods through the ocean.",
+                                "Translation": "(On przewoził towary przez ocean.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "freight train",
+            "goods train",
+            "freight"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pociąg towarowy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Any of you guys know which freight goes to Springfield?",
+                                "Translation": "(Czy ktoś wie, który pociąg towarowy jedzie do Springfield?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

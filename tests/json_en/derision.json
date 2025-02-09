@@ -1,0 +1,27 @@
+[
+    {
+        "Entry": [
+            "derision"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "drwina",
+                            "szyderstwo"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His words met with much derision.",
+                                "Translation": "(Jego słowa spotkały się z szyderstwem.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

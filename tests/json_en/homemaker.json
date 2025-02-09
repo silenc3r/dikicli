@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "homemaker"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "osoba prowadząca dom",
+                            "osoba zajmująca się domem"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

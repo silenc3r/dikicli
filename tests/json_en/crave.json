@@ -1,0 +1,46 @@
+[
+    {
+        "Entry": [
+            "crave for something",
+            "crave something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bardzo czegoś pragnąć"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "błagać o coś",
+                            "zabiegać o coś"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "łaknąć",
+                            "mieć chętkę na coś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I crave for some hot instant cocoa, I need sugar so badly.",
+                                "Translation": "(Mam chętkę na gorące błyskawiczne kakao, tak strasznie potrzebuję cukru.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "eulogy",
+            "eulogium"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pean",
+                            "mowa pogrzebowa"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I was asked to give a eulogy at his funeral.",
+                                "Translation": "(Zostałem poproszony o wygłoszenie mowy na jego pogrzebie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

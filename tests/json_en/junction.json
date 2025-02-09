@@ -1,0 +1,32 @@
+[
+    {
+        "Entry": [
+            "junction",
+            "intersection",
+            "junc."
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "skrzyżowanie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Continue straight ahead at the next junction.",
+                                "Translation": "(Jedź prosto na następnym skrzyżowaniu.)"
+                            },
+                            {
+                                "Sentence": "Turn right at the next junction.",
+                                "Translation": "(Skręć w prawo na następnym skrzyżowaniu.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

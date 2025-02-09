@@ -1,0 +1,25 @@
+[
+    {
+        "Entry": [
+            "esoteric"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ezoteryczny",
+                            "tajemny",
+                            "tajemniczy",
+                            "dziwaczny",
+                            "osobliwy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

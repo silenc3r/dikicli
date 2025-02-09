@@ -1,0 +1,74 @@
+[
+    {
+        "Entry": [
+            "wreath"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wianek",
+                            "wieniec",
+                            "girlanda"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Send them a big wreath of flowers with my condolences.",
+                                "Translation": "(Wyślij im duży wieniec kwiatów z moimi kondolencjami.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "stroik świąteczny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They put a wreath under the Christmas tree.",
+                                "Translation": "(Oni położyli stroik świąteczny pod choinką.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zwój",
+                            "kłąb (np. dymu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We followed the wreath of smoke to the burning building.",
+                                "Translation": "(Dotarliśmy do płonącego budynku, idąc za kłębem dymu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zakręt poręczy schodowej"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nakładać wieniec"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "otaczać wokół"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

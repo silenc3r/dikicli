@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "unprepossessing"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nieatrakcyjny",
+                            "mało pociągający"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

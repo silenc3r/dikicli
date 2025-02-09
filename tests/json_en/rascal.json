@@ -1,0 +1,33 @@
+[
+    {
+        "Entry": [
+            "rascal"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "urwis",
+                            "łobuz",
+                            "ananas",
+                            "hultaj (o dziecku)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "łajdak",
+                            "łotr",
+                            "szubrawiec",
+                            "kanalia"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

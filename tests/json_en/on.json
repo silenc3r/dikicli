@@ -1,0 +1,1181 @@
+[
+    {
+        "Entry": [
+            "on"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przyimek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "na (na powierzchni czegoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The flowers are standing on the table.",
+                                "Translation": "(Kwiaty stoją na stole.)"
+                            },
+                            {
+                                "Sentence": "He put his bag on the floor.",
+                                "Translation": "(On położył swoją torbę na podłodze.)"
+                            },
+                            {
+                                "Sentence": "She was lying on a bed.",
+                                "Translation": "(Ona leżała na łóżku.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "po (po powierzchni czegoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Walking on the ice is dangerous.",
+                                "Translation": "(Chodzenie po lodzie jest niebezpieczne.)"
+                            },
+                            {
+                                "Sentence": "The boat sailed slowly on the surface of the lake.",
+                                "Translation": "(Łódź płynęła powoli po powierzchni jeziora.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "na (używane na określenie części ciała, która dotyka ziemi)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She was on her feet in no time.",
+                                "Translation": "(Ona natychmiast wstała.)"
+                            },
+                            {
+                                "Sentence": "My brother can stand on his hands.",
+                                "Translation": "(Mój brat umie stać na rękach.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "w (używane do określenia części, która jest uderzona lub dotknięta)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I wanted to punch him on the nose.",
+                                "Translation": "(Chciałem go walnąć w nos.)"
+                            },
+                            {
+                                "Sentence": "She touched him gently on the cheek.",
+                                "Translation": "(Ona dotknęła go delikatnie w policzek.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "na (używane do określenia, gdzie coś jest napisane lub pokazane)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There is a diagram on page 11.",
+                                "Translation": "(Na stronie 11 znajduje się diagram.)"
+                            },
+                            {
+                                "Sentence": "You can read this passage on page 216.",
+                                "Translation": "(Możecie przeczytać ten fragment na stronie 216.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "na (używane na określenie czegoś, co jest przymocowane, wiszące na czymś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I have two shelves on the wall.",
+                                "Translation": "(Mam dwie półki na ścianie.)"
+                            },
+                            {
+                                "Sentence": "The jackets hang on the rack.",
+                                "Translation": "(Kurtki wiszą na wieszaku.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "na",
+                            "nad (używane do określenia miejsca, np. na wyspie, na granicy, nad rzeką)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We live on a small island.",
+                                "Translation": "(Mieszkamy na małej wyspie.)"
+                            },
+                            {
+                                "Sentence": "I'm standing on the border of two countries.",
+                                "Translation": "(Stoję na granicy dwóch państw.)"
+                            },
+                            {
+                                "Sentence": "London lies on the Thames.",
+                                "Translation": "(Londyn leży nad Tamizą.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przy",
+                            "na (przy podawaniu nazwy ulicy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Paul lives on Oxford Street.",
+                                "Translation": "(Paul mieszka przy Oxford Street.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "na (używane do określenia pozycji, np. na lewo, na prawo)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The toilet is on the left.",
+                                "Translation": "(Toaleta jest na lewo.)"
+                            },
+                            {
+                                "Sentence": "\"Where is the bank?\" \"It's on the right.\"",
+                                "Translation": "(\"Gdzie jest bank?\" \"Jest na prawo.\")"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "na (używane do określenia kierunku patrzenia, wskazywania)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Look on the right! There's a rainbow.",
+                                "Translation": "(Popatrz na prawo! Tam jest tęcza.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "w (używane do określenia, o jaki dzień chodzi)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We're meeting on Monday.",
+                                "Translation": "(Spotykamy się w poniedziałek.)"
+                            },
+                            {
+                                "Sentence": "Do you want to go to the cinema on Friday?",
+                                "Translation": "(Chcesz iść do kina w piątek?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "na (używane do określenia, na co coś oddziałuje lub do czego się odnosi)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "o (na jakiś temat)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I read a book on human rights.",
+                                "Translation": "(Przeczytałem książkę o prawach człowieka.)"
+                            },
+                            {
+                                "Sentence": "Have you seen the exhibition on the history of our city?",
+                                "Translation": "(Widziałaś wystawę o historii naszego miasta?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "o czymś (często używane na początku tytułu publikacji)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Nicolaus Copernicus is the author of the work \"On the Revolutions of the Heavenly Spheres\".",
+                                "Translation": "(Mikołaj Kopernik jest autorem dzieła ,,O obrotach sfer niebieskich\".)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "z (z czyjegoś rozkazu, za czyjąś radą)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I did it on your advice.",
+                                "Translation": "(Zrobiłem to za twoją radą.)"
+                            },
+                            {
+                                "Sentence": "On her request, she changed the time of the meeting.",
+                                "Translation": "(Ona zmieniła czas spotkania za jej prośbą.)"
+                            },
+                            {
+                                "Sentence": "The soldier shot him on her orders.",
+                                "Translation": "(Żołnierz zastrzelił go z jej rozkazu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "na (używane do określenia, czym ktoś żyje, czyli jak się odżywia)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "w (w środku transportu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I often read on the bus.",
+                                "Translation": "(Często czytam w autobusie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "na (używane do określenia, czym się jedzie, czym się kieruje)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'm on the horse now.",
+                                "Translation": "(Jestem teraz na koniu.)"
+                            },
+                            {
+                                "Sentence": "My son is on the bike every day.",
+                                "Translation": "(Mój syn jest codziennie na rowerze.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "na (używane na określenie kwoty otrzymywanej za pracę)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "na (używane na określenie paliwa napędzającego silnik)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My car runs on petrol.",
+                                "Translation": "(Moje auto jeździ na benzynie.)"
+                            },
+                            {
+                                "Sentence": "\"Does your car run on fuel oil or petrol?\" \"I don't know.\"",
+                                "Translation": "(\"Twoje auto jeździ na oleju napędowym, czy na benzynie?\" \"Nie wiem.\")"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "na (używane na określenie leków, które ktoś bierze)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'm on an antibiotic.",
+                                "Translation": "(Jestem na antybiotku.)"
+                            },
+                            {
+                                "Sentence": "She's on tranquillizers, she's so stressed.",
+                                "Translation": "(Ona jest na środkach uspokajających, jest taka zestresowana.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "na (używane do określenia stanu używania jakiegoś urządzenia, np. wisieć na telefonie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You've been on the wire for 2 hours!",
+                                "Translation": "(Wisisz na telefonie przez 2 godziny!)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "na (używane do określenia instrumentu, na którym ktoś gra)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I played your song on the piano.",
+                                "Translation": "(Zagrałem twoją piosenkę na pianinie.)"
+                            },
+                            {
+                                "Sentence": "Can you play this tune on the flute?",
+                                "Translation": "(Umiesz grać tę melodię na flecie?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "w (używane do określenia pojawienia się w radio lub telewizji)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My friend often appears on television.",
+                                "Translation": "(Moja przyjaciółka często pojawia się w telewizji.)"
+                            },
+                            {
+                                "Sentence": "Would you like to make an appearance on television?",
+                                "Translation": "(Chciałbyś wystąpić w telewizji?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "na (używane do określenia aktywności, wycieczki)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We're going on a trip.",
+                                "Translation": "(Jedziemy na wycieczkę.)"
+                            },
+                            {
+                                "Sentence": "I'm on holidays, I can rest.",
+                                "Translation": "(Jestem na wakacjach, mogę odpocząć.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "w (używane do określenia zaangażowania, włączenia w coś)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "w chwili",
+                            "w momencie (używane na określenie sytuacji kiedy coś się dzieje)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "w porównaniu (np. z zeszłym rokiem)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "z (np. z sobą, ze sobą)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "używane do określenia sytuacji, gdy coś powoduje problemy"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "na sobie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She had an elegant dress on.",
+                                "Translation": "(Ona miała na sobie elegancką sukienkę.)"
+                            },
+                            {
+                                "Sentence": "Why do you have a skirt on?",
+                                "Translation": "(Dlaczego masz na sobie spódniczkę?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "na pokładzie (np. samolotu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'm on a plane, I can't talk.",
+                                "Translation": "(Jestem na pokładzie samolotu, nie mogę rozmawiać.)"
+                            },
+                            {
+                                "Sentence": "\"Where are you?\" \"On the boat. We're fishing.\"",
+                                "Translation": "(\"Gdzie jesteście?\" \"Na pokładzie łodzi. Łowimy ryby.\")"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "na antenie (np. radia, telewizji)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You're on the radio. Tell me your name.",
+                                "Translation": "(Jesteś na antenie radia. Powiedz mi swoje imię.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dalej (kontynuując)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "dalej (pójść dalej)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "później"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przyczepiony",
+                            "przytwierdzony"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "napisany (na czymś)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "włączony",
+                            "uruchomiony (np. maszyna)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The kettle is on.",
+                                "Translation": "(Czajnik jest włączony.)"
+                            },
+                            {
+                                "Sentence": "You can make coffee because the coffee machine is on.",
+                                "Translation": "(Możesz zrobić kawę, bo ekspres do kawy jest włączony.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pokazywany",
+                            "wyświetlany (np. film)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zorganizowany (np. koncert)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "pracujący"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "on",
+            "at"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przyimek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pod (używane do określenia numeru telefonu, pod jakim ktoś jest dostępny)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "onto",
+            "on to"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przyimek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "do",
+                            "na"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Your cat has just jumped onto the sofa.",
+                                "Translation": "(Twój kot właśnie skoczył na sofę.)"
+                            },
+                            {
+                                "Sentence": "A man jumped onto the train.",
+                                "Translation": "(Mężczyzna wskoczył do pociągu.)"
+                            },
+                            {
+                                "Sentence": "She never puts books back onto the shelf.",
+                                "Translation": "(Ona nigdy nie odkłada książek na półkę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "w kierunku (np. gdy okno, pomieszczenie lub drzwi wychodzą w jakimś kierunku)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The window looks onto the east.",
+                                "Translation": "(Okno wychodzi w kierunku na wschód.)"
+                            },
+                            {
+                                "Sentence": "The angry woman started walking onto me.",
+                                "Translation": "(Wściekła kobieta zaczęła iść w moim kierunku.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "be on"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pokazywać (kogoś, coś w telewizji, kinie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Be quiet, the news is on.",
+                                "Translation": "(Bądź cicho, pokazują wiadomości.)"
+                            },
+                            {
+                                "Sentence": "The new film is on, do you want to go see it?",
+                                "Translation": "(Pokazują nowy film, chcesz iść go zobaczyć?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "have something on somebody"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mieć coś na kogoś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You won't prove that I did it, you have nothing on me!",
+                                "Translation": "(Nie udowodnisz, że to ja to zrobiłem, nic na mnie nie masz!)"
+                            },
+                            {
+                                "Sentence": "I'm afraid he has some evidence on me.",
+                                "Translation": "(Obawiam się, że on ma na mnie jakieś dowody.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "get something on"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zakładać coś (o ubraniu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She got an elegant dress on and went out.",
+                                "Translation": "(Ona założyła elegancką sukienkę i wyszła.)"
+                            },
+                            {
+                                "Sentence": "It's cold. Get your coat on.",
+                                "Translation": "(Jest zimno. Załóż swój płaszcz.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "be on something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zarabiać (jakąś kwotę)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "How much are you on?",
+                                "Translation": "(Ile zarabiasz?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "get on"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wsiadać (do autobusu, pociągu, samolotu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They got on the bus.",
+                                "Translation": "(Oni wsiedli do autobusu.)"
+                            },
+                            {
+                                "Sentence": "Do you always get on at this stop?",
+                                "Translation": "(Czy zawsze wsiadacie na tym przystanku?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "odnosić sukces (np. zawodowy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'm anxious for my son to get on.",
+                                "Translation": "(Pragnę, żeby mój syn odniósł sukces.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "get something on somebody"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mieć coś na kogoś"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "get on with somebody",
+            "get on",
+            "get on together",
+            "get along with somebody",
+            "get along",
+            "get along together"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mieć z kimś dobre stosunki",
+                            "dobrze się z kimś dogadywać",
+                            "lubić kogoś",
+                            "żyć w zgodzie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Do you get along with your colleagues?",
+                                "Translation": "(Czy dobrze dogadujesz się ze znajomymi z pracy?)"
+                            },
+                            {
+                                "Sentence": "I get along with my siblings.",
+                                "Translation": "(Mam dobre stosunki z moim rodzeństwem.)"
+                            },
+                            {
+                                "Sentence": "I never got on with my brother.",
+                                "Translation": "(Nigdy nie dogadywałam się z moim bratem.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "have somebody on"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zwodzić kogoś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He had me on for years.",
+                                "Translation": "(On zwodził mnie latami.)"
+                            },
+                            {
+                                "Sentence": "She has him on but he's so in love that he doesn't see it.",
+                                "Translation": "(Ona go zwodzi, ale on jest tak zakochany, że tego nie widzi.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nabierać kogoś",
+                            "wkręcać kogoś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You're having me on, aren't you?",
+                                "Translation": "(Wkręcasz mnie, prawda?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "have something on"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mieć coś na sobie (o ubraniu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She had a green T-shirt on.",
+                                "Translation": "(Ona miała na sobie zieloną koszulkę.)"
+                            },
+                            {
+                                "Sentence": "I like to have my lucky hat on.",
+                                "Translation": "(Lubię mieć na sobie moja szczęśliwą czapkę.)"
+                            },
+                            {
+                                "Sentence": "I don't have anything on, don't come into my room!",
+                                "Translation": "(Nie mam nic na sobie, nie wchodź do mojego pokoju!)"
+                            },
+                            {
+                                "Sentence": "You'll recognize me, I have a black shirt on.",
+                                "Translation": "(Rozpoznasz mnie, mam na sobie czarną koszulę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "mieć coś włączone (np. komputer)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I have my computer on, you can use it if you want.",
+                                "Translation": "(Mam włączony komputer, możesz go użyć, jeśli chcesz.)"
+                            },
+                            {
+                                "Sentence": "I have my TV on, so we can watch some films.",
+                                "Translation": "(Mam włączony telewizor, więc możemy pooglądać jakieś filmy.)"
+                            },
+                            {
+                                "Sentence": "Do you have your laptop on?",
+                                "Translation": "(Masz włączony laptop?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "mieć już coś zorganizowane",
+                            "mieć zajęty czas"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Sorry, but I have something on tonight already.",
+                                "Translation": "(Wybacz, ale dziś wieczór mam już coś zorganizowane.)"
+                            },
+                            {
+                                "Sentence": "Do you have something on next weekend?",
+                                "Translation": "(Czy masz zajęty czas w przyszły weekend?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "musieć coś zrobić"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I have a project on.",
+                                "Translation": "(Muszę zrobić projekt.)"
+                            },
+                            {
+                                "Sentence": "My son has a lot of homework on.",
+                                "Translation": "(Mój syn musi zrobić dużo pracy domowej.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "be on it"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zajmować się czymś",
+                            "brać się za coś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Don't worry, I'm on it.",
+                                "Translation": "(Nie martw się, zajmę się tym.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "be on",
+            "be on the rag",
+            "ride on the rag"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mieć okres (wulgarne określenie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Jane is on the rag.",
+                                "Translation": "(Jane ma okres.)"
+                            },
+                            {
+                                "Sentence": "\"Why is she so angry?\" \"She is on.\"",
+                                "Translation": "(\"Czemu jest taka zdenerwowana?\" \"Ma okres.\")"
+                            },
+                            {
+                                "Sentence": "I'm on, I don't feel so good.",
+                                "Translation": "(Mam okres, nie czuję się zbyt dobrze.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "be on somebody"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "być na czyjś rachunek"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It's my birthday so drinks are on me.",
+                                "Translation": "(To moje urodziny, więc drinki są na mój rachunek.)"
+                            },
+                            {
+                                "Sentence": "I'm not going unless the dinner's on you.",
+                                "Translation": "(Nie idę o ile obiad nie jest na twój rachunek.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "get along",
+            "get on"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "radzić sobie",
+                            "dawać sobie radę (z czymś, w jakiejś sytuacji)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'm getting along, I don't need your help.",
+                                "Translation": "(Radzę sobie, nie potrzebuję twojej pomocy.)"
+                            },
+                            {
+                                "Sentence": "We got along fine without you.",
+                                "Translation": "(Radziliśmy sobie dobrze bez ciebie.)"
+                            },
+                            {
+                                "Sentence": "How are you getting on in your new job?",
+                                "Translation": "(Jak sobie radzisz w swojej nowej pracy?)"
+                            },
+                            {
+                                "Sentence": "How did you get on at the oral exam?",
+                                "Translation": "(Jak sobie poradziłeś na egzaminie ustnym?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "get on to something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przechodzić do czegoś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Can we get on to the next topic?",
+                                "Translation": "(Czy możemy przejść do następnego tematu?)"
+                            },
+                            {
+                                "Sentence": "He got on to discussing our problems.",
+                                "Translation": "(On przeszedł do dyskutowania o naszych problemach.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "get on to somebody"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "skontaktować się z kimś",
+                            "zwrócić się do kogoś"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "be on to somebody"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "być świadomym czyichś intencji"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'm on to you, so watch out.",
+                                "Translation": "(Jestem świadomy twoich intencji, więc uważaj.)"
+                            },
+                            {
+                                "Sentence": "The police is on to him.",
+                                "Translation": "(Policja jest świadoma jego intencji.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "be on to something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wpadać na pomysł (np. rozwiązania czegoś)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "be not on"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "być nie do przyjęcia"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "get it on"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zacząć coś robić z wigorem",
+                            "zacząć coś robić entuzjastycznie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "That looks like a good movie, let's get it on!",
+                                "Translation": "(To wygląda na dobry film, chodźmy!)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "uprawiać seks"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He wanted to get it on with me.",
+                                "Translation": "(On chciał ze mną uprawiać seks.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

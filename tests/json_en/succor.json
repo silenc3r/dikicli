@@ -1,0 +1,37 @@
+[
+    {
+        "Entry": [
+            "succour",
+            "succor"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pomoc",
+                            "wsparcie",
+                            "odsiecz"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pomagać",
+                            "wspierać",
+                            "przychodzić z odsieczą"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

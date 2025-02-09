@@ -1,0 +1,46 @@
+[
+    {
+        "Entry": [
+            "sinewy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "silny",
+                            "muskularny (o osobie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She dreams about his sinewy shoulders.",
+                                "Translation": "(Ona śni o jego muskularnych ramionach.)"
+                            },
+                            {
+                                "Sentence": "Judy's husband is sinewy.",
+                                "Translation": "(Mąż Judy jest silny.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "żylasty (o mięsie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The kid doesn't want to eat this sinewy meat.",
+                                "Translation": "(Dzieciak nie chce jeść tego żylastego mięsa.)"
+                            },
+                            {
+                                "Sentence": "This meat is too sinewy for me.",
+                                "Translation": "(To mięso jest zbyt żylaste dla mnie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

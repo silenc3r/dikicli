@@ -1,0 +1,31 @@
+[
+    {
+        "Entry": [
+            "felony"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "poważne przestępstwo",
+                            "zbrodnia"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Our client just committed a felony in front of a judge.",
+                                "Translation": "(Nasz klient właśnie popełnił zbrodnię na oczach sędziego.)"
+                            },
+                            {
+                                "Sentence": "Possession of cigarettes is a felony in our country.",
+                                "Translation": "(Posiadanie papierosów jest przestępstwem w naszym państwie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "perfusion lung scan",
+            "PLS"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "scyntygrafia perfuzyjna płuc"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

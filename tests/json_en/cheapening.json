@@ -1,0 +1,94 @@
+[
+    {
+        "Entry": [
+            "cheapening"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "obniżanie kosztów",
+                            "spowodowanie potanienia"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "obniżanie wartości",
+                            "zdewaluowanie"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "poniżanie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "cheapen"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "obniżyć koszty",
+                            "spowodować potanienie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You can cheapen the costs of industrial production by increasing employee efficiency.",
+                                "Translation": "(Możesz obniżyć koszty produkcji poprzez zwiększenie wydajności pracowników.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "obniżyć wartość",
+                            "zdewaluować"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "poniżyć",
+                            "poniżać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "cheapen oneself"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "poniżyć się",
+                            "poniżać się"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

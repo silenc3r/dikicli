@@ -1,0 +1,58 @@
+[
+    {
+        "Entry": [
+            "butch"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "babochłop"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "If you ask me, she's kind of a butch.",
+                                "Translation": "(Jeżeli chcesz znać moje zdanie, ona jest trochę babochłopem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "lesbijka (o typowo męskiej ekspresji)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I heard she's a butch.",
+                                "Translation": "(Słyszałam, że ona jest lesbijką.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "męski",
+                            "macho"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She's a little too butch for my taste.",
+                                "Translation": "(Ona jest dla mnie zbyt męska.)"
+                            },
+                            {
+                                "Sentence": "I didn't think it was very butch.",
+                                "Translation": "(Nie uważam, że to było męskie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

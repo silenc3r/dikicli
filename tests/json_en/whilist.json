@@ -1,0 +1,58 @@
+[
+    {
+        "Entry": [
+            "while",
+            "whilst"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "spójnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "podczas",
+                            "w trakcie",
+                            "podczas gdy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Someone broke into their house while they were sleeping.",
+                                "Translation": "(Ktoś włamał się do ich domu w czasie, gdy oni spali.)"
+                            },
+                            {
+                                "Sentence": "I'll do it while you go shopping.",
+                                "Translation": "(Zrobię to, w trakcie gdy ty pójdziesz na zakupy.)"
+                            },
+                            {
+                                "Sentence": "I often read while I'm eating.",
+                                "Translation": "(Często czytam podczas jedzenia.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pomimo że"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It was rude - she went to a party while she knew that we want to spend time with her.",
+                                "Translation": "(To było niegrzeczne - poszła na imprezę pomimo że wiedziała, że chcemy spędzić z nią czas.)"
+                            },
+                            {
+                                "Sentence": "He didn't offer us anything to eat while he knew that we were really hungry.",
+                                "Translation": "(Nie zaproponował nam niczego do jedzenia pomimo, że wiedział, że jesteśmy bardzo głodni.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dopóki"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

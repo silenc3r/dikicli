@@ -1,0 +1,52 @@
+[
+    {
+        "Entry": [
+            "cellar"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "piwnica"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We'd better get down to the cellar first.",
+                                "Translation": "(Może lepiej zejdźmy najpierw do piwnicy.)"
+                            },
+                            {
+                                "Sentence": "I really don't know how big this cellar is.",
+                                "Translation": "(Naprawdę nie wiem jak duża jest ta piwnica.)"
+                            },
+                            {
+                                "Sentence": "Take the cellar key and bring some wine.",
+                                "Translation": "(Weź klucz do piwnicy i przynieś trochę wina.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "piwniczka z winem"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przechowywać w piwnicy",
+                            "umieszczać w piwnicy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

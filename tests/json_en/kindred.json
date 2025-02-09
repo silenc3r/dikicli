@@ -1,0 +1,83 @@
+[
+    {
+        "Entry": [
+            "kindred"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "krewni",
+                            "rodzina"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She welcomed my kindred with a smile.",
+                                "Translation": "(Ona powitała moją rodzinę z uśmiechem.)"
+                            },
+                            {
+                                "Sentence": "I don't keep in touch with all my kindred.",
+                                "Translation": "(Nie utrzymuję kontaktu ze wszystkimi moimi krewnymi.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pokrewieństwo"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I have no kindred with you.",
+                                "Translation": "(Nie mam żadnego pokrewieństwa z tobą.)"
+                            },
+                            {
+                                "Sentence": "There is kindred between me and Susan.",
+                                "Translation": "(Pomiędzy mną a Susan jest pokrewieństwo.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bratni",
+                            "pokrewny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Jim is my kindred spirit.",
+                                "Translation": "(Jim jest moją bratnią duszą.)"
+                            },
+                            {
+                                "Sentence": "\"They seem to be kindred spirits.\" \"They're getting married.\"",
+                                "Translation": "(\"Oni wydają się być pokrewnymi duszami.\" \"Oni biorą ślub.\")"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bratni",
+                            "pokrewny (np. plemię)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "These two groups are kindred tribes.",
+                                "Translation": "(Te dwie grupy to bratnie plemiona.)"
+                            },
+                            {
+                                "Sentence": "Spanish and Italian are kindred languages.",
+                                "Translation": "(Hiszpański i włoski są pokrewnymi językami.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

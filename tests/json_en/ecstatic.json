@@ -1,0 +1,45 @@
+[
+    {
+        "Entry": [
+            "ecstatic"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zachwycony",
+                            "uszczęśliwiony"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We are so ecstatic by the news.",
+                                "Translation": "(Jesteśmy tacy uszczęśliwieni tymi wiadomościami.)"
+                            },
+                            {
+                                "Sentence": "The band was greeted by an ecstatic crowd.",
+                                "Translation": "(Zespół został powitany zachwyconym tłumem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "szalony",
+                            "entuzjastyczny",
+                            "rozentuzjazmowany"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "ekstatyczny, jak w transie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

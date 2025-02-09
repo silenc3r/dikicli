@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "augment"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "powiększać",
+                            "zwiększać (za pomocą czegoś)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "powiększać się",
+                            "zwiększać się",
+                            "rosnąć"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

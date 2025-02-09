@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "groggy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "półprzytomny",
+                            "przymulony (z powodu zmęczenia lub choroby)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

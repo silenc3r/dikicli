@@ -1,0 +1,83 @@
+[
+    {
+        "Entry": [
+            "vogue"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "moda"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Short skirts are in vogue right now.",
+                                "Translation": "(Krótkie spódniczki są teraz w modzie.)"
+                            },
+                            {
+                                "Sentence": "Two theories are currently in vogue.",
+                                "Translation": "(Dwie teorie są obecnie w modzie.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "modny",
+                            "na topie",
+                            "popularny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "vogue",
+            "voguing"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "vogue (taniec)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "be in vogue",
+            "be the vogue"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "być w modzie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

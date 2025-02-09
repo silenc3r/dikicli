@@ -1,0 +1,114 @@
+[
+    {
+        "Entry": [
+            "annoyed"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozdrażniony",
+                            "poirytowany",
+                            "zły",
+                            "zagniewany"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He was annoyed that nobody asked.",
+                                "Translation": "(On był poirytowany, że nikt się nie zapytał.)"
+                            },
+                            {
+                                "Sentence": "No wonder you were annoyed with me!",
+                                "Translation": "(Nic dziwnego, że byłeś na mnie zły!)"
+                            },
+                            {
+                                "Sentence": "I was a bit annoyed about it, really.",
+                                "Translation": "(Byłem trochę tym poirytowany, naprawdę.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "annoy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "denerwować",
+                            "złościć",
+                            "drażnić",
+                            "irytować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She's always saying things that annoy me.",
+                                "Translation": "(Ona zawsze mówi rzeczy, które mnie drażnią.)"
+                            },
+                            {
+                                "Sentence": "Her loud laughter annoys me.",
+                                "Translation": "(Denerwuje mnie jej głośny śmiech.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dokuczać",
+                            "naprzykrzać się",
+                            "trapić",
+                            "wkurzać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The man was annoying the woman.",
+                                "Translation": "(Mężczyzna naprzykrzał się kobiecie.)"
+                            },
+                            {
+                                "Sentence": "The music on the street annoyed Sally all the time.",
+                                "Translation": "(Muzyka na ulicy cały czas dokuczała Sally.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "annoy somebody"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "denerwować kogoś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He's beginning to annoy me.",
+                                "Translation": "(On zaczyna mnie denerwować.)"
+                            },
+                            {
+                                "Sentence": "This seemed both to please her and to annoy her.",
+                                "Translation": "(To zdawało się ją zarówno cieszyć jak i denerwować.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

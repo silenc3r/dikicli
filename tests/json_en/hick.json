@@ -1,0 +1,38 @@
+[
+    {
+        "Entry": [
+            "hick"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kmiot",
+                            "prostak"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I won't deny that I'm just a country hick.",
+                                "Translation": "(Nie zaprzeczę, że jestem tylko prostakiem z prowincji.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "prostacki"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

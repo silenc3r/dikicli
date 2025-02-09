@@ -1,0 +1,55 @@
+[
+    {
+        "Entry": [
+            "adore"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "uwielbiać (bardzo lubić)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I adore tomatoes. I eat three or four a day.",
+                                "Translation": "(Uwielbiam pomidory. Jem trzy albo cztery dziennie.)"
+                            },
+                            {
+                                "Sentence": "You know that I adore you, don't you?",
+                                "Translation": "(Wiesz że cię uwielbiam, prawda?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "adorować",
+                            "wielbić"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She adores her children.",
+                                "Translation": "(Ona uwielbia swoje dzieci.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "czcić",
+                            "ubóstwiać",
+                            "emablować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Is there something you adore?",
+                                "Translation": "(Czy jest coś, co emablujesz?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

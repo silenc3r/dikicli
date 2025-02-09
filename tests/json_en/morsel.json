@@ -1,0 +1,43 @@
+[
+    {
+        "Entry": [
+            "morsel",
+            "morsal"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kawałek",
+                            "kąsek"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She was reluctant to try even a morsel of the cake.",
+                                "Translation": "(Ona była oporna, żeby spróbować nawet kawałek ciasta.)"
+                            },
+                            {
+                                "Sentence": "If she had a morsel of intelligence, she wouldn't act like that.",
+                                "Translation": "(Jeśli miałaby odrobinę inteligencji, nie zachowywałaby się tak.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dzielić na małe porcje (o jedzeniu)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

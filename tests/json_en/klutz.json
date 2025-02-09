@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "klutz"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niezdara",
+                            "oferma",
+                            "łamaga"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

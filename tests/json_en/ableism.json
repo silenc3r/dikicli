@@ -1,0 +1,24 @@
+[
+    {
+        "Entry": [
+            "ableism",
+            "handicapism"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ableizm",
+                            "handicapizm",
+                            "handikapizm (dyskryminacja oraz uprzedzenie do osób z niepełnosprawnościami, w szczególności z niepełnosprawnościami fizycznymi)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,61 @@
+[
+    {
+        "Entry": [
+            "commissioner"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "komisarz"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He was state public service commissioner from 1919 to 1923.",
+                                "Translation": "(On był komisarzem administracji państwowej od 1919 do 1923 roku.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "członek komisji",
+                            "komisarz",
+                            "komisarz Komisji Europejskiej"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I would like to thank the Commissioner for his answer.",
+                                "Translation": "(Chciałbym podziękować komisarzowi za jego odpowiedź.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "komendant policji"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He held the position of police commissioner at one point.",
+                                "Translation": "(On w pewnym momencie był komendantem policji.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "prezes federacji sportowej (np. baseballu czy koszykówki)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Not a good start to the season for the commissioner.",
+                                "Translation": "(Nie było to dobre rozpoczęcie sezonu dla prezesa federacji.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

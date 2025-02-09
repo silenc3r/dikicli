@@ -1,0 +1,78 @@
+[
+    {
+        "Entry": [
+            "skewer"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rożen",
+                            "metalowy pręt (do grilla)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He put the meat on the skewer.",
+                                "Translation": "(On włożył mięso na rożen.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "drewniany szpikulec (na szaszłyki)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You need skewers to make shish kabobs.",
+                                "Translation": "(Potrzebujesz szpikulców, żeby zrobić szaszłyki.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "szpada"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I always admired his skills with a skewer.",
+                                "Translation": "(Zawsze podziwiałem jego umiejętności w posługiwaniu się szpadą.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nadziewać (na pręt)",
+                            "nabijać (np. jedzenie na szpikulec)",
+                            "przebijać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He skewered the meat and put it on the barbecue.",
+                                "Translation": "(On nadział mięso na szpikulec i położył je na grillu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "skrytykować ostro (kogoś lub coś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He has been skewered for his attitude.",
+                                "Translation": "(On został ostro skrytykowany za swoje nastawienie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

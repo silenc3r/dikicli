@@ -1,0 +1,24 @@
+[
+    {
+        "Entry": [
+            "culpability",
+            "culpableness"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wina (czyjaś)",
+                            "karygodność (postępku)",
+                            "naganność"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

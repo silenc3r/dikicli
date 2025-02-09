@@ -1,0 +1,74 @@
+[
+    {
+        "Entry": [
+            "stave",
+            "staff"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pięciolinia"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The teacher wrote notes on the stave.",
+                                "Translation": "(Nauczyciel zapisał nuty na pięciolinii.)"
+                            },
+                            {
+                                "Sentence": "We learn to read music from a staff.",
+                                "Translation": "(Uczymy się czytać nuty z pięciolinii.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "stave"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "klepka beczki"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zwrotka (wiersza)",
+                            "stanca (strofa licząca kilka wersów)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "szczebel"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "odepchnąć"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

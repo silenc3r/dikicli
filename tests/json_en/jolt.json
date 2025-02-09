@@ -1,0 +1,88 @@
+[
+    {
+        "Entry": [
+            "jolt"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szarpnięcie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I felt a jolt in my arm.",
+                                "Translation": "(Poczułem szarpnięcie za ramię.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wstrząs",
+                            "szok"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He was zapped by an electric jolt.",
+                                "Translation": "(On został porażony przez wstrząs elektryczny.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "jeden głębszy (drink)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He had only one jolt, and he's already drunk.",
+                                "Translation": "(On wypił tylko jednego głębszego i już jest pijany.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rzucać (np. pasażerami w samolocie)",
+                            "wstrząsać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The passengers were jolted as the plane started descending.",
+                                "Translation": "(Rzucało pasażerami, kiedy samolot zaczął spadać.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wstrząsnąć",
+                            "wstrząsać",
+                            "zszokować (kogoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The news of her death jolted the country.",
+                                "Translation": "(Wieść o jej śmierci zszokowała cały kraj.)"
+                            },
+                            {
+                                "Sentence": "Nothing is able to jolt him nowadays.",
+                                "Translation": "(Obecnie nic nie jest w stanie nim wstrząsnąć.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

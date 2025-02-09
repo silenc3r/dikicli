@@ -1,0 +1,38 @@
+[
+    {
+        "Entry": [
+            "astute"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bystry",
+                            "przenikliwy (w radzeniu sobie z ludźmi, problemami)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He's always been a very astute politician.",
+                                "Translation": "(On od zawsze był bardzo bystrym politykiem.)"
+                            },
+                            {
+                                "Sentence": "She gave an astute response to my question.",
+                                "Translation": "(Ona udzieliła bystrej odpowiedzi na moje pytanie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "chytry",
+                            "przebiegły"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

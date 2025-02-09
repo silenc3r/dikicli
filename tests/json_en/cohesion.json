@@ -1,0 +1,31 @@
+[
+    {
+        "Entry": [
+            "cohesion"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "spójność",
+                            "kohezja"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I would like to say that cohesion is a major European policy.",
+                                "Translation": "(Chciałbym powiedzieć, że spójność jest główną polityką europejską.)"
+                            },
+                            {
+                                "Sentence": "This is a serious attack on national identity and cohesion.",
+                                "Translation": "(To groźny atak na tożsamość i spójność narodową.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "Entry": [
+            "broth",
+            "chicken broth",
+            "chicken soup"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rosół"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She cooked some broth for dinner.",
+                                "Translation": "(Ona ugotowała rosół na obiad.)"
+                            },
+                            {
+                                "Sentence": "He poured some hot broth into a bowl for her.",
+                                "Translation": "(On nalał jej trochę gorącego rosołu do miseczki.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "broth"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bulion"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Do you want to eat this broth?",
+                                "Translation": "(Chcesz zjeść ten bulion?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

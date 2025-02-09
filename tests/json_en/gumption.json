@@ -1,0 +1,27 @@
+[
+    {
+        "Entry": [
+            "gumption"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zdrowy rozsądek"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "umiejętność podejmowania właściwych decyzji i determinacja w ich wykonywaniu"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

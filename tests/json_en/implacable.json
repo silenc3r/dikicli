@@ -1,0 +1,24 @@
+[
+    {
+        "Entry": [
+            "implacable"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nieubłagany",
+                            "nieprzejednany (o wrogu)",
+                            "nieugięty",
+                            "nieustępliwy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

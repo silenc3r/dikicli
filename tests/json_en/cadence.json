@@ -1,0 +1,68 @@
+[
+    {
+        "Entry": [
+            "cadence"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "intonacja",
+                            "tempo",
+                            "rytm"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "kadencja (w muzyce)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "czynić rytmicznym"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "Cadence"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "Cadence (imię żeńskie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I heard Cadence's voice and I smiled.",
+                                "Translation": "(Usłyszałem głos Cadence i uśmiechnąłem się.)"
+                            },
+                            {
+                                "Sentence": "Cadence is a wonderful mum.",
+                                "Translation": "(Cadence jest wspaniałą matką.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

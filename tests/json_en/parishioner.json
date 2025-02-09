@@ -1,0 +1,26 @@
+[
+    {
+        "Entry": [
+            "parishioner"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "parafianin"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The priest's sermon moved the parishioners.",
+                                "Translation": "(Kazanie kapłana poruszyło parafian.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

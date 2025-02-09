@@ -1,0 +1,491 @@
+[
+    {
+        "Entry": [
+            "for",
+            "fer"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przyimek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dla",
+                            "do (kogoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I've got a gift for you.",
+                                "Translation": "(Mam dla ciebie prezent.)"
+                            },
+                            {
+                                "Sentence": "Don't eat these chocolates - they're for Tom.",
+                                "Translation": "(Nie jedz tych czekoladek - one są dla Toma.)"
+                            },
+                            {
+                                "Sentence": "There's a letter for you - I put it in the kitchen.",
+                                "Translation": "(Jest list do ciebie - położyłem go w kuchni.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "do",
+                            "na (z jakimś przeznaczeniem)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It's a knife for cutting bread.",
+                                "Translation": "(To jest nóż do krojenia chleba.)"
+                            },
+                            {
+                                "Sentence": "What is this for?",
+                                "Translation": "(Do czego to służy?)"
+                            },
+                            {
+                                "Sentence": "This is a pot for the pasta.",
+                                "Translation": "(To jest garnek na makaron.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "do",
+                            "na (konkretne miejsce)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We're leaving for Hawaii.",
+                                "Translation": "(Wyjeżdżamy na Hawaje.)"
+                            },
+                            {
+                                "Sentence": "Are you leaving for London soon?",
+                                "Translation": "(Czy prędko wyjeżdżasz do Londynu?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "za",
+                            "z powodu"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I got fired for stealing.",
+                                "Translation": "(Zwolniono mnie za kradzież.)"
+                            },
+                            {
+                                "Sentence": "If, for any reason, you cannot attend, please inform us.",
+                                "Translation": "(Jeśli, z jakiegokolwiek powodu, nie możesz wziąć udziału, proszę nas poinformować.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "na",
+                            "z okazji"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I've bought him a watch for his birthday.",
+                                "Translation": "(Kupiłem mu zegarek na urodziny.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "za (w poparciu czegoś lub kogoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The majority voted for independence.",
+                                "Translation": "(Większość głosowała za niepodległością.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "za (np. odpowiedzialny)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I am responsible for this department.",
+                                "Translation": "(Jestem odpowiedzialna za ten wydział.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "za (koszt)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I paid $3 for a ticket.",
+                                "Translation": "(Zapłaciłem 3 dolary za bilet.)"
+                            },
+                            {
+                                "Sentence": "How much for this dress?",
+                                "Translation": "(Ile za tę sukienkę?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "w imieniu",
+                            "za (kogoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I am speaking for everyone here.",
+                                "Translation": "(Mówię w imieniu wszystkich tutaj.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "za (kogoś, w znaczeniu \"zrobić coś za kogoś\")"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I can do the laundry for you if you promise to help me with my homework.",
+                                "Translation": "(Mogę zrobić za ciebie pranie jeśli obiecasz, że pomożesz mi w zadaniu domowym.)"
+                            },
+                            {
+                                "Sentence": "I will not do everything for you.",
+                                "Translation": "(Nie będę za ciebie wszystkiego robiła.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "jak",
+                            "na (w znaczeniu \"oznacza coś\")"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "What's the Polish word for \"chicken\"?",
+                                "Translation": "(Jakie jest polskie słowo na \"chicken\"?)"
+                            },
+                            {
+                                "Sentence": "The \"L\" is for Love.",
+                                "Translation": "(L jak Love.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "na",
+                            "za (w zamian)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Can I swap this card for that one?",
+                                "Translation": "(Czy mogę zamienić tę kartę na tamtą?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przez (czas lub odcinek)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Bake the cake for 40 minutes.",
+                                "Translation": "(Piecz ciasto przez 40 minut.)"
+                            },
+                            {
+                                "Sentence": "We've been driving around for an hour.",
+                                "Translation": "(Jeździliśmy w kółko przez godzinę.)"
+                            },
+                            {
+                                "Sentence": "She walked for 200 yards.",
+                                "Translation": "(Ona szła przez 200 yardów.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "w",
+                            "zatrudniony w",
+                            "zatrudniony przez"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I was a teacher for the university.",
+                                "Translation": "(Byłam nauczycielem zatrudnionym przez uniwersytet.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "jak na",
+                            "na"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She looks young for her age.",
+                                "Translation": "(Ona wygląda młodo jak na swój wiek.)"
+                            },
+                            {
+                                "Sentence": "You've achieved a lot for such a young age.",
+                                "Translation": "(Dużo osiągnęłaś jak na tak młody wiek.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "po (raz któryś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I got married for the third time in June.",
+                                "Translation": "(Wyszłam za mąż po raz trzeci w czerwcu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "po (kogoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'm here for my daughter.",
+                                "Translation": "(Przyszłam po swoją córkę.)"
+                            },
+                            {
+                                "Sentence": "He came for me yesterday.",
+                                "Translation": "(On przyszedł po mnie wczoraj.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "spójnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "gdyż",
+                            "ponieważ"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I cannot tell whether she is old or young, for I have never seen her.",
+                                "Translation": "(Nie umiem powiedzieć czy jest stara czy młoda, ponieważ nigdy jej nie widziałem.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "be all for something",
+            "be for something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "być za czymś (uważać dane działanie za słuszne lub konieczne)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A breakfast in bed? I'm all for it!",
+                                "Translation": "(Śniadanie do łóżka? Jestem za tym!)"
+                            },
+                            {
+                                "Sentence": "I'm all for a free parking.",
+                                "Translation": "(Jestem za darmowym parkingiem.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "as for something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "co do czegoś",
+                            "co się tyczy czegoś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "As for your question - yes, they are looking for a babysitter.",
+                                "Translation": "(Co do twojego pytania - tak, oni szukają niani.)"
+                            },
+                            {
+                                "Sentence": "I know she's pretty, but as for your plans - she doesn't like you.",
+                                "Translation": "(Wiem, że jest ładna, ale co się tyczy twoich planów - nie, nie podobasz się jej.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "4U",
+            "for you"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dla ciebie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "John brought these flowers for you.",
+                                "Translation": "(John przyniósł te kwiaty dla ciebie.)"
+                            },
+                            {
+                                "Sentence": "I would do anything 4U.",
+                                "Translation": "(Zrobiłbym dla ciebie wszystko.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "get something for somebody"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przynieść coś dla kogoś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I got some chocolates for you.",
+                                "Translation": "(Przyniosłem ci trochę czekoladek.)"
+                            },
+                            {
+                                "Sentence": "I got that book for you, the one you asked for.",
+                                "Translation": "(Przyniosłem ci tamtą książkę, o którą prosiłeś.)"
+                            },
+                            {
+                                "Sentence": "I got some water for the dog.",
+                                "Translation": "(Przyniosłem trochę wody dla psa.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kupić coś dla kogoś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I got her a necklace.",
+                                "Translation": "(Kupiłem jej naszyjnik.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "as for"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "jeśli chodzi o"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "As for the meeting, it starts at 9:00.",
+                                "Translation": "(Jeśli chodzi o spotkanie, zaczyna się o 9:00.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "be in for it",
+            "be for it"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dostać za swoje",
+                            "doigrać się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "What you did was horrible and I hope you will be in for it.",
+                                "Translation": "(To co zrobiłeś było okropne i mam nadzieję, że dostaniesz za swoje.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "as for me"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "jeśli o mnie chodzi"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "As for me, I love her with all my heart.",
+                                "Translation": "(Jeśli o mnie chodzi, kocham ją całym sercem.)"
+                            },
+                            {
+                                "Sentence": "As for me, parachuting is too dangerous.",
+                                "Translation": "(Jeśli o mnie chodzi, spadochroniarstwo jest zbyt niebezpiecznie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

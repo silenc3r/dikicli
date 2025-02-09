@@ -1,0 +1,92 @@
+[
+    {
+        "Entry": [
+            "derived"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pochodny",
+                            "pochodzący"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Using waste derived fuel saves natural resources.",
+                                "Translation": "(Używanie paliwa pochodzącego z odpadków oszczędza zasoby naturalne.)"
+                            },
+                            {
+                                "Sentence": "In English there are a lot of words derived from Latin.",
+                                "Translation": "(W angielskim jest wiele słów pochodzących z łaciny.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "derive"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "czerpać (np. przyjemność)",
+                            "odnosić (korzyści, zyski)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He derives pleasure from helping others.",
+                                "Translation": "(On czerpie przyjemność z pomagania innym.)"
+                            },
+                            {
+                                "Sentence": "I can't derive happiness from life.",
+                                "Translation": "(Nie umiem czerpać szczęścia z życia.)"
+                            },
+                            {
+                                "Sentence": "Do you derive profit from your company?",
+                                "Translation": "(Czy odnosisz zysk ze swojej firmy?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pochodzić",
+                            "wywodzić się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Romance languages are derived from Latin.",
+                                "Translation": "(Języki romańskie wywodzą się z łaciny.)"
+                            },
+                            {
+                                "Sentence": "A lot of English words derive from Latin.",
+                                "Translation": "(Wiele angielskich słów wywodzi się z łaciny.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wyprowadzać",
+                            "wydzielać (substancję chemiczną z innej substancji)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "If you heat the test tube, you will derive silver.",
+                                "Translation": "(Jeżeli podgrzejesz tę probówkę, wydzielisz srebro.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

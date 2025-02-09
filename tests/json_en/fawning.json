@@ -1,0 +1,91 @@
+[
+    {
+        "Entry": [
+            "fawning"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przymilny",
+                            "płaszczący się"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "fawn"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "jelonek"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I saw a small fawn in the forest!",
+                                "Translation": "(Widziałem małego jelonka w lesie!)"
+                            },
+                            {
+                                "Sentence": "There are two fawns and a doe on the field.",
+                                "Translation": "(Na polu są dwa jelonki i łania.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "płowy (kolor)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This dress has a fawn colour, don't wear it.",
+                                "Translation": "(Ta sukienka ma płowy kolor, nie noś jej.)"
+                            },
+                            {
+                                "Sentence": "I think this blouse is too fawn for you.",
+                                "Translation": "(Myślę, że ta bluzka jest zbyt płowa dla ciebie.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "płaszczyć się",
+                            "nadskakiwać komuś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She is always fawning on our boss!",
+                                "Translation": "(Ona zawsze się płaszczy naszemu szefowi!)"
+                            },
+                            {
+                                "Sentence": "I will not fawn on him! He can serve himself.",
+                                "Translation": "(Nie będę mu nadskakiwać! Sam może się obsłużyć.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

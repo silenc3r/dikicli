@@ -1,0 +1,38 @@
+[
+    {
+        "Entry": [
+            "libel"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "oszczerstwo",
+                            "paszkwil",
+                            "potwarz",
+                            "zniesławienie (w formie pisemnej)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zniesławiać",
+                            "zniesławić",
+                            "oczerniać",
+                            "spotwarzać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "Entry": [
+            "friar",
+            "frere",
+            "frate"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mnich",
+                            "brat zakonny (podróżujący w przeszłości i nauczający o chrześcijaństwie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

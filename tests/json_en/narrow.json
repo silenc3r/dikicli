@@ -1,0 +1,115 @@
+[
+    {
+        "Entry": [
+            "narrow"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wąski"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We climbed the narrow steps.",
+                                "Translation": "(Weszliśmy na górę po wąskich schodach.)"
+                            },
+                            {
+                                "Sentence": "My bed is very uncomfortable - it's hard and narrow.",
+                                "Translation": "(Moje łóżko jest bardzo niewygodne - jest twarde i wąskie.)"
+                            },
+                            {
+                                "Sentence": "This bridge is very narrow.",
+                                "Translation": "(Ten most jest bardzo wąski.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ograniczony",
+                            "ciasny",
+                            "zawężony"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He has a narrow mind.",
+                                "Translation": "(On ma ograniczony umysł.)"
+                            },
+                            {
+                                "Sentence": "She can't comprehend that with her narrow mind.",
+                                "Translation": "(Ona nie może tego pojąć swoim zawężonym umysłem.)"
+                            },
+                            {
+                                "Sentence": "We have a narrow number of tickets for the concert.",
+                                "Translation": "(Mamy ograniczoną liczbę biletów na koncert.)"
+                            },
+                            {
+                                "Sentence": "There is a narrow number of seats.",
+                                "Translation": "(Jest ograniczona liczba miejsc.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "narrow"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zwężać (np. oczy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I narrowed my eyes when I heard his words.",
+                                "Translation": "(Zwęziłem oczy, kiedy usłyszałem jego słowa.)"
+                            },
+                            {
+                                "Sentence": "The light was so dazzling that he narrowed his eyes.",
+                                "Translation": "(Światło było tak rażące, że on zwęził oczy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zwężać się",
+                            "zacieśniać się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The river narrows a little here.",
+                                "Translation": "(Rzeka zwęża się nieco w tym miejscu.)"
+                            },
+                            {
+                                "Sentence": "Be careful and stay close to me, the path is narrowing.",
+                                "Translation": "(Bądź ostrożny i trzymaj się blisko mnie, ścieżka się zwęża.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zmniejszać",
+                            "zmniejszać się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We need to narrow the gap between the classes.",
+                                "Translation": "(Musimy zmniejszyć przepaść pomiędzy klasami.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

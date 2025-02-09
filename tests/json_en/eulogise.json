@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "eulogize",
+            "eulogise"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wychwalać pod niebiosa",
+                            "opiewać (np. męstwo)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

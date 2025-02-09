@@ -1,0 +1,50 @@
+[
+    {
+        "Entry": [
+            "cemetery"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "cmentarz"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Do you normally walk alone in a cemetery at night?",
+                                "Translation": "(Często chodzisz sama po cmentarzu nocą?)"
+                            },
+                            {
+                                "Sentence": "The family invites you to join them at the cemetery.",
+                                "Translation": "(Rodzina zaprasza, by towarzyszyć jej na cmentarzu.)"
+                            },
+                            {
+                                "Sentence": "He's buried at Harbor cemetery, not too far from my parents.",
+                                "Translation": "(On jest pochowany na cmentarzu Harbor, niedaleko moich rodziców.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "cmentarny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We walked around cemetery lanes all evening.",
+                                "Translation": "(Spacerowaliśmy cmentarnymi alejkami cały wieczór.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

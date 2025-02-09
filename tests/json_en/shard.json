@@ -1,0 +1,40 @@
+[
+    {
+        "Entry": [
+            "shard",
+            "sherd"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "skorupka",
+                            "odłamek (naczynia)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He dropped the plate and its shards scattered all over the floor.",
+                                "Translation": "(On upuścił talerz, którego odłamki rozsypały się po podłodze.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "czerep (fragment ceramiki)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "skorupa (np. ślimaka, jaja)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

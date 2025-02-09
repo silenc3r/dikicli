@@ -1,0 +1,38 @@
+[
+    {
+        "Entry": [
+            "magpie"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sroka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Magpies often steal shiny objects.",
+                                "Translation": "(Sroki często kradną błyszczące przedmioty.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "chomik (osoba zbierająca szpargały)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "gaduła"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

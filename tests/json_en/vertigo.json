@@ -1,0 +1,27 @@
+[
+    {
+        "Entry": [
+            "vertigo"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zawrót głowy",
+                            "zawroty głowy (spowodowane np. lękiem wysokości)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He sat down, fighting away vertigo.",
+                                "Translation": "(On usiadł, walcząc z zawrotami głowy.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

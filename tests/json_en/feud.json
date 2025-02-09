@@ -1,0 +1,66 @@
+[
+    {
+        "Entry": [
+            "feud",
+            "feod"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "lenno"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They were obliged to pay the feud.",
+                                "Translation": "(Oni byli zobowiązani do płacenia lenna.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "spór",
+                            "sprzeczka",
+                            "waśń",
+                            "konflikt"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This stupid feud's got nothing to do with me.",
+                                "Translation": "(Ta głupia waśń nie ma nic wspólnego ze mną.)"
+                            },
+                            {
+                                "Sentence": "Your family feud is none of my concern.",
+                                "Translation": "(Wasze waśni rodzinne to nie mój problem.)"
+                            },
+                            {
+                                "Sentence": "This is nothing but a personal feud between two selfish, ruthless, vicious old men.",
+                                "Translation": "(To nic innego ale osobista waśń pomiędzy dwoma samolubnymi, bezwzględnymi wściekłymi, starymi ludzmi.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "spierać się",
+                            "toczyć konflikt"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They have been feuding over this land for decades.",
+                                "Translation": "(Oni spierają się o tę ziemię od dziesięcioleci.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

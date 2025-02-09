@@ -1,0 +1,32 @@
+[
+    {
+        "Entry": [
+            "mediocre"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mierny",
+                            "średni",
+                            "przeciętny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Your composition was rather mediocre - you certainly could do better.",
+                                "Translation": "(Twoje wypracowanie było raczej średnie - z pewnością stać cię na więcej.)"
+                            },
+                            {
+                                "Sentence": "I didn't like the movie that much - it was rather mediocre.",
+                                "Translation": "(Ten film nie podobał mi się za bardzo - był raczej mierny.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

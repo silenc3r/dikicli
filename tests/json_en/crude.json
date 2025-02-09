@@ -1,0 +1,80 @@
+[
+    {
+        "Entry": [
+            "crude"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ropa naftowa"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They say the war was really all about the crude.",
+                                "Translation": "(Mówi się, że w tej wojnie chodziło tylko o ropę naftową.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "prymitywny (np. narzędzie, metoda)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We're a crude form of life right now, in the evolutionary stages.",
+                                "Translation": "(Jesteśmy obecnie prymitywną formą życia w stadium ewolucyjnym.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nieokrzesany",
+                            "prostacki",
+                            "nieudolny",
+                            "niezdarny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He is such a crude man.",
+                                "Translation": "(On jest takim nieokrzesanym człowiekiem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ordynarny",
+                            "wulgarny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "How can you be so crude?",
+                                "Translation": "(Jak możesz być taka ordynarna?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "surowy",
+                            "nieopracowany"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This is a crude prototype, but it shows the basic principle of operation.",
+                                "Translation": "(To nieopracowany prototyp, ale przedstawia podstawową zasadę działania.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

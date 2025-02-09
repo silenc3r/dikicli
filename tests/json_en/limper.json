@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "limper"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "osoba kuśtykająca",
+                            "kulejąca",
+                            "utykająca"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

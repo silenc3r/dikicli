@@ -1,0 +1,66 @@
+[
+    {
+        "Entry": [
+            "stow"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "składać (bagaż)",
+                            "rozmieszczać ładunek (na statku, w samolocie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "umieścić (coś gdzieś)",
+                            "spakować (np. pudła)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I stowed the documents in the box.",
+                                "Translation": "(Spakowałem dokumenty do pudełka.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przestać",
+                            "przerwać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Stow the chatter and listen.",
+                                "Translation": "(Przestań gadać i słuchaj.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "Stow it!"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "Zamknij się!",
+                            "Przymknij się!"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,144 @@
+[
+    {
+        "Entry": [
+            "minted"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nadziany",
+                            "dziany"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "mint"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mięta"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She had mint in her garden.",
+                                "Translation": "(Ona miała miętę w ogródku.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "miętówka",
+                            "cukierek miętowy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He gave me a mint.",
+                                "Translation": "(On dał mi cukierka miętowego.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "mennica"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The mint has released a set of special coins for this event.",
+                                "Translation": "(Mennica wydała zestaw specjalnych monet z okazji tego wydarzenia.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "fortuna",
+                            "majątek"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He inherited a mint.",
+                                "Translation": "(On odziedziczył fortunę.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "miętowy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I like mint ice cream.",
+                                "Translation": "(Lubię miętowe lody.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "świetny",
+                            "super"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'm selling collectibles in mint condition.",
+                                "Translation": "(Sprzedaję artykuły kolekcjonerskie w świetnym stanie.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bić (monety)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We can't mint any more coins.",
+                                "Translation": "(Nie możemy bić więcej monet.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ukuć",
+                            "wymyślać (wyrażenie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She minted this term herself.",
+                                "Translation": "(Ona sama ukuła to wyrażenie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "tworzyć",
+                            "stwarzać (np. technologię)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "presupposition"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "domysł",
+                            "założenie"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "presupozycja (założenie, że pewne stwierdzenia są prawdziwe bez poddawania ich w wątpliwość)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

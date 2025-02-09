@@ -1,0 +1,33 @@
+[
+    {
+        "Entry": [
+            "inane"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bezmyślny",
+                            "głupi",
+                            "lekkomyślny",
+                            "próżny",
+                            "pusty (o osobie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "czczy (np. żart)",
+                            "bezsensowny",
+                            "niedorzeczny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

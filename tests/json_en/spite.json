@@ -1,0 +1,53 @@
+[
+    {
+        "Entry": [
+            "spite"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niechęć",
+                            "uraza",
+                            "złość"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She feels spite towards her mother-in-law.",
+                                "Translation": "(Ona czuje urazę do swojej teściowej.)"
+                            },
+                            {
+                                "Sentence": "Don't let your spite ruin this evening.",
+                                "Translation": "(Nie pozwól swojej złości zepsuć tego wieczoru.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "celowo rozzłościć",
+                            "robić na złość"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She married him to spite her parents.",
+                                "Translation": "(Ona poślubiła go, aby zrobić na złość swoim rodzicom.)"
+                            },
+                            {
+                                "Sentence": "My brother always spites me.",
+                                "Translation": "(Mój brat zawsze robi mi na złość.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

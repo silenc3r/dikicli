@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "tinnitus"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szum w uszach",
+                            "brzęczenie w uszach"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

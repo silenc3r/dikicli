@@ -1,0 +1,298 @@
+[
+    {
+        "Entry": [
+            "stretch"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozciągać się",
+                            "przeciągać się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Always stretch before you start exercising.",
+                                "Translation": "(Zawsze rozciągaj się, zanim zaczniesz ćwiczyć.)"
+                            },
+                            {
+                                "Sentence": "You need to stretch after a long workout.",
+                                "Translation": "(Musisz rozciągać się po długim treningu.)"
+                            },
+                            {
+                                "Sentence": "I've been sitting for five hours, I need to stretch.",
+                                "Translation": "(Siedziałem przez pięć godzin, muszę się przeciągnąć.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rozciągnąć",
+                            "wyciągnąć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I felt uncomfortable because I couldn't stretch my legs.",
+                                "Translation": "(Czułem się niekomfortowo, bo nie mogłem wyciągnąć nóg.)"
+                            },
+                            {
+                                "Sentence": "I stretch my body every half an hour.",
+                                "Translation": "(Rozciągam ciało co pół godziny.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ciągnąć się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The journey stretched into infinity.",
+                                "Translation": "(Podróż ciągnęła się w nieskończoność.)"
+                            },
+                            {
+                                "Sentence": "The hot cheese stretched so much I didn't know how to eat it.",
+                                "Translation": "(Gorący ser tak się ciągnął, że nie wiedziałem jak go jeść.)"
+                            },
+                            {
+                                "Sentence": "Sand hills stretch hundred miles to the north.",
+                                "Translation": "(Piaskowe wzgórza ciągną się sto mil na północ.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rozpościerać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A beautiful view stretched before us.",
+                                "Translation": "(Przed nami rozpościerał się piękny widok.)"
+                            },
+                            {
+                                "Sentence": "The life that stretched in front of us looked wonderful.",
+                                "Translation": "(Życie, które się przed nami rozpościerało, było cudowne.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rozszerzać",
+                            "powiększać zakres"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'm stretching the range of my knowledge every day.",
+                                "Translation": "(Codziennie rozszerzam zakres swojej wiedzy.)"
+                            },
+                            {
+                                "Sentence": "You have to stretch your vocabulary.",
+                                "Translation": "(Musisz rozszerzać swoje słownictwo.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "napinać",
+                            "nadwerężać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I stretched my back carrying those groceries yesterday.",
+                                "Translation": "(Nadwyrężyłem plecy nosząc tamte wszystkie zakupy wczoraj.)"
+                            },
+                            {
+                                "Sentence": "I stretched my left hand.",
+                                "Translation": "(Nadwyrężyłam lewą rękę.)"
+                            },
+                            {
+                                "Sentence": "I have been stretching my neck the whole day.",
+                                "Translation": "(Cały dzień napinałam szyję.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rozpychać się",
+                            "rozciągać się (o materiale, ubraniu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The lady in a store said these shoes will stretch.",
+                                "Translation": "(Pani w sklepie powiedziała, że te buty się rozciągną.)"
+                            },
+                            {
+                                "Sentence": "Don't worry, the short sleeves will stretch with time.",
+                                "Translation": "(Nie przejmuj się, te krótkie rękawy z czasem się rozciągną.)"
+                            },
+                            {
+                                "Sentence": "Oh no, my new sweater has stretched.",
+                                "Translation": "(O nie, mój nowy sweter się rozepchał.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "powodować, że ktoś da z siebie wszystko"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "nadwerężyć (np. zasoby, budżet)",
+                            "naciągnąć (np. zasady)",
+                            "wyjść poza granicę czegoś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The budget is already stretched, and we need to control our spendings.",
+                                "Translation": "(Budżet jest już nadwerężony i musimy kontrolować nasze wydatki.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "obszar",
+                            "powierzchnia"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This stretch is destined for the office.",
+                                "Translation": "(Ten obszar jest przeznaczony na biuro.)"
+                            },
+                            {
+                                "Sentence": "We landed on an empty stretch.",
+                                "Translation": "(Wylądowaliśmy na pustym obszarze.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "okres",
+                            "czas"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They haven't seen each other for a long stretch of time.",
+                                "Translation": "(Oni nie widzieli się przez długi okres czasu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "odcinek (np. drogi)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "rozciąganie"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "rozciągliwość"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "odsiadka",
+                            "okres odbywania kary w więzieniu"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Did you miss me during your stretch?",
+                                "Translation": "(Tęskniłeś za mną podczas swojej odsiadki?)"
+                            },
+                            {
+                                "Sentence": "He has to serve a six-year stretch for armed robbery.",
+                                "Translation": "(On musi odbyć sześcioletnią karę więzienia za rabunek z bronią w ręku.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przesada"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It would be a stretch to call this change revolutionary.",
+                                "Translation": "(Byłoby przesadą nazwać tę zmianę rewolucyjną.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozciągliwy",
+                            "elastyczny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My trousers are made out of stretch fabric.",
+                                "Translation": "(Moje spodnie są zrobione z rozciągliwego materiału.)"
+                            },
+                            {
+                                "Sentence": "I buy trousers made of stretch materials.",
+                                "Translation": "(Kupuję spodnie wykonane z elastycznych materiałów.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "stretch limo",
+            "stretch"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przedłużona limuzyna"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "stretch it"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "koloryzować"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "Entry": [
+            "humble"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pokorny",
+                            "skromny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He always remained a very humble man.",
+                                "Translation": "(On na zawsze pozostał skromnym mężczyzną.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "prosty",
+                            "niski",
+                            "skromny (o pochodzeniu społecznym)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She comes from a humble background.",
+                                "Translation": "(Ona ma niskie pochodzenie.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "uczyć pokory"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "poskromić",
+                            "zniszczyć (silnego przeciwnika w sporcie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They humbled the opposite team, beating them 6:0.",
+                                "Translation": "(Oni upokorzyli drużynę przeciwną, wygrywając z nimi 6:0.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "humble oneself"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "spokornieć"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

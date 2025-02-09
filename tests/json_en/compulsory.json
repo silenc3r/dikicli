@@ -1,0 +1,27 @@
+[
+    {
+        "Entry": [
+            "compulsory"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "obowiązkowy",
+                            "przymusowy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Attendance is compulsory.",
+                                "Translation": "(Obecność jest obowiązkowa.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

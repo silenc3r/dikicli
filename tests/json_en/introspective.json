@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "introspective"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "introspektywny",
+                            "spoglądający w głąb siebie",
+                            "rozmyślający nad sobą"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,96 @@
+[
+    {
+        "Entry": [
+            "while",
+            "a while"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "chwila",
+                            "jakiś czas"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'm going to sit here for a while.",
+                                "Translation": "(Posiedzę tutaj chwilę.)"
+                            },
+                            {
+                                "Sentence": "After a while, I was tired of his company.",
+                                "Translation": "(Po jakimś czasie byłam zmęczona jego towarzystwem.)"
+                            },
+                            {
+                                "Sentence": "After a while, she started crying again.",
+                                "Translation": "(Po chwili ona znów zaczęła płakać.)"
+                            },
+                            {
+                                "Sentence": "It may take a while.",
+                                "Translation": "(To może zająć chwilę.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "while",
+            "whilst"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "spójnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "podczas",
+                            "w trakcie",
+                            "podczas gdy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Someone broke into their house while they were sleeping.",
+                                "Translation": "(Ktoś włamał się do ich domu w czasie, gdy oni spali.)"
+                            },
+                            {
+                                "Sentence": "I'll do it while you go shopping.",
+                                "Translation": "(Zrobię to, w trakcie gdy ty pójdziesz na zakupy.)"
+                            },
+                            {
+                                "Sentence": "I often read while I'm eating.",
+                                "Translation": "(Często czytam podczas jedzenia.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pomimo że"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It was rude - she went to a party while she knew that we want to spend time with her.",
+                                "Translation": "(To było niegrzeczne - poszła na imprezę pomimo że wiedziała, że chcemy spędzić z nią czas.)"
+                            },
+                            {
+                                "Sentence": "He didn't offer us anything to eat while he knew that we were really hungry.",
+                                "Translation": "(Nie zaproponował nam niczego do jedzenia pomimo, że wiedział, że jesteśmy bardzo głodni.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dopóki"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

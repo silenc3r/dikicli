@@ -1,0 +1,33 @@
+[
+    {
+        "Entry": [
+            "diligent"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pilny",
+                            "staranny",
+                            "sumienny",
+                            "gorliwy (np. uczeń)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Not all my students are diligent.",
+                                "Translation": "(Nie wszyscy moi uczniowie są pilni.)"
+                            },
+                            {
+                                "Sentence": "If you are a diligent employee, you will get a promotion.",
+                                "Translation": "(Jeśli jesteś starannym pracownikiem, dostaniesz awans.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

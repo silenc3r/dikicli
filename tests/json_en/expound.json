@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "expound"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "objaśniać",
+                            "tłumaczyć",
+                            "wykładać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "Entry": [
+            "upheaval"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przewrót",
+                            "wstrząs",
+                            "zamieszanie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Thank you very much and good luck in a difficult time of upheaval.",
+                                "Translation": "(Dziękuję bardzo i życzę powodzenia w tym trudnym czasie niepokojów.)"
+                            },
+                            {
+                                "Sentence": "It was a time of unrest and upheaval in the region.",
+                                "Translation": "(To był okres niepokoju i zamętu w naszym regionie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wypiętrzenie",
+                            "wyniesienie (powstawanie gór)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "Entry": [
+            "chlamydia"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "chlamydia (choroba przenoszona drogą płciową)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He gave me chlamydia.",
+                                "Translation": "(On zaraził mnie chlamydią.)"
+                            },
+                            {
+                                "Sentence": "Chlamydia is a venereal disease.",
+                                "Translation": "(Chlamydia to choroba weneryczna.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "chlamydia (rodzaj drobnoustrojów)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Blood and urine were negative for chlamydia.",
+                                "Translation": "(Testy krwi i moczu są negatywne na chlamydię.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

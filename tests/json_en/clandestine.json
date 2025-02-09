@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "clandestine"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "tajny",
+                            "potajemny",
+                            "sekretny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

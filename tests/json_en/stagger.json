@@ -1,0 +1,103 @@
+[
+    {
+        "Entry": [
+            "stagger",
+            "stagger on"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ciągnąć się"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "stagger"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "chwiejny krok"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He entered the room with a stagger in his steps.",
+                                "Translation": "(On wszedł do pokoju chwiejnym krokiem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "odsuw"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "słaniać się (na nogach)",
+                            "zataczać (się)",
+                            "chwiać (się)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You staggered down bleary-eyed in your bathrobe to find there disheveled Mr Smith.",
+                                "Translation": "(Zatoczyłeś się na dół z zaczerwienionymi oczami w swoim szlafroku, aby zastać tam rozczochranego pana Smitha.)"
+                            },
+                            {
+                                "Sentence": "It's a really pathetic view to observe all these staggering teenagers at night time.",
+                                "Translation": "(To naprawdę żałosny widok obserwować tych wszystkich zataczających się nastolatków w nocy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zdumieć (kogoś)",
+                            "wstrząsnąć (kimś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She was staggered by the news.",
+                                "Translation": "(Te wiadomości wstrząsnęły nią.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "układać naprzemiennie (np. zmiany w pracy, dni wolne)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "John and Amy stagger their days off.",
+                                "Translation": "(John i Amy biorą wolne na zmiany.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rozłożyć"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

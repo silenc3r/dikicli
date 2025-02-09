@@ -1,0 +1,37 @@
+[
+    {
+        "Entry": [
+            "reef"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rafa (np. koralowa)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "In the protected areas of the reef, the fish population has increased by between 30% and 75% in only two years.",
+                                "Translation": "(Na chronionych obszarach tej rafy populacja ryb tylko w ciągu dwóch lat wzrosła o od 30% do 75%.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "refować (zmniejszać żagiel przez częściowe zwijanie go i umocowanie linkami)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

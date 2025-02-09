@@ -1,0 +1,47 @@
+[
+    {
+        "Entry": [
+            "strident"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "piskliwy",
+                            "przeraźliwy",
+                            "przenikliwy (dźwięk)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "głośny i ochrypły (głos)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "ostry (o krytyce, komentarzu)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "natarczywy",
+                            "nachalny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I've grown tired of his strident requests.",
+                                "Translation": "(Męczą mnie jego natarczywe prośby.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

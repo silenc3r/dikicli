@@ -1,0 +1,24 @@
+[
+    {
+        "Entry": [
+            "flirtatious",
+            "flirty"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bałamutny",
+                            "zalotny",
+                            "kokieteryjny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

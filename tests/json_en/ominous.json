@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "ominous"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "złowieszczy",
+                            "złowrogi",
+                            "przerażający"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

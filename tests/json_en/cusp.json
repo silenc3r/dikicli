@@ -1,0 +1,42 @@
+[
+    {
+        "Entry": [
+            "cusp",
+            "cuspis"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przełom (np. wieku)",
+                            "skraj (np. kariery)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I was born on the cusp of the 80's.",
+                                "Translation": "(Urodziłem się na przełomie lat 80-tych.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "szpic",
+                            "wierzchołek (np. figury geometrycznej)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "guzek (zęba)",
+                            "płatek zastawki (aorty)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

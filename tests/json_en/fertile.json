@@ -1,0 +1,51 @@
+[
+    {
+        "Entry": [
+            "fertile"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "żyzny",
+                            "urodzajny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The loss of fertile lands threw the farmers into a panic.",
+                                "Translation": "(Utrata żyznej gleby doprowadziła rolników do paniki.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "płodny (mogący mieć dzieci)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Reports show that men are more fertile in the winter.",
+                                "Translation": "(Raporty pokazują, że mężczyźni są bardziej płodni w zimie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "płodny",
+                            "kreatywny",
+                            "twórczy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "With her fertile mind she will find the solution.",
+                                "Translation": "(Mając taki kreatywny umysł znajdzie rozwiązanie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

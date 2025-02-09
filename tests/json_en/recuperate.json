@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "recuperate"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dojść do siebie po stracie finansowej (o firmie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wracać do zdrowia",
+                            "dojść do siebie (po chorobie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

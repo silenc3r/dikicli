@@ -1,0 +1,36 @@
+[
+    {
+        "Entry": [
+            "insensate"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nieożywiony",
+                            "nieczuły (np. kamień, materia)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "bezduszny",
+                            "ślepy (np. ignorancja)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "niewrażliwy",
+                            "nieczuły (np. osoba)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

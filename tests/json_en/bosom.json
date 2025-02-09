@@ -1,0 +1,78 @@
+[
+    {
+        "Entry": [
+            "bosom"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "obejmować"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "ukrywać między piersiami (coś)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "łono (środek ścisłej grupy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He felt safe in the bosom of his family.",
+                                "Translation": "(On poczuł się bezpiecznie na łonie swojej rodziny.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pazucha"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "bust",
+            "bosom"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "biust"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She has a large bosom.",
+                                "Translation": "(Ona ma duży biust.)"
+                            },
+                            {
+                                "Sentence": "She pressed her palms to her bosom.",
+                                "Translation": "(Ona przycisnęła dłonie do swoich piersi.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

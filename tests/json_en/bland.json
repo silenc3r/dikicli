@@ -1,0 +1,33 @@
+[
+    {
+        "Entry": [
+            "bland"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mdły",
+                            "nijaki (np. smak)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She ate bland food for about a week.",
+                                "Translation": "(Ona jadła mdłe posiłki przez około tydzień.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bezbarwny (np. głos, charakter)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

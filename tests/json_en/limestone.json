@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "limestone"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wapień"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This limestone has been quarried for building purposes, since Roman times.",
+                                "Translation": "(Od czasów rzymskich ten wapień wydobywany był do celów budowlanych.)"
+                            },
+                            {
+                                "Sentence": "This limestone has been shaped by years of erosion.",
+                                "Translation": "(Ten wapień był kształtowany przez lata erozji.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

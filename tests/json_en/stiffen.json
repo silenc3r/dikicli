@@ -1,0 +1,65 @@
+[
+    {
+        "Entry": [
+            "stiffen"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zesztywnieć (np. o palcach)",
+                            "zdrętwieć (o rekach, nogach)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "usztywniać (np. materiał)",
+                            "utwardzać (np. podłoże)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zesztywnieć (w reakcji na coś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She stiffened with fear.",
+                                "Translation": "(Ona zesztywniała z przerażenia.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "utwardzać (w przekonaniu)",
+                            "umacniać (np. czyjąś pozycję)",
+                            "zaostrzać (zasady, przepisy)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zagęścić (coś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She stiffened the sauce by adding the cream.",
+                                "Translation": "(Ona zagęściła sos śmietaną.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "tężeć"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

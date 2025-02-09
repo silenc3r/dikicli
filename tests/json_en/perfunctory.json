@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "perfunctory"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pobieżny",
+                            "powierzchowny",
+                            "zdawkowy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

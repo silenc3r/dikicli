@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "garrote",
+            "garote"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wykonać egzekucję poprzez uduszenie skazanego"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

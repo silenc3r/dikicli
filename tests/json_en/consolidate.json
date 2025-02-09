@@ -1,0 +1,31 @@
+[
+    {
+        "Entry": [
+            "consolidate"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "utrwalać",
+                            "umacniać"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "konsolidować",
+                            "komasować",
+                            "scalać",
+                            "łączyć (np. przedsiębiorstwa)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

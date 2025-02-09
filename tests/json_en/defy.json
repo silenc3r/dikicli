@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "defy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przeciwstawiać się (prawu)",
+                            "ignorować (nakazy)",
+                            "postępować wbrew (komuś, czemuś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "More and more students are defying their teachers and school rules.",
+                                "Translation": "(Coraz więcej uczniów przeciwstawia się nauczycielom i szkolnym zasadom.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "bereavement"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bolesna strata (np. bliskiej osoby)",
+                            "osamotnienie",
+                            "żałoba"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

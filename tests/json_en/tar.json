@@ -1,0 +1,108 @@
+[
+    {
+        "Entry": [
+            "tar"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "smoła"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He looked like he fell in a bucket of tar.",
+                                "Translation": "(On wyglądał jakby wpadł do kubła ze smołą.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "mieszanina smoły, kalafonii i tłuszczu"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "substancje smoliste"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "smołować",
+                            "pokrywać smołą (powierzchnię)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "First you need to tar the surface.",
+                                "Translation": "(Najpierw należy pokryć powierzchnię smołą.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "oczerniać",
+                            "kalać",
+                            "zanieczyszczać (niczym smołą, np. czyjeś imię)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "tar",
+            "black tar heroin"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "heroina najgorszej jakości"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He was a junkie who could only afford some cheap tar.",
+                                "Translation": "(On był ćpunem, którego było stać tylko na tanią heroinę najgorszej jakości.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "tag-along right",
+            "TAR"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "prawo pozwalające mniejszościowym udziałowcom do przyłączenia się do sprzedaży firmy przez udziałowca większościowego"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "Entry": [
+            "lupine"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wilczy",
+                            "dotyczący gatunku wilków"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Have you heard this lupine howl?",
+                                "Translation": "(Słyszałeś to wilcze wycie?)"
+                            },
+                            {
+                                "Sentence": "Let's not forget about the lupine ancestors of the dogs.",
+                                "Translation": "(Nie zapominajmy o wilczych przodkach psów.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "lupin",
+            "lupine",
+            "lupinus"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "łubin (rodzaj roślin)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "lupin",
+            "lupine"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "łubin"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

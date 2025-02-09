@@ -1,0 +1,378 @@
+[
+    {
+        "Entry": [
+            "service",
+            "services"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "praca",
+                            "służba"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He thanked the soldiers for their service.",
+                                "Translation": "(On podziękował żołnierzom za ich służbę.)"
+                            },
+                            {
+                                "Sentence": "The service at his house was quite easy.",
+                                "Translation": "(Praca w jego domu była całkiem lekka.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "usługi"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Thank you for your service.",
+                                "Translation": "(Dziękuję za twoje usługi.)"
+                            },
+                            {
+                                "Sentence": "I'll recommend your services to my friends.",
+                                "Translation": "(Polecę twoje usługi moim przyjaciołom.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kurs (przejazd)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "service"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "służba (oficjalna organizacja, np. służba zdrowia)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The health service needs to be improved.",
+                                "Translation": "(Służba zdrowia potrzebuje poprawy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "usługa"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They offer different kinds of services.",
+                                "Translation": "(Oni oferują różne rodzaje usług.)"
+                            },
+                            {
+                                "Sentence": "The service industry is gaining on popularity.",
+                                "Translation": "(Przemysł usługowy zyskuje na popularności.)"
+                            },
+                            {
+                                "Sentence": "I wasn't pleased with the service I received.",
+                                "Translation": "(Nie byłem zadowolony z usługi jaką otrzymałem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "obsługa"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The service in that restaurant is just great.",
+                                "Translation": "(Obsługa w tej restauracji jest po prostu wspaniała.)"
+                            },
+                            {
+                                "Sentence": "They will lose all their clients if they don't improve their service.",
+                                "Translation": "(Oni stracą wszystkich swoich klientów, jeśli nie poprawią obsługi.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "użytkowanie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Service of the product should be done according to the manual.",
+                                "Translation": "(Użytkowanie produktu powinno przebiegać zgodnie z instrukcją obsługi.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nabożeństwo"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The service was really nice, the choir sang beautifully.",
+                                "Translation": "(Nabożeństwo było naprawdę ładne, chór śpiewał przepięknie.)"
+                            },
+                            {
+                                "Sentence": "She attended the evening service.",
+                                "Translation": "(Ona wzięła udział w nabożeństwie wieczornym.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "usługa",
+                            "pomoc"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Thank you for your service, here's a tip.",
+                                "Translation": "(Dziękuję za pańską pomoc, oto napiwek.)"
+                            },
+                            {
+                                "Sentence": "I'm satisfied with your service - I will recommend you to my friends.",
+                                "Translation": "(Jestem zadowolony z waszej usługi - polecę was moim przyjaciołom.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "serwisowanie",
+                            "przegląd"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I paid a lot for the service of my car.",
+                                "Translation": "(Zapłaciłem bardzo dużo za przegląd mojego samochodu.)"
+                            },
+                            {
+                                "Sentence": "My car is in the service, so I have to take a bus to work.",
+                                "Translation": "(Mój samochód jest w przeglądzie, więc muszę do pracy jeździć autobusem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "serwis (np. w tenisie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Serena Williams has the strongest service I've ever seen.",
+                                "Translation": "(Serena Williams ma najsilniejszy serwis jaki widziałem w swoim życiu.)"
+                            },
+                            {
+                                "Sentence": "Her service is very good. She's great at tennis.",
+                                "Translation": "(Jej serwis jest bardzo dobry. Ona jest świetna w tenisa.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "serwis (zestaw naczyń, np. do herbaty)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She took out the tea service she got from her parents.",
+                                "Translation": "(Ona wyciągnęła serwis do herbaty, który dostała od swoich rodziców.)"
+                            },
+                            {
+                                "Sentence": "She made tea in her new service.",
+                                "Translation": "(Ona zrobiła herbatę w swoim nowym serwisie.)"
+                            },
+                            {
+                                "Sentence": "I like your tea service, it's very elegant.",
+                                "Translation": "(Podoba mi się twój serwis do herbaty, jest bardzo elegancki.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "połączenie (np. autobusowe, kolejowe)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This bus company offers a direct service from Cracow to Prague.",
+                                "Translation": "(Ta firma autobusowa oferuje bezpośrednie połączenie z Krakowa do Pragi.)"
+                            },
+                            {
+                                "Sentence": "There is no bus service between my village and your town.",
+                                "Translation": "(Nie ma połączenia autobusowego pomiędzy moją wioską, a twoim miastem.)"
+                            },
+                            {
+                                "Sentence": "The service on this route is very limited.",
+                                "Translation": "(Połączenie na tej trasie jest bardzo ograniczone.)"
+                            },
+                            {
+                                "Sentence": "The bus services in Wrocław are quite good.",
+                                "Translation": "(Połączenia autobusowe we Wrocławiu są całkiem niezłe.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "doręczenie urzędowe"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "posługa"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "serwisować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My bike will be serviced next week.",
+                                "Translation": "(Mój rower będzie serwisowany w następnym tygodniu.)"
+                            },
+                            {
+                                "Sentence": "I service my car regularly.",
+                                "Translation": "(Serwisuję mój samochód regularnie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "obsługiwać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I service many clients every day.",
+                                "Translation": "(Codziennie obsługuję wielu klientów.)"
+                            },
+                            {
+                                "Sentence": "My dad is the only one who can service this machine.",
+                                "Translation": "(Mój tata jest jedynym, który umie obsługiwać tę maszynę.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "usługowy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I run a service company.",
+                                "Translation": "(Prowadzę firmę usługową.)"
+                            },
+                            {
+                                "Sentence": "I work in my dad's service shop.",
+                                "Translation": "(Pracuję w sklepie usługowym mojego taty.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "serwisowy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "reception",
+            "signal",
+            "service"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zasięg (poziom sygnału w telefonie komórkowym)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Jack walked out of the café to get better reception.",
+                                "Translation": "(Jack wyszedł z kawiarni, żeby złapać lepszy zasięg.)"
+                            },
+                            {
+                                "Sentence": "Reception in the forest was very bad and he could hardly hear her.",
+                                "Translation": "(Zasięg w lesie był bardzo słaby i on ledwo ją słyszał.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "service",
+            "services"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "parking z restauracją, stacją benzynową (np. na autostradzie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We stopped at the service on the highway.",
+                                "Translation": "(Zatrzymaliśmy się na parkingu z restauracją na autostradzie.)"
+                            },
+                            {
+                                "Sentence": "Let's eat something at the service.",
+                                "Translation": "(Zjedzmy coś na parkingu z restauracją.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "the services",
+            "the service"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "służby"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

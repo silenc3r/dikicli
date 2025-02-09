@@ -1,0 +1,38 @@
+[
+    {
+        "Entry": [
+            "unravel"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozplatać",
+                            "rozplątać",
+                            "pruć",
+                            "strzępić"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "rozwiązywać",
+                            "rozwikłać (np. zagadkę)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "rozpaść się",
+                            "zakończyć się (np. o systemie, układzie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

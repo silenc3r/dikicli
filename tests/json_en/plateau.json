@@ -1,0 +1,66 @@
+[
+    {
+        "Entry": [
+            "plateau"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "płaskowyż",
+                            "płaskowzgórze"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The road to the plateau is locked.",
+                                "Translation": "(Droga na płaskowyż jest zablokowana.)"
+                            },
+                            {
+                                "Sentence": "The temple was located on a plateau.",
+                                "Translation": "(Świątynia była umiejscowiona na płaskowyżu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "okres stabilizacji"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Once we achieve plateau, we can consider further development.",
+                                "Translation": "(Kiedy osiągniemy okres stabilizacji możemy rozważyć dalszy rozwój.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zastój",
+                            "stagnacja"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Unfortunately, these efforts have reached a plateau and have slowed down.",
+                                "Translation": "(Niestety, wysiłki te osiągnęły zastój i utraciły impet.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ustabilizować się",
+                            "osiągnąć stały poziom"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

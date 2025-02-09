@@ -1,0 +1,48 @@
+[
+    {
+        "Entry": [
+            "undertone"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "podtekst"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His jokes have racist undertones.",
+                                "Translation": "(W jego żartach są podteksty rasistowskie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "cień (np. wątpliwości)",
+                            "nuta (np. żalu)",
+                            "zabarwienie (np. goryczy)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "przytłumiony ton",
+                            "półszept"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zabarwienie",
+                            "odcień (skóry, np. zimny)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

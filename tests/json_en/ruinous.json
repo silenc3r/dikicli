@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "ruinous"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zgubny",
+                            "rujnujący",
+                            "wyniszczający"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zrujnowany",
+                            "leżący w gruzach"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

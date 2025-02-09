@@ -1,0 +1,98 @@
+[
+    {
+        "Entry": [
+            "stew"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "gulasz",
+                            "potrawka (z mięsa i warzyw)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I swear that stew had some squirrel meat in it.",
+                                "Translation": "(Przysiągłbym, że w tym gulaszu było mięso wiewiórki.)"
+                            },
+                            {
+                                "Sentence": "I can still taste that goat stew from the other night.",
+                                "Translation": "(Nadal mam w ustach smak tej wczorajszej potrawki z kozy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bijatyka",
+                            "pijatyka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There was a stew in the pub today.",
+                                "Translation": "(Dzisiaj w pubie była bijatyka.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pijak",
+                            "moczymorda"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "stewardesa",
+                            "steward"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "dom publiczny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dusić (potrawę)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Leave the vegetables to stew for 15 minutes.",
+                                "Translation": "(Należy dusić warzywa przez 15 minut.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dusić się",
+                            "gotować (np. w upale)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'm gonna stew if the A/C doesn't work.",
+                                "Translation": "(Ugotuję się, jeżeli klimatyzacja nie będzie działać.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dręczyć się",
+                            "zamęczać się"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

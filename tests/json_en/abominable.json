@@ -1,0 +1,24 @@
+[
+    {
+        "Entry": [
+            "abominable"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "obrzydliwy",
+                            "wstrętny",
+                            "ohydny",
+                            "paskudny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

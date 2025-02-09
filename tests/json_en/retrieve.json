@@ -1,0 +1,74 @@
+[
+    {
+        "Entry": [
+            "retrieve"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "odzyskać",
+                            "odnaleźć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I want to retrieve my grandmother's ring.",
+                                "Translation": "(Chcę odzyskać pierścionek mojej babci.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pobierać",
+                            "odnaleźć (np. dane w bazie danych)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I retrieved the data I needed from his computer.",
+                                "Translation": "(Pobrałem dane, których potrzebowałem, z jego komputera.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "naprawić",
+                            "uzdrowić (sytuację)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I tried to retrieve the situation, but she is still mad at me.",
+                                "Translation": "(Próbowałem naprawić sytuację, ale ona ciągle jest na mnie zła.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wygrzebać",
+                            "wyciągać (np. coś z miejsca, w którym nie powinno się znaleźć)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She retrieved some money from her sock.",
+                                "Translation": "(Wyjęła trochę pieniędzy ze swojej skarpety.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "aportować (np. piłkę przez psa)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My dog still can't retrieve a ball.",
+                                "Translation": "(Mój pies wciąż nie potrafi aportować piłki.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

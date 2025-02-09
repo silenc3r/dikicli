@@ -1,0 +1,27 @@
+[
+    {
+        "Entry": [
+            "hotch-potch",
+            "hotchpotch",
+            "hodge-podge",
+            "hodgepodge"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mieszanina",
+                            "galimatias",
+                            "miszmasz",
+                            "groch z kapustą"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,155 @@
+[
+    {
+        "Entry": [
+            "crushed"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zgnieciony"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "kreszowany"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "crush"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "miażdżyć",
+                            "przygnieść",
+                            "kruszyć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The car was crushed by a tree.",
+                                "Translation": "(Samochód został zmiażdżony przez drzewo.)"
+                            },
+                            {
+                                "Sentence": "That wall is going to keep moving and crush us.",
+                                "Translation": "(Ten mur dalej będzie napierał i nas zmiażdży.)"
+                            },
+                            {
+                                "Sentence": "He sat on the bag and crushed its contents.",
+                                "Translation": "(On usiadł na torbie i zmiażdżył jej zawartość.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zgnieść",
+                            "rozgnieść",
+                            "wycisnąć (np. czosnek)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Crush the garlic and add it to the sauce.",
+                                "Translation": "(Rozgnieć czosnek i dodaj go do sosu.)"
+                            },
+                            {
+                                "Sentence": "Crush some garlic and put it into the pan.",
+                                "Translation": "(Zmiażdż nieco czosnku i wrzuć na patelnię.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zdruzgotać",
+                            "zmiażdżyć",
+                            "stłamsić (np. uwagami, krytyką)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Things he said crushed me.",
+                                "Translation": "(Rzeczy, które powiedział, zdruzgotały mnie.)"
+                            },
+                            {
+                                "Sentence": "He crushed my hopes for a better future.",
+                                "Translation": "(On zdruzgotał moje nadzieje na lepszą przyszłość.)"
+                            },
+                            {
+                                "Sentence": "Their boss can crush them by his criticism.",
+                                "Translation": "(Ich szef może ich zdruzgotać swoją krytyką.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dawać radę",
+                            "robić coś bardzo dobrze"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zadurzenie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I bet she's got a crush on him.",
+                                "Translation": "(Założę się, że ona jest w nim zadurzona.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "miłość (osoba, w której się podkochujemy)",
+                            "ktoś, kto się nam podoba"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He introduced us to his new crush.",
+                                "Translation": "(On przedstawił nas swojej nowej miłości.)"
+                            },
+                            {
+                                "Sentence": "She was his teenage crush.",
+                                "Translation": "(Ona była jego nastoletnią miłością.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ścisk",
+                            "tłok",
+                            "tłum"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There was a great crush inside.",
+                                "Translation": "(W środku był straszny tłok.)"
+                            },
+                            {
+                                "Sentence": "He pressed through the crush of dancers to where Sarah was standing.",
+                                "Translation": "(Przecisnął się przez tłum tancerzy tam, gdzie stała Sarah.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

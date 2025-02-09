@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "derogatory"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "uwłaczający",
+                            "poniżający",
+                            "obraźliwy (np. komentarz)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

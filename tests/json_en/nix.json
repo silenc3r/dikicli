@@ -1,0 +1,65 @@
+[
+    {
+        "Entry": [
+            "nix"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sprzeciwić się"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They said nix on our plan.",
+                                "Translation": "(Powiedzieli nie na nasz plan.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "wykrzyknik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "uważaj"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nic",
+                            "zero"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A whole day of work for nix!",
+                                "Translation": "(Cały dzień pracy na nic!)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

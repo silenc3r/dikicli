@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "briskly"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dziarsko",
+                            "żwawo",
+                            "energicznie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

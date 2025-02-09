@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "unclench"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozwierać (np. zacisk)",
+                            "rozluźniać (np. szczękę, chwyt)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "rozkurczać",
+                            "rozprostować (np. pięść)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

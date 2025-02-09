@@ -1,0 +1,124 @@
+[
+    {
+        "Entry": [
+            "distributed"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozproszony"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "distribute"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozdawać",
+                            "rozprowadzać",
+                            "rozdzielać",
+                            "dzielić"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Can you distribute these surveys?",
+                                "Translation": "(Czy możesz rozdać te ankiety?)"
+                            },
+                            {
+                                "Sentence": "He distributes leaflets in the centre of Warsaw.",
+                                "Translation": "(On rozprowadza ulotki w centrum Warszawy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rozprowadzać",
+                            "kolportować (np. dobra, książki)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He distributes books in the third world countries.",
+                                "Translation": "(On rozprowadza książki w krajach trzeciego świata.)"
+                            },
+                            {
+                                "Sentence": "They distribute goods to the local shops.",
+                                "Translation": "(Oni rozprowadzają dobra do lokalnych sklepów.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zajmować się dystrybucją",
+                            "rozpowszechnianiem czegoś (np. filmów)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Our company distributes movies to different cinemas.",
+                                "Translation": "(Nasza firma zajmuje się dystrybucją filmów do różnych kin.)"
+                            },
+                            {
+                                "Sentence": "He distributes films and novels.",
+                                "Translation": "(On zajmuje się dystrybucją filmów i powieści.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rozkładać (np. obciążenie, wagę)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The weight has been distributed evenly.",
+                                "Translation": "(Waga została rozłożona równo.)"
+                            },
+                            {
+                                "Sentence": "She distributes her weight on both of her legs.",
+                                "Translation": "(Ona rozkłada swoją wagę na obydwie nogi.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rozbierać (np. czcionki do druku)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "be distributed"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "występować (np. określone gatunki roślin)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

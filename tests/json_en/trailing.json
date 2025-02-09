@@ -1,0 +1,185 @@
+[
+    {
+        "Entry": [
+            "trailing"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pnący",
+                            "płożący (roślina)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "trail"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ciągnąć za sobą"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He trailed me all around the town.",
+                                "Translation": "(On ciągnął mnie za sobą po całym mieście.)"
+                            },
+                            {
+                                "Sentence": "The little girl trailed a teddy bear.",
+                                "Translation": "(Dziewczynka ciągnęła za sobą pluszowego misia.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ciągnąć się",
+                            "snuć się (iść powoli)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Don't trail behind us.",
+                                "Translation": "(Nie snuj się za nami.)"
+                            },
+                            {
+                                "Sentence": "He trailed after his friends.",
+                                "Translation": "(On snuł się powoli za swoimi przyjaciółmi.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przegrywać",
+                            "pozostawać w tyle"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Their volleyball team is trailing by seven points.",
+                                "Translation": "(Ich zespół siatkówki przegrywa siedmioma punktami.)"
+                            },
+                            {
+                                "Sentence": "Our local team is trailing in the league.",
+                                "Translation": "(Nasz lokalny zespół przegrywa w lidze.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "podążać tropem",
+                            "śledzić"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I trailed a suspect.",
+                                "Translation": "(Śledziłem podejrzanego.)"
+                            },
+                            {
+                                "Sentence": "Let's trail him, maybe we'll find out the truth.",
+                                "Translation": "(Śledźmy go, może dowiemy się prawdy.)"
+                            },
+                            {
+                                "Sentence": "The police trailed them.",
+                                "Translation": "(Policja ich śledziła.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szlak wędrowny",
+                            "szlak turystyczny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This trail is too demanding for us.",
+                                "Translation": "(Ten szlak turystyczny jest dla nas zbyt wymagający.)"
+                            },
+                            {
+                                "Sentence": "The guide told us to look for the trail.",
+                                "Translation": "(Przewodnik kazał nam szukać szlaku turystycznego.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "smuga",
+                            "ślady"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He left a trail of muddy shoe prints behind him.",
+                                "Translation": "(On zostawił za sobą ścieżkę brudnych odcisków butów.)"
+                            },
+                            {
+                                "Sentence": "The plane left a white trail behind it.",
+                                "Translation": "(Samolot pozostawił za sobą białą smugę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ślad (nieprzyjemne sytuacje i złe emocje)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Those fights left a trail on our relationship.",
+                                "Translation": "(Tamte kłótnie pozostawiły ślad na naszym związku.)"
+                            },
+                            {
+                                "Sentence": "Your cruel words leave a trail on my heart.",
+                                "Translation": "(Twoje okrutne słowa pozostawiają ślad na moim sercu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "trasa",
+                            "szlak (np. w lesie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This forest trail is barely visible.",
+                                "Translation": "(Ten leśny szlak jest ledwo widoczny.)"
+                            },
+                            {
+                                "Sentence": "I don't think this trail is very safe. Let's look for another one.",
+                                "Translation": "(Nie sądzę, aby ten szlak był zbyt bezpieczny. Poszukajmy innego.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "plan działania (prowadzący do celu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He created a clear trail.",
+                                "Translation": "(On stworzył przejrzysty plan działania.)"
+                            },
+                            {
+                                "Sentence": "Stick to our trail and everything will be fine.",
+                                "Translation": "(Trzymajcie się naszego planu działania, a wszystko będzie dobrze.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

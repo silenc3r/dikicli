@@ -1,0 +1,46 @@
+[
+    {
+        "Entry": [
+            "relapse"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nawrót (choroby)",
+                            "odnowienie (np. nałogu)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "recydywa (ponowne popełnienie przestępstwa przez osobę już karaną)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nawrócić się (o chorobie)",
+                            "ponownie popaść (np. w nałóg)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wrócić na złą drogę (o przestępcy)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

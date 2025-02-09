@@ -1,0 +1,34 @@
+[
+    {
+        "Entry": [
+            "sullen"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nadąsany",
+                            "posępny",
+                            "ponury"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Stop being sullen without any reason.",
+                                "Translation": "(Przestań być nadąsana bez powodu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pochmurny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

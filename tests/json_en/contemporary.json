@@ -1,0 +1,62 @@
+[
+    {
+        "Entry": [
+            "contemporary",
+            "cotemporary"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "współczesny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Much of the contemporary music just sounds like noise to me.",
+                                "Translation": "(Wiele ze współczesnej muzyki brzmi dla mnie jak hałas.)"
+                            },
+                            {
+                                "Sentence": "He wrote his doctoral thesis on contemporary French literature.",
+                                "Translation": "(On napisał swoją pracę doktorską o współczesnej francuskiej literaturze.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ówczesny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The contemporary minister lived in Washington.",
+                                "Translation": "(Ówczesny minister mieszkał w Waszyngtonie.)"
+                            },
+                            {
+                                "Sentence": "The contemporary accounts show that it was the reason the war broke.",
+                                "Translation": "(Ówczesne źródła podają, że to była przyczyna wybuchu wojny.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "współczesny (osoba żyjąca w tych samych czasach)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Tesla wasn't understood by his contemporaries.",
+                                "Translation": "(Tesla nie był rozumiany przez swoich współczesnych.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

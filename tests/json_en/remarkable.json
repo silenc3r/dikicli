@@ -1,0 +1,44 @@
+[
+    {
+        "Entry": [
+            "remarkable"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niezwykły",
+                            "warty odnotowania",
+                            "godny uwagi",
+                            "wybitny",
+                            "niesamowity",
+                            "zdumiewający",
+                            "wyjątkowy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A computer is a remarkable feat of technology.",
+                                "Translation": "(Komputer jest wartym odnotowania osiągnięciem technologii.)"
+                            },
+                            {
+                                "Sentence": "Could you recommend a remarkable book?",
+                                "Translation": "(Czy mógłbyś polecić książkę godną uwagi?)"
+                            },
+                            {
+                                "Sentence": "It's a remarkable monument!",
+                                "Translation": "(To jest niezwykły pomnik!)"
+                            },
+                            {
+                                "Sentence": "He was a remarkable man who stood for peace in the world.",
+                                "Translation": "(On był niezwykłym człowiekiem, który opowiadał się za pokojem na świecie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

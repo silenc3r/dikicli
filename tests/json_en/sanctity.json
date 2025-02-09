@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "sanctity"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "świętość",
+                            "nienaruszalność (religijnej postaci, miejsca)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

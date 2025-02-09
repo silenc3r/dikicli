@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "kestrel",
+            "windhover"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pustułka (gatunek ptaka)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

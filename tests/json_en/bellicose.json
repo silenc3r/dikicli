@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "bellicose"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "buńczuczny",
+                            "wojowniczy",
+                            "bojowo nastawiony"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

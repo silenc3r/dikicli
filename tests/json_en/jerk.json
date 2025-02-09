@@ -1,0 +1,82 @@
+[
+    {
+        "Entry": [
+            "jerk",
+            "jirt"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szarpać",
+                            "pchać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He jerked me and I fell down.",
+                                "Translation": "(On mnie popchnął i upadłem.)"
+                            },
+                            {
+                                "Sentence": "Jack, don't jerk your sister!",
+                                "Translation": "(Jack, nie szarp swojej siostry!)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kurczowo pociągnąć"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szarpnięcie",
+                            "nagłe pchnięcie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I felt a jerk and saw a thief trying to steal my phone.",
+                                "Translation": "(Poczułem szarpnięcie i zobaczyłem złodzieja próbującego ukraść mój telefon.)"
+                            },
+                            {
+                                "Sentence": "A sudden jerk of my head hurt me.",
+                                "Translation": "(Zabolało mnie nagłe szarpnięcie głowy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "palant",
+                            "idiota",
+                            "głupek",
+                            "dupek",
+                            "buc"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You are a jerk.",
+                                "Translation": "(Jesteś palantem.)"
+                            },
+                            {
+                                "Sentence": "Can't those jerks fix anything?",
+                                "Translation": "(Czy ci palanci nie potrafią niczego naprawić?)"
+                            },
+                            {
+                                "Sentence": "They are a real bunch of jerks.",
+                                "Translation": "(Oni są prawdziwą bandą palantów.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

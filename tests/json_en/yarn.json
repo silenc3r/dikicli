@@ -1,0 +1,67 @@
+[
+    {
+        "Entry": [
+            "yarn"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "historyjka",
+                            "opowiadanie",
+                            "opowieść"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You always could tell a good yarn.",
+                                "Translation": "(Zawsze umiałeś opowiedzieć dobrą historyjkę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przędza",
+                            "włókno"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The cat played with a ball of yarn.",
+                                "Translation": "(Kot bawił się kłębkiem włóczki.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "opowiadać bajki"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Grandpa always liked to yarn.",
+                                "Translation": "(Dziadek zawsze lubił opowiadać bajki.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "prząść"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She liked to yarn in her spare time.",
+                                "Translation": "(W wolnym czasie ona lubiła prząść.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "Entry": [
+            "diligence"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dbałość",
+                            "staranność",
+                            "pracowitość",
+                            "skrzętność",
+                            "sumienność"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "dyliżans"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

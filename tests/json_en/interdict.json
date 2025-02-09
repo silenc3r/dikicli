@@ -1,0 +1,51 @@
+[
+    {
+        "Entry": [
+            "interdict"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zakaz (nałożony przez sąd)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "interdykt (zawieszenie prawa do sprawowania lub przyjmowania sakramentów)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zakazać",
+                            "zakazywać (gdy sąd zabrania czegoś)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "nałożyć interdykt (zawieszenie prawa do sprawowania lub przyjmowania sakramentów)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "powstrzymywać (np. postęp wojsk)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

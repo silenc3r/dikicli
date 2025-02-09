@@ -1,0 +1,58 @@
+[
+    {
+        "Entry": [
+            "shriek"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "piszczeć",
+                            "wrzeszczeć (np. ze strachu, z bólu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The maid shrieked when she discovered the corpse.",
+                                "Translation": "(Pokojówka zapiszczała, kiedy odkryła ciało.)"
+                            },
+                            {
+                                "Sentence": "He shrieked at me and told me to mind my own business.",
+                                "Translation": "(On wrzasnął na mnie i powiedział, żebym pilnował własnego nosa.)"
+                            },
+                            {
+                                "Sentence": "The boys shrieked in terror when they saw the dark figure.",
+                                "Translation": "(Chłopcy wrzasnęli przerażeni, kiedy zobaczyli czarną postać.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wrzeszczeć (np. ze złości)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pisk",
+                            "wrzask (np. ze strachu, z bólu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Jane fled from the room with a loud shriek.",
+                                "Translation": "(Jane uciekła z pokoju głośno piszcząc.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

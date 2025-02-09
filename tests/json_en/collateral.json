@@ -1,0 +1,76 @@
+[
+    {
+        "Entry": [
+            "collateral"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dodatkowe zabezpieczenie (finansowe)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He paid collateral just to be sure that everything's safe.",
+                                "Translation": "(On wpłacił dodatkowe zabezpieczenie, żeby się upewnić, że wszystko jest bezpieczne.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zabezpieczenie pożyczki",
+                            "hipoteki itd. dla banku"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You've put in the shop and the house as collateral.",
+                                "Translation": "(Włożyłeś w to sklep i dom jako zabezpieczenie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "krewny w linii bocznej"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It seems my collaterals were also invited to the party.",
+                                "Translation": "(Wygląda na to, że moi krewni w linii bocznej też zostali zaproszeni na imprezę.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "w linii bocznej",
+                            "drugorzędny",
+                            "podrzędny"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "boczny (w odniesieniu do gatunku, gałęzi rodziny)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "oboczny",
+                            "poboczny",
+                            "równoległy (np. żyła, arteria)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

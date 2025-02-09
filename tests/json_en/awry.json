@@ -1,0 +1,41 @@
+[
+    {
+        "Entry": [
+            "awry",
+            "agee"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przekrzywiony",
+                            "zmierzwiony",
+                            "w nieładzie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The figures are awry.",
+                                "Translation": "(Liczby się nie zgadzają.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "opacznie",
+                            "na opak"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

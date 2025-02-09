@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "angst"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niepokój",
+                            "obawa",
+                            "lęk"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

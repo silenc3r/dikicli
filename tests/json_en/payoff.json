@@ -1,0 +1,73 @@
+[
+    {
+        "Entry": [
+            "payoff"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozliczenie",
+                            "spłata"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You have time for payoff until the end of the month.",
+                                "Translation": "(Masz czas na rozliczenie do końca miesiąca.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "łapówka",
+                            "przekupstwo"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He is known not to take payoffs.",
+                                "Translation": "(On słynie z tego że nie bierze łapówek.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "odprawa"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She received a handsome payoff after quitting her job.",
+                                "Translation": "(Ona otrzymała pokaźną odprawę po odejściu z pracy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wypłata",
+                            "dzień wypłaty"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'll pay you back after payoff.",
+                                "Translation": "(Oddam ci pieniądze po wypłacie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "korzyść"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She knows that this investment will have a huge payoff.",
+                                "Translation": "(Ona wie, że ta inwestycja przyniesie ogromne korzyści.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

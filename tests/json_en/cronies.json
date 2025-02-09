@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "crony"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kumpel",
+                            "koleś (osoba, z którą spędza się dużo czasu)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "Entry": [
+            "predicament"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dylemat",
+                            "kłopot",
+                            "trudne położenie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'm not sure how we found ourselves in this predicament.",
+                                "Translation": "(Nie jestem pewny, jak znaleźliśmy się w takim trudnym położeniu.)"
+                            },
+                            {
+                                "Sentence": "I'm in a predicament and I completely don't know what to do.",
+                                "Translation": "(Mam dylemat i zupełnie nie wiem co robić.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

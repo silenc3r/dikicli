@@ -1,0 +1,24 @@
+[
+    {
+        "Entry": [
+            "meticulous"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dokładny",
+                            "drobiazgowy",
+                            "skrupulatny",
+                            "(przesadnie) staranny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

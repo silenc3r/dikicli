@@ -1,0 +1,51 @@
+[
+    {
+        "Entry": [
+            "drizzle"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mżawka",
+                            "kapuśniaczek",
+                            "deszczyk"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It was only a drizzle, so I didn't need an umbrella.",
+                                "Translation": "(To był tylko kapuśniaczek, więc nie potrzebowałem parasola.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mżyć",
+                            "dżdżyć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It drizzled outside.",
+                                "Translation": "(Na zewnątrz mżyło.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "spryskiwać jedzenie niewielką ilością płynu (np. olejem)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

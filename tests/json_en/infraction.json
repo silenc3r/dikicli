@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "infraction"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "naruszenie",
+                            "pogwałcenie (prawa)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

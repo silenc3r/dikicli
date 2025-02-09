@@ -1,0 +1,38 @@
+[
+    {
+        "Entry": [
+            "judicious"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozsądny",
+                            "roztropny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Her husband is a very judicious person.",
+                                "Translation": "(Jej mąż jest bardzo rozsądną osobą.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pełen refleksji (np. cisza)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We sat in a judicious silence.",
+                                "Translation": "(Siedzieliśmy w pełnej refleksji ciszy.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

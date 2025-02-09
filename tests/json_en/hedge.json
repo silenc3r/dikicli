@@ -1,0 +1,98 @@
+[
+    {
+        "Entry": [
+            "hedge"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "żywopłot"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She planted a hedge around her house.",
+                                "Translation": "(Ona zasadziła żywopłot dookoła jej domu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zabezpieczenie finansowe"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "brak jednoznacznej odpowiedzi",
+                            "wykręcanie się od odpowiedzi"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wykręcać się",
+                            "kręcić (nie mówić prawdy)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "unikać rzeczowych odpowiedzi",
+                            "dawać mało rzeczowe odpowiedzi",
+                            "dawać mało precyzyjne odpowiedzi"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "hedge"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "odpowiedzieć wymijająco (np. na kłopotliwe pytanie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "hedge phrase",
+            "hedge"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "fraza, która sprawia, że nasza wypowiedź jest mniej precyzyjna i bezpośrednia (np. fraza \"sort of\", \"like\", \"kind of\" itp.)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

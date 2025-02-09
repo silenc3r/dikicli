@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "disparaging"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ubliżający",
+                            "pogardliwy",
+                            "uwłaczający"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

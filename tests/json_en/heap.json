@@ -1,0 +1,72 @@
+[
+    {
+        "Entry": [
+            "heap"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sterta"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This place is waiting to collapse into a heap of rubble.",
+                                "Translation": "(To miejsce czeka, że by się zawalić w stertę gruzu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kupa złomu",
+                            "grat",
+                            "gruchot (o starym samochodzie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There isn't any car mechanic in the world who can fix this old heap.",
+                                "Translation": "(Nie ma na świecie mechanika samochodowego, który naprawi tę starą kupę złomu.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "heap",
+            "heap up"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zgarnąć na stertę",
+                            "ułożyć na stercie"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "spiętrzać się"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "nagarniać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

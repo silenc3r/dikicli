@@ -1,0 +1,123 @@
+[
+    {
+        "Entry": [
+            "grasp"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "chwyt",
+                            "uścisk"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His grasp has made me lose my breath.",
+                                "Translation": "(Jego uścisk sprawił, że zabrakło mi tchu.)"
+                            },
+                            {
+                                "Sentence": "His strong grasp saved me from falling down.",
+                                "Translation": "(Jego mocny uścisk uratował mnie przed upadkiem.)"
+                            },
+                            {
+                                "Sentence": "He had a tight grasp on the rope.",
+                                "Translation": "(On trzymał linę w mocnym uścisku.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zasięg (rąk)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The lever was in her grasp.",
+                                "Translation": "(Dźwignia była w zasięgu jej ręki.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pojęcie (na jakiś temat)",
+                            "zrozumienie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I don't think you have the grasp to understand this concept.",
+                                "Translation": "(Nie sądzę, żebyś miał dość zrozumienia, aby pojąć ten koncept.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zasięg (możliwość osiągnięcia czegoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Victory was in my grasp, but I failed to achieve it.",
+                                "Translation": "(Zwycięstwo było w moim zasięgu, ale nie udało mi się go osiągnąć.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "władza",
+                            "uciskanie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The king's grasp is destroying this kingdom.",
+                                "Translation": "(Władza króla niszczy to królestwo.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "chwytać",
+                            "ściskać",
+                            "łapać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He grasped her hand.",
+                                "Translation": "(On ścisnął jej rękę.)"
+                            },
+                            {
+                                "Sentence": "I grasped her knee and she hit me.",
+                                "Translation": "(Złapałem ją za kolano, a ona mnie uderzyła.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pojmować",
+                            "rozumieć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'm starting to grasp what you had in mind.",
+                                "Translation": "(Zaczynam rozumieć co miałeś na myśli.)"
+                            },
+                            {
+                                "Sentence": "Did you grasp my plan?",
+                                "Translation": "(Zrozumiałeś mój plan?)"
+                            },
+                            {
+                                "Sentence": "This concept cannot be grasped by a simple mind.",
+                                "Translation": "(Ta idea nie może być pojęta przez prosty umysł.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,190 @@
+[
+    {
+        "Entry": [
+            "relieved"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "odczuwający ulgę"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "odczuwający ulgę",
+                            "zadowolony (że kamień spadł z serca)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "relieve"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "uśmierzać (ból)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The painkillers will relieve the pain soon.",
+                                "Translation": "(Wkrótce środki przeciwbólowe uśmierzą ból.)"
+                            },
+                            {
+                                "Sentence": "Morphine is known to relieve the pain.",
+                                "Translation": "(Morfina jest znana z uśmierzania bólu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ulżyć",
+                            "przynosić ulgę"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I had nausea and the mint tea relieved me.",
+                                "Translation": "(Miałem nudności i herbata miętowa przyniosła mi ulgę.)"
+                            },
+                            {
+                                "Sentence": "An hour of rest relieved him.",
+                                "Translation": "(Godzina odpoczynku przyniosła mu ulgę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "uwalniać (miasto podczas wojny)",
+                            "przychodzić z odsieczą"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The army relieved the town during the war.",
+                                "Translation": "(Armia uwolniła miasto podczas wojny.)"
+                            },
+                            {
+                                "Sentence": "The troops arrived to relieve a siege of the city.",
+                                "Translation": "(Oddziały przybyły, aby uwolnić miasto od oblężenia.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "uśmierzać (ból)",
+                            "zmniejszać (niepokój)",
+                            "rozładować (napięcie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You have to relieve your anxiety or you'll be sick.",
+                                "Translation": "(Musisz zmniejszyć swój niepokój albo będziesz chory.)"
+                            },
+                            {
+                                "Sentence": "She relieved the tension by telling a joke.",
+                                "Translation": "(Ona rozładowała napięcie poprzez powiedzenie żartu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "umniejszać (problem)",
+                            "poprawiać (trudną sytuację)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The government came up with a new plan to relieve unemployment.",
+                                "Translation": "(Rząd zaproponował nowy plan, aby zmniejszyć bezrobocie.)"
+                            },
+                            {
+                                "Sentence": "If you want to relieve the situation, do not say anything stupid.",
+                                "Translation": "(Jeżeli chcesz poprawić sytuację, nie mów niczego głupiego.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zastępować (kogoś pracującego na zmianie w pracy)",
+                            "zwalniać (kogoś z obowiązku)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I got relieved from my duties.",
+                                "Translation": "(Zostałem zwolniony z moich obowiązków.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "urozmaicać (czynić mniej nudnym)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My mother always relieved my days.",
+                                "Translation": "(Moja mama zawsze urozmaicała moje dni.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pomagać (komuś)",
+                            "odciążać (kogoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He relieved her of her bags.",
+                                "Translation": "(On wziął od niej torby.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zwalniać (kogoś z pracy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Last Friday, the boss relieved Mr Jones of his post.",
+                                "Translation": "(W zeszły piątek szef zwolnił pana Jonesa z jego stanowiska.)"
+                            },
+                            {
+                                "Sentence": "She was relieved of her duties.",
+                                "Translation": "(Została zwolniona ze swoich obowiązków.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "be relieved"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "odetchnąć z ulgą"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

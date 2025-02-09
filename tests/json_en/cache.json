@@ -1,0 +1,66 @@
+[
+    {
+        "Entry": [
+            "cache"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "tajny skład (np. broni)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It is too risky to return to the weapons cache.",
+                                "Translation": "(Powrót do składu z bronią jest zbyt ryzykowny.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kryjówka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He kept all his valuables in a cache somewhere.",
+                                "Translation": "(On trzymał wszystkie swoje kosztowności w jakiejś kryjówce.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pamięć podręczna (w komputerze)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You should clean your cache once in a while.",
+                                "Translation": "(Powinno się czyścić pamięć podręczną raz na jakiś czas.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ukryć",
+                            "ukrywać"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "przechowywać w pamięci podręcznej (w komputerze)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

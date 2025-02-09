@@ -1,0 +1,114 @@
+[
+    {
+        "Entry": [
+            "reconcile"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "jednać",
+                            "godzić (np. dwie kwestie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I still try to reconcile my allergy with having a dog.",
+                                "Translation": "(Wciąż staram się pogodzić moją alergię z posiadaniem psa.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "poddawać się (czemuś)",
+                            "pogodzić się (z czymś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We were reconciled to our fate.",
+                                "Translation": "(Pogodziliśmy się z naszym losem.)"
+                            },
+                            {
+                                "Sentence": "It's hard to reconcile myself with the loss of my friend.",
+                                "Translation": "(Trudno mi jest pogodzić się ze stratą mojego przyjaciela.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pogodzić ze sobą (na pozór odmienne rzeczy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "These theories may be reconciled.",
+                                "Translation": "(Te teorie można ze sobą pogodzić.)"
+                            },
+                            {
+                                "Sentence": "We managed to reconcile our views.",
+                                "Translation": "(Udało nam się pogodzić ze sobą nasze poglądy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "doprowadzić do zgodności (raporty finansowe)",
+                            "wyrównać (rachunki)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The bookkeeper reconciled our financial reports.",
+                                "Translation": "(Księgowa doprowadziła do zgodności nasze raporty finansowe.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "reconcile somebody to something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przekonać kogoś do jakiegoś pomysłu"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He tried to reconcile his mother to this wedding.",
+                                "Translation": "(Próbował przekonać swoją matkę do tego ślubu.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "reconcile oneself to something",
+            "become reconciled with something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pogodzić się z czymś"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

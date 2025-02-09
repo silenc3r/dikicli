@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "crotchety",
+            "crochety"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zrzędliwy",
+                            "marudny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

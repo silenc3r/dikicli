@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "exaltation"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wielka przyjemność",
+                            "rozkosz",
+                            "euforia"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "sławienie",
+                            "wysławianie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

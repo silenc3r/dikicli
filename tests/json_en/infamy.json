@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "infamy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niesława",
+                            "zła sława",
+                            "hańba",
+                            "infamia"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "niegodziwość (np. czyn, zdarzenie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

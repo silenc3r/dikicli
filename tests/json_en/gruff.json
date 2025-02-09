@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "gruff",
+            "gruffy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "opryskliwy",
+                            "szorstki (np. głos, zachowanie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

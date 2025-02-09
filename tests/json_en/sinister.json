@@ -1,0 +1,36 @@
+[
+    {
+        "Entry": [
+            "sinister"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "złowieszczy",
+                            "złowrogi",
+                            "ponury"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There was something sinister in his eyes.",
+                                "Translation": "(W jego oczach było coś złowrogiego.)"
+                            },
+                            {
+                                "Sentence": "It just makes the whole thing seem sinister.",
+                                "Translation": "(To tylko sprawia, że cała rzecz wygląda na złowieszczą.)"
+                            },
+                            {
+                                "Sentence": "I was frightened by the sinister shadow outside.",
+                                "Translation": "(Byłam przestraszona złowrogim cieniem na zewnątrz.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,81 @@
+[
+    {
+        "Entry": [
+            "plonk",
+            "plonk something down",
+            "plunk",
+            "plunk something down"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "stawiać coś (niedbale)",
+                            "ciskać coś"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "uderzyć znienacka"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "plonk"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sikacz",
+                            "bełt",
+                            "tanie wino"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We went out in search for a plonk, and we found one for 2 quid. Can you believe?",
+                                "Translation": "(Poszliśmy poszukać jakiegoś bełta, i znaleźliśmy takie za 2 funty. Uwierzysz?)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "wykrzyknik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "buch",
+                            "bęc",
+                            "łup"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "brzdękać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

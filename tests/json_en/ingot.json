@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "ingot",
+            "lingot"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sztaba",
+                            "sztabka (np. złota)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

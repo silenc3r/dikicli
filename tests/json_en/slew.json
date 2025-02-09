@@ -1,0 +1,87 @@
+[
+    {
+        "Entry": [
+            "slew"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "masa",
+                            "wielka ilość"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He got a slew of offers from big law firms.",
+                                "Translation": "(Otrzymał masę ofert od dużych firm prawniczych.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "slew",
+            "slue"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "obracać gwałtownie (np. samochodem)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "slay"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "uśmiercać",
+                            "zgładzać",
+                            "mordować (kogoś)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "świetnie coś robić",
+                            "wymiatać (w czymś)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zachwycić",
+                            "rozbawić"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His performance slayed the audience.",
+                                "Translation": "(Jego występ zachwycił widownię.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

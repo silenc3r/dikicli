@@ -1,0 +1,300 @@
+[
+    {
+        "Entry": [
+            "snap"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "trzask (np. łamanej gałęzi)",
+                            "kłapnięcie (zębów)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He heard a snap under his feet as he stepped on a twig.",
+                                "Translation": "(Usłyszał pod swoimi stopami trzask gdy nadepnął na gałąź.)"
+                            },
+                            {
+                                "Sentence": "I turned around because I heard a snap, but the room was empty.",
+                                "Translation": "(Odwróciłem się, bo usłyszałem trzask, ale pokój był pusty.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "fotka",
+                            "zdjęcie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She takes a lot of snaps every day.",
+                                "Translation": "(Ona codziennie robi wiele fotek.)"
+                            },
+                            {
+                                "Sentence": "My sister took a snap of our dog.",
+                                "Translation": "(Moja siostra zrobiła zdjęcie naszego psa.)"
+                            },
+                            {
+                                "Sentence": "She sent me a cute snap of her children.",
+                                "Translation": "(Wysłała mi uroczą fotkę swoich dzieci.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zatrzaska",
+                            "zatrzask (w ubraniach)",
+                            "zameczek (np. w bransoletce)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The snap of my bracelet broke.",
+                                "Translation": "(Zameczek mojej bransoletki popsuł się.)"
+                            },
+                            {
+                                "Sentence": "I sewed a snap on my trousers.",
+                                "Translation": "(Doszyłem zatrzask na moich spodniach.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "łatwizna"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It was a snap.",
+                                "Translation": "(To była łatwizna.)"
+                            },
+                            {
+                                "Sentence": "My driving test was a snap.",
+                                "Translation": "(Mój egzamin na prawo jazdy był łatwizną.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dowcip",
+                            "kawał",
+                            "żart"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He told me a good snap and we both laughed.",
+                                "Translation": "(On powiedział mi dobry kawał i zaśmialiśmy się oboje.)"
+                            },
+                            {
+                                "Sentence": "I like intelligent snaps.",
+                                "Translation": "(Lubię inteligentne żarty.)"
+                            },
+                            {
+                                "Sentence": "Your snap was rude, I feel offended.",
+                                "Translation": "(Twój dowcip był niegrzeczny, czuję się obrażony.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "jedzenie do pracy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pękać (o gałęzi, linie)",
+                            "łamać się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A twig snapped under his feet.",
+                                "Translation": "(Gałąź złamała się pod jego stopami.)"
+                            },
+                            {
+                                "Sentence": "This rope is too thin, it will snap.",
+                                "Translation": "(Ta lina jest za cienka, pęknie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zatrzaskiwać",
+                            "zamykać z hałasem",
+                            "zamykać z trzaskiem"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The handcuffs snapped on his wrists.",
+                                "Translation": "(Kajdanki zatrzasnęły się na jego nadgarstkach.)"
+                            },
+                            {
+                                "Sentence": "He snapped the suitcase shut and left the room.",
+                                "Translation": "(Zamknął walizkę z hałasem i wyszedł z pokoju.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "mówić coś ostro",
+                            "warknąć (na kogoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My dad was really angry so he snapped at us.",
+                                "Translation": "(Mój tato był naprawdę rozzłoszczony, więc warknął na nas.)"
+                            },
+                            {
+                                "Sentence": "Don't snap at me - I only asked if you wanted something to drink.",
+                                "Translation": "(Nie warcz na mnie - zapytałem tylko czy chcesz coś do picia.)"
+                            },
+                            {
+                                "Sentence": "\"I'm not angry.\" - she snapped.",
+                                "Translation": "(\"Nie jestem zła.\" - powiedziała ostro.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "puścić (o nerwach)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She snapped when she heard it.",
+                                "Translation": "(Puściły jej nerwy, kiedy to usłyszała.)"
+                            },
+                            {
+                                "Sentence": "Seeing them together was too much for me - my nerves snapped.",
+                                "Translation": "(Zobaczenie ich razem to było dla mnie za dużo - puściły mi nerwy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kłapać zębami (o psie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My dog snapped and scared the thief off my house.",
+                                "Translation": "(Mój pies kłapnął zębami i odstraszył złodzieja od mojego domu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "robić zdjęcie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I snapped a picture of the landscape.",
+                                "Translation": "(Zrobiłem zdjęcie krajobrazu.)"
+                            },
+                            {
+                                "Sentence": "I want to show my parents how beautiful this place is - can you snap me?",
+                                "Translation": "(Chcę pokazać rodzicom jakie piękne jest to miejsce - zrobisz mi zdjęcie?)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "natychmiastowy",
+                            "pochopny (o decyzji, wniosku)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It was a snap decision. We shouldn't have done that.",
+                                "Translation": "(To była pochopna decyzja. Nie powinniśmy byli tego robić.)"
+                            },
+                            {
+                                "Sentence": "You should not draw any snap conclusions - let him explain.",
+                                "Translation": "(Nie powinieneś wyciągać żadnych pochopnych wniosków - daj mu się wytłumaczyć.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przyspieszony (o wyborach)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "press stud",
+            "popper",
+            "snap fastener",
+            "snap"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "klamerka",
+                            "zatrzask",
+                            "napa (przy ubraniu, torebce)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "SNAP soluble NSF attachment protein",
+            "SNAP"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozpuszczalne białko wiążące NSF"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "snap to it"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pośpiesz się",
+                            "weź się do roboty"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

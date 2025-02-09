@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "aliment"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pokarm",
+                            "pożywienie",
+                            "żywność"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

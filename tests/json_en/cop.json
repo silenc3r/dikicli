@@ -1,0 +1,186 @@
+[
+    {
+        "Entry": [
+            "cop"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "aresztować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The police copped the thief.",
+                                "Translation": "(Policja aresztowała złodzieja.)"
+                            },
+                            {
+                                "Sentence": "He was copped red-handed.",
+                                "Translation": "(On został aresztowany na gorącym uczynku.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "trzymać",
+                            "złapać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I copped her hand.",
+                                "Translation": "(Złapałem jej rękę.)"
+                            },
+                            {
+                                "Sentence": "Can you cop the other end of the rope?",
+                                "Translation": "(Czy możesz złapać drugi koniec liny?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "cop",
+            "copper"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "glina",
+                            "policjant"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The cop continued to stare at him.",
+                                "Translation": "(Gliniarz nadal się w niego wpatrywał.)"
+                            },
+                            {
+                                "Sentence": "Do you know what happened at the beach? There are cops everywhere.",
+                                "Translation": "(Wiesz co się stało na plaży? Wszędzie są gliniarze.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "cop something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "załatwić coś",
+                            "skombinować coś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Dude, cop some joints.",
+                                "Translation": "(Koleś, skombinuj kilka skrętów.)"
+                            },
+                            {
+                                "Sentence": "My friend copped some booze.",
+                                "Translation": "(Mój przyjaciel załatwił trochę gorzały.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "cop to something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przyznać się do czegoś (np. działania przestępczego lub czegoś wstydliwego)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "Conference of the Parties",
+            "COP"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "Konferencja Stron"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "bronchiolitis obliterans organizing pneumonia",
+            "BOOP",
+            "cryptogenic organizing pneumonia",
+            "COP"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kryptogenne organizujące się zapalenie płuc"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "cop it"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zostać ukaranym",
+                            "być ukaranym"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

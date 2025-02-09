@@ -1,0 +1,110 @@
+[
+    {
+        "Entry": [
+            "pace"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "tempo",
+                            "szybkość (chodzenia, poruszania się)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He was running at a slow pace.",
+                                "Translation": "(On biegł wolnym tempem.)"
+                            },
+                            {
+                                "Sentence": "You should run at your own pace.",
+                                "Translation": "(Powinieneś biec swoim własnym tempem.)"
+                            },
+                            {
+                                "Sentence": "What is your pace when you run?",
+                                "Translation": "(Jakie jest twoje tempo, kiedy biegasz?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "tempo",
+                            "szybkość (np. zmian)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The changes took place in surprisingly rapid pace.",
+                                "Translation": "(Zmiany były przeprowadzane w zaskakująco szybkim tempie.)"
+                            },
+                            {
+                                "Sentence": "I can't keep up with the pace of the changes in your life.",
+                                "Translation": "(Nie nadążam za tempem zmian w twoim życiu.)"
+                            },
+                            {
+                                "Sentence": "He could use a change of pace. Each day, he looks more and more exhausted.",
+                                "Translation": "(Przydałaby mu się zmiana tempa. Z dnia na dzień wygląda na coraz bardziej zmęczonego.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "krok (pojedynczy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Take one pace backward, please.",
+                                "Translation": "(Zróbcie jeden krok do tyłu, proszę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "inochód (sposób poruszania się niektórych zwierząt czworonożnych, polegający na podnoszeniu równocześnie obu kończyn z jednej strony)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "chodzić",
+                            "kroczyć",
+                            "przemierzać (miarowym tempem)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He paced up and down, trying to think of a plan.",
+                                "Translation": "(Łaził w tą i z powrotem, próbując wymyślić jakiś plan.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "pace oneself"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wyznaczać sobie tempo",
+                            "rytm (np. pracy)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

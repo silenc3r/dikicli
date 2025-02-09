@@ -1,0 +1,36 @@
+[
+    {
+        "Entry": [
+            "adversity"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niedola",
+                            "nieszczęście",
+                            "przeciwność losu"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "These kids have to learn how to deal with adversity.",
+                                "Translation": "(Te dzieci muszą nauczyć się, jak radzić sobie z przeciwnościami losu.)"
+                            },
+                            {
+                                "Sentence": "I've dealt with many adversities in my life.",
+                                "Translation": "(W moim życiu zmierzyłem się z wieloma przeciwnościami losu.)"
+                            },
+                            {
+                                "Sentence": "She keeps moving on despite all the adversities that occur to her.",
+                                "Translation": "(Ona idzie dalej mimo wszystkich nieszczęść, które się jej przytrafiają.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

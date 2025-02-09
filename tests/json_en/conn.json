@@ -1,0 +1,34 @@
+[
+    {
+        "Entry": [
+            "con",
+            "conn"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kierowanie okrętem",
+                            "sterowaniem okrętem"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She has taken the conn of the ship.",
+                                "Translation": "(Ona przejęła ster okrętu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "mostek nawigacyjny (miejsce, z którego kieruje się sterowaniem okrętu)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

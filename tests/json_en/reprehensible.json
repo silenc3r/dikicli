@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "reprehensible"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "naganny",
+                            "karygodny",
+                            "zdrożny (o zachowaniu)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

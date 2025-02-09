@@ -1,0 +1,51 @@
+[
+    {
+        "Entry": [
+            "gaze"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wpatrywać się intensywnie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He gazed at her until she went red.",
+                                "Translation": "(On wpatrywał się w nią intensywnie, dopóki się nie zaczerwieniła.)"
+                            },
+                            {
+                                "Sentence": "When I stood up, everybody in the class started to gaze at me.",
+                                "Translation": "(Kiedy wstałem, wszyscy w klasie zaczęli się we mnie intensywnie wpatrywać.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wpatrywanie",
+                            "intensywne spojrzenie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Lean in so you can catch his gaze.",
+                                "Translation": "(Nachyl się, abyś mogła złapać jego intensywne spojrzenie.)"
+                            },
+                            {
+                                "Sentence": "His gaze always intimidates me.",
+                                "Translation": "(Jego intensywne spojrzenie zawsze mnie onieśmiela.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

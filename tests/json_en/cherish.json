@@ -1,0 +1,65 @@
+[
+    {
+        "Entry": [
+            "cherish"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pielęgnować",
+                            "dbać",
+                            "czcić"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "After my mother's death, I cherish all memories of her.",
+                                "Translation": "(Po śmierci mamy pielęgnuję wszelkie wspomnienia o niej.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pielęgnować",
+                            "otaczać opieką",
+                            "troszczyć się",
+                            "dbać",
+                            "hołubić"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My son cherishes his baby sister.",
+                                "Translation": "(Mój synek troszczy się o swoją młodszą siostrzyczkę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "cenić sobie (np. wolność, prawo)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I cherish my freedom.",
+                                "Translation": "(Cenię sobie swoją wolność.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "miłować (np. osobę)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I cherish you.",
+                                "Translation": "(Miłuję cię.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

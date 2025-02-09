@@ -1,0 +1,61 @@
+[
+    {
+        "Entry": [
+            "lucid"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "jasny",
+                            "zrozumiały"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Is the matter lucid to you?",
+                                "Translation": "(Czy ta kwestia jest dla ciebie zrozumiała?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przezroczysty",
+                            "przejrzysty"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The substance is completely lucid and very light.",
+                                "Translation": "(Substancja jest całkowicie przezroczysta i bardzo lekka.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "lśniący"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I couldn't take my eyes off of the lucid lake sheet.",
+                                "Translation": "(Nie mogłem oderwać wzroku od lśniącej tafli jeziora.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przytomny (o umyśle, szczególnie chorej osoby)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "In rare lucid moments she recognized me and smiled at me.",
+                                "Translation": "(W rzadkich momentach przytomności rozpoznawała mnie i uśmiechała się do mnie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

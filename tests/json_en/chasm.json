@@ -1,0 +1,47 @@
+[
+    {
+        "Entry": [
+            "chasm"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozpadlina",
+                            "szczelina"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Be careful, there is a chasm in the ground.",
+                                "Translation": "(Ostrożnie, w ziemi jest szczelina.)"
+                            },
+                            {
+                                "Sentence": "Jake almost fell into the chasm.",
+                                "Translation": "(Jake prawie wpadł do szczeliny.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przepaść",
+                            "otchłań"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The chasm between us is too wide.",
+                                "Translation": "(Przepaść między nami jest zbyt szeroka.)"
+                            },
+                            {
+                                "Sentence": "In the society, there is a chasm between classes.",
+                                "Translation": "(W społeczeństwie jest przepaść między klasami.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

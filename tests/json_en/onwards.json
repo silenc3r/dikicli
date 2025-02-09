@@ -1,0 +1,25 @@
+[
+    {
+        "Entry": [
+            "onwards",
+            "onward"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dalszy",
+                            "naprzód",
+                            "do przodu",
+                            "wprzód"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

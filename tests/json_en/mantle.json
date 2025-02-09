@@ -1,0 +1,63 @@
+[
+    {
+        "Entry": [
+            "mantle"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "płaszcz",
+                            "okrycie",
+                            "opończa"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He took his mantle off the hanger and went outside.",
+                                "Translation": "(On zdjął swój płaszcz z wieszaka i wyszedł na zewnątrz.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "obowiązki"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The mantle of the leader belongs to me.",
+                                "Translation": "(Obowiązki przywódcy należą do mnie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "płaszcz ziemi"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "płaszcz (element budowy mięczaków)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "otulić",
+                            "okryć"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

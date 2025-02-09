@@ -1,0 +1,33 @@
+[
+    {
+        "Entry": [
+            "contingency",
+            "contingence"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nieprzewidziany wypadek",
+                            "ewentualność",
+                            "możliwość"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They are prepared for every possible contingency.",
+                                "Translation": "(Oni są przygotowani na każdą możliwą ewentualność.)"
+                            },
+                            {
+                                "Sentence": "Do we have a contingency plan?",
+                                "Translation": "(Czy mamy plan awaryjny?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

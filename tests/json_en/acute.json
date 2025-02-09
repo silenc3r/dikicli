@@ -1,0 +1,65 @@
+[
+    {
+        "Entry": [
+            "acute"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przenikliwy",
+                            "przeszywający (ból)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I felt acute pain in my knee.",
+                                "Translation": "(Poczułem przeszywający ból w kolanie.)"
+                            },
+                            {
+                                "Sentence": "She suffers from acute back pain.",
+                                "Translation": "(Ona cierpi na przenikliwy ból pleców.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ostry (o ostrym przebiegu, np. o chorobie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The cause of his death was acute pneumonia.",
+                                "Translation": "(Przyczyną jego śmierci było ostre zapalenie płuc.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dolegliwy",
+                            "dotkliwy",
+                            "dręczący",
+                            "poważny (np. o problemie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "bystry",
+                            "przenikliwy",
+                            "wnikliwy"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "ostry (o kącie mniejszym niż 90 stopni)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

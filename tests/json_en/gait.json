@@ -1,0 +1,42 @@
+[
+    {
+        "Entry": [
+            "gait"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "chód",
+                            "krok"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Don't try to change his natural gait.",
+                                "Translation": "(Nie próbuj zmieniać jego naturalnego chodu.)"
+                            },
+                            {
+                                "Sentence": "Your gait suggests you strained your ankle.",
+                                "Translation": "(Twój chód wskazuje na to, że nadwyrężyłeś kostkę.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "uczyć chodu (np. konia w ujeżdżeniu)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

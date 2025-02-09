@@ -1,0 +1,72 @@
+[
+    {
+        "Entry": [
+            "proclaim"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "obwieszczać",
+                            "ogłaszać",
+                            "proklamować",
+                            "oznajmiać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They proclaimed their independence many years ago.",
+                                "Translation": "(Oni proklamowali swoją niepodległość wiele lat temu.)"
+                            },
+                            {
+                                "Sentence": "He was proclaimed a king.",
+                                "Translation": "(On został ogłoszony królem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "świadczyć o (czymś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This piece of evidence proclaims that he's innocent.",
+                                "Translation": "(Ten dowód świadczy o tym, że on jest niewinny.)"
+                            },
+                            {
+                                "Sentence": "He's guilty and his actions proclaim that.",
+                                "Translation": "(On jest winny i jego poczynania świadczą o tym.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "proclaim somebody something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mianować kogoś kimś (np. królem)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They proclaimed Richard the king.",
+                                "Translation": "(Oni mianowali Ryszarda królem.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

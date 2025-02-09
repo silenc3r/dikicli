@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "ensconced"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wygodnie ułożony",
+                            "bezpiecznie ulokowany"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

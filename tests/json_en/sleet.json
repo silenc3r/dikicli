@@ -1,0 +1,57 @@
+[
+    {
+        "Entry": [
+            "sleet"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "deszcz ze śniegiem"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The sleet is melting.",
+                                "Translation": "(Deszcz ze śniegiem się topi.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "gołoledź (warstwa lodu na drodze, asfalcie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Slow down. There's sleet on the road.",
+                                "Translation": "(Zwolnij. Na drodze jest gołoledź.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "padać (o deszczu ze śniegiem)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It's sleeting now.",
+                                "Translation": "(Teraz pada deszcz ze śniegiem.)"
+                            },
+                            {
+                                "Sentence": "It has been sleeting all day and it's wet.",
+                                "Translation": "(Cały dzień pada deszcz ze śniegiem i jest mokro.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

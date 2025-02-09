@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "translucent",
+            "translucid"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "półprzezroczysty (o cieczy)",
+                            "prześwitujący (np. materiał)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "przezierny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

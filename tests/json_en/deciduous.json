@@ -1,0 +1,33 @@
+[
+    {
+        "Entry": [
+            "deciduous"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "liściasty",
+                            "zrzucający liście (o drzewie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "mleczny (o zębie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I remember the day when my last deciduous tooth fell out.",
+                                "Translation": "(Pamiętam dzień, w którym wypadł mi ostatni mleczny ząb.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "refutation"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "obalenie (teorii)",
+                            "wykazanie fałszywości (założenia)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zaprzeczenie (czemuś)",
+                            "odparcie (zarzutów)",
+                            "sprostowanie (błędnych faktów)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

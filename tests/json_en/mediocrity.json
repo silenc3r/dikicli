@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "mediocrity"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mierność",
+                            "miernota",
+                            "przeciętność"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "średniak (o osobie)",
+                            "ktoś przeciętny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

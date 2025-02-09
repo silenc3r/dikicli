@@ -1,0 +1,44 @@
+[
+    {
+        "Entry": [
+            "anguish"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "udręka",
+                            "boleść",
+                            "cierpienie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He lay there in anguish.",
+                                "Translation": "(On leżał tam w cierpieniu.)"
+                            },
+                            {
+                                "Sentence": "He was so full of anguish that he couldn't answer.",
+                                "Translation": "(On był tak przepełniony cierpieniem, że nie mógł odpowiedzieć.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dręczyć",
+                            "zadręczać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

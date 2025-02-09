@@ -1,0 +1,187 @@
+[
+    {
+        "Entry": [
+            "feature"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "cecha charakterystyczna",
+                            "funkcja",
+                            "właściwość",
+                            "możliwość"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This program has lots of useful features.",
+                                "Translation": "(Ten program ma dużo przydatnych funkcji.)"
+                            },
+                            {
+                                "Sentence": "This product's main feature is its durability.",
+                                "Translation": "(Główną cechą charakterystyczną tego produktu jest jego wytrzymałość.)"
+                            },
+                            {
+                                "Sentence": "This material has got very unique features.",
+                                "Translation": "(Ten materiał ma bardzo unikalne właściwości.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "główny artykuł w gazecie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The feature was about Kim Kardashian.",
+                                "Translation": "(Główny artykuł w gazecie był o Kim Kardashian.)"
+                            },
+                            {
+                                "Sentence": "Today's feature was about the Pope.",
+                                "Translation": "(Dzisiejszy główny artykuł był o Papieżu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "cecha (np. o krajobrazie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "One of the best features of this country is its lakes.",
+                                "Translation": "(Jedną z najlepszych cech tego kraju są jeziora.)"
+                            },
+                            {
+                                "Sentence": "Lack of trees is a typical feature of this desert.",
+                                "Translation": "(Brak drzew to typowa cecha tej pustyni.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "cechować",
+                            "uwypuklać",
+                            "wyróżniać",
+                            "uwydatniać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A beauty spot next to her lips featured her.",
+                                "Translation": "(Cechował ją pieprzyk obok jej ust.)"
+                            },
+                            {
+                                "Sentence": "This powder features my cheekbones.",
+                                "Translation": "(Ten puder uwydatnia moje kości policzkowe.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przedstawiać",
+                            "prezentować (np. film)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The movie features a love story between two best friends.",
+                                "Translation": "(Film przedstawia historię miłosną dwóch najlepszych przyjaciół.)"
+                            },
+                            {
+                                "Sentence": "The film features the reality of Poland.",
+                                "Translation": "(Film przedstawia realia Polski.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "obsadzić (przydzielić rolę aktorowi)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The director featured Ryan Gosling in the lead role.",
+                                "Translation": "(Reżyser obsadził Ryana Goslinga w głównej roli.)"
+                            },
+                            {
+                                "Sentence": "The director wanted to feature Megan Fox in the role of the princess.",
+                                "Translation": "(Reżyser chciał obsadzić Megan Fox w roli księżniczki.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zawierać",
+                            "cechować się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The menu doesn't feature non-alcoholic beverages.",
+                                "Translation": "(Menu nie zawiera bezalkoholowych napojów.)"
+                            },
+                            {
+                                "Sentence": "The new offer features more sport facilities.",
+                                "Translation": "(Nowa oferta zawiera więcej obiektów sportowych.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "długometrażowy (o filmie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He has just completed his fourth feature film.",
+                                "Translation": "(On właśnie skończył swój czwarty film długometrażowy.)"
+                            },
+                            {
+                                "Sentence": "We casted Meryl Streep as the main character in our feature film.",
+                                "Translation": "(Właśnie obsadziliśmy Meryl Streep jako główną bohaterkę w naszym filmie długometrażowym.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "feature",
+            "feature film"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "film długometrażowy",
+                            "film pełnometrażowy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He needs to get money for his feature.",
+                                "Translation": "(On musi zdobyć pieniądze na swój film długometrażowy.)"
+                            },
+                            {
+                                "Sentence": "It is her first role in a feature.",
+                                "Translation": "(To jej pierwsza rola w filmie długometrażowym.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

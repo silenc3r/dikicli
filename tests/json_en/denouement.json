@@ -1,0 +1,24 @@
+[
+    {
+        "Entry": [
+            "denouement",
+            "dénouement"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zwieńczenie (historii)",
+                            "scena finałowa (filmu)",
+                            "rozwiązanie (przebiegu akcji)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

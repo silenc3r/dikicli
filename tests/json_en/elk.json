@@ -1,0 +1,56 @@
+[
+    {
+        "Entry": [
+            "moose",
+            "elk"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "łoś",
+                            "łoś euroazjatycki"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Last year I went elk hunting.",
+                                "Translation": "(W zeszłym roku byłem na polowaniu na łosie.)"
+                            },
+                            {
+                                "Sentence": "Do you have a moose in your zoo?",
+                                "Translation": "(Czy macie łosia euroazjatyckiego w swoim zoo?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "elk"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "jeleń kanadyjski"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Last year I went elk hunting.",
+                                "Translation": "(W zeszłym roku byłem na polowaniu na jelenie kanadyjskie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

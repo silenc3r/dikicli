@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "mar"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niszczyć",
+                            "psuć",
+                            "zniekształcać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

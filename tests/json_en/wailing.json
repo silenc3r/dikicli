@@ -1,0 +1,113 @@
+[
+    {
+        "Entry": [
+            "wailing"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zawodzenie",
+                            "lament"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zawodzenie",
+                            "wycie"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "żałosne",
+                            "pełne żałości tony"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "jękliwy",
+                            "płaczliwy"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zawodzący"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "wail"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "płacz żałosny",
+                            "zawodzenie",
+                            "skarga"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His crying turned into a wail.",
+                                "Translation": "(Jego płacz zamienił się w zawodzenie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "długi, wysoki dźwięk",
+                            "wycie (np. syreny alarmowej)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "płakać",
+                            "skarżyć się",
+                            "biadać",
+                            "lamentować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Stop wailing, it will not help us.",
+                                "Translation": "(Przestań lamentować, nie pomoże nam to.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wyć",
+                            "wydawać długie, wysokie dźwięki (np. syrena alarmowa)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,84 @@
+[
+    {
+        "Entry": [
+            "rut"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bruzda",
+                            "koleina",
+                            "wyżłobienie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There are lots of ruts on the roads in this region.",
+                                "Translation": "(W tym regionie na drogach jest masa kolein.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rutyna",
+                            "utarte sposoby postępowania"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'm in a rut, and I need a change.",
+                                "Translation": "(Popadłam w rutynę i potrzebuję zmiany.)"
+                            },
+                            {
+                                "Sentence": "I started doing extreme sports to escape the rut.",
+                                "Translation": "(Zacząłem uprawiać sporty ekstremalne, żeby uciec przed rutyną.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ryć",
+                            "żłobić koleinami"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "rut",
+            "rutting season",
+            "rutting period"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bekowisko",
+                            "rykowisko",
+                            "gon (okres godowy u kozic i danieli)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Male red deer are starting their rut.",
+                                "Translation": "(Samce czerwonych jeleni zaczynają swój gon.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

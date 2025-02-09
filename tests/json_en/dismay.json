@@ -1,0 +1,50 @@
+[
+    {
+        "Entry": [
+            "dismay"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niepokój",
+                            "konsternacja",
+                            "przerażenie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The public mood in Britain is one of growing dismay.",
+                                "Translation": "(Nastrój społeczny panujący w Wielkiej Brytanii to rosnące przerażenie.)"
+                            },
+                            {
+                                "Sentence": "I note with dismay that his election may be harmful to our country.",
+                                "Translation": "(Z niepokojem zauważam, że jego wygrana w wyborach może być szkodliwa dla naszego kraju.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "niepokoić",
+                            "konsternować",
+                            "przerażać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The speech he gave dismayed me.",
+                                "Translation": "(Przemowa, którą on wygłosił, zaniepokoiła mnie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

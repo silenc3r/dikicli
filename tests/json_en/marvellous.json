@@ -1,0 +1,36 @@
+[
+    {
+        "Entry": [
+            "marvellous",
+            "marvelous"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "cudny",
+                            "cudowny",
+                            "wspaniały",
+                            "fenomenalny",
+                            "zachwycający",
+                            "prześliczny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The weather in the mountains was marvellous.",
+                                "Translation": "(Pogoda w górach była cudowna.)"
+                            },
+                            {
+                                "Sentence": "Is your marvellous idea to go abroad?",
+                                "Translation": "(Czy twoim wspaniałym pomysłem jest to, by pojechać za granicę?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

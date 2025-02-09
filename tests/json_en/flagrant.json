@@ -1,0 +1,40 @@
+[
+    {
+        "Entry": [
+            "flagrant"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "jawny",
+                            "jaskrawy",
+                            "rażący"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I've never seen such flagrant disregard for the law.",
+                                "Translation": "(Nigdy nie widziałem tak rażącego braku poważania dla prawa.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "notoryczny"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "ohydny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

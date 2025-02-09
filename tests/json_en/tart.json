@@ -1,0 +1,81 @@
+[
+    {
+        "Entry": [
+            "tart"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "placek (z owocami)",
+                            "tarta (z kremem, dżemem)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Tonight's dinner will be roast turkey and for dessert, an apple tart.",
+                                "Translation": "(Dzisiaj na kolację będzie pieczony indyk, a na deser placek z jabłkami.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "prostytutka",
+                            "kobieta lekkich obyczajów"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'm not going to spend that money on some tart.",
+                                "Translation": "(Nie zamierzam wydawać tej kasy na jakieś prostytutki.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "cizia",
+                            "laleczka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Please change. You look like a tart.",
+                                "Translation": "(Proszę przebierz się. Wyglądasz jak cizia.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kwaskowy",
+                            "kwaskowaty",
+                            "kwaśny (smak)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Whenever I eat a tart kiwi fruit I have a stomachache.",
+                                "Translation": "(Za każdym razem, gdy jem kwaśne kiwi, boli mnie brzuch.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "uszczypliwy",
+                            "zgryźliwy (o uwadze, komentarzu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I am fed up with his tart remarks.",
+                                "Translation": "(Mam dość jego zgryźliwych uwag.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

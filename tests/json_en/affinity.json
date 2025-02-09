@@ -1,0 +1,64 @@
+[
+    {
+        "Entry": [
+            "affinity"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "uczucie zrozumienia i uznania dla kogoś lub czegoś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She displayed a great level of affinity towards the poor.",
+                                "Translation": "(Ona pokazała wysoki poziom zrozumienia dla ubogich.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bliskość",
+                            "podobieństwo"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "pokrewieństwo",
+                            "powinowactwo"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I can read your affinity to him from your face.",
+                                "Translation": "(Jestem w stanie wyczytać twoje pokrewieństwo z nim z twojej twarzy.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "affinity to something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "powiązanie z czymś"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

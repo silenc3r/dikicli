@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "unadorned"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nieupiększony",
+                            "prosty",
+                            "bez ozdób"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "Entry": [
+            "wilt"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "marnieć",
+                            "opadać z sił",
+                            "tracić wigor (o człowieku)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "usychać",
+                            "więdnąć",
+                            "marnieć (o roślinach)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "usychać (z pragnienia)",
+                            "czuć się źle (z powodu upału)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "odmiana czasownika \"will\" dla drugiej osoby liczby pojedynczej"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "uppity",
+            "uppish"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "snobistyczny",
+                            "arogancki"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

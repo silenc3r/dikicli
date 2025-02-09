@@ -1,0 +1,68 @@
+[
+    {
+        "Entry": [
+            "peer"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "osoba równorzędna z kimś",
+                            "rówieśnik",
+                            "rówieśnica",
+                            "rówieśniczka (np. w tym samym wieku, o takich samych umiejętnościach, o takim samym pochodzeniu, itp.)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She was known among her peers as a good student.",
+                                "Translation": "(Była znana wśród rówieśników jako dobra uczennica.)"
+                            },
+                            {
+                                "Sentence": "He is under pressure from his peers.",
+                                "Translation": "(On jest pod presją ze strony swoich rówieśników.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "par (członek Izby Lordów)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The King and all the peers are here.",
+                                "Translation": "(Król oraz wszyscy parowie są tutaj.)"
+                            },
+                            {
+                                "Sentence": "One of the peers left the room in the middle of the meeting.",
+                                "Translation": "(Jeden z parów opuścił pokój w środku spotkania.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przyglądać się badawczo (czemuś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The big man peered into the green light but could see nothing.",
+                                "Translation": "(Wielki mężczyzna spojrzał w zielone światło, ale nie mógł nic zauważyć.)"
+                            },
+                            {
+                                "Sentence": "I peered into the darkness but no one was there.",
+                                "Translation": "(Spojrzałem w ciemność, ale nikogo tam nie było.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

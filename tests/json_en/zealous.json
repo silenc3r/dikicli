@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "zealous"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "gorliwy",
+                            "żarliwy",
+                            "zagorzały"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He is a zealous supporter of his favourite football club.",
+                                "Translation": "(On jest zagorzałym kibicem swojego ulubionego klubu piłkarskiego.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

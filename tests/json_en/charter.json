@@ -1,0 +1,83 @@
+[
+    {
+        "Entry": [
+            "charter"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "karta",
+                            "statut (np. firmy, organizacji)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The content of the charter has not changed since 2004.",
+                                "Translation": "(Treść statutu nie zmieniła się od roku 2004.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "karta praw",
+                            "prawa miejskie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "When was your city's charter written?",
+                                "Translation": "(Kiedy została napisana karta praw waszego miasta?)"
+                            },
+                            {
+                                "Sentence": "The charter says I have every right to do what I did.",
+                                "Translation": "(Prawa miejskie twierdzą, że miałem zupełne prawo do zrobienia tego, co zrobiłem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "czarter",
+                            "wynajem"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They are enabling charter of the filghts.",
+                                "Translation": "(Oni udostępniają możliwość czarteru lotów.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wyczarterować",
+                            "wynajmować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We could charter our own flight and surprise him down there.",
+                                "Translation": "(Możemy wyczarterować lot i zaskoczyć go na miejscu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zarejestrować (np. firmę)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I have to charter my company.",
+                                "Translation": "(Muszę zarejestrować swoją firmę.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "Entry": [
+            "frisky"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozbawiony",
+                            "rozbrykany",
+                            "rozhasany"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "napalony (seksualnie)",
+                            "rozbuchany"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "pełen wigoru",
+                            "pełen energii"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

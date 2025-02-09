@@ -1,0 +1,328 @@
+[
+    {
+        "Entry": [
+            "front"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "front",
+                            "przód"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They sat at the front.",
+                                "Translation": "(Oni usiedli z przodu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przód",
+                            "front (najważniejsza część)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Don't put your bags in the front of the bus.",
+                                "Translation": "(Nie kładź bagaży z przodu autobusu.)"
+                            },
+                            {
+                                "Sentence": "I would like to sit in the front.",
+                                "Translation": "(Chciałbym usiąść z przodu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "front (budynku)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The front of a building is from another century.",
+                                "Translation": "(Front budynku jest z innego wieku.)"
+                            },
+                            {
+                                "Sentence": "The shop front attracts customers.",
+                                "Translation": "(Front sklepu przyciąga klientów.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "front atmosferyczny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A cold front is approaching the region.",
+                                "Translation": "(Do regionu zbliża się zimny front.)"
+                            },
+                            {
+                                "Sentence": "Warm fronts change the weather.",
+                                "Translation": "(Ciepłe fronty zmieniają pogodę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przykrywka (np. dla nielegalnego biznesu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Everyone knows that this company is a front for illegal business.",
+                                "Translation": "(Wszyscy wiedzą, że ta firma jest przykrywką dla nielegalnego biznesu.)"
+                            },
+                            {
+                                "Sentence": "We don't know yet if the company was a front for money laundering.",
+                                "Translation": "(Jeszcze nie wiemy, czy firma była przykrywką dla prania brudnych pieniędzy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "maska (udawane uczucia)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His indifference is just a front.",
+                                "Translation": "(Jego obojętność to tylko maska.)"
+                            },
+                            {
+                                "Sentence": "She puts a front that she is over him.",
+                                "Translation": "(Ona zakłada maskę mówiącą, że już o nim zapomniała.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "front (używane w nazwach organizacji)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His grandfather was a member of the National Front.",
+                                "Translation": "(Jego dziadek należał do Frontu Narodowego.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "front (linia walki)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The soldiers were fighting on the front.",
+                                "Translation": "(Żołnierze walczyli na froncie.)"
+                            },
+                            {
+                                "Sentence": "They were on the front line ready to attack.",
+                                "Translation": "(Oni byli na linii walki gotowi do ataku.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "fronton (np. katedry)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The front of the cathedral looks impressive.",
+                                "Translation": "(Front katedry wygląda imponująco.)"
+                            },
+                            {
+                                "Sentence": "The front of this building has been destroyed during the war.",
+                                "Translation": "(Fronton tego budynku został zniszczony podczas wojny.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przedni"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Look at the front part of the car.",
+                                "Translation": "(Spójrz na przednią część samochodu.)"
+                            },
+                            {
+                                "Sentence": "She has noticed that his front tooth was missing.",
+                                "Translation": "(Ona zauważyła, że brakowało mu przedniego zęba.)"
+                            },
+                            {
+                                "Sentence": "The front part of the car was badly damaged.",
+                                "Translation": "(Przednia część samochodu została poważnie uszkodzona.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "będący przykrywką dla nielegalnych interesów (np. firma)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This pub was a front business for a drug cartel illegal activity.",
+                                "Translation": "(Ten pub był przykrywką dla nielegalnej działalności kartelu narkotykowego.)"
+                            },
+                            {
+                                "Sentence": "This must be a front restaurant, they serve terrible food.",
+                                "Translation": "(Ta restauracja musi być przykrywką, podają okropne jedzenie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przedni (spółgłoska)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Here is an article about front consonants.",
+                                "Translation": "(Tu jest artykuł o spółgłoskach przednich.)"
+                            },
+                            {
+                                "Sentence": "\"T\" is a front consonant.",
+                                "Translation": "(\"T\" jest spółgłoską przednią.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wejściowy (np. drzwi)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The front door was locked.",
+                                "Translation": "(Drzwi wejściowe były zamknięte.)"
+                            },
+                            {
+                                "Sentence": "Why didn't you come through the front door?",
+                                "Translation": "(Czemu nie weszłaś wejściowymi drzwiami?)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "stać na czele"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He stands at the front of the class.",
+                                "Translation": "(On stoi na czele klasy.)"
+                            },
+                            {
+                                "Sentence": "The king stood in front of his army.",
+                                "Translation": "(Król stał na czele swojej armii.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "front",
+            "front onto something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wychodzić na coś (np. okno na ogród)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My windows front onto the garden.",
+                                "Translation": "(Moje okna wychodzą na ogród.)"
+                            },
+                            {
+                                "Sentence": "The hotel view fronts the sea.",
+                                "Translation": "(Widok z hotelu wychodzi na morze.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "the front"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nadbrzeżna promenada"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They are selling a house on the front.",
+                                "Translation": "(Oni sprzedają dom na nadbrzeżnej promenadzie.)"
+                            },
+                            {
+                                "Sentence": "We enjoy walking along the front.",
+                                "Translation": "(My lubimy chodzić wzdłuż nadbrzeżnej promenady.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "to the front"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "do przodu"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "your front"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przód ciała"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

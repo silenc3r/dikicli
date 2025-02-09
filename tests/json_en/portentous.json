@@ -1,0 +1,31 @@
+[
+    {
+        "Entry": [
+            "portentous"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "złowieszczy",
+                            "złowróżbny"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "pompatyczny",
+                            "uroczysty",
+                            "nadęty",
+                            "poważny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "Entry": [
+            "deference"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szacunek",
+                            "wzgląd",
+                            "poważanie",
+                            "respekt"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The students treated their teacher with deference.",
+                                "Translation": "(Uczniowie traktowali swojego nauczyciela z szacunkiem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "uległość (wobec kogoś)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

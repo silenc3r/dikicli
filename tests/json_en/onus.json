@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "onus"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ciężar odpowiedzialności",
+                            "obowiązek",
+                            "brzemię"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

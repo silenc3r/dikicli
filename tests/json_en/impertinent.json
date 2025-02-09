@@ -1,0 +1,51 @@
+[
+    {
+        "Entry": [
+            "impertinent"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bezczelny",
+                            "impertynencki",
+                            "niegrzeczny (o osobie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "niestosowny",
+                            "niewłaściwy",
+                            "nie będący na miejscu (o zachowaniu, pytaniach, szczegółach)",
+                            "nie mający związku"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "głupi",
+                            "absurdalny (o osobie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "impertynent",
+                            "impertynentka"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

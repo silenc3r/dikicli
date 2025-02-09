@@ -1,0 +1,38 @@
+[
+    {
+        "Entry": [
+            "abruptly"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "gwałtownie",
+                            "raptownie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He turned abruptly and walked away.",
+                                "Translation": "(On obrócił się gwałtownie i poszedł.)"
+                            },
+                            {
+                                "Sentence": "Wendy stopped abruptly, heart pounding.",
+                                "Translation": "(Wendy zatrzymała się gwałtownie, z bijącym sercem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nagle",
+                            "gwałtownie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

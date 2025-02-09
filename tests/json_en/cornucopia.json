@@ -1,0 +1,25 @@
+[
+    {
+        "Entry": [
+            "cornucopia",
+            "harvest cone",
+            "horn of Amalthea",
+            "horn of plenty"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "róg obfitości",
+                            "róg Amaltei"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "Entry": [
+            "inconvenience",
+            "inconveniency",
+            "disconvenience"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kłopot",
+                            "niedogodność",
+                            "uniedogodnienie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "When did family become such an inconvenience for you, Julian?",
+                                "Translation": "(Kiedy to rodzina stała się dla ciebie niedogodnością, Julian?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "niedogodność",
+                            "niewygoda",
+                            "uniedogodnienie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Her not arriving in time was an inconvenience.",
+                                "Translation": "(To, że ona nie przyjechała na czas było niedogodnością.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przysparzać komuś kłopotu"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I hate to inconvenience you.",
+                                "Translation": "(Nie chcę ci sprawiać kłopotu.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

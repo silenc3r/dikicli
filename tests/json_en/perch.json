@@ -1,0 +1,96 @@
+[
+    {
+        "Entry": [
+            "perch"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "żerdź (cienki pień drzewa lub długa gałąź)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He cut off a perch from the tree.",
+                                "Translation": "(On odciął żerdź od drzewa.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dogodne wysoko położone miejsce",
+                            "wysokie stanowisko"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We watched the parade from our perch on the scaffolding.",
+                                "Translation": "(Oglądaliśmy paradę z naszego dogodnego miejsca na rusztowaniu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "okoń"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I caught some perch last weekend.",
+                                "Translation": "(Złapałem trochę okoni zeszłego weekendu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "grzęda (dla ptaka)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The hens sat on a perch.",
+                                "Translation": "(Kury siedziały na grzędzie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wiecha"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "pręt (jednostka długości)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sadzać",
+                            "umieszczać",
+                            "siadać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The house was perched on the edge of a cliff.",
+                                "Translation": "(Dom był umieszczony na brzegu klifu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "siadać na grzędzie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

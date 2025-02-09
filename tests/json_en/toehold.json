@@ -1,0 +1,33 @@
+[
+    {
+        "Entry": [
+            "toehold"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "odskocznia",
+                            "punkt zaczepienia"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "uchwyt dla palców (przy wspinaczce)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The newly built wall had no toeholds of any kind.",
+                                "Translation": "(Nowo zbudowana ścianka nie miała żadnych uchwytów dla palców.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

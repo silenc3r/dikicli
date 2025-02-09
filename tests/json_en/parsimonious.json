@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "parsimonious"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "skąpy",
+                            "przesadnie oszczędny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

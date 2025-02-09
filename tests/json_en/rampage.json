@@ -1,0 +1,53 @@
+[
+    {
+        "Entry": [
+            "rampage"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozróba",
+                            "awantura"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Several people were injured in the rampage.",
+                                "Translation": "(Kilka osób zostało rannych podczas rozróby.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "rampage"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szaleć",
+                            "miotać się",
+                            "siać zniszczenie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The demonstrators rampaged through the town.",
+                                "Translation": "(Demonstranci siali zniszczenie w mieście.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

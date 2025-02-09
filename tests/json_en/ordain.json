@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "ordain"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zarządzać",
+                            "ustanowić (np. reformy)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wyświęcić",
+                            "wyświęcać (np. na księdza)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

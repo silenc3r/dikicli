@@ -1,0 +1,79 @@
+[
+    {
+        "Entry": [
+            "slope"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zbocze"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I looked down the long slope up which we had come.",
+                                "Translation": "(Spojrzałem w dół zbocza, na które weszliśmy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "stok (narciarski)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He was skiing down the slope.",
+                                "Translation": "(On zjeżdżał ze stoku na nartach.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nachylenie",
+                            "spadek"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The area has a slope from the west to the east.",
+                                "Translation": "(Ten obszar ma nachylenie z zachodu na wschód.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "współczynnik kierunkowy"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "żółtek",
+                            "skośnooki"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "opadać",
+                            "pochylać się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The land sloped down from the road, which was good.",
+                                "Translation": "(Ziemia opadała z drogi, co było korzystne.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

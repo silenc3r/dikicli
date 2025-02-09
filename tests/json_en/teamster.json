@@ -1,0 +1,38 @@
+[
+    {
+        "Entry": [
+            "lorry driver",
+            "truck driver",
+            "truckman",
+            "teamster",
+            "trucker"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kierowca ciężarówki"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He works as a lorry driver.",
+                                "Translation": "(On pracuje jako kierowca ciężarówki.)"
+                            },
+                            {
+                                "Sentence": "The lorry driver quickly applied the brakes when a car suddenly turned in front of him.",
+                                "Translation": "(Kierowca ciężarówki szybko nacisnął na hamulec, kiedy samochód nagle skręcił przed nim.)"
+                            },
+                            {
+                                "Sentence": "The truck driver spent all day in his car.",
+                                "Translation": "(Kierowca ciężarówki spędził cały dzień w swoim samochodzie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

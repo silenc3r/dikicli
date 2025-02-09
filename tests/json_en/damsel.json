@@ -1,0 +1,25 @@
+[
+    {
+        "Entry": [
+            "damsel",
+            "demoiselle",
+            "damosel",
+            "damozel"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dziewica",
+                            "panna (niezamężna)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

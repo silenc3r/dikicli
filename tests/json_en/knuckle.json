@@ -1,0 +1,44 @@
+[
+    {
+        "Entry": [
+            "knuckle"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "knykieć",
+                            "kłykieć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There are knuckle prints on glass.",
+                                "Translation": "(Na szybie są odciski kłykci.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kostka u ręki"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przyciskać kłykciem"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "Entry": [
+            "mansion"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rezydencja",
+                            "willa",
+                            "posiadłość",
+                            "posesja",
+                            "dworek"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "Entry": [
+            "hitch"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "podróżować autostopem"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "If we hitch, it'll keep the costs down.",
+                                "Translation": "(Jeśli pojedziemy autostopem, zmniejszymy koszty.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "posuwać",
+                            "popychać (do góry)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "umocować",
+                            "zaczepić",
+                            "przyczepić"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The horses were hitched to the fence.",
+                                "Translation": "(Konie były zaczepione do płotu.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przeszkoda",
+                            "utrudnienie",
+                            "szkopuł"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The wedding went off without a hitch.",
+                                "Translation": "(Wesele udało się bez przeszkód.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "szarpnięcie",
+                            "zaczepienie",
+                            "węzeł"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wojo",
+                            "kamasze (czas służby wojskowej)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "hitchhike",
+            "hitch"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "jechać autostopem"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "łapać autostop",
+                            "łapać okazję"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "hike something up",
+            "hitch something up",
+            "hitch something"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "phrasal verb",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "podciągać (się)",
+                            "pociągnąć do góry",
+                            "szarpnąć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He hitched up his trouser leg and showed me his scar.",
+                                "Translation": "(On podciągnął nogawkę do góry i pokazał mi swoją bliznę.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

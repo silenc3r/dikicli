@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "inherent"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przyrodzony",
+                            "nieodłączny",
+                            "inherentny (np. atrybut, problemy, ryzyko)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

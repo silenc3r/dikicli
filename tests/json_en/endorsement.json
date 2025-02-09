@@ -1,0 +1,60 @@
+[
+    {
+        "Entry": [
+            "endorsement",
+            "indorsement"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "poparcie",
+                            "aprobata (np. dla kandydata)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I would like to have your magazine's endorsement.",
+                                "Translation": "(Chciałbym mieć poparcie twojego magazynu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zatwierdzenie (np. faktury)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "lansowanie (np. produktu, nowej mody)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "podpis na odwrocie",
+                            "indos"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "adnotacja",
+                            "wpis o wykroczeniu drogowym"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "dekretacja"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

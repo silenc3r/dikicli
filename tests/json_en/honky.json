@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "honkie",
+            "honkey",
+            "honky"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "białas (obraźliwie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

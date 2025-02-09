@@ -1,0 +1,95 @@
+[
+    {
+        "Entry": [
+            "dispatch",
+            "despatch"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wysyłać (np. depeszę)",
+                            "ekspediować (kogoś gdzieś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "When will you be able to dispatch the order?",
+                                "Translation": "(Kiedy będziecie w stanie wysłać zamówienie?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "załatwić",
+                            "uporać się",
+                            "uwinąć się (poradzić sobie z czymś szybko i efektywnie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "pozbyć się",
+                            "zabić (jakąś osobę lub zwierzę)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "dojeść"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "meldunek",
+                            "sprawozdanie",
+                            "raport (np. w wojsku)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "depesza (wiadomość agencji informacyjnej)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "depesza",
+                            "oficjalna wiadomość"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "nadawanie (np. przesyłki)",
+                            "wysyłanie (kogoś gdzieś)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wysyłka",
+                            "ekspedycja"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "egzekucja (wykonanie wyroku śmierci)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

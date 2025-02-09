@@ -1,0 +1,86 @@
+[
+    {
+        "Entry": [
+            "asset"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "atut",
+                            "zaleta (użyteczna zdolność)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It would be a wonderful asset.",
+                                "Translation": "(To byłby wspaniały atut.)"
+                            },
+                            {
+                                "Sentence": "From that point of view his inexperience is an asset.",
+                                "Translation": "(Z tego punktu widzenia jego brak doświadczenia jest zaletą.)"
+                            },
+                            {
+                                "Sentence": "Sure, this is a disaster, but maybe we can turn it into an asset.",
+                                "Translation": "(Jasne, to jest katastrofa, ale może uda nam się zamienić ją w zaletę.)"
+                            },
+                            {
+                                "Sentence": "His sense of humor is a real asset.",
+                                "Translation": "(Jego poczucie humoru jest prawdziwą zaletą.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "cenny nabytek",
+                            "rzecz wartościowa"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He's a true asset to our company.",
+                                "Translation": "(On jest prawdziwie cennym nabytkiem dla naszej firmy.)"
+                            },
+                            {
+                                "Sentence": "This is an asset to my collection.",
+                                "Translation": "(To cenny nabytek do mojej kolekcji.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "własność",
+                            "rzecz posiadana",
+                            "kapitał",
+                            "majątek"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "What is the asset of the company you work for?",
+                                "Translation": "(Jaki jest kapitał firmy dla której pracujesz?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "składnik aktywów"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "All of the assets should be included in the balance sheet.",
+                                "Translation": "(Wszystkie składniki aktywów powinny być zawarte w bilansie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zasób"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

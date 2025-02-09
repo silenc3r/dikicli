@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "deer"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "jeleń"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "No one is sure how many deer live in and around the park.",
+                                "Translation": "(Nikt nie wie jak wiele jeleni żyje w parku i jego okolicach.)"
+                            },
+                            {
+                                "Sentence": "He shot his first deer when he was a small boy.",
+                                "Translation": "(On upolował swojego pierwszego jelenia, kiedy był małym chłopcem.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

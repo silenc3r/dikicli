@@ -1,0 +1,61 @@
+[
+    {
+        "Entry": [
+            "shot",
+            "snapshot"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "fotka",
+                            "zdjęcie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The night mode allows you to take snapshots when it's dark.",
+                                "Translation": "(Tryb nocny pozwala ci robić zdjęcia po zmroku.)"
+                            },
+                            {
+                                "Sentence": "They showed me some interesting snapshots of nature.",
+                                "Translation": "(Oni pokazali mi parę interesujących zdjęć natury.)"
+                            },
+                            {
+                                "Sentence": "Nice shot.",
+                                "Translation": "(Fajna fotka.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "snapshot"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szybki ogląd",
+                            "migawka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Let me have a snapshot of the situation.",
+                                "Translation": "(Pozwól, że zrobię szybki ogląd sytuacji.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

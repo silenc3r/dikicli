@@ -1,0 +1,66 @@
+[
+    {
+        "Entry": [
+            "menace"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "groźba"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I don't feel threatened by his menaces.",
+                                "Translation": "(Nie czuję się zastraszony przez jego groźby.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zagrożenie",
+                            "niebezpieczeństwo"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He is a menace to the public security!",
+                                "Translation": "(On jest zagrożeniem dla publicznego bezpieczeństwa!)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zmora (np. o psotnym dziecku)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She said the neighbour's kid is a real menace.",
+                                "Translation": "(Ona mówiła, że dziecko sąsiadów to prawdziwa zmora.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "grozić",
+                            "zagrażać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The new law menaces our freedom.",
+                                "Translation": "(Nowe prawo zagraża naszej wolności.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

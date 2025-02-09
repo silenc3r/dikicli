@@ -1,0 +1,56 @@
+[
+    {
+        "Entry": [
+            "caress"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pieścić",
+                            "głaskać",
+                            "miziać",
+                            "kiziać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He caressed the back of her neck.",
+                                "Translation": "(On głaskał ją po karku.)"
+                            },
+                            {
+                                "Sentence": "Her hand continued to caress his back.",
+                                "Translation": "(Jej ręka cały czas głaskała go po plecach.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dotykać",
+                            "pieścić (dotykać w delikatny, romantyczny sposób, np. promienie słońca dotykające czyjejś twarzy)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pieszczota"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "One caress blended into another.",
+                                "Translation": "(Jedna pieszczota przechodziła w kolejną.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

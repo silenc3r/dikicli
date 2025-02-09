@@ -1,0 +1,25 @@
+[
+    {
+        "Entry": [
+            "ruse"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "fortel",
+                            "podstęp",
+                            "przebiegłość",
+                            "zagrywka",
+                            "ściema"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

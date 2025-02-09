@@ -1,0 +1,27 @@
+[
+    {
+        "Entry": [
+            "interdiction"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nałożenie zakazu (przez sąd)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "nałożenie interdyktu (zawieszenie prawa do sprawowania lub przyjmowania sakramentów)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

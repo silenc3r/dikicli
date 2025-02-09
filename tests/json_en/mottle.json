@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "mottle"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pokrywać cętkami",
+                            "pokrywać plamkami"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

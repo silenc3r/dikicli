@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "longitude",
+            "LON",
+            "long."
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "długość geograficzna"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

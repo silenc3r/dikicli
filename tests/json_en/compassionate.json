@@ -1,0 +1,38 @@
+[
+    {
+        "Entry": [
+            "compassionate"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pełen współczucia",
+                            "współczujący"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She is a compassionate woman, truly devoted to her patients.",
+                                "Translation": "(Ona jest kobietą pełną współczucia, prawdziwie oddaną swoim pacjentom.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "współczuć"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

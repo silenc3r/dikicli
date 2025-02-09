@@ -1,0 +1,130 @@
+[
+    {
+        "Entry": [
+            "fleece"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ograbiać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She fleeced him of his money.",
+                                "Translation": "(Ona ograbiła go z jego pieniędzy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "oszukać",
+                            "zrobić w balona"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I wouldn't trust him. He will fleece you.",
+                                "Translation": "(Nie ufałbym mu. On cię oszuka.)"
+                            },
+                            {
+                                "Sentence": "I have no money left! He fleeced me!",
+                                "Translation": "(Nie mam już żadnych pieniędzy! On zrobił mnie w balona!)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "strzyc owce"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The farmer fleeced his sheep.",
+                                "Translation": "(Rolnik ostrzygł swoje owce.)"
+                            },
+                            {
+                                "Sentence": "We fleece our sheep in the spring.",
+                                "Translation": "(My strzyżemy nasze owce na wiosnę.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "runo",
+                            "wełna"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This fleece is so thick!",
+                                "Translation": "(Ta wełna jest taka gruba!)"
+                            },
+                            {
+                                "Sentence": "The fleece that we produce is of good quality.",
+                                "Translation": "(Wełna, którą produkujemy, jest dobrej jakości.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "polar (materiał)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Fleece is warm and comfortable.",
+                                "Translation": "(Polar jest ciepły i wygodny.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kurtka polarowa"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I always wear a fleece in the winter.",
+                                "Translation": "(Zawsze noszę kurtkę polarową w zimie.)"
+                            },
+                            {
+                                "Sentence": "This fleece is so warm that I'm sweating.",
+                                "Translation": "(Ta kurtka polarowa jest tak ciepła, że się pocę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "flausz"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "fleece somebody",
+            "skin somebody"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "idiom",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "oskubać kogoś z pieniędzy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

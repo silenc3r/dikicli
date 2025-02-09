@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "alder"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "olcha",
+                            "olsza (krzewy i drzewa brzozowate)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

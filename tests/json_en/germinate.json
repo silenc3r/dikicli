@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "germinate"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kiełkować",
+                            "wschodzić (o roślinach)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "dawać początek (czemuś)",
+                            "rozwijać (np. pomysł)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

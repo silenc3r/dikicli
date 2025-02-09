@@ -1,0 +1,34 @@
+[
+    {
+        "Entry": [
+            "Spain"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "Hiszpania"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He has lived in Spain for a few months.",
+                                "Translation": "(On mieszkał w Hiszpanii przez parę miesięcy.)"
+                            },
+                            {
+                                "Sentence": "I come from Spain.",
+                                "Translation": "(Pochodzę z Hiszpanii.)"
+                            },
+                            {
+                                "Sentence": "She is going to Spain soon.",
+                                "Translation": "(Ona wkrótce jedzie do Hiszpanii.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

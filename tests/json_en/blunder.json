@@ -1,0 +1,78 @@
+[
+    {
+        "Entry": [
+            "blunder"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "błąd",
+                            "omyłka",
+                            "pomyłka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A woman died as a result of a doctor's blunder.",
+                                "Translation": "(Kobieta zmarła w wyniku pomyłki lekarza.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "gafa",
+                            "nietakt"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I've made an embarrassing blunder.",
+                                "Translation": "(Popełniłem żenującą gafę.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "popełnić błąd",
+                            "popełnić gafę",
+                            "popełnić nietakt"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I blundered badly by calling my wife by my ex-girlfriend's name.",
+                                "Translation": "(Popełniłem duży błąd nazywając moją żonę imieniem mojej byłej dziewczyny.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "poruszać się niezdarnie",
+                            "wpadać na kogoś",
+                            "wpadać na coś"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I could hear him blundering in the darkness.",
+                                "Translation": "(Słyszałem go poruszającego się niezdarnie w ciemności.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wejść gdzieś przez pomyłkę",
+                            "znaleźć się gdzieś przez pomyłkę"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

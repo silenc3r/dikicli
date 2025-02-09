@@ -1,0 +1,53 @@
+[
+    {
+        "Entry": [
+            "waver"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wahać",
+                            "chwiać się",
+                            "drżeć (np. głos)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My voice wavers when I'm touched.",
+                                "Translation": "(Mój głos drży, kiedy jestem wzruszony.)"
+                            },
+                            {
+                                "Sentence": "The number of casualties of the earthquake wavers between 270 and 300 people.",
+                                "Translation": "(Liczba ofiar trzęsienia ziemi waha się miedzy 270 a 300 osobami.)"
+                            },
+                            {
+                                "Sentence": "I'm wavering between accepting and rejecting the job.",
+                                "Translation": "(Waham się między przyjęciem, a odrzuceniem pracy.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wahanie",
+                            "oscylowanie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I feel dizzy because of the waver of the weather.",
+                                "Translation": "(Mam zawroty głowy z powodu wahania się pogody.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

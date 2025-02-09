@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "curtail"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "redukować (np. zarobki)",
+                            "ograniczać (np. wolność)",
+                            "tłumić (np. inflację)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

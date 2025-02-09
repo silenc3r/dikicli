@@ -1,0 +1,40 @@
+[
+    {
+        "Entry": [
+            "hopeless"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "beznadziejny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He knew his situation was hopeless, but he didn't give up.",
+                                "Translation": "(On wiedział, że jego sytuacja była beznadziejna, ale nie poddał się.)"
+                            },
+                            {
+                                "Sentence": "It was all hopeless: a trap with no way out.",
+                                "Translation": "(To było beznadziejne: pułapka bez wyjścia.)"
+                            },
+                            {
+                                "Sentence": "She's hopeless at sports.",
+                                "Translation": "(Ona jest beznadziejna jeśli chodzi o sport.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rozpaczliwy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

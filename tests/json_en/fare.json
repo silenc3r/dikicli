@@ -1,0 +1,107 @@
+[
+    {
+        "Entry": [
+            "fare"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "opłata za przejazd"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The bus fare in this city is surprisingly high.",
+                                "Translation": "(Opłata za przejazd autobusem w tym mieście jest zaskakująco wysoka.)"
+                            },
+                            {
+                                "Sentence": "Polish airlines have increased their fares.",
+                                "Translation": "(Polskie linie lotnicze podniosły swoje opłaty.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wikt",
+                            "potrawa",
+                            "strawa",
+                            "pożywienie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We sampled traditional Chinese fare.",
+                                "Translation": "(Skosztowaliśmy tradycyjnej chińskiej strawy.)"
+                            },
+                            {
+                                "Sentence": "I was served delicious fare at this Indian restaurant across the street.",
+                                "Translation": "(Zaserwowano mi pyszne pożywienie w tej indyjskiej restauracji po drugiej stronie ulicy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pasażer"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I was the only fare in the bus.",
+                                "Translation": "(Byłem jedynym pasażerem w autobusie.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mieć się",
+                            "czuć się",
+                            "radzić sobie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "If he had studied more, he would have fared better on his exam.",
+                                "Translation": "(Gdyby się więcej uczył, lepiej by mu poszło na egzaminie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wypaść",
+                            "wyjść"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The film fared very well.",
+                                "Translation": "(Film wypadł bardzo dobrze.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "podróżować",
+                            "poruszać się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She fared north.",
+                                "Translation": "(Poruszała się na północ.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wykonywać w określony sposób w określonej sytuacji lub przez pewien okres czasu"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "Entry": [
+            "palate"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "podniebienie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Most commercially available brands of tea are not suitable to my palate.",
+                                "Translation": "(Większość komercyjnie dostępnych gatunków herbaty nie odpowiada mojemu podniebieniu.)"
+                            },
+                            {
+                                "Sentence": "I can taste ginger on my palate.",
+                                "Translation": "(Czuję imbir na moim podniebieniu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "smak"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Some have a sensitive palate and sense of smell.",
+                                "Translation": "(Niektórzy mają wyczulony smak i węch.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

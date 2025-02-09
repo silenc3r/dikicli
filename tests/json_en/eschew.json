@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "eschew"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "unikać",
+                            "wystrzegać się",
+                            "powstrzymywać się"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

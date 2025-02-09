@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "despondency",
+            "despond"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przygnębienie",
+                            "zniechęcenie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He felt complete despondency.",
+                                "Translation": "(On czuł totalne przygnębienie.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

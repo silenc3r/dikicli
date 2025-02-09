@@ -1,0 +1,44 @@
+[
+    {
+        "Entry": [
+            "casserole"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zapiekanka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Would you like some chicken casserole?",
+                                "Translation": "(Chciałbyś trochę zapiekanki z kurczaka?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "naczynie żaroodporne"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dusić",
+                            "udusić (np. mięso, kurczaka)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

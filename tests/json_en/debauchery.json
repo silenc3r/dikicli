@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "debauchery"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozpusta",
+                            "rozwiązłość",
+                            "deprawacja"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

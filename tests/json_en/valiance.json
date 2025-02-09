@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "valiance"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wielka odwaga",
+                            "męstwo",
+                            "determinacja"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "Entry": [
+            "laceration"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozdarcie",
+                            "poszarpanie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "lacerated wound",
+            "laceration"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rana darta",
+                            "rana szarpana"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This laceration looks really ugly.",
+                                "Translation": "(Ta rana szarpana wygląda naprawdę paskudnie.)"
+                            },
+                            {
+                                "Sentence": "She has scars after a laceration on her right leg.",
+                                "Translation": "(Ona ma blizny po ranie szarpanej na prawej nodze.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

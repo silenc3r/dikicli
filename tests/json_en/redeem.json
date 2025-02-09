@@ -1,0 +1,123 @@
+[
+    {
+        "Entry": [
+            "redeem"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ocalać (honor)",
+                            "ratować (sytuację)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "What can I do to redeem the situation?",
+                                "Translation": "(Co mogę zrobić, żeby ratować sytuację?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "odkupić (grzechy)",
+                            "zbawić"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Only Jesus will redeem your sins.",
+                                "Translation": "(Tylko Jezus odkupi Twoje grzechy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rehabilitować (się)",
+                            "kompensować (wady)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Casting famous actors wasn't enough to redeem bad screenplay.",
+                                "Translation": "(Obsadzenie znanych aktorów nie było wystarczające, żeby zrekompensować słaby scenariusz.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "realizować kupon",
+                            "realizować voucher"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Would you like to redeem your coupon?",
+                                "Translation": "(Czy chciałby Pan zrealizować swój kupon?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wykupić",
+                            "odzyskiwać (swoją własność od kogoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He couldn't afford to redeem his guitar from the pawnshop.",
+                                "Translation": "(Nie było go stać na odkupienie swojej gitary z lombardu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "spłacać (dług, kredyt)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My parents will redeem their debts for many years.",
+                                "Translation": "(Moi rodzice będą spłacać swoje długi przez wiele lat.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "spełniać (przyrzeczenie)",
+                            "dotrzymywać (słowa)",
+                            "wywiązywać się (z obietnicy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She came back to town to redeem the promise she gave her mother.",
+                                "Translation": "(Ona wróciła do miasta, żeby spełnić obietnicę, którą dała swojej matce.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "redeem oneself"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zrehabilitować się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My husband wants to redeem himself after he's forgotten about my birthday.",
+                                "Translation": "(Mój mąż chce się zrehabilitować po tym jak zapomniał o moich urodzinach.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

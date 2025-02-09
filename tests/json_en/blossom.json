@@ -1,0 +1,39 @@
+[
+    {
+        "Entry": [
+            "blossom"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kwitnąć",
+                            "zakwitać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Most fruit trees blossom in spring.",
+                                "Translation": "(Większość drzew owocowych kwitnie na wiosnę.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kwiat",
+                            "kwiecie (na drzewie, krzaku)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

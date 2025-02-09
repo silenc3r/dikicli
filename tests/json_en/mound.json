@@ -1,0 +1,63 @@
+[
+    {
+        "Entry": [
+            "mound"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wzgórek",
+                            "kopiec",
+                            "kurhan"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The burial grounds was filled with mounds.",
+                                "Translation": "(Cmentarz był pełen kurhanów.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "sterta"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wzniesienie na mecie miotacza (w grze w baseball)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Young John Rhoades strides to the mound.",
+                                "Translation": "(Młody John Rhoades ustawia się na wzniesieniu.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "usypywać w stos",
+                            "układać w stos"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "otaczać wałem"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

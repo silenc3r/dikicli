@@ -1,0 +1,36 @@
+[
+    {
+        "Entry": [
+            "penchant"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zamiłowanie",
+                            "upodobanie",
+                            "skłonność"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Charles had a penchant for getting in trouble.",
+                                "Translation": "(Charles miał skłonność do pakowania się w kłopoty.)"
+                            },
+                            {
+                                "Sentence": "His penchant for conquests is well documented.",
+                                "Translation": "(Jego zamiłowanie do podbojów jest dobrze udokumentowane.)"
+                            },
+                            {
+                                "Sentence": "She always had a penchant for irony.",
+                                "Translation": "(Ona zawsze miała skłonność do ironii.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

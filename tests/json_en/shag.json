@@ -1,0 +1,114 @@
+[
+    {
+        "Entry": [
+            "shag"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zerżnąć",
+                            "przelecieć",
+                            "bzykać"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "walić konia",
+                            "onanizować się"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wlec się",
+                            "ciągnąć się w ogonie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "stosunek seksualny",
+                            "bzykanko"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I could use some good shag right now.",
+                                "Translation": "(Przydałoby mi się teraz jakieś dobre bzykanko.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "szorstki dywan z długim włosem"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "kormoran (ptak)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "rodzaj machorki (tytoniu)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "czupryna",
+                            "kudły"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "dupa",
+                            "partner seksualny"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "hera",
+                            "heroina"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "shag",
+            "shag cut",
+            "shag hairstyle"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "shag (fryzura z wystrzępionymi włosami)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

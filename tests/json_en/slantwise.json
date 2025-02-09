@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "slantways",
+            "slantwise"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pochyle",
+                            "ukośnie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

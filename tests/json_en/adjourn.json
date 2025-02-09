@@ -1,0 +1,42 @@
+[
+    {
+        "Entry": [
+            "adjourn"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zawiesić",
+                            "przerwać",
+                            "odkładać",
+                            "odroczyć (spotkanie, posiedzenie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The meeting was adjourned at 10:00 am.",
+                                "Translation": "(Spotkanie zostało przerwane o 10 rano.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przekładać",
+                            "przenieść",
+                            "przenosić się (np. w inne miejsce)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Our discussion had to be adjourned to the conference hall since my office was being renovated.",
+                                "Translation": "(Nasze spotkanie musiało zostać przeniesione do sali konferencyjnej, ponieważ moje biuro było remontowane.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

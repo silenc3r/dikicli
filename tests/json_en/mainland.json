@@ -1,0 +1,27 @@
+[
+    {
+        "Entry": [
+            "mainland"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kontynent",
+                            "ląd stały"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The bridge here is the only connection to the mainland.",
+                                "Translation": "(Most jest tutaj jedynym połączeniem ze stałym lądem.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

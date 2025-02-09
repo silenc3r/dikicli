@@ -1,0 +1,42 @@
+[
+    {
+        "Entry": [
+            "curfew"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "godzina policyjna (wprowadzona przez państwo)",
+                            "godzina milicyjna (w poprzednim systemie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Make sure you will return home before the curfew.",
+                                "Translation": "(Koniecznie wróć do domu przed godziną policyjną.)"
+                            },
+                            {
+                                "Sentence": "A curfew has been introduced along the martial law.",
+                                "Translation": "(Razem ze stanem wojennym została wprowadzona godzina milicyjna.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zamykanie na noc drzwi wejściowych (np. w schronisku)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The curfew for this shelter is 10 p. m.",
+                                "Translation": "(W tym schronisku zamykamy drzwi wejściowe o 22.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

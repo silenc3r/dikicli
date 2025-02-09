@@ -1,0 +1,44 @@
+[
+    {
+        "Entry": [
+            "sombre",
+            "somber"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ponury",
+                            "posępny",
+                            "złowieszczy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Neither man smiled; both remained tense and sombre.",
+                                "Translation": "(Żaden z mężczyzn nie uśmiechnął się; obaj pozostali napięci i posępni.)"
+                            },
+                            {
+                                "Sentence": "His expression was somber.",
+                                "Translation": "(Jego wyraz twarzy był ponury.)"
+                            },
+                            {
+                                "Sentence": "It was a somber thought, a thought he did not like.",
+                                "Translation": "(To była posępna myśl, myśl, która mu się nie podobała.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ciemny",
+                            "mroczny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

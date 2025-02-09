@@ -1,0 +1,38 @@
+[
+    {
+        "Entry": [
+            "plainly"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wyraźnie",
+                            "widocznie",
+                            "jasno"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "otwarcie",
+                            "szczerze",
+                            "bez ogródek (mówić)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zwyczajnie",
+                            "skromnie (np. ubrany)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

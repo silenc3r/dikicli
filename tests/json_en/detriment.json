@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "detriment"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "szkoda",
+                            "uszczerbek",
+                            "krzywda"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

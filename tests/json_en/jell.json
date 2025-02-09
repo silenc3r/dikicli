@@ -1,0 +1,59 @@
+[
+    {
+        "Entry": [
+            "gel",
+            "jell"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "żel"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Could you hand me the shower gel that's on the counter there?",
+                                "Translation": "(Mógłbyś podać mi ten żel pod prysznic, który leży tam na szafce?)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "tężeć",
+                            "stężeć (o płynie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "skrystalizować się (o planach)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "posmarować żelem",
+                            "nałożyć żel"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "pasować",
+                            "kleić się"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

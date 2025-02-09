@@ -1,0 +1,34 @@
+[
+    {
+        "Entry": [
+            "brash"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "arogancki",
+                            "bezczelny (np. osoba, sposób zachowania)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "krzykliwy (np. kolor, strój)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "nieprzyjemny dla ucha (np. muzyka, dźwięk)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

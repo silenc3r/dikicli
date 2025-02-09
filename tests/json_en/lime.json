@@ -1,0 +1,109 @@
+[
+    {
+        "Entry": [
+            "lime"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "limonka",
+                            "limeta",
+                            "limetka"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A Cuba Libre traditionally comes in a tall glass with a lime wedge.",
+                                "Translation": "(Cuba Libre jest tradycyjnie podawany w wysokiej szklance, z kawałkiem limonki.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wapno"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Lime is formed mostly from the remains of marine organisms.",
+                                "Translation": "(Wapno zwykle tworzy się z pozostałości organizmów morskich.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wapnować"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zielonkawożółty",
+                            "limonkowy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Give me the lime book, please.",
+                                "Translation": "(Proszę, podaj mi zielonkawożółtą książkę.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "lime",
+            "linden",
+            "basswood"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "drewno lipowe"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "At my grandfather's it always smelled of linden.",
+                                "Translation": "(U mojego dziadka zawsze pachniało drewnem lipowym.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "lipowy (o drewnie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He bought a lime door for his new apartment.",
+                                "Translation": "(On kupił lipowe drzwi do jego nowego mieszkania.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

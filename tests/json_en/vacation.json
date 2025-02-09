@@ -1,0 +1,174 @@
+[
+    {
+        "Entry": [
+            "vacation"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wakacje (czas wolny od nauki na uczelniach)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I had a vacation, so I thought it was a good time to look for a summer job.",
+                                "Translation": "(Miałem wakacje, więc pomyślałem, że to dobry czas aby poszukać jakiejś pracy na lato.)"
+                            },
+                            {
+                                "Sentence": "Summer is time when young people are away on vacation.",
+                                "Translation": "(Lato jest czasem, w którym młodzi ludzie są na wakacjach.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "holiday",
+            "holidays",
+            "hols",
+            "holibobs",
+            "vacation",
+            "vacay",
+            "vaycay"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wakacje"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I'm away on holiday until September 4th.",
+                                "Translation": "(Jestem na wakacjach do 4 września.)"
+                            },
+                            {
+                                "Sentence": "I'm going on vacation to Canada next week.",
+                                "Translation": "(Jadę na wakacje do Kanady w przyszłym tygodniu.)"
+                            },
+                            {
+                                "Sentence": "How was your holiday?",
+                                "Translation": "(Jak się udały twoje wakacje?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "urlop (czas wolny od pracy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "During vacation, I switch off my mobile phone and don't check e-mails.",
+                                "Translation": "(Podczas urlopu wyłączam swój telefon i nie sprawdzam e-maili.)"
+                            },
+                            {
+                                "Sentence": "He took a week off and went on vacation.",
+                                "Translation": "(On wziął tydzień wolnego i pojechał na urlop.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wakacyjny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I started my holiday job as a waiter.",
+                                "Translation": "(Zacząłem moją wakacyjną pracę jako kelner.)"
+                            },
+                            {
+                                "Sentence": "My parents sent me to a holiday camp.",
+                                "Translation": "(Moi rodzice wysłali mnie na wakacyjny obóz.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wypoczynkowy (np. kurort)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I spent two weeks at a holiday resort.",
+                                "Translation": "(Spędziłem dwa tygodnie w kurorcie wypoczynkowym.)"
+                            },
+                            {
+                                "Sentence": "We went to an expensive holiday resort for the weekend.",
+                                "Translation": "(Na weekend pojechaliśmy do drogiego kurortu wypoczynkowego.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wycieczkowy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We went for a holiday cruise last year.",
+                                "Translation": "(Pojechaliśmy na rejs wycieczkowy w zeszłym roku.)"
+                            },
+                            {
+                                "Sentence": "One of the holiday ships has sunk.",
+                                "Translation": "(Jeden ze statków wycieczkowych zatonął.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "holiday",
+            "vacation"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "spędzać wakacje"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We holiday at our grandma's this summer.",
+                                "Translation": "(Tego lata spędzamy wakacje u babci.)"
+                            },
+                            {
+                                "Sentence": "Every year, she holidays in Spain.",
+                                "Translation": "(Ona każdego roku spędza wakacje w Hiszpanii.)"
+                            },
+                            {
+                                "Sentence": "Where do you usually holiday?",
+                                "Translation": "(Gdzie ty zazwyczaj spędzasz wakacje?)"
+                            },
+                            {
+                                "Sentence": "We're vacationing in the mountains.",
+                                "Translation": "(My spędzamy wakacje w górach.)"
+                            },
+                            {
+                                "Sentence": "I don't want to vacation with him.",
+                                "Translation": "(Nie chcę z nim spędzać wakacji.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "Entry": [
+            "butler"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kamerdyner",
+                            "lokaj"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "So, you're the butler for the Myerson family?",
+                                "Translation": "(Jest pan kamerdynerem rodziny Myersonów?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

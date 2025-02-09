@@ -1,0 +1,36 @@
+[
+    {
+        "Entry": [
+            "eventually"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przysłówek",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ostatecznie",
+                            "w końcu",
+                            "koniec końców"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It took some time, but eventually I found you.",
+                                "Translation": "(To zajęło trochę czasu, ale w końcu cię znalazłem.)"
+                            },
+                            {
+                                "Sentence": "Eventually, he managed to talk to his boss.",
+                                "Translation": "(W końcu udało mu się porozmawiać z szefem.)"
+                            },
+                            {
+                                "Sentence": "I think you'll understand that eventually.",
+                                "Translation": "(Myślę, że w końcu to zrozumiesz.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

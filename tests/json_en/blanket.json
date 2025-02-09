@@ -1,0 +1,97 @@
+[
+    {
+        "Entry": [
+            "blanket"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "koc"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She pulled the blanket up to her chin.",
+                                "Translation": "(Ona podciągnęła koc aż do podbródka.)"
+                            },
+                            {
+                                "Sentence": "Leo rose and covered his wife with a blanket.",
+                                "Translation": "(Leo wstał i przykrył swoją żonę kocem.)"
+                            },
+                            {
+                                "Sentence": "They were lying face to face on a beach blanket.",
+                                "Translation": "(Oni leżeli twarzami do siebie na kocu plażowym.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pokrywa",
+                            "warstwa (np. śniegu, mgły)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There was a beautiful blanket of snow on our lawn.",
+                                "Translation": "(Na naszym trawniku była piękna warstwa śniegu.)"
+                            },
+                            {
+                                "Sentence": "There was a thin blanket of snow in the garden.",
+                                "Translation": "(W ogrodzie była cienka warstwa śniegu.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "okrywać",
+                            "pokrywać (np. kocem, śniegiem)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I blanketed her, because she fell asleep on the couch.",
+                                "Translation": "(Okryłem ją kocem, ponieważ zasnęła na kanapie.)"
+                            },
+                            {
+                                "Sentence": "Blanket her if she falls asleep.",
+                                "Translation": "(Okryj ją kocem, jeśli zaśnie.)"
+                            },
+                            {
+                                "Sentence": "I always blanket my legs in winter.",
+                                "Translation": "(Zawsze zimą okrywam kocem moje nogi.)"
+                            },
+                            {
+                                "Sentence": "Snow blanketed the streets.",
+                                "Translation": "(Śnieg pokrył ulice.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "całościowy",
+                            "ogólny",
+                            "powszechny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The blanket cost of the house is 100 thousand dollars.",
+                                "Translation": "(Całościowy koszt domu to 100 tysięcy dolarów.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

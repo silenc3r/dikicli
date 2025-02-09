@@ -1,0 +1,107 @@
+[
+    {
+        "Entry": [
+            "fumes",
+            "exhaust fumes"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "spaliny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The level of fumes in the air is exceeding every norm.",
+                                "Translation": "(Poziom spalin w atmosferze przekracza każdą normę.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "fumes"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dymy",
+                            "opary",
+                            "wyziewy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I've got 230 people up here flying on petrol fumes.",
+                                "Translation": "(Mam tu 230 osób i lecimy na oparach benzyny.)"
+                            },
+                            {
+                                "Sentence": "We're pretty much on fumes till the end of the month.",
+                                "Translation": "(Do końca miesiąca będziemy ciągnąć na oparach.)"
+                            },
+                            {
+                                "Sentence": "Fumes could be dangerous to the baby.",
+                                "Translation": "(Opary mogą być groźne dla dziecka.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "fume"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wściekać się",
+                            "kipieć ze złości",
+                            "wybuchać ze złości"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wydzielać opary"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "opar",
+                            "wyziew",
+                            "woń"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wybuch (np. złości, gniewu)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "Entry": [
+            "tomcat"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kot",
+                            "kocur (o samcu)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "kobieciarz (o mężczyźnie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "John will never settle down, he is such a tomcat.",
+                                "Translation": "(John nigdy się nie ustatkuje, on jest takim kobieciarzem.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

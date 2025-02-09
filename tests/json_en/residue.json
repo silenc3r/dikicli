@@ -1,0 +1,55 @@
+[
+    {
+        "Entry": [
+            "residue"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "osad (pozostały po procesie chemicznym)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You say there will be no residue left on the products.",
+                                "Translation": "(Mówi pani, że na produkcie nie zostanie żaden osad.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pozostałość",
+                            "resztki (czegoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Check his clothes and the pickup for explosive residue.",
+                                "Translation": "(Sprawdźcie czy na jego ubraniu i samochodzie nie ma pozostałości materiałów wybuchowych.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "reszta spadkowa (spadek oczyszczony z długów i zapisów)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The residue shall be transfered to my daughter's bank account.",
+                                "Translation": "(Reszta spadkowa zostanie przelana na konto mojej córki.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wywar (np. z kości)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

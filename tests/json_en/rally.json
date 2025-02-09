@@ -1,0 +1,183 @@
+[
+    {
+        "Entry": [
+            "rally",
+            "rallye"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zjazd",
+                            "rajd (samochodowy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His car broke down and he didn't even finish the rally.",
+                                "Translation": "(Jego samochód się zapsuł i nawet nie skończył rajdu.)"
+                            },
+                            {
+                                "Sentence": "He won a motorcycle rally.",
+                                "Translation": "(On zwyciężył w rajdzie motocyklowym.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "rally"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zbiórka (zwolenników lub przeciwników czegoś)",
+                            "zgromadzenie ludzi (we wspólnym celu)",
+                            "wiec"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She attended an anti-government rally.",
+                                "Translation": "(Ona uczestniczyła w antyrządowym zgromadzeniu.)"
+                            },
+                            {
+                                "Sentence": "He made many promises at his presidential rally.",
+                                "Translation": "(On złożył dużo obietnic na swoim wiecu prezydenckim.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "powrót do zdrowia",
+                            "dojście do siebie (po chorobie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He made an unexpected rally after the surgery.",
+                                "Translation": "(On nieoczekiwanie wrócił do zdrowia po operacji.)"
+                            },
+                            {
+                                "Sentence": "I was very happy when I heard about your rally.",
+                                "Translation": "(Bardzo się ucieszyłem, kiedy usłyszałem o twoim powrocie do zdrowia.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ożywienie się (rynku)",
+                            "pójście w górę (akcji)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "szybka wymiana uderzeń (w tenisie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zbierać się (w jakimś celu)",
+                            "jednoczyć się (dla sprawy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I have no doubt that many supporters will rally to my defense.",
+                                "Translation": "(Nie mam wątpliwości, że wielu moich popleczników zbierze się, żeby stanąć w mej obronie.)"
+                            },
+                            {
+                                "Sentence": "They had to rally and fight for their rights.",
+                                "Translation": "(Musieli zjednoczyć się i walczyć o swoje prawa.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "powracać do zdrowia",
+                            "dochodzić do siebie (po chorobie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "After this treatment, she should rally quite rapidly.",
+                                "Translation": "(Po tym leczeniu ona powinna całkiem szybko dojść do zdrowia.)"
+                            },
+                            {
+                                "Sentence": "Don't worry, she'll rally really soon.",
+                                "Translation": "(Nie martw się, ona wkrótce powróci do zdrowia.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ożywiać się (o rynku)",
+                            "iść w górę (o akcjach)",
+                            "zwyżkować"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "otrząsać się (po porażce)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You have to rally, you didn't win but you were great anyway.",
+                                "Translation": "(Musisz się otrząsnąć, nie wygrałeś, ale i tak byłeś świetny.)"
+                            },
+                            {
+                                "Sentence": "He may be sad now but I believe he'll rally soon.",
+                                "Translation": "(Może i teraz jest smutny, ale wierzę, że wkrótce się otrząśnie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "szydzić (z czegoś)",
+                            "żartować (z kogoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He always rallies redheads.",
+                                "Translation": "(On zawsze szydzi z rudych ludzi.)"
+                            },
+                            {
+                                "Sentence": "Don't rally her. She has no sense of humour and she won't understand.",
+                                "Translation": "(Nie żartuj z niej. Nie ma poczucia humoru i nie zrozumie.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rajdowy"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He's driving a rally car.",
+                                "Translation": "(On kieruje samochodem rajdowym.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

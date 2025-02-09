@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "chaplain"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "kapelan"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The chaplain will lead the Senate in prayer.",
+                                "Translation": "(Kapelan poprowadzi Senat w modlitwie.)"
+                            },
+                            {
+                                "Sentence": "I want to see the prison chaplain.",
+                                "Translation": "(Chcę się widzieć z kapelanem więziennym.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

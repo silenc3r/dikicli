@@ -1,0 +1,33 @@
+[
+    {
+        "Entry": [
+            "nephew",
+            "nevvy",
+            "neffy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bratanek",
+                            "siostrzeniec"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "My nephew is a student.",
+                                "Translation": "(Mój bratanek jest studentem.)"
+                            },
+                            {
+                                "Sentence": "His nephew wants to become a doctor.",
+                                "Translation": "(Jego siostrzeniec chce zostać lekarzem.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

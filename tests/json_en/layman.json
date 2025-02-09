@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "layman"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "laik",
+                            "profan (człowiek nieznający się na danej dziedzinie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "świecki",
+                            "osoba świecka"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

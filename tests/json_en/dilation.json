@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "dilatation",
+            "dilation"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dylatacja",
+                            "rozszerzenie (np. źrenic)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wywód",
+                            "rozwodzenie się (nad czymś)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

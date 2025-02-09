@@ -1,0 +1,194 @@
+[
+    {
+        "Entry": [
+            "dull"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nieciekawy",
+                            "nudny",
+                            "monotonny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His life had been dull and lonely before he met her.",
+                                "Translation": "(Jego życie było nieciekawe i samotne, zanim ją poznał.)"
+                            },
+                            {
+                                "Sentence": "It's a dull season.",
+                                "Translation": "(To jest nudny sezon.)"
+                            },
+                            {
+                                "Sentence": "I like my friend, although she can be a little dull sometimes.",
+                                "Translation": "(Lubię moją koleżankę, chociaż ona jest czasem trochę nudna.)"
+                            },
+                            {
+                                "Sentence": "The journey was so dull. I'm happy to be home.",
+                                "Translation": "(Podróż była tak monotonna. Cieszę się, że jestem w domu.)"
+                            },
+                            {
+                                "Sentence": "Their dull music made me sleepy.",
+                                "Translation": "(Ich monotonna muzyka sprawiła, że byłem śpiący.)"
+                            },
+                            {
+                                "Sentence": "I watched a dull movie.",
+                                "Translation": "(Obejrzałem nieciekawy film.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nijaki",
+                            "matowy (np. kolor)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You chose a dull colour. I don't like it.",
+                                "Translation": "(Wybrałeś matowy kolor. Nie podoba mi się.)"
+                            },
+                            {
+                                "Sentence": "The color of the walls is dull, we should paint it red.",
+                                "Translation": "(Kolor ścian jest nijaki, powinniśmy przemalować go na czerwono.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pochmurny (o pogodzie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The day was so dull that I was in a terrible mood.",
+                                "Translation": "(Dzień był tak pochmurny, że byłem w strasznym humorze.)"
+                            },
+                            {
+                                "Sentence": "The weather is dull, I think it is going to rain.",
+                                "Translation": "(Pogoda jest pochmurna, myślę, że będzie padać.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "tępy",
+                            "ćmiący (np. ból)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A dull pain in my temple kept irritating me all day.",
+                                "Translation": "(Ćmiący ból w skroni drażnił mnie cały dzień.)"
+                            },
+                            {
+                                "Sentence": "The pain was dull but I could focus.",
+                                "Translation": "(Ból był tępy, ale mogłem się skupić.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "głuchy",
+                            "stłumiony"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The sound was dull. I wasn't sure what I heard.",
+                                "Translation": "(Dźwięk był głuchy. Nie byłem pewny, co słyszałem.)"
+                            },
+                            {
+                                "Sentence": "The explosion was dull because it took place underground.",
+                                "Translation": "(Eksplozja była stłumiona, bo miała miejsce pod ziemią.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "tępy (nienaostrzony)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "All of my knives are dull.",
+                                "Translation": "(Wszystkie moje noże są tępe.)"
+                            },
+                            {
+                                "Sentence": "I wasn't hurt because the blade was dull.",
+                                "Translation": "(Nie byłem zraniony, bo ostrze było tępe.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "tępy",
+                            "głupi"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Henry is a very dull boy.",
+                                "Translation": "(Henry jest bardzo tępym chłopcem.)"
+                            },
+                            {
+                                "Sentence": "Are you dull? You can't do it.",
+                                "Translation": "(Głupi jesteś? Nie możesz tego zrobić.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "w zastoju (np. rynek finansowy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Our financial market is dull.",
+                                "Translation": "(Nasz rynek finansowy jest w zastoju.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "uśmierzyć (np. ból)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "This pill will dull your pain.",
+                                "Translation": "(Ta tabletka uśmierzy twój ból.)"
+                            },
+                            {
+                                "Sentence": "Her love dulled his pain.",
+                                "Translation": "(Jej miłość uśmierzyła jego ból.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "spłowieć",
+                            "stępić",
+                            "tłumić (np. kolor, dźwięk)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The colour of the walls dulled over time.",
+                                "Translation": "(Kolor ścian spłowiał z czasem.)"
+                            },
+                            {
+                                "Sentence": "You dulled the blade so now sharpen it.",
+                                "Translation": "(Stępiłeś ostrze, to teraz je naostrz.)"
+                            },
+                            {
+                                "Sentence": "Thick walls dull sounds.",
+                                "Translation": "(Grube ściany tłumią dźwięki.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

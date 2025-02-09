@@ -1,0 +1,52 @@
+[
+    {
+        "Entry": [
+            "dye"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "farba",
+                            "barwnik (do farbowania)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I dipped the material into the dye.",
+                                "Translation": "(Zanurzyłem materiał w barwniku.)"
+                            },
+                            {
+                                "Sentence": "There were hundreds of dyes to choose from.",
+                                "Translation": "(Były tam setki barwników do wyboru.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "farbować",
+                            "ufarbować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Could you help me dye those Easter eggs?",
+                                "Translation": "(Czy mógłbyś pomóc mi zafarbować te pisanki?)"
+                            },
+                            {
+                                "Sentence": "How can I dye my hair red?",
+                                "Translation": "(Jak mogę zafarbować włosy na rudo?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

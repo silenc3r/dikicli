@@ -1,0 +1,50 @@
+[
+    {
+        "Entry": [
+            "caucus"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zamknięte zebranie ścisłego kierownictwa partii"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They discussed the matter during the caucus.",
+                                "Translation": "(Oni omówili sprawę w czasie zamkniętego zebrania kierownictwa partii.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "koteria",
+                            "klika",
+                            "grupa wewnątrz partii"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There is a caucus in this party, and it's difficult to be a part of it.",
+                                "Translation": "(Istnieje w tej partii klika, do której ciężko się dostać.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zebrać się w ścisłym gronie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

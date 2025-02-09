@@ -1,0 +1,52 @@
+[
+    {
+        "Entry": [
+            "shingle"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "gont (płyta dachowa)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The hurricane blew some shingles off the roof.",
+                                "Translation": "(Huragan zwiał trochę gontu z dachu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kamyki (np. na plaży)",
+                            "żwir",
+                            "żwir pochodzenia morskiego"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wizytówka na drzwi",
+                            "tabliczka z nazwiskiem (np. na drzwiach gabinetu lekarskiego)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pokryć gontem (dach)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

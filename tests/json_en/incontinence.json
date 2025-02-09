@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "incontinence"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "nieutrzymanie moczu bądź stolca"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "niepowściągliwość",
+                            "niewstrzemięźliwość",
+                            "brak umiaru"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

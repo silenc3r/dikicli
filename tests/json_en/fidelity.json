@@ -1,0 +1,55 @@
+[
+    {
+        "Entry": [
+            "fidelity"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dokładność",
+                            "ścisłość"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We measure complexity and fidelity of data in terms of polygonal count.",
+                                "Translation": "(Zmierzyliśmy złożoność i dokładność danych pod kątem grafiki trójwymiarowej.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wierność",
+                            "lojalność"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I take this ring as a sign of your love and fidelity.",
+                                "Translation": "(Przyjmuję tę obrączkę na znak twej miłości i wierności.)"
+                            },
+                            {
+                                "Sentence": "The director's career was marked by great independence and fidelity to principle.",
+                                "Translation": "(Kariera dyrektora była naznaczona wielką niezależnością i wiernością zasadom.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wierność",
+                            "zgodność (względem oryginału)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Write an essay on the film's fidelity to the original book.",
+                                "Translation": "(Napisz esej na temat wierności filmu w stosunku do oryginalnej książki.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

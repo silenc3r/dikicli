@@ -1,0 +1,21 @@
+[
+    {
+        "Entry": [
+            "elision"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "elizja (usunięcie samogłoski w sąsiedztwie innej samogłoski)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

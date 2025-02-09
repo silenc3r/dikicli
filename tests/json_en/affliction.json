@@ -1,0 +1,31 @@
+[
+    {
+        "Entry": [
+            "affliction"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zmartwienie",
+                            "przygnębienie",
+                            "nieszczęście"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "dolegliwość",
+                            "przypadłość",
+                            "schorzenie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

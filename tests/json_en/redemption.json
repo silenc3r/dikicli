@@ -1,0 +1,60 @@
+[
+    {
+        "Entry": [
+            "redemption"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "odkupienie (grzechów)",
+                            "zbawienie",
+                            "wybawienie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He looked for redemption for his past sins.",
+                                "Translation": "(On szukał odkupienia swoich przeszłych win.)"
+                            },
+                            {
+                                "Sentence": "Each one of you was granted redemption from the Creator.",
+                                "Translation": "(Każdemu z was Stwórca dał zbawienie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wykupienie (wykorzystanie kuponu promocyjnego przy zakupie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "With the redemption of this coupon, you can get a 20% discount.",
+                                "Translation": "(Wykorzystując ten kupon dostaniesz 20% zniżki.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "uzyskanie udziałów lub akcji za pieniądze"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "If you have the money, we can arrange your redemption in our company.",
+                                "Translation": "(Jeżeli ma pan pieniądze, możemy ustalić uzyskanie udziałów w naszej firmie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "spłata pożyczki"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

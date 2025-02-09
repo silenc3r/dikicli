@@ -1,0 +1,24 @@
+[
+    {
+        "Entry": [
+            "megaphone",
+            "loudhailer",
+            "loud-hailer",
+            "bullhorn"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "megafon"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

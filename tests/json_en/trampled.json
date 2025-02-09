@@ -1,0 +1,57 @@
+[
+    {
+        "Entry": [
+            "trample"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "deptanie",
+                            "odgłos kroków"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I can hear a trample in the corridor.",
+                                "Translation": "(Słyszę odgłos kroków w korytarzu.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozdeptać",
+                            "stratować",
+                            "zdeptać",
+                            "zadeptać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "These children trampled my flowers!",
+                                "Translation": "(Te dzieci podeptały moje kwiaty!)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zdeptać (uczucia, nadzieje)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "How could she trample on my feelings like that?",
+                                "Translation": "(Jak ona mogła tak zdeptać moje uczucia?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "coitus",
+            "coition"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "stosunek płciowy",
+                            "akt płciowy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

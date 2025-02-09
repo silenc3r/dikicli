@@ -1,0 +1,158 @@
+[
+    {
+        "Entry": [
+            "curl"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zakręcać",
+                            "kręcić (np. włosy)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Mary curled her long hair.",
+                                "Translation": "(Mary zakręciła swoje długie włosy.)"
+                            },
+                            {
+                                "Sentence": "If you curl your hair, you damage it.",
+                                "Translation": "(Jeśli kręcisz swoje włosy, niszczysz je.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zwijać",
+                            "owijać",
+                            "spowijać (np. ramię, szal, mgła)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The smoke curled the town.",
+                                "Translation": "(Dym spowił miasto.)"
+                            },
+                            {
+                                "Sentence": "She curled the shawl and put it on the table.",
+                                "Translation": "(Ona zwinęła szal i położyła go na stole.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wykrzywiać usta w uśmiechu (pogardliwie, z dezaprobatą lub niezadowoleniem)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I asked her out and she only curled her lips.",
+                                "Translation": "(Zaprosiłem ją na randkę, a ona jedynie wykrzywiła usta w pogardliwym uśmiechu.)"
+                            },
+                            {
+                                "Sentence": "My mother curls her mouth when she is disappointed.",
+                                "Translation": "(Moja mama wykrzywia usta w niezadowolonym uśmiechu , kiedy jest rozczarowana.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "grać w curling"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Would you like to curl with me?",
+                                "Translation": "(Chciałbyś ze mną zagrać w curling?)"
+                            },
+                            {
+                                "Sentence": "I don't know how to curl.",
+                                "Translation": "(Nie wiem, jak grać w curling.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "podkręcać (piłkę, uderzenie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "lok",
+                            "loczek"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He admired her long brown curls.",
+                                "Translation": "(On podziwiał jej długie brązowe loki.)"
+                            },
+                            {
+                                "Sentence": "She has natural, thick curls.",
+                                "Translation": "(Ona ma naturalne, grube loki.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "skręt",
+                            "skręcanie się (włosów)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You should emphasize the curl of your hair with a good shampoo!",
+                                "Translation": "(Powinnaś uwydatnić skręt twoich włosów jakimś dobrym szamponem!)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zawijas (ozdobny ornament)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There were many curls on the box.",
+                                "Translation": "(Na pudełku było wiele zawijasów.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kłąb (dymu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Do you see this curl of smoke above the village?",
+                                "Translation": "(Widzisz ten kłąb dymu nad wioską?)"
+                            },
+                            {
+                                "Sentence": "A curl of smoke hung over the fireplace.",
+                                "Translation": "(Kłąb dymu zawisł nad kominkiem.)"
+                            },
+                            {
+                                "Sentence": "There was a huge curl of cigarette smoke in the room.",
+                                "Translation": "(W pokoju był ogromny kłąb dymu papierosowego.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "skręt (rodzaj ćwiczenia fizycznego)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I've done a hundred torso curls and and now I'm sore.",
+                                "Translation": "(Zrobiłem sto skrętów tułowia i teraz jestem obolały.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

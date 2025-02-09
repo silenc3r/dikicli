@@ -1,0 +1,127 @@
+[
+    {
+        "Entry": [
+            "slack"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zwis",
+                            "zwisająca część (np. liny)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He grabbed the slack and pulled down the rope.",
+                                "Translation": "(On złapał zwisającą część i ściągnął całą linę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "martwy sezon",
+                            "zastój (np. w handlu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We are in a bit of slack now.",
+                                "Translation": "(Mamy teraz pewien zastój.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "miał węglowy"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zwisający (o linie)",
+                            "wiszący",
+                            "luźny (o ubraniu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She always wore slack clothes.",
+                                "Translation": "(Ona zawsze nosiła luźne ubrania.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wiotki (o mięśniach)",
+                            "sflaczały (o uścisku dłoni)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I remember his slack handshake.",
+                                "Translation": "(Pamiętam jego sflaczały uścisk dłoni.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wolny (o tempie)",
+                            "powolny (krok)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He was moving at a slack pace.",
+                                "Translation": "(On poruszał się wolnym tempem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "leniwy (np. uczeń)",
+                            "bezczynny (o osobie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She is a slack student.",
+                                "Translation": "(Ona jest leniwą uczennicą.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zaniedbywać (pracę, obowiązki)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You shouldn't be slacking at work.",
+                                "Translation": "(Nie powinieneś zaniedbywać swojej pracy.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "luzować (np. linę)",
+                            "rozluźniać (np. dyscyplinę)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The rope was too tense, so he had to slack it.",
+                                "Translation": "(Lina była zbyt napięta, więc on musiał ją rozluźnić.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

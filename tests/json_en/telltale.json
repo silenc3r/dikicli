@@ -1,0 +1,94 @@
+[
+    {
+        "Entry": [
+            "telltale"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wskaźnik (np. czasu)",
+                            "urządzenie sygnalizujące (np. położenie czegoś)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "jasny (o znaku)",
+                            "wskazujący",
+                            "wymowny"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Her telltale smile gave away her thoughts.",
+                                "Translation": "(Jej wymowny uśmiech zdradził jej myśli.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "ostrzegawczy",
+                            "informujący"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A telltale light illuminates when the tank is empty.",
+                                "Translation": "(Kiedy zbiornik jest pusty zapala się ostrzegawcze światełko.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "telltale",
+            "tattletale",
+            "tattle teller"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "skarżypyta",
+                            "donosiciel"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "yaw string",
+            "telltale"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "icek"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

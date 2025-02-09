@@ -1,0 +1,41 @@
+[
+    {
+        "Entry": [
+            "intervention"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "interwencja"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The international opinion is that this military intervention was not justified.",
+                                "Translation": "(Opinia międzynarodowa jest taka, że ta interwencja militarna była nieuzasadniona.)"
+                            },
+                            {
+                                "Sentence": "We foresaw this armed intervention.",
+                                "Translation": "(Przewidzieliśmy tę zbrojną interwencję.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "interwencyjny (np. skup mięsa)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

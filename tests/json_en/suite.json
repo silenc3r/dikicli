@@ -1,0 +1,86 @@
+[
+    {
+        "Entry": [
+            "suite"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "apartament (w hotelu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Our hotel suite was spacious and comfortable.",
+                                "Translation": "(Nasz apartament hotelowy był przestrzenny i wygodny.)"
+                            },
+                            {
+                                "Sentence": "Are there any suites available?",
+                                "Translation": "(Czy są dostępne jakieś apartamenty?)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "komplet (mebli)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "We'll need a suite of those chairs.",
+                                "Translation": "(Będziemy potrzebowali kompletu takich krzeseł.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "suita"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Listening to this suite calms me down.",
+                                "Translation": "(Słuchanie tej suity mnie uspokaja.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "orszak",
+                            "świta"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The king and his suite will arrive shortly.",
+                                "Translation": "(Król i jego świta przyjadą niebawem.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "IT suite",
+            "ITC suite"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sala komputerowa",
+                            "sala informatyczna",
+                            "pracownia informatyczna"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

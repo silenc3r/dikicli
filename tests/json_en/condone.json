@@ -1,0 +1,31 @@
+[
+    {
+        "Entry": [
+            "condone"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zaakceptować",
+                            "zgodzić się na coś"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "darować",
+                            "darowywać",
+                            "wybaczyć",
+                            "wybaczać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

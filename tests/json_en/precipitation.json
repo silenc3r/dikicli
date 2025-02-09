@@ -1,0 +1,77 @@
+[
+    {
+        "Entry": [
+            "precipitation",
+            "precip"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "opady atmosferyczne (np. śniegu, deszczu)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It's overcast with 100% chance of precipitation.",
+                                "Translation": "(Jest pochmurnie z 100% szansą opadów atmosferycznych.)"
+                            },
+                            {
+                                "Sentence": "Hail is a form of precipitation.",
+                                "Translation": "(Grad to jeden z rodzajów opadów atmosferycznych.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "strącanie",
+                            "wytrącanie",
+                            "precypitacja",
+                            "reakcja strąceniowa",
+                            "reakcja strącania"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The reaction of these two substances always causes precipitation of the result.",
+                                "Translation": "(Reakcja tych dwóch substancji zawsze powoduje wytrącanie się wyniku.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pośpiech",
+                            "przyspieszenie",
+                            "przyśpieszenie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "All devices are indicating a precipitation in his heartbeat.",
+                                "Translation": "(Wszystkie przyrządy wskazują na przyspieszenie w biciu jego serca.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "gwałtowność"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He always acted with a certain precipitation.",
+                                "Translation": "(On zawsze działał z pewną gwałtownością.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "upadek",
+                            "spadanie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

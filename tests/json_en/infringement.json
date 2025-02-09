@@ -1,0 +1,22 @@
+[
+    {
+        "Entry": [
+            "infringement"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "naruszenie",
+                            "pogwałcenie (np. niezależności, wolności)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

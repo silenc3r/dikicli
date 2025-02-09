@@ -1,0 +1,115 @@
+[
+    {
+        "Entry": [
+            "grazing"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pastwisko"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wypas",
+                            "wypasanie (bydła)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "wypasanie (o zwierzęciu)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zadraśnięcie",
+                            "obtarcie (naskórka)",
+                            "muśnięcie"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "podjadanie"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "graze"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "paść (się)",
+                            "wypasać (o zwierzęciu)",
+                            "pasać (zwierzę)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The cows were grazing in the field.",
+                                "Translation": "(Krowy pasły się na polu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zadrasnąć",
+                            "obetrzeć (naskórek)",
+                            "musnąć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The child fell and grazed its knee.",
+                                "Translation": "(Dziecko upadło i obtarło sobie kolano.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pojadać",
+                            "podjadać"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Some families don't sit down to regular meals, they just graze.",
+                                "Translation": "(Niektóre rodziny nie zasiadają do regularnych posiłków, tylko podjadają.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zadraśnięcie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Her legs were covered with bruises and grazes.",
+                                "Translation": "(Jej nogi były pokryte siniakami i zadraśnięciami.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

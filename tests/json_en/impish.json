@@ -1,0 +1,24 @@
+[
+    {
+        "Entry": [
+            "impish"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "figlarny",
+                            "psotny",
+                            "łobuzerski",
+                            "szelmowski"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

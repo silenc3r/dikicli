@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "untrodden",
+            "untrod"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dziewiczy",
+                            "nietknięty ludzką stopą",
+                            "nieodkryty"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "niewydeptany"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,96 @@
+[
+    {
+        "Entry": [
+            "royal"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "królewski"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Did you see these beautiful photographs from the royal wedding?",
+                                "Translation": "(Czy widziałeś te piękne zdjęcia z królewskiego ślubu?)"
+                            },
+                            {
+                                "Sentence": "He is a member of the royal family.",
+                                "Translation": "(On jest członkiem rodziny królewskiej.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wspaniały"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It was a royal party, thank you for the invitation!",
+                                "Translation": "(To było wspaniałe przyjęcie, dziękuję za zaproszenie!)"
+                            },
+                            {
+                                "Sentence": "Thank you for this royal dinner.",
+                                "Translation": "(Dziękuję ci za ten wspaniały obiad.)"
+                            },
+                            {
+                                "Sentence": "I heard that it's a royal film - I want to see it.",
+                                "Translation": "(Słyszałem, że to wspaniały film - chcę go obejrzeć.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "członek rodziny królewskiej"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He is a royal, you have to respect him.",
+                                "Translation": "(On jest członkiem rodziny królewskiej, musisz go szanować.)"
+                            },
+                            {
+                                "Sentence": "He's acting like he's a royal.",
+                                "Translation": "(Zachowuje się, jakby był członkiem rodziny królewskiej.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "bombramreja",
+                            "bombramsel",
+                            "trumsel (trzeci żagiel od góry w ożaglowaniu rejowym)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "Royal we"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "Pluralis majestatis (użycie liczby mnogiej zamiast liczby pojedynczej)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

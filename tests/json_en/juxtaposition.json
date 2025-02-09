@@ -1,0 +1,21 @@
+[
+    {
+        "Entry": [
+            "juxtaposition"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zestawienie (dwóch lub kilku rzeczy na zasadzie kontrastu)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

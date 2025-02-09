@@ -1,0 +1,25 @@
+[
+    {
+        "Entry": [
+            "cogitate"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozmyślać",
+                            "zastanawiać się",
+                            "obmyślać",
+                            "obmyśliwać",
+                            "koncypować"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

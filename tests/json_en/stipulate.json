@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "stipulate"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "określać (prawa, regulacje)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zastrzegać (coś w umowie)",
+                            "przewidywać (w kontrakcie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

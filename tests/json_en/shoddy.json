@@ -1,0 +1,55 @@
+[
+    {
+        "Entry": [
+            "shoddy"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "tandetny",
+                            "byle jaki",
+                            "lipny",
+                            "kiepski",
+                            "partacki"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The woman was wearing shoddy jewellery.",
+                                "Translation": "(Kobieta miała na sobie tandetną biżuterię.)"
+                            },
+                            {
+                                "Sentence": "He drives a luxury car, but lives in a shoddy little flat.",
+                                "Translation": "(On jeździ luksusowym samochodem, ale mieszka w byle jakim małym mieszkaniu.)"
+                            },
+                            {
+                                "Sentence": "I'd personally be ashamed to accept such a shoddy victory.",
+                                "Translation": "(Osobiście byłbym zawstydzony, żeby przyjąć takie tandetne zwycięstwo.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "podły"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wełna wtórna"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

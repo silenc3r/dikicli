@@ -1,0 +1,47 @@
+[
+    {
+        "Entry": [
+            "gospel"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "ewangelia"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He went on a mission to preach the gospel.",
+                                "Translation": "(On pojechał na misję, aby głosić ewangelię.)"
+                            },
+                            {
+                                "Sentence": "I read an excerpt from one of the gospels every day.",
+                                "Translation": "(Codziennie czytam wyjątek z jednej z ewangelii.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nauka i życie Jezusa"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He's a religious man who tries to live according to the gospel.",
+                                "Translation": "(On jest religijnym mężczyzną, który stara się żyć zgodnie z nauką i życiem Jezusa.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "jedyna prawda (zestaw idei, w które ktoś mocno wierzy)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

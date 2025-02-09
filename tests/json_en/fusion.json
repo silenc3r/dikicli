@@ -1,0 +1,34 @@
+[
+    {
+        "Entry": [
+            "fusion"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "fuzja",
+                            "połączenie"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "It will probably take half a century to tame nuclear fusion.",
+                                "Translation": "(Prawdopodobnie potrzebne będzie pół stulecia dla opanowania fuzji termojądrowej.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "stopienie (się)",
+                            "zlanie się"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "Entry": [
+            "distract"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "rozpraszać",
+                            "dekoncentrować"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She keeps distracting me.",
+                                "Translation": "(Ona ciągle mnie rozprasza.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "zabawiać",
+                            "rozerwać (dostarczyć rozrywki)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He distracted the baby with his phone.",
+                                "Translation": "(On zabawiał dziecko swoim telefonem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "rozkojarzać się",
+                            "rozpraszać się",
+                            "dekoncentrować się"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Sorry, I keep getting distracted.",
+                                "Translation": "(Przepraszam, ciągle się rozkojarzam.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

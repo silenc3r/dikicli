@@ -1,0 +1,58 @@
+[
+    {
+        "Entry": [
+            "abort"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przerywać (robienie czegoś)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "przerwać ciążę",
+                            "usuwać ciążę",
+                            "dokonywać aborcji"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She decided to abort her pregnancy.",
+                                "Translation": "(Ona zdecydowała się przerwać ciążę.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "poronić"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "anulować",
+                            "zatrzymywać"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zatrzymanie (np. procesu)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

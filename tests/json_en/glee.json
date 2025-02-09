@@ -1,0 +1,33 @@
+[
+    {
+        "Entry": [
+            "glee"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "radość",
+                            "wesołość"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They couldn't hide their glee at his failure.",
+                                "Translation": "(Nie umieli ukryć swojej radości z jego porażki.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "piosenka na trzy lub więcej męskich głosów"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

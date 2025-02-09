@@ -1,0 +1,141 @@
+[
+    {
+        "Entry": [
+            "streaked"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pokryty smugami"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "w złym humorze",
+                            "zdenerwowany",
+                            "zły"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "streak"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pasemko (we włosach)",
+                            "smuga (na szybie, papierze)",
+                            "pręga (na skórze)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "She had black hair with a blue streak.",
+                                "Translation": "(Ona miała czarne włosy z niebieskim pasemkiem.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "skłonność",
+                            "tendencja (do czegoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He has a streak of malice.",
+                                "Translation": "(On ma skłonność do złośliwości.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "cień (czegoś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "There's a streak of sadness in his eyes.",
+                                "Translation": "(Jest w jego oczach cień smutku.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "passa",
+                            "pasmo (zwycięstw, porażek)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He's been on a winning streak this year.",
+                                "Translation": "(Ten rok był dla niego pasmem zwycięstw.)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "mknąć"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I stood there and watched the plane streak across the sky.",
+                                "Translation": "(Stałem tam i patrzyłem, jak samolot mknie po niebie.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "biegać nago w miejscu publicznym (wywołując zgorszenie innych osób)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "\"We went streaking in the park, skinny dipping in the dark...\" Katy Perry, Last Friday Night",
+                                "Translation": "(\"Poszliśmy biegać nago po parku, kąpiąc się na golasa w ciemności...\" Katy Perry, Last Friday Night)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "robić pasemka (na włosach)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I am so excited to have my hair streaked blonde.",
+                                "Translation": "(Jestem tak podekscytowana zrobieniem sobie blond pasemek.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "tworzyć smugi",
+                            "robić smugi",
+                            "pokrywać smugami"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Raindrops streak window glass.",
+                                "Translation": "(Krople deszczu pokrywają smugami szyby w oknach.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

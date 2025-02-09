@@ -1,0 +1,23 @@
+[
+    {
+        "Entry": [
+            "ribald"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "sprośny",
+                            "ordynarny",
+                            "nieprzyzwoity (np. o poczuciu humoru, uwadze)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

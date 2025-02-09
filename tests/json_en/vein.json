@@ -1,0 +1,60 @@
+[
+    {
+        "Entry": [
+            "vein"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "żyła"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Apply pressure to the vein to prevent bleeding.",
+                                "Translation": "(Zastosuj ucisk na żyłę, aby zapobiec krwawieniu.)"
+                            },
+                            {
+                                "Sentence": "Your veins are thicker than mine.",
+                                "Translation": "(Twoje żyły są grubsze niż moje.)"
+                            },
+                            {
+                                "Sentence": "Veins carry blood to the heart.",
+                                "Translation": "(Żyły doprowadzają krew do serca.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "nerw",
+                            "żyłka (na liściu)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "żyłka (na serze, na kamieniu)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "żyła (pokład jakiegoś kruszcu)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "ton",
+                            "nuta"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

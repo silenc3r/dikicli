@@ -1,0 +1,30 @@
+[
+    {
+        "Entry": [
+            "afflict"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "dotykać (kogoś)",
+                            "spaść (na kogoś)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "dręczyć",
+                            "gnębić",
+                            "dokuczać (komuś)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

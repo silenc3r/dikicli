@@ -1,0 +1,54 @@
+[
+    {
+        "Entry": [
+            "volatile"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "lotny"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "przelotny",
+                            "ulotny"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "nieprzewidywalny",
+                            "zmienny (np. pogoda, sytuacja)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Exchange rates became highly volatile, leading to currency fluctuations.",
+                                "Translation": "(Kursy wymiany walut stały się bardzo niestabilne, prowadząc do wahań walut.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "wybuchowy",
+                            "gwałtowny (o osobie)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "niestabilny",
+                            "zmienny"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

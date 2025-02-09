@@ -1,0 +1,28 @@
+[
+    {
+        "Entry": [
+            "fennel",
+            "finocchio"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "koper włoski",
+                            "fenkuł włoski"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "You may add fennel to the potatoes.",
+                                "Translation": "(Do ziemniaków można dodać kopru włoskiego.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

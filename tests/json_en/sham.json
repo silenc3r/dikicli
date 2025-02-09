@@ -1,0 +1,77 @@
+[
+    {
+        "Entry": [
+            "sham"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "lipa",
+                            "oszustwo",
+                            "przekręt"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I fear that the deal is a sham.",
+                                "Translation": "(Obawiam się, że ta transakcja to oszustwo.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "pozór",
+                            "symulacja"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "His sarcasm is just a sham.",
+                                "Translation": "(Jego sarkazm to tylko pozór.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "dekoracyjna poszewka na poduszkę"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "pozorant"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pozorowany (o uczuciu)",
+                            "udawany (o chorobie)",
+                            "fikcyjny (o małżeństwie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "pozorować (coś)",
+                            "udawać (np. chorobę)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

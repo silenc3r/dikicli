@@ -1,0 +1,24 @@
+[
+    {
+        "Entry": [
+            "bint"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "baba",
+                            "babsko",
+                            "babsztyl",
+                            "bździągwa (obraźliwie o kobiecie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

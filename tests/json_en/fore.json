@@ -1,0 +1,113 @@
+[
+    {
+        "Entry": [
+            "fore"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przedni (o części pojazdu, o części ciała zwierzęcia)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przód"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He pointed the fore of the boat toward the finish line.",
+                                "Translation": "(Skierował przód łodzi w stronę mety.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "fore!"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "wykrzyknik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "uwaga! (ostrzeżenie stosowane w golfie w momencie, gdy piłka po wybiciu zmieniła tor i może być niebezpieczna dla innych uczestników gry stojących na przedzie)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "fore-"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "prefiks",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "zanim"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "umieszczony na przedzie"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "przedni"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "to the fore"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "na przód",
+                            "na czoło",
+                            "na pierwszy plan"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "A number of low-budget films brought great new actors to the fore.",
+                                "Translation": "(Wiele niskobudżetowych filmów wysunęło świetnych nowych aktorów na pierwszy plan.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

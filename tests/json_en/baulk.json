@@ -1,0 +1,65 @@
+[
+    {
+        "Entry": [
+            "wooden balk",
+            "balk",
+            "baulk"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "bal",
+                            "drewniany bal"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Entry": [
+            "balk",
+            "baulk"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wzdragać się (przed czymś)",
+                            "być niechętnym (czemuś)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "He balks at coming back home.",
+                                "Translation": "(On wzdraga się przed powrotem do domu.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "stanąć jak wryty",
+                            "zapierać się (np. jak koń przed przeszkodą)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "udaremnić",
+                            "zniweczyć",
+                            "zostać pozbawionym czegoś"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]

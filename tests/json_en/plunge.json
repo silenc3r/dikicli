@@ -1,0 +1,144 @@
+[
+    {
+        "Entry": [
+            "plunge"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "czasownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "wpaść",
+                            "gwałtownie spaść",
+                            "rzucać się (np. do wody)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "I plunged into the water and started swimming.",
+                                "Translation": "(Rzuciłem się do wody i zacząłem płynąć.)"
+                            },
+                            {
+                                "Sentence": "My dog plunged into a swimming pool.",
+                                "Translation": "(Mój pies wpadł do basenu.)"
+                            },
+                            {
+                                "Sentence": "He took a run-up and plunged into the sea.",
+                                "Translation": "(Wziął rozbieg i rzucił się do morza.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "spadać gwałtownie (o wartości, cenie)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Prices of petrol will plunge next month.",
+                                "Translation": "(Ceny paliwa gwałtownie spadną w przyszłym miesiącu.)"
+                            },
+                            {
+                                "Sentence": "After he murdered his family in this house, its price plunged.",
+                                "Translation": "(Po tym, jak zamordował swoją rodzinę w tym domu, jego cena gwałtownie spadła.)"
+                            },
+                            {
+                                "Sentence": "It's a good thing the price of sugar has plunged.",
+                                "Translation": "(Dobrze, że cena cukru gwałtownie spadła.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "kołysać się",
+                            "dryfować (o statku)"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Our ship plunged through a rough sea.",
+                                "Translation": "(Nasz statek dryfował po wzburzonym morzu.)"
+                            },
+                            {
+                                "Sentence": "We plunged through the sea for 5 days.",
+                                "Translation": "(Dryfowaliśmy po morzu przez 5 dni.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "robić zakłady",
+                            "uprawiać hazard"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "Does your husband plunge?",
+                                "Translation": "(Czy twój mąż uprawia hazard?)"
+                            },
+                            {
+                                "Sentence": "He plunges in Las Vegas.",
+                                "Translation": "(On uprawia hazard w Las Vegas.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "przepychać",
+                            "przetykać (np. zlew)"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "pogrążyć (np. w ciemność)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            },
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "gwałtowny spadek"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "The plunge of car prices worries me.",
+                                "Translation": "(Gwałtowny spadek cen samochodów mnie martwi.)"
+                            }
+                        ]
+                    },
+                    {
+                        "Meaning": [
+                            "skok",
+                            "gwałtowne opadanie"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "zanurzenie",
+                            "skok",
+                            "zaangażowanie"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "nur",
+                            "nurkowanie",
+                            "kąpiel"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "How was your plunge? Is the water warm?",
+                                "Translation": "(Jak twoja kąpiel? Czy woda jest ciepła?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

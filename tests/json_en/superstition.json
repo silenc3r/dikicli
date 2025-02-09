@@ -1,0 +1,35 @@
+[
+    {
+        "Entry": [
+            "superstition"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "rzeczownik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "przesąd",
+                            "zabobon"
+                        ],
+                        "ExampleSentences": [
+                            {
+                                "Sentence": "They want to take us back to the dark days of ignorance and superstition.",
+                                "Translation": "(Chcą nas cofnąć w mroczne dni ignorancji i zabobonów.)"
+                            },
+                            {
+                                "Sentence": "You're a community of people with a common superstition.",
+                                "Translation": "(Jesteście społecznością ludzi ze wspólnym przesądem.)"
+                            },
+                            {
+                                "Sentence": "This school of thought is bordering on outright superstition.",
+                                "Translation": "(Ta szkoła filozoficzna bliska jest zwyczajnemu zabobonowi.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

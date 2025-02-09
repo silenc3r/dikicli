@@ -1,0 +1,29 @@
+[
+    {
+        "Entry": [
+            "preposterous"
+        ],
+        "Language": "en",
+        "PartsOfSpeech": [
+            {
+                "Part": "przymiotnik",
+                "Meanings": [
+                    {
+                        "Meaning": [
+                            "absurdalny",
+                            "niedorzeczny",
+                            "bezsensowny"
+                        ],
+                        "ExampleSentences": []
+                    },
+                    {
+                        "Meaning": [
+                            "groteskowy (np. wygląd)"
+                        ],
+                        "ExampleSentences": []
+                    }
+                ]
+            }
+        ]
+    }
+]
