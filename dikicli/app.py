@@ -9,7 +9,7 @@ import pathlib
 import random
 import sys
 
-
+from dikicli.__version__ import __version__
 from dikicli.config import Config
 from dikicli.core import WordNotFound
 from dikicli.core import cache_lookup
@@ -76,11 +76,7 @@ def get_parser():
     parser = argparse.ArgumentParser(
         prog="diki", description="Commandline interface for diki.pl"
     )
-    parser.add_argument(
-        "--version",
-        action="version",
-        version="dikicli {version}".format(version=get_version()),
-    )
+    parser.add_argument("--version", action="version", version=f"dikicli {__version__}")
     parser.add_argument(
         "--create-config", action="store_true", help="create default configuration file"
     )

@@ -1,24 +1,39 @@
-all:
-	@poetry install
-	@poetry build
-.PHONY: all
+.DEFAULT_GOAL := build
 
-test:
-	poetry run pytest tests
+test: .venv
+	.venv/bin/pytest tests
 .PHONY: test
 
-clean-cache:
-	rm tests/cassettes/*
-.PHONY: clean-cache
+build: .venv
+	.venv/bin/python3 setup.py sdist bdist_wheel
+.PHONY: build
 
-clean-venv:
-	rm -rf $(poetry env info -p)
-.PHONY: clean-venv
+update-dependencies: .venv
+	# install most recent versions of dependencies
+	.venv/bin/pip install -e .[dev]
+	$(MAKE) requirements-dev
+	$(MAKE) rm-venv
+	$(MAKE) venv
+.PHONY: update-dependencies
 
-venv:
-	poetry install
+requirements-dev: .venv
+	./run.sh pip --require-virtualenv freeze --exclude-editable 2>/dev/null | tee requirements-dev.txt
+.PHONY: requirements-dev
+
+venv: .venv
 .PHONY: venv
 
-requirements:
-	poetry export --with dev --without-hashes -o requirements-dev.txt
-.PHONY: requirements
+.venv:
+	python3 -m venv .venv
+	.venv/bin/pip install --upgrade pip
+	.venv/bin/pip install -r requirements-dev.txt
+	.venv/bin/pip install wheel
+
+rm-venv:
+	rm -rf .venv/
+.PHONY: clean-venv
+
+clean:
+	rm -rf .venv/
+	rm -rf dist/
+.PHONY: clean
