@@ -1,43 +1,20 @@
 # -*- coding: utf-8 -*-
 
-import configparser
 import json
 import logging
 import os
 import pathlib
-import shutil
 import sys
 import urllib
 import urllib.parse
 from itertools import zip_longest
-from pathlib import Path
-from urllib.request import Request
-from urllib.request import urlopen
 
 from bs4 import BeautifulSoup
 
-from dikicli.templates import CONFIG_TEMPLATE
 from dikicli.templates import HTML_TEMPLATE
 
-XDG_DATA_HOME = os.environ.get("XDG_DATA_HOME", "~/.local/share")
-XDG_CACHE_HOME = os.environ.get("XDG_CACHE_HOME", "~/.cache")
-XDG_CONFIG_HOME = os.environ.get("XDG_CONFIG_HOME", "~/.config")
 
-DATA_DIR = Path(
-    os.environ.get("DIKI_DATA_DIR", os.path.join(XDG_DATA_HOME, "dikicli"))
-).expanduser()
-CACHE_DIR = Path(
-    os.environ.get("DIKI_CACHE_DIR", os.path.join(XDG_CACHE_HOME, "dikicli"))
-).expanduser()
-CONFIG_FILE = Path(
-    os.environ.get(
-        "DIKI_CONFIG_FILE", os.path.join(XDG_CONFIG_HOME, "dikicli", "diki.conf")
-    )
-).expanduser()
-
-DEBUG = os.environ.get("DIKI_DEBUG")
-
-logger = logging.getLogger(__name__)
+Log = logging.getLogger(__name__)
 
 
 class ParseError(Exception):
@@ -46,87 +23,6 @@ class ParseError(Exception):
 
 class WordNotFound(Exception):
     pass
-
-
-class Config:
-    def __init__(self):
-        self.config_file = CONFIG_FILE
-        self.default_config = {
-            "data dir": DATA_DIR.as_posix(),
-            "linewrap": "78",
-            "colors": "yes",
-            "web browser": "default",
-        }
-        self.config = configparser.ConfigParser(
-            defaults=self.default_config, default_section="dikicli"
-        )
-
-    def __getitem__(self, key):
-        return self.config["dikicli"][key]
-
-    def __setitem__(self, key, value):
-        self.config["dikicli"][key] = value
-
-    def read_config(self):
-        """
-        Read config from a file.
-
-        Invalid config values will be discarded and defaults used
-        in their place.
-        """
-        _config = self.config["dikicli"]
-        # TODO: what if file doesn't exist?
-        if self.config_file.is_file():
-            logger.debug("Reading config file: %s", self.config_file.as_posix())
-            with open(self.config_file, mode="r") as f:
-                self.config.read_file(f)
-
-            # DIKI_DATA_DIR should always take precedence if it's set
-            if "DIKI_DATA_DIR" in os.environ:
-                _config["data dir"] = DATA_DIR.as_posix()
-
-            w = _config.get("linewrap")
-            try:
-                w = int(w)
-                if w < 0:
-                    raise ValueError()
-            except ValueError:
-                logger.warning("Config: Invalid linewrap value. Using default.")
-                _config["linewrap"] = self.default_config["linewrap"]
-
-            c = _config.get("colors")
-            if c.lower() not in ["yes", "no", "true", "false"]:
-                logger.warning("Config: Invalid colors value. Using default.")
-                _config["colors"] = self.default_config["colors"]
-
-    def create_default_config(self):
-        """Write default config file to disk.
-
-        Backs up existing configuration file.
-
-        Returns
-        -------
-        filename : string
-            Path to config file.
-        """
-        filename = self.config_file.as_posix()
-        logger.info("Creating default config file: %s", filename)
-        config_dir = self.config_file.parent
-        if not config_dir.exists():
-            config_dir.mkdir(parents=True)
-        if self.config_file.is_file():
-            backup = filename + ".old"
-            logger.info("Saving config file backup at: %s", backup)
-            shutil.copy(filename, backup)
-        with open(self.config_file, mode="w") as f:
-            config_string = CONFIG_TEMPLATE.format(
-                data_dir=self.default_config["data dir"],
-                linewrap=self.default_config["linewrap"],
-                colors=self.default_config["colors"],
-                browser=self.default_config["web browser"],
-            )
-            f.write(config_string)
-        return filename
 
 
 def lookup_online(word: str) -> str:
@@ -139,14 +35,16 @@ def lookup_online(word: str) -> str:
         )
     }
 
-    request = Request(URL, headers=HEADERS)
+    request = urllib.request.Request(URL, headers=HEADERS)
     try:
-        response = urlopen(request)
+        response = urllib.request.urlopen(request)
         content = response.read().decode("utf-8")
+        Log.info("Online lookup succes: %s", word)
         return content
     except urllib.error.HTTPError as e:
         if e.code == 404:
             content = e.read().decode("utf-8")
+            Log.info("Online lookup not found: %s", word)
             return content
         raise e
 
@@ -376,14 +274,14 @@ def cache_lookup(cache_dir, word):
         dict | None: Translation structure or None.
 
     """
-    logger.debug("Cache lookup: %s in cache_dir: %s", word, cache_dir.as_posix())
+    Log.debug("Cache lookup '%s' in cache dir: %s", word, cache_dir.as_posix())
     filename = cache_dir / f"{word}.json"
     if filename.is_file():
         with open(filename) as f:
-            logger.debug("Cache hit: %s", word)
+            Log.info("Cache hit: %s", word)
             return json.load(f)
 
-    logger.debug("Cache miss: %s", word)
+    Log.info("Cache miss: %s", word)
 
 
 def cache_store(cache_dir, word, translations):
@@ -397,10 +295,10 @@ def cache_store(cache_dir, word, translations):
         translations (dict)      : Translations structure
     """
     if not cache_dir.exists():
-        logger.debug("Creating cache directory %s", cache_dir.as_posix())
+        Log.debug("Creating cache directory %s", cache_dir.as_posix())
         cache_dir.mkdir(parents=True)
 
-    logger.debug("Saving %s to cache dir %s", word, cache_dir.as_posix())
+    Log.info("Saving '%s' to cache dir: %s", word, cache_dir.as_posix())
     with open(cache_dir / f"{word}.json", mode="w") as f:
         json.dump(translations, f, indent=4, ensure_ascii=False)
 
@@ -482,7 +380,7 @@ def generate_page_lines(trans_dict):
                 append(content, '<div class="meaning">', 6)
                 append(
                     content,
-                    f'<p><strong><span>{", ".join(meaning["Meaning"])}</span></strong></p>',
+                    f'<p><strong>{", ".join(meaning["Meaning"])}</strong></p>',
                     7,
                 )
                 append(content, '<div class="examples">', 7)

@@ -1,4 +1,7 @@
-all: test
+all:
+	@poetry install
+	@poetry build
+.PHONY: all
 
 test:
 	poetry run pytest tests

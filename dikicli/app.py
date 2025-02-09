@@ -3,14 +3,14 @@
 import argparse
 import json
 import logging
-import logging.config
+import logging.handlers
+import os
 import pathlib
 import random
 import sys
 
-from dikicli.core import CACHE_DIR
-from dikicli.core import DEBUG
-from dikicli.core import Config
+
+from dikicli.config import Config
 from dikicli.core import WordNotFound
 from dikicli.core import cache_lookup
 from dikicli.core import cache_store
@@ -23,47 +23,50 @@ from dikicli.core import parse_en_pl
 from dikicli.core import parse_pl_en
 from dikicli.core import wrap_text
 
-LOG_FILE = CACHE_DIR.joinpath("diki.log")
-if not CACHE_DIR.exists():
-    CACHE_DIR.mkdir(parents=True)
+XDG_CACHE_HOME = pathlib.Path(os.environ.get("XDG_CACHE_HOME", "~/.cache")).expanduser()
+XDG_CONFIG_HOME = pathlib.Path(
+    os.environ.get("XDG_CONFIG_HOME", "~/.config")
+).expanduser()
+XDG_STATE_HOME = pathlib.Path(
+    os.environ.get("XDG_STATE_HOME", "~/.local/state")
+).expanduser()
 
-logging.config.dictConfig(
-    {
-        "version": 1,
-        "disable_existing_loggers": False,
-        "formatters": {
-            "verbose": {
-                "format": "%(asctime)s - %(levelname)s - %(name)s - %(message)s"
-            },
-            "simple": {"format": "%(message)s"},
-        },
-        "handlers": {
-            "console": {
-                "level": logging.WARNING,
-                "class": "logging.StreamHandler",
-                "formatter": "simple",
-            },
-            "file": {
-                "class": "logging.handlers.RotatingFileHandler",
-                "filename": LOG_FILE,
-                "maxBytes": 1048576,
-                "backupCount": 5,
-                "formatter": "verbose",
-            },
-        },
-        "loggers": {
-            "dikicli": {
-                "handlers": ["file", "console"],
-                "level": logging.DEBUG if DEBUG else logging.INFO,
-            }
-        },
-    }
-)
-logger = logging.getLogger(__name__)
+Log = logging.getLogger(__name__)
+
+
+def configure_logging(log_file, debug=False):
+    logger = logging.getLogger("dikicli")
+
+    format_verbose = "[%(levelname)-s] %(asctime)s <%(name)s:%(funcName)s> %(message)s"
+    format_simple = "[%(levelname)-s] %(message)s"
+    date_fmt = "%Y-%m-%d %H:%M:%S"
+
+    formatter_v = logging.Formatter(format_verbose, date_fmt)
+    formatter_s = logging.Formatter(format_simple, date_fmt)
+
+    stream_handler = logging.StreamHandler(sys.stderr)
+    stream_handler.setLevel(logging.WARNING if not debug else logging.DEBUG)
+    stream_handler.setFormatter(formatter_s if not debug else formatter_v)
+
+    file_handler = logging.handlers.RotatingFileHandler(
+        log_file, maxBytes=1048576, backupCount=5
+    )
+    file_handler.setLevel(logging.INFO if not debug else logging.DEBUG)
+    file_handler.setFormatter(formatter_v)
+
+    logger.setLevel(logging.DEBUG)
+    logger.addHandler(stream_handler)
+    logger.addHandler(file_handler)
+    # prevent duplicate logs
+    logger.propagate = False
+
+    # configure root logger
+    root_logger = logging.getLogger()
+    root_logger.setLevel(logging.DEBUG)
+    root_logger.addHandler(stream_handler)
 
 
 def get_version():
-    # pylint: disable=import-outside-toplevel
     import pkg_resources
 
     return pkg_resources.get_distribution("dikicli").version
@@ -94,6 +97,9 @@ def get_parser():
     translation.add_argument(
         "-w",
         "--linewrap",
+        "--linewidth",
+        dest="linewidth",
+        type=int,
         metavar="WIDTH",
         help=("wrap lines longer than WIDTH; set to 0 to disable wrapping"),
     )
@@ -127,6 +133,9 @@ def translate(word, parse_fn, cache_dir, ignore_cache):
     """
     translation = None
 
+    if ignore_cache:
+        Log.debug("ignoring cache")
+
     if not ignore_cache and cache_dir.is_dir():
         translation = cache_lookup(cache_dir, word)
         if translation:
@@ -134,6 +143,8 @@ def translate(word, parse_fn, cache_dir, ignore_cache):
 
     # This can throw WordNotFound
     html_dump = lookup_online(word)
+
+    Log.debug("parsing html")
     translation = parse_fn(html_dump)
 
     # cache_dir will be created if it doesn't exist.
@@ -152,30 +163,44 @@ def _main():
         parser.print_usage()
         sys.exit(1)
 
-    config = Config()
+    if "DIKI_CONFIG_FILE" in os.environ:
+        config_file = pathlib.Path(os.environ["DIKI_CONFIG_FILE"]).expanduser()
+        Log.debug("DIKI_CONFIG_FILE defined: %s", config_file)
+    else:
+        config_file = XDG_CONFIG_HOME / "dikicli/diki.conf"
+    if "DIKI_DATA_DIR" in os.environ:
+        data_dir = pathlib.Path(os.environ["DIKI_DATA_DIR"]).expanduser()
+        Log.debug("DIKI_DATA_DIR defined: %s", data_dir)
+    else:
+        data_dir = XDG_STATE_HOME / "dikicli"
+
+    config = Config(config_file, data_dir)
     config.read_config()
 
-    if args.linewrap:
-        config["linewrap"] = args.linewrap
-    linewrap = int(config["linewrap"])
+    if args.linewidth:
+        config["linewidth"] = str(args.linewidth)
+    linewidth = int(config["linewidth"])
+    Log.debug("linewidth set to: %s", linewidth)
 
     # create configuration file
     if args.create_config:
         config_file = config.create_default_config()
-        print("New config file created: {}".format(config_file))
+        msg = "New config file created: %s"
+        Log.info(msg, config_file)
+        print(msg % config_file)
         sys.exit(0)
-
-    data_dir = pathlib.Path(config["data dir"])
 
     # handle word translation
     if args.word:
         pl_to_en = args.pol_eng
         if not pl_to_en:
             # en -> pl
+            Log.debug("translating en->pl: %s", args.word)
             parse_fn = parse_en_pl
             cache_dir = data_dir / "words_en"
         else:
             # pl -> en
+            Log.debug("translating pl->en: %s", args.word)
             parse_fn = parse_pl_en
             cache_dir = data_dir / "words_pl"
 
@@ -184,10 +209,11 @@ def _main():
             if args.json:
                 output = json.dumps(translation, indent=4, ensure_ascii=False)
             else:
-                output = "\n".join(wrap_text(translation, linewrap))
+                output = "\n".join(wrap_text(translation, linewidth))
             print(output)
             sys.exit(0)
         except WordNotFound as e:
+            Log.error("WordNotFound: %s", args.word)
             print(e, file=sys.stderr)
             sys.exit(1)
 
@@ -229,7 +255,18 @@ def _main():
 
 def main():
     try:
+        if "DIKI_LOG_FILE" in os.environ:
+            log_file = pathlib.Path(os.environ["DIKI_LOG_FILE"]).expanduser()
+        else:
+            cache_dir = XDG_CACHE_HOME / "dikicli"
+            if not cache_dir.is_dir():
+                cache_dir.mkdir(parents=True)
+            log_file = cache_dir / "diki.log"
+
+        debug = "DIKI_DEBUG" in os.environ
+        configure_logging(log_file, debug)
+
         _main()
     except KeyboardInterrupt:
-        logger.warning("aborting...")
+        print("Aborting...", file=sys.stderr)
         sys.exit(1)
