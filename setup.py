@@ -1,7 +1,7 @@
 import os
 from setuptools import setup, find_packages
 
-VERSION = "0.6.0-dev"
+VERSION = "0.6.0"
 
 # Ensure the package directory exists
 version_file_path = os.path.join(os.path.dirname(__file__), "dikicli", "__version__.py")
