@@ -173,10 +173,14 @@ def _main():
     config = Config(config_file, data_dir)
     config.read_config()
 
-    if args.linewidth:
-        config["linewidth"] = str(args.linewidth)
-    linewidth = int(config["linewidth"])
-    Log.debug("linewidth set to: %s", linewidth)
+    if args.linewidth is not None:
+        try:
+            config.linewidth = args.linewidth
+        except ValueError as e:
+            Log.error(e)
+            sys.exit(1)
+
+    Log.debug("linewidth set to: %s", config.linewidth)
 
     # create configuration file
     if args.create_config:
@@ -205,7 +209,7 @@ def _main():
             if args.json:
                 output = json.dumps(translation, indent=4, ensure_ascii=False)
             else:
-                output = "\n".join(wrap_text(translation, linewidth))
+                output = "\n".join(wrap_text(translation, config.linewidth))
             print(output)
             sys.exit(0)
         except WordNotFound as e:

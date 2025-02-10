@@ -22,11 +22,16 @@ class Config:
             defaults=self.default_config, default_section="dikicli"
         )
 
-    def __getitem__(self, key):
-        return self.config["dikicli"][key]
+    @property
+    def linewidth(self):
+        return int(self.config["dikicli"]["linewidth"])
 
-    def __setitem__(self, key, value):
-        self.config["dikicli"][key] = value
+    @linewidth.setter
+    def linewidth(self, value):
+        if isinstance(value, int) and value >= 0:
+            self.config["dikicli"]["linewidth"] = str(value)
+            return
+        raise ValueError("Line width must be positive integer, got: %s" % value)
 
     def read_config(self):
         """
