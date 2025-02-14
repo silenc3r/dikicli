@@ -31,8 +31,8 @@ class Server:
     def route(self, path):
         """Registers a route with a corresponding handler function.
 
-        This method is a decorator that associates a given URL path with a 
-        function that handles requests for that path. The function should 
+        This method is a decorator that associates a given URL path with a
+        function that handles requests for that path. The function should
         take path as an argument and return either a redirect dict or
         an HTML response as a string.
 
@@ -40,7 +40,7 @@ class Server:
             path (str): The URL path to associate with the handler function.
 
         Returns:
-            function: A decorator that registers the function as the handler 
+            function: A decorator that registers the function as the handler
             for the specified route.
 
         Example:
@@ -54,9 +54,11 @@ class Server:
             def old_hello():
                 return {"redirect": "/hello"}
         """
+
         def decorator(fn):
             self.routes[path] = fn
             return fn
+
         return decorator
 
     def create_handler(self):

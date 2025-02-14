@@ -805,4 +805,3 @@ class TestAll:
         parsed = parse_pl_en(html["ognisko"])
         cached = load_json("ognisko")
         assert parsed == cached
-
