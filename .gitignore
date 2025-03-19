@@ -10,6 +10,7 @@
 .vscode
 /tests/htmldump_en/
 /tests/htmldump_pl/
+/tests/htmldump_word_not_found/
 build/*
 diki.conf
 dist/*

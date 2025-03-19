@@ -213,7 +213,7 @@ def _main():
             print(output)
             sys.exit(0)
         except WordNotFound as e:
-            Log.error("WordNotFound: %s", args.word)
+            Log.info("WordNotFound: %s", args.word)
             print(e, file=sys.stderr)
             sys.exit(1)
 

@@ -61,7 +61,7 @@ def parse_en_pl(html_dump):
     # word not found
     if not dikiContainer.find("div", class_="diki-results-container", recursive=False):
         err_msg = dikiContainer.p.img.find(string=True, recursive=False).strip()
-        suggestions = dikiContainer.div.b
+        suggestions = dikiContainer.select_one("div b")
         if suggestions:
             err_msg += "\n" + suggestions.get_text().strip()
         raise WordNotFound(err_msg)
@@ -159,7 +159,7 @@ def parse_pl_en(html_dump):
     # word not found
     if not dikiContainer.find("div", class_="diki-results-container", recursive=False):
         err_msg = dikiContainer.p.img.find(string=True, recursive=False).strip()
-        suggestions = dikiContainer.div.b
+        suggestions = dikiContainer.select_one("div b")
         if suggestions:
             err_msg += "\n" + suggestions.get_text().strip()
         raise WordNotFound(err_msg)
