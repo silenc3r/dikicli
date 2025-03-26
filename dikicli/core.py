@@ -495,10 +495,10 @@ def wrap_text(trans_dict, width=0):
                     for var in meaning["Variants"]:
                         result.append(wrap(", ".join(var["Variant"]), 5, 5))
                         result.append("")
-                    for ex in var["ExampleSentences"]:
-                        result.append(wrap(ex["Sentence"], 6, 6))
-                        result.append(wrap(ex["Translation"], 6, 6))
-                        result.append("")
+                        for ex in var["ExampleSentences"]:
+                            result.append(wrap(ex["Sentence"], 6, 6))
+                            result.append(wrap(ex["Translation"], 6, 6))
+                            result.append("")
 
                 if "ExampleSentences" in meaning:
                     for ex in meaning["ExampleSentences"]:
