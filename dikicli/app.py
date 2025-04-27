@@ -6,6 +6,7 @@ import logging
 import logging.handlers
 import os
 import pathlib
+import pydoc
 import random
 import sys
 
@@ -210,7 +211,8 @@ def _main():
                 output = json.dumps(translation, indent=4, ensure_ascii=False)
             else:
                 output = "\n".join(wrap_text(translation, config.linewidth))
-            print(output)
+
+            pydoc.pipepager(output, cmd="less -R -F -X")
             sys.exit(0)
         except WordNotFound as e:
             Log.info("WordNotFound: %s", args.word)
