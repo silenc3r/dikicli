@@ -248,8 +248,9 @@ def _main():
 
     if args.stats:
         en, pl = get_stats(data_dir)
-        print("english words:  {}".format(en))
-        print(" polish words:  {}".format(pl))
+        dw = max(len(str(en)), len(str(pl)))
+        print("english words:  {:>{width}}".format(en, width=dw))
+        print("polish words:   {:>{width}}".format(pl, width=dw))
         sys.exit(0)
 
 
