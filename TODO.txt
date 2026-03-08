@@ -4,7 +4,6 @@ problematic words:
 greaves
 reconnoitered
 ayahyuasca
-
 cornland
 
 
@@ -55,3 +54,8 @@ encrypt
 # words with old transcription version
 injustice
 tint
+
+# words with multi-line translations
+shill
+onto
+clout

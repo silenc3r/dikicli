@@ -463,7 +463,7 @@ def wrap_text(trans_dict, width=0):
 
     import textwrap
 
-    def wrap(text, initial_indent=0, subsequent_indent=0, bold=False):
+    def wrap(text, initial_indent=0, subsequent_indent=0):
         ii = " " * initial_indent
         si = " " * subsequent_indent
         if width == 0:
@@ -471,24 +471,30 @@ def wrap_text(trans_dict, width=0):
         else:
             text = textwrap.fill(text, width, initial_indent=ii, subsequent_indent=si)
 
-        # don't use bold when stdout is pipe or redirect
-        if bold and is_tty:
-            text = "\033[0;1m" + text + "\033[0m"
-
         return text
+
+    def wrap_bold(text, initial_indent=0, subsequent_indent=0):
+        text = wrap(text, initial_indent, subsequent_indent)
+        # don't use bold when stdout is pipe or redirect
+        if not is_tty:
+            return text
+
+        text_lines = text.split("\n")
+        bold_lines = ("\033[0;1m" + line + "\033[0m" for line in text_lines)
+        return "\n".join(bold_lines)
 
     result = []
 
     for entry in trans_dict:
         for e in entry["Entry"]:
-            result.append(wrap(e, bold=True))
+            result.append(wrap_bold(e))
         for pos in entry["PartsOfSpeech"]:
             if pos["Part"]:
                 part = f"[{pos['Part']}]"
                 result.append(wrap(part))
             for i, meaning in enumerate(pos["Meanings"], start=1):
                 mean = f"{i:>3}. {', '.join(meaning['Meaning'])}"
-                result.append(wrap(mean, 0, 5, True))
+                result.append(wrap_bold(mean, 0, 5))
                 result.append("")
 
                 if "Variants" in meaning:
